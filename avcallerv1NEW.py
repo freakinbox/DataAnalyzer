@@ -673,7 +673,7 @@ def EntryboxBasic(mode):
     root.mainloop()
 
 def APIkey():
-    
+    #TODO change to new config file and have placeholder text there always. New one is a python config file in the /bin directory that will not be synched to 
     def AskAPI():
         root = Tk()
         root.title("Freakinbox's Ticker Entry")
