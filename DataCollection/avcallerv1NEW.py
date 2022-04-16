@@ -18,7 +18,7 @@ import pandas as pd
 
 
 #TODO UI
-#-attempt to make the UI a module
+#-attempt to make the UI a module with it's own seperate config files
 #-make UI more fluid through changes (if window size is the same just reuse the old window instead of creating a new one)
 
 
@@ -325,6 +325,7 @@ with open((FilesDirectory+'\\VAR.json'), 'r') as externalVAR:
         other.DateLastAccessed = ""
     else:
         other.DateLastAccessed = datetime.fromisoformat((VAR['datelastaccessed']))
+
     if VAR['dailylimitdate'] == "":
         other.DailyLimitDate = ""
     else:
