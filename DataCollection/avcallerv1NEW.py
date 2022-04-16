@@ -16,6 +16,7 @@ from datetime import datetime
 import json
 import pandas as pd
 
+MainDirectory = os.getcwd()
 
 #TODO UI
 #-attempt to make the UI a module with it's own seperate config files
@@ -35,7 +36,7 @@ class UIsettings:
     -entryboxsize
     
     '''
-    freaklogo = 'FreakLogoIcon.ico'
+    freaklogo = (MainDirectory+"\\FreakLogoIcon.ico")
 
     class Listboxsize:
         '''Choice listbox variables'''
@@ -291,7 +292,7 @@ class other():
 
 
 #ProgramDirectory = os.path.dirname(os.path.abspath(__file__)) #Activte for partial testing and hash out for exe
-MainDirectory = os.getcwd()
+
 
 ProgramDirectory = (MainDirectory+"\\DataCollection")
 
