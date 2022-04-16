@@ -701,9 +701,13 @@ def APIkey():
                 print("You didn't enter a key")
                 sys.exit()
             else:
-                f= open(FilesDirectory+"\\apikey.txt","w+")
-                f.write(output)
-                f.close()
+                with open(FilesDirectory+"\\apikey.json","w+") as f:
+
+                    data = {'apikey': output}
+
+                    f.seek(0)
+                    json.dump(data, f, indent=4)
+                    f.truncate()
                 print('apikey entered')
 
             other.apikey = output
