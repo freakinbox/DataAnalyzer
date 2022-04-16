@@ -721,19 +721,20 @@ def APIkey():
         root.mainloop()
     
     
-    if 'apikey.txt' in os.listdir(FilesDirectory):
-        with open(FilesDirectory+'\\apikey.txt', 'r') as file:
-            other.apikey = file.read().replace('\n', '')
-            file.close
-            if other.apikey == "":
+    if 'apikey.json' in os.listdir(FilesDirectory):
+        with open ((FilesDirectory+'\\apikey.json'), 'r') as file:
+            VAR = json.load(file)
+            print(VAR['apikey'])
+            if VAR['apikey'] == "" or None:
                 print('no api key')
-                AskAPI()               
+                AskAPI()
             else:
-                other.apikey= other.apikey
+                other.apikey == VAR['apikey']
                 print('API key read successful')
                 
-    if 'apikey.txt' not in os.listdir(FilesDirectory):
+    if 'apikey.json' not in os.listdir(FilesDirectory):
         AskAPI()
+
 
 #Creates ticker named folder
 def DirectoryCreator(modex):
