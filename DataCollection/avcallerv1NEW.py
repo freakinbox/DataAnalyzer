@@ -287,12 +287,18 @@ class other():
     DailyLimitDate = None
     apikey = ''
 
-ProgramDirectory = os.path.dirname(os.path.abspath(__file__)) #Activte for testing and hash out for exe
-#ProgramDirectory = os.getcwd()
+
+
+
+#ProgramDirectory = os.path.dirname(os.path.abspath(__file__)) #Activte for partial testing and hash out for exe
+MainDirectory = os.getcwd()
+
+ProgramDirectory = (MainDirectory+"\\DataCollection")
+
 FilesDirectory = (ProgramDirectory+"\\bin")
 os.makedirs(FilesDirectory, exist_ok=True)
 
-MainDataDir = (ProgramDirectory+"\\data")
+MainDataDir = (MainDirectory+"\\data")
 os.makedirs(MainDataDir, exist_ok=True)
 
 StocksDirectory = (MainDataDir+"\\stocks")
@@ -310,7 +316,7 @@ os.makedirs(ForexDirectory, exist_ok=True)
 #EconomicDirectory = (MainDataDir+"\\Economic")  #TODO add
 #os.makedirs(EconomicDirectory, exist_ok=True)
 
-other.apikey=None
+other.apikey=None #Why is this here?
 
 #External Vars
 with open((FilesDirectory+'\\VAR.json'), 'r') as externalVAR:
