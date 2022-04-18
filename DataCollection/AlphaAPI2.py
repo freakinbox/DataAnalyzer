@@ -123,6 +123,7 @@ def IntradayExtendedAV(ticker, apikey, slice, interval='5min'):
     else:
         return meta, data
 
+'''
 def DailyAdjustedAV(ticker, apikey):
     url = f'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={ticker}&outputsize=full&apikey={apikey}'
     meta,response = theget(url)
@@ -144,6 +145,28 @@ def DailyAdjustedAV(ticker, apikey):
     else:
         return meta, data
 
+'''
+
+'''
+import os
+import json
+ProgramDirectory = os.path.dirname(os.path.abspath(__file__))
+FilesDirectory = (ProgramDirectory+"\\bin")
+ticker = "GME"
+if 'apikey.json' in os.listdir(FilesDirectory):
+        with open ((FilesDirectory+'\\apikey.json'), 'r') as file:
+            VAR = json.load(file)
+            apikey = VAR['apikey']
+            if apikey == "":
+                print('no api key')         
+            else:
+                apikey= apikey
+                print('API key read successful')
+meta, df = DailyAdjustedAV(ticker, apikey)
+#%%
+
+'''
+
 def WeeklyAdjustedAV(ticker, apikey):
     url = f'https://www.alphavantage.co/query?function=TIME_SERIES_WEEKLY_ADJUSTED&symbol={ticker}&outputsize=full&apikey={apikey}'
     meta,response = theget(url)
@@ -162,6 +185,7 @@ def WeeklyAdjustedAV(ticker, apikey):
 
     else:
         return meta, data
+
 
 def MonthlyAdjustedAV(ticker, apikey):
     url = f'https://www.alphavantage.co/query?function=TIME_SERIES_MONTHLY_ADJUSTED&symbol={ticker}&outputsize=full&apikey={apikey}'
@@ -411,13 +435,11 @@ def mamaAV(ticker, apikey, interval='daily', series_type='close', fastlimit='0.0
     else:
         return meta, data
 
+'''
 def vwapAV(ticker, apikey, interval='5min'):
-
-    '''
-    interval = 1min, 5min, 15min, 30min, 60min (Default = 5min)
     
-    '''
-
+    #interval = 1min, 5min, 15min, 30min, 60min (Default = 5min)
+    
     url = f'https://www.alphavantage.co/query?function=VWAP&symbol={ticker}&interval={interval}&apikey={apikey}'
     meta,response = theget(url)
     meta,data,status=thecheck(meta,response,url)
@@ -435,6 +457,7 @@ def vwapAV(ticker, apikey, interval='5min'):
 
     else:
         return meta, data
+'''
 
 def t3AV(ticker, apikey, interval='daily', time_period='14', series_type='close'):
 
@@ -465,18 +488,19 @@ def t3AV(ticker, apikey, interval='daily', time_period='14', series_type='close'
     else:
         return meta, data
 
+'''
 def macdAV(ticker, apikey, interval='daily', series_type='close', fastperiod='12', slowperiod='26',signalperiod='9'):
 
-    '''
-    interval = 1min, 5min, 15min, 30min, 60min, daily, weekly, monthly (Default = daily)
-
-    time_period = Positive integers are accepted (e.g., time_period=60, time_period=200) (Default = 14)
-
-    series_type = Four types are supported: close, open, high, low (Default = close)
-
-    fastperiod(Default = 12), slowperiod(Default = 26), and signal period(Default = 9) all accept positive integers 
     
-    '''
+    #interval = 1min, 5min, 15min, 30min, 60min, daily, weekly, monthly (Default = daily)
+
+    #time_period = Positive integers are accepted (e.g., time_period=60, time_period=200) (Default = 14)
+
+    #series_type = Four types are supported: close, open, high, low (Default = close)
+
+    #fastperiod(Default = 12), slowperiod(Default = 26), and signal period(Default = 9) all accept positive integers 
+    
+    
 
     url = f'https://www.alphavantage.co/query?function=MACD&symbol={ticker}&interval={interval}&series_type={series_type}&fastperiod={fastperiod}&slowperiod={slowperiod}&signalperiod={signalperiod}&apikey={apikey}'
     meta,response = theget(url)
@@ -495,6 +519,7 @@ def macdAV(ticker, apikey, interval='daily', series_type='close', fastperiod='12
 
     else:
         return meta, data
+'''
 
 def macdextAV(ticker, apikey, interval='daily', series_type='close', fastperiod='12', slowperiod='26',signalperiod='9', fastmatype='0', slowmatype='0', signalmatype='0'):
 
@@ -1233,26 +1258,25 @@ def plus_dmAV(ticker, apikey, interval='daily', time_period='14'):
     else:
         return meta, data
 
+'''
 def bbandsAV(ticker, apikey, interval='daily', time_period='14', series_type='close', nbdevup='2', nbdevdn='2', matype='0'):
 
-    '''
-    interval = 1min, 5min, 15min, 30min, 60min, daily, weekly, monthly (Default = daily)
+    #interval = 1min, 5min, 15min, 30min, 60min, daily, weekly, monthly (Default = daily)
 
-    time_period = Positive integers are accepted (e.g., time_period=60, time_period=200) (Default = 14)
+    #time_period = Positive integers are accepted (e.g., time_period=60, time_period=200) (Default = 14)
 
-    series_type = Four types are supported: close, open, high, low (Default = close)
+    #series_type = Four types are supported: close, open, high, low (Default = close)
 
-    nbdevup - The standard deviation multiplier of the upper band. Positive integers are accepted. (Default = 2)
+    #nbdevup - The standard deviation multiplier of the upper band. Positive integers are accepted. (Default = 2)
 
-    nbdevdn - The standard deviation multiplier of the lower band. Positive integers are accepted. By default, (Default = 2)
+    #nbdevdn - The standard deviation multiplier of the lower band. Positive integers are accepted. By default, (Default = 2)
 
-    matype - (Default = 0)
+    #matype - (Default = 0)
         
-    Integers 0 - 8 are accepted with the following mappings. 0 = Simple Moving Average (SMA), 1 = Exponential Moving Average (EMA), 2 = Weighted Moving Average (WMA), 
-    3 = Double Exponential Moving Average (DEMA), 4 = Triple Exponential Moving Average (TEMA), 5 = Triangular Moving Average (TRIMA), 6 = T3 Moving Average, 
-    7 = Kaufman Adaptive Moving Average (KAMA), 8 = MESA Adaptive Moving Average (MAMA).  
-    '''
-
+    #Integers 0 - 8 are accepted with the following mappings. 0 = Simple Moving Average (SMA), 1 = Exponential Moving Average (EMA), 2 = Weighted Moving Average (WMA), 
+    #3 = Double Exponential Moving Average (DEMA), 4 = Triple Exponential Moving Average (TEMA), 5 = Triangular Moving Average (TRIMA), 6 = T3 Moving Average, 
+    #7 = Kaufman Adaptive Moving Average (KAMA), 8 = MESA Adaptive Moving Average (MAMA).  
+    
     url = f'https://www.alphavantage.co/query?function=BBANDS&symbol={ticker}&interval={interval}&time_period={time_period}&series_type={series_type}&nbdevup={nbdevup}&nbdevdn={nbdevdn}&matype={matype}&apikey={apikey}'
     meta,response = theget(url)
     meta,data,status=thecheck(meta,response,url)
@@ -1270,6 +1294,7 @@ def bbandsAV(ticker, apikey, interval='daily', time_period='14', series_type='cl
 
     else:
         return meta, data
+'''
 
 def midpointAV(ticker, apikey, interval='daily', time_period='14', series_type='close'):
 
@@ -1796,31 +1821,12 @@ def fx_monthlyAV(from_symbol,to_symbol, apikey):
     else:
         return meta, data
 
-'''
-import os
-ProgramDirectory = os.path.dirname(os.path.abspath(__file__))
-FilesDirectory = (ProgramDirectory+"\\bin")
-ticker = "BTC"
-if 'apikey.txt' in os.listdir(FilesDirectory):
-        with open(FilesDirectory+'\\apikey.txt', 'r') as file:
-            apikey = file.read().replace('\n', '')
-            file.close
-            if apikey == "":
-                print('no api key')         
-            else:
-                apikey= apikey
-                print('API key read successful')
-meta, df = crypto_ratingAV(ticker, apikey)
-#%%
-'''
-
 def crypto_intradayAV(symbol, market, apikey, interval='5min'):
 
-    '''
-    market eg = USD, CAD (currency)
-
-    interval = 1min, 5min, 15min, 30min, 60min (Default = 5min)
-    '''
+    
+    #market eg = USD, CAD (currency)
+    #interval = 1min, 5min, 15min, 30min, 60min (Default = 5min)
+    
     url = f'https://www.alphavantage.co/query?function=CRYPTO_INTRADAY&symbol={symbol}&market={market}&interval={interval}&outputsize=full&apikey={apikey}'
     meta,response = theget(url)
     meta,data,status=thecheck(meta,response,url)

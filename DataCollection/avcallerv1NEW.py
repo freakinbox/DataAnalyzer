@@ -729,7 +729,6 @@ def APIkey():
     if 'apikey.json' in os.listdir(FilesDirectory):
         with open ((FilesDirectory+'\\apikey.json'), 'r') as file:
             VAR = json.load(file)
-            print(VAR['apikey'])
             if VAR['apikey'] == "" or None:
                 print('no api key')
                 AskAPI()
@@ -849,7 +848,7 @@ def ChoiceTimeUS():
         
 
     def selectall():
-        choicestime.choicetime = 0,1,2,3,4
+        choicestime.choicetime = 0,1,3,4 #Dailyadjusted removed
         root.destroy()
 
     
@@ -1989,9 +1988,11 @@ def stocksAPI():
     Item = choicestime.timechoices.DailyAdjusted
     ItemName = 'dailyadjusted'
     if Item:
-        timerS()
-        var3 = av.DailyAdjustedAV(tick, other.apikey)
-        pandastofile(var3, ItemName)
+        print('Is now a preimum feature so this is disabled')
+        
+        #timerS()
+        #var3 = av.DailyAdjustedAV(tick, other.apikey)
+        #pandastofile(var3, ItemName)
     
     Item = choicestime.timechoices.WeeklyAdjusted
     ItemName = 'weeklyadjusted'
@@ -2223,16 +2224,18 @@ def stocksAPI():
     Item = choicestime.Stockindicators.HighUsage.vwap
     ItemName = 'vwap'
     if Item:
-        timerS()
-        var3 = av.vwapAV(tick, other.apikey) #add settings
-        techAPIAV(Item, var3, ItemName)
+        print('Is now a preimum feature so this is disabled')
+        #timerS()
+        #var3 = av.vwapAV(tick, other.apikey) #add settings
+        #techAPIAV(Item, var3, ItemName)
 
     Item = choicestime.Stockindicators.HighUsage.macd
     ItemName = 'macd'
     if Item:
-        timerS()
-        var3 = av.macdAV(tick, other.apikey) #add settings
-        techAPIAV(Item, var3, ItemName)
+        print('Is now a preimum feature so this is disabled')
+        #timerS()
+        #var3 = av.macdAV(tick, other.apikey) #add settings
+        #techAPIAV(Item, var3, ItemName)
     
     Item = choicestime.Stockindicators.HighUsage.stoch
     ItemName = 'stoch'
@@ -2273,9 +2276,10 @@ def stocksAPI():
     Item = choicestime.Stockindicators.HighUsage.bbands
     ItemName = 'bbands'
     if Item:
-        timerS()
-        var3 = av.bbandsAV(tick, other.apikey) #add settings
-        techAPIAV(Item, var3, ItemName)
+        print('Is now a preimum feature so this is disabled')
+        #timerS()
+        #var3 = av.bbandsAV(tick, other.apikey) #add settings
+        #techAPIAV(Item, var3, ItemName)
 
     Item = choicestime.Stockindicators.HighUsage.ad
     ItemName = 'ad'
