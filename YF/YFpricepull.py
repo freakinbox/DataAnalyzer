@@ -1,13 +1,8 @@
-#System and time
-
-from datetime import datetime
-
-#Data handling
+#Data and URL handling
 import pandas as pd
-import requests
 import urllib.request, urllib.error
 
-#pd.set_option('display.max_columns', None)
+#pd.set_option('display.max_columns', None) #Will display entire dataframe in console if activated
 #%%
 ####### general functions ########
 
@@ -19,13 +14,11 @@ int = '1d'
 def yfprice(ticker, period1, period2, interval):
     url = f'https://query1.finance.yahoo.com/v7/finance/download/{ticker}?period1={period1}&period2={period2}&interval={interval}&events=history&includeAdjustedClose=true'
 
-    '''periods must be in unicode for now
+    '''periods must be in unicode for now 1 is start and 2 is end
         TODO add converter for normal dates so others can plug what they want into this
            - To this or the normal program? Not sure.
        Interval options are 1d , 1wk, 1mo   
     '''
-
-
     #URL status checker
     try:
         conn = urllib.request.urlopen(url)
@@ -46,6 +39,9 @@ def yfprice(ticker, period1, period2, interval):
         # ...
         print('good')
         df = pd.read_csv(url)
+        df['Date'] = pd.to_datetime(df['Date'])
+        #df = df.sort_index(ascending=False)
+
     return df
 
 df = yfprice(tick, p1, p2, int)
