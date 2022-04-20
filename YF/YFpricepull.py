@@ -1,8 +1,12 @@
 #Data and URL handling
-from msilib.schema import tables
+from locale import currency
+from msilib.schema import Error, tables
 import time
+from numpy import append
 import requests
 from bs4 import BeautifulSoup
+
+import pycountry
 
 import pandas as pd
 import urllib.request, urllib.error
@@ -226,28 +230,125 @@ def UpdateNYSE():
     print('Update NYSE finished')
 
 
-url = 'https://ca.finance.yahoo.com/quote/GME/profile?p=GME'
+#url = 'https://ca.finance.yahoo.com/quote/GME/profile?p=GME'
         
-dfs = requests.get(url, headers=headers).content
-df = pd.read_html(dfs)
+#dfs = requests.get(url, headers=headers).content
+#df = pd.read_html(dfs)
             
 #%%               
+#tick = 'GME'
 
-# page = requests.get("https://ca.finance.yahoo.com/quote/GME/profile?p=GME", headers=headers)
+page = requests.get(f"https://ca.finance.yahoo.com/quote/{tick}/profile?p={tick}", headers=headers)
+soup = BeautifulSoup(page.content, 'html.parser')
+    
+exchange = soup.select_one('#quote-header-info > div.Mt\(15px\).D\(f\).Jc\(sb\) > div.D\(ib\).Mt\(-5px\).Maw\(38\%\)--tab768.Maw\(38\%\).Mend\(10px\).Ov\(h\).smartphone_Maw\(85\%\).smartphone_Mend\(0px\) > div.C\(\$tertiaryColor\).Fz\(12px\) > span').text
+exchange = exchange.split()[0]
+
+
+
+
+
+# appended_data = []
+
+# filename = 'Canada.csv'
+# df = pd.read_csv(filename)
+
+# tick = 'AAPL.NE'
+# page = requests.get(f"https://ca.finance.yahoo.com/quote/{tick}/profile?p={tick}", headers=headers)
 # soup = BeautifulSoup(page.content, 'html.parser')
+    
+    
+# exchange = soup.select_one('#quote-header-info > div.Mt\(15px\).D\(f\).Jc\(sb\) > div.D\(ib\).Mt\(-5px\).Maw\(38\%\)--tab768.Maw\(38\%\).Mend\(10px\).Ov\(h\).smartphone_Maw\(85\%\).smartphone_Mend\(0px\) > div.C\(\$tertiaryColor\).Fz\(12px\) > span').text
+#         #exchange = exchange.split()[0]
+#         #currency1 = exchange.resplit()[0]
+# first, *middle, last = exchange.split()
 
-
-
-
-
-#  # Extract first <h1>(...)</h1> text
-# first_h1 = soup.select('body')[0]
-
-print(first_h1)
 
 
 
 #%%
+
+
+appended_data = []
+
+filename = 'Canada.csv'
+df = pd.read_csv(filename)
+
+for index, row in df.iterrows():
+    tick = row.Symbol
+    page = requests.get(f"https://ca.finance.yahoo.com/quote/{tick}/profile?p={tick}", headers=headers)
+    soup = BeautifulSoup(page.content, 'html.parser')
+    
+    try:
+        exchange = soup.select_one('#quote-header-info > div.Mt\(15px\).D\(f\).Jc\(sb\) > div.D\(ib\).Mt\(-5px\).Maw\(38\%\)--tab768.Maw\(38\%\).Mend\(10px\).Ov\(h\).smartphone_Maw\(85\%\).smartphone_Mend\(0px\) > div.C\(\$tertiaryColor\).Fz\(12px\) > span').text
+        #exchange = exchange.split()[0]
+        #currency1 = exchange.resplit()[0]
+        first, *middle, last = exchange.split()
+
+        exchange = first
+        currency1 = last
+    except AttributeError as e:
+        print('exchange blank')
+        sector = ''
+
+
+    try:
+        sector = soup.select_one('#Col1-0-Profile-Proxy > section > div.asset-profile-container > div > div > p.D\(ib\).Va\(t\) > span:nth-child(2)').text
+    except AttributeError as e:
+        print('sector blank')
+        sector = ''
+
+    try:
+        industry = soup.select_one('#Col1-0-Profile-Proxy > section > div.asset-profile-container > div > div > p.D\(ib\).Va\(t\) > span:nth-child(5)').text
+    except AttributeError as e:
+        print('industry blank')
+        industry = ''
+
+    try:
+        employees = soup.select_one('#Col1-0-Profile-Proxy > section > div.asset-profile-container > div > div > p.D\(ib\).Va\(t\) > span:nth-child(8)').text
+
+    except AttributeError as e:
+        print('employees blank')
+        employees = ''
+
+    try:
+        location = soup.select_one('#Col1-0-Profile-Proxy > section > div.asset-profile-container > div > div > p.D\(ib\).W\(47\.727\%\).Pend\(40px\)')
+        location = location.get_text(separator=", ")
+    except AttributeError as e:
+        print('location blank')
+        location = ''
+
+    for c in pycountry.countries:
+        if c.name in location:
+            #Country's name
+            country_name = (c.name)
+            #Country's code
+            country_code = (c.alpha_2)
+            # Country's official name
+            try:
+                country_official_name = (c.official_name)
+            except AttributeError as e:
+                continue
+
+    data = [[tick, exchange, country_name, currency1, sector, industry, employees]]
+
+    df = pd.DataFrame(data, columns = ['tick', 'exchange', 'country_name', 'currency', 'sector', 'industry', 'fulltime_employees'])
+
+    appended_data.append(df)
+    print(df)
+
+results = pd.concat(appended_data, axis=0)
+results = results.reset_index(drop=True)
+results.to_csv('canada2.csv')
+
+#%%
+
+
+
+
+#%%
+
+
 
 UpdateCan()
 UpdateNasdaqCM()
