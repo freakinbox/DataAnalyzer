@@ -1,0 +1,425 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,TSM.BA,Buenos,Canada,ARS,Technology,Semiconductors,"54,193"
+1,TM.BA,Buenos,Japan,ARS,Consumer Cyclical,Auto Manufacturers,"371,365"
+2,BABA.BA,Buenos,China,ARS,Consumer Cyclical,Internet Retail,"259,316"
+3,AAPL.BA,Buenos,United States,ARS,Technology,Consumer Electronics,"100,000"
+4,MSFT.BA,Buenos,United States,ARS,Technology,Software—Infrastructure,"181,000"
+5,C.BA,Buenos,United States,ARS,Financial Services,Banks—Diversified,"220,092"
+6,GOOGL.BA,Buenos,United States,ARS,Communication Services,Internet Content & Information,"156,500"
+7,AMZN.BA,Buenos,United States,ARS,Consumer Cyclical,Internet Retail,"1,608,000"
+8,JPM.BA,Buenos,United States,ARS,Financial Services,Banks—Diversified,"271,025"
+9,TSLA.BA,Buenos,United States,ARS,Consumer Cyclical,Auto Manufacturers,"99,290"
+10,FB.BA,Buenos,United States,ARS,,,"71,970"
+11,JNJ.BA,Buenos,United States,ARS,Healthcare,Drug Manufacturers—General,"141,700"
+12,V.BA,Buenos,United States,ARS,Financial Services,Credit Services,"21,500"
+13,VOD.BA,Buenos,United Kingdom,ARS,Communication Services,Telecom Services,"105,000"
+14,DISN.BA,Buenos,United States,ARS,Services,Entertainment - Diversified,"152,000"
+15,NVDA.BA,Buenos,United States,ARS,Technology,Semiconductors,"22,473"
+16,WMT.BA,Buenos,United States,ARS,Consumer Defensive,Discount Stores,"2,300,000"
+17,PG.BA,Buenos,United States,ARS,Consumer Defensive,Household & Personal Products,"101,000"
+18,AZN.BA,Buenos,United Kingdom,ARS,Healthcare,Drug Manufacturers—General,"83,100"
+19,XOM.BA,Buenos,United States,ARS,Energy,Oil & Gas Integrated,"63,000"
+20,ORAN.BA,Buenos,France,ARS,Communication Services,Telecom Services,"139,698"
+21,BCS.BA,Buenos,United Kingdom,ARS,Financial Services,Banks—Diversified,"81,600"
+22,HD.BA,Buenos,United States,ARS,Consumer Cyclical,Home Improvement Retail,"490,600"
+23,CVX.BA,Buenos,United States,ARS,Energy,Oil & Gas Integrated,"42,595"
+24,KO.BA,Buenos,United States,ARS,Consumer Defensive,Beverages—Non-Alcoholic,"79,000"
+25,LLY.BA,Buenos,United States,ARS,Healthcare,Drug Manufacturers—General,"35,000"
+26,PFE.BA,Buenos,United States,ARS,Healthcare,Drug Manufacturers—General,"79,000"
+27,BHP.BA,Buenos,Australia,ARS,Basic Materials,Other Industrial Metals & Mining,"40,110"
+28,ABEV.BA,Buenos,Brazil,ARS,Consumer Defensive,Beverages—Brewers,"53,000"
+29,PEP.BA,Buenos,United States,ARS,Consumer Defensive,Beverages—Non-Alcoholic,"309,000"
+30,HSBC.BA,Buenos,United Kingdom,ARS,Financial Services,Banks—Diversified,"219,697"
+31,TMO.BA,Buenos,United States,ARS,Healthcare,Diagnostics & Research,"130,000"
+32,VZ.BA,Buenos,United States,ARS,Communication Services,Telecom Services,"118,400"
+33,ABT.BA,Buenos,United States,ARS,Healthcare,Medical Devices,"113,000"
+34,MRK.BA,Buenos,United States,ARS,Healthcare,Drug Manufacturers—General,"67,000"
+35,CSCO.BA,Buenos,United States,ARS,Technology,Communication Equipment,"79,500"
+36,ORCL.BA,Buenos,United States,ARS,Technology,Software—Infrastructure,"132,000"
+37,NVS.BA,Buenos,Switzerland,ARS,Healthcare,Drug Manufacturers—General,"104,323"
+38,NKE.BA,Buenos,United States,ARS,Consumer Cyclical,Footwear & Accessories,"73,300"
+39,GSK.BA,Buenos,United Kingdom,ARS,Healthcare,Drug Manufacturers—General,"90,096"
+40,ADBE.BA,Buenos,United States,ARS,Technology,Software—Infrastructure,"25,988"
+41,MO.BA,Buenos,United States,ARS,Consumer Defensive,Tobacco,"6,000"
+42,MCD.BA,Buenos,United States,ARS,Consumer Cyclical,Restaurants,"100,000"
+43,INTC.BA,Buenos,United States,ARS,Technology,Semiconductors,"121,100"
+44,WFC.BA,Buenos,United States,ARS,Financial Services,Banks—Diversified,"247,848"
+45,CRM.BA,Buenos,United States,ARS,Technology,Software—Application,"73,541"
+46,BMY.BA,Buenos,United States,ARS,Healthcare,Drug Manufacturers—General,"32,200"
+47,TXN.BA,Buenos,United States,ARS,Technology,Semiconductors,"31,000"
+48,QCOM.BA,Buenos,United States,ARS,Technology,Semiconductors,"45,000"
+49,AMD.BA,Buenos,United States,ARS,Technology,Semiconductors,"15,500"
+50,PTR.BA,Buenos,China,ARS,Energy,Oil & Gas Integrated,"432,003"
+51,T.BA,Buenos,United States,ARS,Communication Services,Telecom Services,"203,000"
+52,JD.BA,Buenos,China,ARS,Consumer Cyclical,Internet Retail,
+53,COST.BA,Buenos,United States,ARS,Consumer Defensive,Discount Stores,"288,000"
+54,AXP.BA,Buenos,United States,ARS,Financial Services,Credit Services,"64,000"
+55,HON.BA,Buenos,United States,ARS,Industrials,Conglomerates,"99,000"
+56,CL.BA,Buenos,United States,ARS,Consumer Defensive,Household & Personal Products,"33,800"
+57,IBM.BA,Buenos,United States,ARS,Technology,Information Technology Services,"282,100"
+58,AMGN.BA,Buenos,United States,ARS,Healthcare,Drug Manufacturers—General,"24,200"
+59,TTE.BA,Buenos,France,ARS,Energy,Oil & Gas Integrated,"101,309"
+60,SAP.BA,Buenos,Germany,ARS,Technology,Software—Application,"107,415"
+61,LMT.BA,Buenos,United States,ARS,Industrials,Aerospace & Defense,"114,000"
+62,USB.BA,Buenos,United States,ARS,Financial Services,Banks—Regional,"68,796"
+63,CAT.BA,Buenos,United States,ARS,Industrials,Farm & Heavy Construction Machinery,"107,700"
+64,AMX.BA,Buenos,Mexico,ARS,Communication Services,Telecom Services,"181,205"
+65,DEO.BA,Buenos,United Kingdom,ARS,Consumer Defensive,Beverages—Wineries & Distilleries,"27,783"
+66,RIO.BA,Buenos,United Kingdom,ARS,Basic Materials,Other Industrial Metals & Mining,"49,000"
+67,SONY.BA,Buenos,Japan,ARS,Technology,Consumer Electronics,"109,700"
+68,IBN.BA,Buenos,India,ARS,Financial Services,Banks—Regional,"98,750"
+69,TGT.BA,Buenos,United States,ARS,Consumer Defensive,Discount Stores,"450,000"
+70,BA.BA,Buenos,United States,ARS,Industrials,Aerospace & Defense,"142,000"
+71,MDT.BA,Buenos,Ireland,ARS,Healthcare,Medical Devices,"90,000"
+72,SNP.BA,Buenos,China,ARS,Energy,Oil & Gas Integrated,"385,691"
+73,GS.BA,Buenos,United States,ARS,Financial Services,Capital Markets,"43,900"
+74,PYPL.BA,Buenos,United States,ARS,Financial Services,Credit Services,"30,900"
+75,AMAT.BA,Buenos,United States,ARS,Technology,Semiconductor Equipment & Materials,"28,500"
+76,GE.BA,Buenos,United States,ARS,Industrials,Specialty Industrial Machinery,"168,000"
+77,BP.BA,Buenos,United States,ARS,,,
+78,NFLX.BA,Buenos,United States,ARS,Communication Services,Entertainment,"11,300"
+79,NGG.BA,Buenos,United Kingdom,ARS,Utilities,Utilities—Regulated Electric,"23,683"
+80,LFC.BA,Buenos,China,ARS,Financial Services,Insurance—Life,"103,262"
+81,EBR.BA,Buenos,Brazil,ARS,Utilities,Utilities—Regulated Electric,"12,126"
+82,SBUX.BA,Buenos,United States,ARS,Consumer Cyclical,Restaurants,"383,000"
+83,E.BA,Buenos,Italy,ARS,Energy,Oil & Gas Integrated,"32,689"
+84,ITUB.BA,Buenos,Brazil,ARS,Financial Services,Banks—Regional,"99,600"
+85,MMM.BA,Buenos,United States,ARS,Industrials,Conglomerates,"95,000"
+86,ADI.BA,Buenos,United States,ARS,Technology,Semiconductors,"24,700"
+87,SID.BA,Buenos,Brazil,ARS,Basic Materials,Steel,"24,687"
+88,AIG.BA,Buenos,United States,ARS,Financial Services,Insurance—Diversified,"36,600"
+89,SNAP.BA,Buenos,United States,ARS,Communication Services,Internet Content & Information,"5,661"
+90,BBD.BA,Buenos,Brazil,ARS,Financial Services,Banks—Regional,"85,264"
+91,VALE.BA,Buenos,Brazil,ARS,Basic Materials,Other Industrial Metals & Mining,
+92,GILD.BA,Buenos,United States,ARS,Healthcare,Drug Manufacturers—General,"14,400"
+93,NUE.BA,Buenos,United States,ARS,Basic Materials,Steel,"28,800"
+94,INFY.BA,Buenos,India,ARS,Technology,Information Technology Services,"292,067"
+95,HMC.BA,Buenos,Japan,ARS,Consumer Cyclical,Auto Manufacturers,"211,374"
+96,ACH.BA,Buenos,China,ARS,Basic Materials,Aluminum,"60,056"
+97,GGB.BA,Buenos,Brazil,ARS,Basic Materials,Steel,"30,000"
+98,MSI.BA,Buenos,United States,ARS,Technology,Communication Equipment,"18,700"
+99,FCX.BA,Buenos,United States,ARS,Basic Materials,Copper,"24,700"
+100,BBV.BA,Buenos,Spain,ARS,Financial Services,Banks—Diversified,"110,432"
+101,SLB.BA,Buenos,United States,ARS,Energy,Oil & Gas Equipment & Services,"92,000"
+102,NEM.BA,Buenos,United States,ARS,Basic Materials,Gold,"14,400"
+103,PCAR.BA,Buenos,United States,ARS,Industrials,Farm & Heavy Construction Machinery,"28,500"
+104,MELI.BA,Buenos,Uruguay,ARS,Consumer Cyclical,Internet Retail,"29,957"
+105,SCCO.BA,Buenos,United States,ARS,Basic Materials,Copper,"14,700"
+106,BIDU.BA,Buenos,China,ARS,Communication Services,Internet Content & Information,"45,500"
+107,KMB.BA,Buenos,United States,ARS,Consumer Defensive,Household & Personal Products,"45,000"
+108,PHG.BA,Buenos,Netherlands,ARS,Healthcare,Medical Devices,"78,189"
+109,IP.BA,Buenos,United States,ARS,Consumer Cyclical,Packaging & Containers,"38,200"
+110,ING.BA,Buenos,Netherlands,ARS,Financial Services,Banks—Diversified,"57,000"
+111,HPQ.BA,Buenos,United States,ARS,Technology,Computer Hardware,"51,000"
+112,TWTR.BA,Buenos,United States,ARS,Communication Services,Internet Content & Information,"7,500"
+113,LYG.BA,Buenos,United Kingdom,ARS,Financial Services,Banks—Regional,"57,955"
+114,BK.BA,Buenos,United States,ARS,Financial Services,Asset Management,"49,100"
+115,BNG.BA,Buenos,United States,ARS,Consumer Goods,Farm Products,"22,000"
+116,LVS.BA,Buenos,United States,ARS,Consumer Cyclical,Resorts & Casinos,"44,500"
+117,MFG.BA,Buenos,Japan,ARS,Financial Services,Banks—Regional,"54,492"
+118,EBAY.BA,Buenos,United States,ARS,Consumer Cyclical,Internet Retail,"10,800"
+119,BIIB.BA,Buenos,United States,ARS,Healthcare,Drug Manufacturers—General,"9,610"
+120,CS.BA,Buenos,Switzerland,ARS,Financial Services,Banks—Diversified,"50,110"
+121,GLW.BA,Buenos,United States,ARS,Technology,Electronic Components,"61,200"
+122,DE.BA,Buenos,United States,ARS,Industrials,Farm & Heavy Construction Machinery,"75,550"
+123,ERIC.BA,Buenos,Sweden,ARS,Technology,Communication Equipment,"100,454"
+124,VIV.BA,Buenos,Brazil,ARS,Communication Services,Telecom Services,
+125,AEM.BA,Buenos,Canada,ARS,Basic Materials,Gold,"6,810"
+126,BSBR.BA,Buenos,Brazil,ARS,Financial Services,Banks—Regional,"48,834"
+127,CAR.BA,Buenos,United States,ARS,Industrials,Rental & Leasing Services,"16,000"
+128,SUZ.BA,Buenos,Brazil,ARS,Basic Materials,Paper & Paper Products,
+129,SBS.BA,Buenos,Brazil,ARS,Utilities,Utilities—Regulated Water,"12,515"
+130,FSLR.BA,Buenos,United States,ARS,Technology,Solar,"4,800"
+131,GFI.BA,Buenos,South Africa,ARS,Basic Materials,Gold,"17,604"
+132,GRMN.BA,Buenos,Switzerland,ARS,Technology,Scientific & Technical Instruments,"18,700"
+133,AEG.BA,Buenos,Netherlands,ARS,Financial Services,Insurance—Diversified,"17,936"
+134,GOLD.BA,Buenos,Canada,ARS,Basic Materials,Gold,
+135,CAH.BA,Buenos,United States,ARS,Healthcare,Medical Distribution,"44,000"
+136,FDX.BA,Buenos,United States,ARS,Industrials,Integrated Freight & Logistics,"384,000"
+137,BRFS.BA,Buenos,Brazil,ARS,Consumer Defensive,Packaged Foods,
+138,TXR.BA,Buenos,Luxembourg,ARS,Basic Materials,Steel,"20,142"
+139,ERJ.BA,Buenos,Brazil,ARS,Industrials,Aerospace & Defense,"15,427"
+140,AVY.BA,Buenos,United States,ARS,Industrials,Business Equipment & Supplies,"36,000"
+141,SNA.BA,Buenos,United States,ARS,Industrials,Tools & Accessories,"12,800"
+142,HNP.BA,Buenos,China,ARS,Utilities,Utilities—Independent Power Producers,"57,513"
+143,PAC.BA,Buenos,Mexico,ARS,Industrials,Airports & Air Services,"1,992"
+144,KGC.BA,Buenos,Canada,ARS,Basic Materials,Gold,
+145,AUY.BA,Buenos,Canada,ARS,Basic Materials,Gold,
+146,HOG.BA,Buenos,United States,ARS,Consumer Cyclical,Recreational Vehicles,"5,800"
+147,X.BA,Buenos,United States,ARS,Basic Materials,Steel,"24,540"
+148,UGP.BA,Buenos,Brazil,ARS,Energy,Oil & Gas Refining & Marketing,"16,442"
+149,ARCO.BA,Buenos,Uruguay,ARS,Consumer Cyclical,Restaurants,
+150,XROX.BA,Buenos,United States,ARS,Technology,Information Technology Services,"23,300"
+151,GLNT.BA,Buenos,Luxembourg,ARS,Technology,Information Technology Services,"23,526"
+152,TXAR.BA,Buenos,Argentina,ARS,Basic Materials,Steel,
+153,ADGO.BA,Buenos,Luxembourg,ARS,Consumer Defensive,Farm Products,
+154,HMY.BA,Buenos,South Africa,ARS,Basic Materials,Gold,"38,459"
+155,DD.BA,Buenos,United States,ARS,Basic Materials,Agricultural Inputs,
+156,TRIP.BA,Buenos,United States,ARS,Consumer Cyclical,Travel Services,"2,691"
+157,PBI.BA,Buenos,United States,ARS,Industrials,Integrated Freight & Logistics,"11,500"
+158,YPFD.BA,Buenos,Argentina,ARS,Energy,Oil & Gas Integrated,
+159,TECO2.BA,Buenos,Argentina,ARS,Communication Services,Telecom Services,"22,587"
+160,CELU.BA,Buenos,Argentina,ARS,Basic Materials,Paper & Paper Products,"1,445"
+161,YELP.BA,Buenos,United States,ARS,Communication Services,Internet Content & Information,"4,400"
+162,GGAL.BA,Buenos,Argentina,ARS,Financial Services,Banks—Regional,"8,714"
+163,ALUA.BA,Buenos,Argentina,ARS,Basic Materials,Aluminum,"2,142"
+164,PAMP.BA,Buenos,Argentina,ARS,Utilities,Utilities—Independent Power Producers,
+165,CBRD.BA,Buenos,Brazil,ARS,Consumer Cyclical,Department Stores,
+166,CDE.BA,Buenos,United States,ARS,Basic Materials,Gold,"2,105"
+167,BMA.BA,Buenos,Argentina,ARS,Financial Services,Banks—Regional,"8,005"
+168,DESP.BA,Buenos,Argentina,ARS,Consumer Cyclical,Travel Services,"3,577"
+169,LOMA.BA,Buenos,Argentina,ARS,Basic Materials,Building Materials,
+170,BBAR.BA,Buenos,Argentina,ARS,Financial Services,Banks—Regional,"5,416"
+171,CVH.BA,Buenos,Argentina,ARS,Communication Services,Telecom Services,
+172,CEPU.BA,Buenos,Argentina,ARS,Utilities,Utilities—Regulated Electric,
+173,CTIO.BA,Buenos,Argentina,ARS,Real Estate,Real Estate Services,
+174,FERR.BA,Buenos,Argentina,ARS,Industrials,Building Products & Equipment,
+175,CRES.BA,Buenos,Argentina,ARS,Industrials,Conglomerates,
+176,BYMA.BA,Buenos,Argentina,ARS,Financial Services,Capital Markets,425
+177,TGSU2.BA,Buenos,Argentina,ARS,Energy,Oil & Gas Integrated,
+178,SAMI.BA,Buenos,Argentina,ARS,Consumer Defensive,Farm Products,
+179,IRCP.BA,Buenos,Argentina,ARS,Real Estate,Real Estate Services,
+180,IRSA.BA,Buenos,Argentina,ARS,Industrials,Conglomerates,"1,281"
+181,MOLA.BA,Buenos,Uruguay,ARS,Consumer Defensive,Farm Products,
+182,REGE.BA,Buenos,Argentina,ARS,Consumer Cyclical,Department Stores,
+183,HARG.BA,Buenos,Argentina,ARS,Basic Materials,Building Materials,
+184,EDN.BA,Buenos,Argentina,ARS,Utilities,Utilities—Regulated Electric,"4,668"
+185,BPAT.BA,Buenos,Argentina,ARS,Financial Services,Banks—Regional,"3,200"
+186,MIRG.BA,Buenos,Argentina,ARS,Technology,Consumer Electronics,
+187,LEDE.BA,Buenos,Argentina,ARS,Consumer Defensive,Farm Products,
+188,PGR.BA,Buenos,United Kingdom,ARS,Energy,Oil & Gas E&P,63
+189,GBAN.BA,Buenos,Argentina,ARS,Utilities,Utilities—Regulated Gas,467
+190,SUPV.BA,Buenos,Argentina,ARS,Financial Services,Banks—Regional,"4,811"
+191,VALO.BA,Buenos,Argentina,ARS,Financial Services,Banks—Diversified,
+192,MTR.BA,Buenos,Paraguay,ARS,Financial Services,Financial Data & Stock Exchanges,
+193,RIGO.BA,Buenos,Argentina,ARS,Consumer Defensive,Household & Personal Products,882
+194,MOLI.BA,Buenos,Uruguay,ARS,Consumer Defensive,Packaged Foods,
+195,TRAN.BA,Buenos,Argentina,ARS,Utilities,Utilities—Regulated Electric,
+196,METR.BA,Buenos,Argentina,ARS,Utilities,Utilities—Regulated Gas,
+197,PATA.BA,Buenos,Argentina,ARS,Consumer Cyclical,Department Stores,
+198,CAPX.BA,Buenos,Argentina,ARS,Utilities,Utilities—Regulated Electric,
+199,CECO2.BA,Buenos,Argentina,ARS,Utilities,Utilities—Regulated Electric,
+200,RICH.BA,Buenos,Argentina,ARS,Healthcare,Drug Manufacturers—Specialty & Generic,400
+201,INVJ.BA,Buenos,Argentina,ARS,Consumer Defensive,Farm Products,224
+202,GAMI.BA,Buenos,Argentina,ARS,Technology,Information Technology Services,
+203,GCLA.BA,Buenos,Argentina,ARS,Communication Services,Entertainment,"4,299"
+204,BOLT.BA,Buenos,Argentina,ARS,Technology,Information Technology Services,
+205,BHIP.BA,Buenos,Argentina,ARS,Financial Services,Banks—Regional,
+206,AUSO.BA,Buenos,Uruguay,ARS,Industrials,Infrastructure Operations,"1,122"
+207,TGNO4.BA,Buenos,Argentina,ARS,Energy,Oil & Gas Midstream,
+208,CGPA2.BA,Buenos,Argentina,ARS,Utilities,Utilities—Regulated Gas,930
+209,CADO.BA,Buenos,Argentina,ARS,Industrials,Conglomerates,
+210,DGCU2.BA,Buenos,Argentina,ARS,Utilities,Utilities—Regulated Gas,262
+211,AGRO.BA,Buenos,Argentina,ARS,Industrials,Farm & Heavy Construction Machinery,460
+212,GRIM.BA,Buenos,Argentina,ARS,Consumer Cyclical,Footwear & Accessories,
+213,MORI.BA,Buenos,Argentina,ARS,Consumer Defensive,Farm Products,
+214,OEST.BA,Buenos,Argentina,ARS,Industrials,Infrastructure Operations,858
+215,TGLT.BA,Buenos,Argentina,ARS,Real Estate,Real Estate Services,
+216,INTR.BA,Buenos,Chile,ARS,Consumer Defensive,Packaged Foods,
+217,EDLH.BA,Buenos,Argentina,ARS,Utilities,Utilities—Regulated Electric,437
+218,HAVA.BA,Buenos,Costa Rica,ARS,Consumer Cyclical,Restaurants,
+219,DYCA.BA,Buenos,Argentina,ARS,Industrials,Engineering & Construction,
+220,LONG.BA,Buenos,Argentina,ARS,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+221,GARO.BA,Buenos,Argentina,ARS,Industrials,Conglomerates,
+222,DOME.BA,Buenos,Argentina,ARS,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+223,SEMI.BA,Buenos,Argentina,ARS,Consumer Defensive,Farm Products,
+224,FIPL.BA,Buenos,Argentina,ARS,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+225,CARC.BA,Buenos,Argentina,ARS,Basic Materials,Chemicals - Major Diversified,
+226,ROSE.BA,Buenos,Argentina,ARS,Healthcare,Drug Manufacturers—Specialty & Generic,
+227,POLL.BA,Buenos,Argentina,ARS,Industrials,Engineering & Construction,
+228,COME.BA,Buenos,Argentina,ARS,Industrials,Conglomerates,
+229,RIOD.BA,Buenos,Argentina,USD,,,
+230,PEPD.BA,Buenos,United States,USD,,,"309,000"
+231,HMYD.BA,Buenos,South Africa,USD,,,"38,459"
+232,BIIBD.BA,Buenos,United States,USD,,,"9,610"
+233,ABTD.BA,Buenos,United States,USD,,,"113,000"
+234,KEP.BA,Buenos,United States,ARS,,,
+235,VZD.BA,Buenos,United States,USD,,,"118,400"
+236,SG162.BA,Buenos,United States,ARS,,,
+237,GILDD.BA,Buenos,United States,USD,,,"14,400"
+238,BIDUD.BA,Buenos,United States,USD,,,
+239,MCDD.BA,Buenos,United States,USD,,,"100,000"
+240,AMD-B.BA,Buenos,United States,ARS,,,
+241,VD.BA,Buenos,United States,USD,,,"21,500"
+242,AUYD.BA,Buenos,Canada,USD,,,
+243,NVDAD.BA,Buenos,United States,USD,,,"22,473"
+244,TEFO.BA,Buenos,Spain,ARS,Communication Services,Telecom Services,"104,150"
+245,TWTRD.BA,Buenos,Spain,USD,,,
+246,XF3X.BA,Buenos,Spain,ARS,,,
+247,KO--B.BA,Buenos,Spain,ARS,,,
+248,BB37D.BA,Buenos,Spain,ARS,,,
+249,QCOMD.BA,Buenos,United States,USD,,,"45,000"
+250,SHOP.BA,Buenos,Canada,ARS,Technology,Software—Application,"10,000"
+251,PGD.BA,Buenos,United States,USD,,,"101,000"
+252,SPYB.BA,Buenos,United States,ARS,,,
+253,AMDD.BA,Buenos,United States,USD,,,
+254,QCOMD.BA,Buenos,United States,USD,,,"45,000"
+255,EWZD.BA,Buenos,United States,USD,,,
+256,TD.BA,Buenos,United States,USD,,,"203,000"
+257,HL.BA,Buenos,United States,ARS,Basic Materials,Gold,"1,650"
+258,SNOW.BA,Buenos,United States,ARS,Technology,Software—Application,"3,992"
+259,CATD.BA,Buenos,United States,USD,,,"107,700"
+260,GLNTD.BA,Buenos,Luxembourg,USD,,,"23,526"
+261,X16G2.BA,Buenos,Luxembourg,ARS,,,
+262,CVXD.BA,Buenos,United States,USD,,,"42,595"
+263,AMZND.BA,Buenos,United States,USD,,,"1,608,000"
+264,KMBC.BA,Buenos,United States,USD,,,
+265,IWMD.BA,Buenos,United States,USD,,,
+266,BIIBD.BA,Buenos,United States,USD,,,"9,610"
+267,PAASD.BA,Buenos,Canada,USD,,,"7,100"
+268,ORCLD.BA,Buenos,United States,USD,,,"132,000"
+269,PSXD.BA,Buenos,United States,USD,,,"14,000"
+270,CSCOD.BA,Buenos,United States,USD,,,"79,500"
+271,TTM.BA,Buenos,United States,ARS,,,
+272,SG162.BA,Buenos,United States,ARS,,,
+273,NTES.BA,Buenos,China,ARS,Communication Services,Electronic Gaming & Multimedia,
+274,EWZB.BA,Buenos,China,ARS,,,
+275,VD.BA,Buenos,United States,USD,,,"21,500"
+276,SPOTD.BA,Buenos,Luxembourg,USD,,,"6,617"
+277,MAD.BA,Buenos,United States,USD,,,"24,000"
+278,HDB.BA,Buenos,United States,ARS,,,
+279,BA-CD.BA,Buenos,United States,USD,,,
+280,SHOPD.BA,Buenos,Canada,USD,,,"10,000"
+281,RUC3D.BA,Buenos,Canada,USD,,,
+282,XOMD.BA,Buenos,United States,USD,,,"63,000"
+283,S29L2.BA,Buenos,United States,ARS,,,
+284,VISTD.BA,Buenos,United States,USD,,,
+285,DISND.BA,Buenos,United States,USD,,,
+286,X21O2.BA,Buenos,United States,ARS,,,
+287,MRECD.BA,Buenos,United States,USD,,,
+288,UNP.BA,Buenos,United States,ARS,Industrials,Railroads,"29,905"
+289,S30J2.BA,Buenos,United States,ARS,,,
+290,ETSY.BA,Buenos,United States,ARS,Consumer Cyclical,Internet Retail,"2,402"
+291,WBA.BA,Buenos,United States,ARS,Healthcare,Pharmaceutical Retailers,"202,000"
+292,CAAP.BA,Buenos,Luxembourg,ARS,Industrials,Airports & Air Services,"5,786"
+293,ARKKD.BA,Buenos,Luxembourg,USD,,,
+294,AAPLD.BA,Buenos,Luxembourg,USD,,,
+295,BA37D.BA,Buenos,Luxembourg,ARS,,,
+296,GSKD.BA,Buenos,United Kingdom,USD,,,"90,096"
+297,DOCU.BA,Buenos,United States,ARS,Technology,Software—Application,"7,461"
+298,TEFO.BA,Buenos,Spain,ARS,Communication Services,Telecom Services,"104,150"
+299,SHEL.BA,Buenos,United Kingdom,ARS,,,"82,000"
+300,GOGLD.BA,Buenos,United States,USD,,,"156,500"
+301,NFLXD.BA,Buenos,United States,USD,,,"11,300"
+302,AVGOD.BA,Buenos,United States,USD,,,"20,000"
+303,XLE.BA,Buenos,United States,ARS,,,
+304,BIOX.BA,Buenos,Argentina,ARS,Basic Materials,Agricultural Inputs,
+305,ZM.BA,Buenos,United States,ARS,Technology,Software—Application,"6,787"
+306,BPD.BA,Buenos,United States,USD,,,
+307,NKED.BA,Buenos,United States,USD,,,"73,300"
+308,UNHD.BA,Buenos,United States,USD,,,"350,000"
+309,DESPD.BA,Buenos,Argentina,USD,,,"3,577"
+310,XD2X.BA,Buenos,Argentina,ARS,,,
+311,GILDD.BA,Buenos,United States,USD,,,"14,400"
+312,MRKD.BA,Buenos,United States,USD,,,"67,000"
+313,BIOXD.BA,Buenos,Argentina,USD,,,
+314,WBAD.BA,Buenos,United States,USD,,,"202,000"
+315,IBMD.BA,Buenos,United States,USD,,,"282,100"
+316,AZND.BA,Buenos,United Kingdom,USD,,,"83,100"
+317,EEMD.BA,Buenos,United Kingdom,USD,,,
+318,MCDD.BA,Buenos,United States,USD,,,"100,000"
+319,EBAYD.BA,Buenos,United States,USD,,,"10,800"
+320,JNJD.BA,Buenos,United States,USD,,,"141,700"
+321,AMD-B.BA,Buenos,United States,ARS,,,
+322,DIAD.BA,Buenos,United States,USD,,,
+323,ZMD.BA,Buenos,United States,USD,,,"6,787"
+324,SNS7O.BA,Buenos,United States,ARS,,,
+325,S30S2.BA,Buenos,United States,ARS,,,
+326,TIMB.BA,Buenos,Brazil,ARS,,,"8,993"
+327,TWTRD.BA,Buenos,Brazil,USD,,,
+328,XF3X.BA,Buenos,Brazil,ARS,,,
+329,WBO.BA,Buenos,Brazil,ARS,,,
+330,SAN.BA,Buenos,Spain,ARS,,,"177,033"
+331,XE3X.BA,Buenos,Spain,ARS,,,
+332,X16D2.BA,Buenos,Spain,ARS,,,
+333,HAL.BA,Buenos,United States,ARS,Energy,Oil & Gas Equipment & Services,"40,000"
+334,GPRK.BA,Buenos,Colombia,ARS,Energy,Oil & Gas E&P,463
+335,SQ.BA,Buenos,United States,ARS,Technology,Software—Infrastructure,"8,521"
+336,PYPLD.BA,Buenos,United States,USD,,,"30,900"
+337,WMTD.BA,Buenos,United States,USD,,,"2,300,000"
+338,BABAD.BA,Buenos,China,USD,,,"259,316"
+339,QQQ.BA,Buenos,United States,ARS,,,
+340,INTCD.BA,Buenos,United States,USD,,,"121,100"
+341,EWZ.BA,Buenos,United States,ARS,,,
+342,X17F3.BA,Buenos,United States,ARS,,,
+343,UNH.BA,Buenos,United States,ARS,Healthcare,Healthcare Plans,"350,000"
+344,BB.BA,Buenos,Canada,ARS,,,"3,497"
+345,WFCD.BA,Buenos,United States,USD,,,"247,848"
+346,MELID.BA,Buenos,Uruguay,USD,,,"29,957"
+347,CRE3W.BA,Buenos,Uruguay,ARS,,,
+348,AMXD.BA,Buenos,Uruguay,USD,,,
+349,BIDUD.BA,Buenos,Uruguay,USD,,,
+350,IRS2W.BA,Buenos,Uruguay,ARS,,,
+351,VZD.BA,Buenos,United States,USD,,,"118,400"
+352,KEP.BA,Buenos,United States,ARS,,,
+353,XLFB.BA,Buenos,United States,ARS,,,
+354,TEND.BA,Buenos,Luxembourg,USD,,,"22,776"
+355,HJC9D.BA,Buenos,Luxembourg,USD,,,
+356,HWM.BA,Buenos,United States,ARS,Basic Materials,Aluminum,"19,900"
+357,ITUBD.BA,Buenos,Brazil,USD,,,"99,600"
+358,MUFG.BA,Buenos,Japan,ARS,,,"132,700"
+359,CS36O.BA,Buenos,Japan,ARS,,,
+360,KOFM.BA,Buenos,Mexico,ARS,Consumer Goods,Beverages - Soft Drinks,"80,000"
+361,TV24X.BA,Buenos,Mexico,ARS,,,
+362,SQD.BA,Buenos,United States,USD,,,"8,521"
+363,RTX.BA,Buenos,United States,ARS,Industrial Goods,Aerospace/Defense - Major Diversified,"174,000"
+364,JPMD.BA,Buenos,United States,USD,,,"271,025"
+365,BB37D.BA,Buenos,United States,ARS,,,
+366,XO2X.BA,Buenos,United States,ARS,,,
+367,BRKBD.BA,Buenos,United States,USD,,,
+368,FBD.BA,Buenos,United States,USD,,,"71,970"
+369,S31Y2.BA,Buenos,United States,ARS,,,
+370,X20E3.BA,Buenos,United States,ARS,,,
+371,NVDAD.BA,Buenos,United States,USD,,,"22,473"
+372,PBRD.BA,Buenos,United States,USD,,,
+373,SJ2X.BA,Buenos,United States,ARS,,,
+374,NMR.BA,Buenos,United States,ARS,,,
+375,PKS.BA,Buenos,United States,ARS,Basic Materials,Steel,
+376,BA-C.BA,Buenos,United States,ARS,,,
+377,AVGO.BA,Buenos,United States,ARS,Technology,Semiconductors,"20,000"
+378,CX.BA,Buenos,United States,ARS,,,
+379,ABBV.BA,Buenos,United States,ARS,Healthcare,Drug Manufacturers—General,"50,000"
+380,SPOT.BA,Buenos,Luxembourg,ARS,Communication Services,Internet Content & Information,"6,617"
+381,TEN.BA,Buenos,Luxembourg,ARS,Energy,Oil & Gas Equipment & Services,"22,776"
+382,SPYD.BA,Buenos,Luxembourg,USD,,,
+383,TSLAD.BA,Buenos,Luxembourg,USD,,,
+384,IWM.BA,Buenos,United States,ARS,,,
+385,PAAS.BA,Buenos,Canada,ARS,Basic Materials,Silver,"7,100"
+386,UL.BA,Buenos,United Kingdom,ARS,,,"148,012"
+387,KOD.BA,Buenos,United States,USD,,,"79,000"
+388,ARKK.BA,Buenos,United States,ARS,,,
+389,EEM.BA,Buenos,United States,ARS,,,
+390,BRKB.BA,Buenos,United States,ARS,,,
+391,XLF.BA,Buenos,United States,ARS,,,
+392,GOLDD.BA,Buenos,Canada,USD,,,
+393,NOKA.BA,Buenos,Finland,ARS,Technology,Communication Equipment,"87,927"
+394,PEPD.BA,Buenos,United States,USD,,,"309,000"
+395,EFX.BA,Buenos,United States,ARS,Industrials,Consulting Services,"12,700"
+396,HMYD.BA,Buenos,South Africa,USD,,,"38,459"
+397,ALAAD.BA,Buenos,South Africa,USD,,,
+398,MGC8X.BA,Buenos,South Africa,ARS,,,
+399,BUY22.BA,Buenos,South Africa,ARS,,,
+400,KO--B.BA,Buenos,South Africa,ARS,,,
+401,XD.BA,Buenos,United States,USD,,,"24,540"
+402,BAD.BA,Buenos,United States,USD,,,"142,000"
+403,GED.BA,Buenos,United States,USD,,,"168,000"
+404,MOD.BA,Buenos,United States,USD,,,"6,000"
+405,AVYD.BA,Buenos,United States,USD,,,"36,000"
+406,XLFD.BA,Buenos,United States,USD,,,
+407,AXPD.BA,Buenos,United States,USD,,,"64,000"
+408,XA3X.BA,Buenos,United States,ARS,,,
+409,VALED.BA,Buenos,United States,USD,,,
+410,X21A3.BA,Buenos,United States,ARS,,,
+411,XLED.BA,Buenos,United States,USD,,,
+412,S31G2.BA,Buenos,United States,ARS,,,
+413,MA.BA,Buenos,United States,ARS,Financial Services,Credit Services,"24,000"
+414,MSFTD.BA,Buenos,United States,USD,,,"181,000"
+415,HSY.BA,Buenos,United States,ARS,Consumer Defensive,Confectioners,"16,620"
+416,PBR.BA,Buenos,Chile,ARS,Energy,Oil & Gas Integrated,"45,532"
+417,S29A2.BA,Buenos,Chile,ARS,,,
+418,QQQD.BA,Buenos,Chile,USD,,,
+419,TV24.BA,Buenos,Chile,ARS,,,
+420,DIA.BA,Buenos,United States,ARS,,,
+421,MRCEO.BA,Buenos,United States,ARS,,,
+422,SPY.BA,Buenos,Argentina,ARS,,,
+423,VIST.BA,Buenos,Mexico,ARS,Energy,Oil & Gas E&P,

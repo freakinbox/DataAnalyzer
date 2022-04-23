@@ -1,0 +1,373 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,IVVCL.SN,Santiago,United States,CLP,,,
+1,IAUCL.SN,Santiago,United States,CLP,,,
+2,LQDCL.SN,Santiago,United States,CLP,,,
+3,EEMCL.SN,Santiago,United States,CLP,,,
+4,SQM-A.SN,Santiago,Chile,CLP,Basic Materials,Chemicals,"6,081"
+5,SQM-B.SN,Santiago,Chile,CLP,Basic Materials,Chemicals,"6,081"
+6,HYGCL.SN,Santiago,United States,CLP,,,
+7,ENELAM.SN,Santiago,Chile,CLP,Utilities,Utilities—Regulated Electric,"16,461"
+8,CHILE.SN,Santiago,Chile,CLP,Financial Services,Banks—Regional,
+9,COPEC.SN,Santiago,Chile,CLP,Industrials,Conglomerates,
+10,BSANTANDER.SN,Santiago,Chile,CLP,Financial Services,Banks—Regional,"9,988"
+11,EWZCL.SN,Santiago,United States,CLP,,,
+12,FALABELLA.SN,Santiago,Chile,CLP,Consumer Cyclical,Department Stores,"98,430"
+13,EZUCL.SN,Santiago,United States,CLP,,,
+14,VAPORES.SN,Santiago,Chile,CLP,Industrials,Marine Shipping,13
+15,BCI.SN,Santiago,Chile,CLP,Financial Services,Banks—Regional,
+16,CENCOSUD.SN,Santiago,Chile,CLP,Consumer Cyclical,Department Stores,"116,214"
+17,QUINENCO.SN,Santiago,Chile,CLP,Industrials,Conglomerates,"21,375"
+18,EWTCL.SN,Santiago,Chile,CLP,,,
+19,CMPC.SN,Santiago,Chile,CLP,Basic Materials,Paper & Paper Products,"20,010"
+20,FXICL.SN,Santiago,United States,CLP,,,
+21,ANTARCHILE.SN,Santiago,Chile,CLP,Industrials,Conglomerates,
+22,AAPL.SN,Santiago,United States,USD,Technology,Consumer Electronics,"100,000"
+23,EPPCL.SN,Santiago,United States,CLP,,,
+24,CCU.SN,Santiago,Chile,CLP,Consumer Defensive,Beverages—Brewers,"9,346"
+25,MSFT.SN,Santiago,United States,USD,Technology,Software—Infrastructure,"181,000"
+26,EWUCL.SN,Santiago,United States,CLP,,,
+27,CFIIMDLAT.SN,Santiago,United States,CLP,,,
+28,EWGCL.SN,Santiago,United States,CLP,,,
+29,IYWCL.SN,Santiago,United States,CLP,,,
+30,CALICHERAA.SN,Santiago,Chile,CLP,Financial Services,Asset Management,1
+31,ITAUCORP.SN,Santiago,Chile,CLP,Financial Services,Banks—Regional,"7,817"
+32,ENELCHILE.SN,Santiago,Chile,CLP,Utilities,Utilities—Regulated Electric,"2,215"
+33,GOOGL.SN,Santiago,United States,USD,Communication Services,Internet Content & Information,"156,500"
+34,MALLPLAZA.SN,Santiago,Chile,CLP,Real Estate,Real Estate Services,650
+35,AMZN.SN,Santiago,United States,USD,Consumer Cyclical,Internet Retail,"1,608,000"
+36,MINERA.SN,Santiago,Chile,CLP,Utilities,Utilities—Renewable,"1,193"
+37,CENCOSHOPP.SN,Santiago,Chile,CLP,Real Estate,Real Estate Services,409
+38,GOOG.SN,Santiago,United States,USD,Communication Services,Internet Content & Information,"156,500"
+39,CAP.SN,Santiago,Chile,CLP,Basic Materials,Steel,
+40,ORO-BLANCO.SN,Santiago,Chile,CLP,Financial Services,Capital Markets,2
+41,ANDINA-A.SN,Santiago,Chile,CLP,Consumer Defensive,Beverages—Non-Alcoholic,
+42,AESANDES.SN,Santiago,Chile,CLP,Utilities,Utilities—Renewable,"1,000"
+43,ANDINA-B.SN,Santiago,Chile,CLP,Consumer Defensive,Beverages—Non-Alcoholic,
+44,EWACL.SN,Santiago,United States,CLP,,,
+45,NORTEGRAN.SN,Santiago,Chile,CLP,Financial Services,Asset Management,15
+46,ILFCL.SN,Santiago,United States,CLP,,,
+47,ENELGXCH.SN,Santiago,Chile,CLP,Utilities,Utilities—Renewable,658
+48,COLBUN.SN,Santiago,Chile,CLP,Utilities,Utilities—Regulated Electric,"1,193"
+49,BICECORP.SN,Santiago,Chile,CLP,Financial Services,Financial Conglomerates,
+50,ENTEL.SN,Santiago,Chile,CLP,Communication Services,Telecom Services,"12,246"
+51,IYFCL.SN,Santiago,United States,CLP,,,
+52,CONCHATORO.SN,Santiago,Chile,CLP,Consumer Defensive,Beverages—Wineries & Distilleries,"3,297"
+53,AGUAS-A.SN,Santiago,Chile,CLP,Utilities,Utilities—Regulated Water,"1,725"
+54,ENAEX.SN,Santiago,Chile,CLP,Basic Materials,Specialty Chemicals,
+55,SK.SN,Santiago,Chile,CLP,Industrials,Conglomerates,"22,731"
+56,PARAUCO.SN,Santiago,Chile,CLP,Real Estate,Real Estate—Development,
+57,IYECL.SN,Santiago,United States,CLP,,,
+58,IYJCL.SN,Santiago,United States,CLP,,,
+59,MOLYMET.SN,Santiago,Chile,CLP,Basic Materials,Other Industrial Metals & Mining,"1,372"
+60,PUCOBRE.SN,Santiago,Chile,CLP,Basic Materials,Copper,"1,170"
+61,IDUCL.SN,Santiago,Chile,CLP,,,
+62,FB.SN,Santiago,United States,USD,,,"71,970"
+63,SMSAAM.SN,Santiago,Chile,CLP,Industrials,Marine Shipping,
+64,UNH.SN,Santiago,United States,USD,Healthcare,Healthcare Plans,"350,000"
+65,JPM.SN,Santiago,United States,USD,Financial Services,Banks—Diversified,"271,025"
+66,HABITAT.SN,Santiago,Chile,CLP,Financial Services,Asset Management,"2,579"
+67,SMU.SN,Santiago,Chile,CLP,Consumer Cyclical,Department Stores,"26,205"
+68,SECURITY.SN,Santiago,Chile,CLP,Financial Services,Banks—Regional,"3,184"
+69,HF.SN,Santiago,Chile,CLP,Consumer Defensive,Farm Products,"1,982"
+70,WMT.SN,Santiago,United States,USD,Consumer Defensive,Discount Stores,"2,300,000"
+71,EMBONOR-B.SN,Santiago,Chile,CLP,Consumer Defensive,Beverages—Non-Alcoholic,
+72,MULTI-X.SN,Santiago,Chile,CLP,Consumer Defensive,Farm Products,"2,566"
+73,V.SN,Santiago,United States,USD,Financial Services,Credit Services,"21,500"
+74,BANVIDA.SN,Santiago,Chile,CLP,Financial Services,Insurance Brokers,
+75,ECL.SN,Santiago,Chile,CLP,Utilities,Utilities—Regulated Electric,866
+76,INVERCAP.SN,Santiago,Chile,CLP,Basic Materials,Steel,
+77,ALMENDRAL.SN,Santiago,Chile,CLP,Communication Services,Telecom Services,"12,249"
+78,CGEGAS.SN,Santiago,Chile,CLP,Utilities,Utilities—Diversified,631
+79,BAC.SN,Santiago,United States,USD,Financial Services,Banks—Diversified,"208,000"
+80,PG.SN,Santiago,United States,USD,Consumer Defensive,Household & Personal Products,"101,000"
+81,XOM.SN,Santiago,United States,USD,Energy,Oil & Gas Integrated,"63,000"
+82,IAM.SN,Santiago,Chile,CLP,Utilities,Utilities—Regulated Water,"1,729"
+83,ILC.SN,Santiago,Chile,CLP,Financial Services,Insurance—Diversified,
+84,NITRATOS.SN,Santiago,Chile,CLP,Financial Services,Capital Markets,2
+85,ESVAL-C.SN,Santiago,Chile,CLP,Utilities,Utilities—Regulated Water,946
+86,PROVIDA.SN,Santiago,Chile,CLP,Financial Services,Asset Management,"1,866"
+87,IYCCL.SN,Santiago,United States,CLP,,,
+88,KO.SN,Santiago,United States,USD,Consumer Defensive,Beverages—Non-Alcoholic,"79,000"
+89,VSPT.SN,Santiago,Chile,CLP,Consumer Defensive,Beverages—Wineries & Distilleries,"1,352"
+90,SONDA.SN,Santiago,Chile,CLP,Technology,Information Technology Services,"13,522"
+91,FORUS.SN,Santiago,Chile,CLP,Consumer Cyclical,Apparel Retail,
+92,RIPLEY.SN,Santiago,Chile,CLP,Consumer Cyclical,Department Stores,"20,299"
+93,POTASIOS-A.SN,Santiago,Chile,CLP,Industrials,Conglomerates,1
+94,MARINSA.SN,Santiago,Chile,CLP,Industrials,Integrated Freight & Logistics,
+95,DIS.SN,Santiago,United States,USD,Communication Services,Entertainment,"152,000"
+96,CFIMRVCHA.SN,Santiago,Chile,CLP,Financial Services,Asset Management,
+97,MRK.SN,Santiago,United States,USD,Healthcare,Drug Manufacturers—General,"67,000"
+98,LIPIGAS.SN,Santiago,Chile,CLP,Energy,Oil & Gas Refining & Marketing,"2,280"
+99,NKE.SN,Santiago,United States,USD,Consumer Cyclical,Footwear & Accessories,"73,300"
+100,CRISTALES.SN,Santiago,Chile,CLP,Consumer Cyclical,Packaging & Containers,"1,869"
+101,VENTANAS.SN,Santiago,Chile,CLP,Industrials,Marine Shipping,996
+102,WFC.SN,Santiago,United States,USD,Financial Services,Banks—Diversified,"247,848"
+103,INDISA.SN,Santiago,Chile,CLP,Healthcare,Medical Care Facilities,"2,964"
+104,CEMENTOS.SN,Santiago,Chile,CLP,Basic Materials,Building Materials,"1,301"
+105,ECHCL.SN,Santiago,United States,CLP,,,
+106,SALMOCAM.SN,Santiago,Chile,CLP,Consumer Defensive,Farm Products,"1,900"
+107,NAVIERA.SN,Santiago,Chile,CLP,Industrials,Marine Shipping,"5,473"
+108,CAMANCHACA.SN,Santiago,Chile,CLP,Consumer Defensive,Farm Products,"3,800"
+109,BKFCL.SN,Santiago,Chile,CLP,,,
+110,WATTS.SN,Santiago,Chile,CLP,Consumer Defensive,Packaged Foods,"3,096"
+111,BESALCO.SN,Santiago,Chile,CLP,Industrials,Engineering & Construction,"19,665"
+112,AXP.SN,Santiago,United States,USD,Financial Services,Credit Services,"64,000"
+113,OXIQUIM.SN,Santiago,Chile,CLP,Basic Materials,Chemicals,430
+114,MS.SN,Santiago,United States,USD,Financial Services,Capital Markets,"75,000"
+115,SOCOVESA.SN,Santiago,Chile,CLP,Consumer Cyclical,Residential Construction,
+116,LTM.SN,Santiago,Chile,CLP,Industrials,Airlines,"29,114"
+117,LAS-CONDES.SN,Santiago,Chile,CLP,Healthcare,Medical Care Facilities,"3,273"
+118,IBM.SN,Santiago,United States,USD,Technology,Information Technology Services,"282,100"
+119,SALFACORP.SN,Santiago,Chile,CLP,Industrials,Engineering & Construction,"16,467"
+120,TGT.SN,Santiago,United States,USD,Consumer Defensive,Discount Stores,"450,000"
+121,MASISA.SN,Santiago,Chile,CLP,Basic Materials,Lumber & Wood Production,
+122,BA.SN,Santiago,United States,USD,Industrials,Aerospace & Defense,"142,000"
+123,CINTAC.SN,Santiago,Chile,CLP,Basic Materials,Steel,
+124,ENJOY.SN,Santiago,Chile,CLP,Consumer Cyclical,Resorts & Casinos,
+125,TRICOT.SN,Santiago,Chile,CLP,Consumer Cyclical,Apparel Retail,"3,260"
+126,MDLZ.SN,Santiago,United States,USD,Consumer Defensive,Confectioners,"79,000"
+127,PAZ.SN,Santiago,Chile,CLP,Real Estate,Real Estate Services,"1,307"
+128,BOLSASTGO.SN,Santiago,Chile,CLP,Financial Services,Financial Data & Stock Exchanges,
+129,ZOFRI.SN,Santiago,Chile,CLP,Real Estate,Real Estate Services,260
+130,SOQUICOM.SN,Santiago,Chile,CLP,Basic Materials,Agricultural Inputs,83
+131,FCX.SN,Santiago,United States,USD,Basic Materials,Copper,"24,700"
+132,IEMG.SN,Santiago,United States,USD,,,
+133,AGG.SN,Santiago,United States,USD,,,
+134,INGEVEC.SN,Santiago,Chile,CLP,Real Estate,Real Estate—Development,
+135,HITES.SN,Santiago,Chile,CLP,Consumer Cyclical,Department Stores,
+136,NUEVAPOLAR.SN,Santiago,Chile,CLP,Consumer Cyclical,Department Stores,"5,152"
+137,NEM.SN,Santiago,United States,USD,Basic Materials,Gold,"14,300"
+138,IANSA.SN,Santiago,Chile,CLP,Consumer Defensive,Confectioners,
+139,MANQUEHUE.SN,Santiago,Chile,CLP,Real Estate,Real Estate—Development,
+140,NUTRAVALOR.SN,Santiago,Chile,CLP,Consumer Defensive,Farm Products,
+141,COLO-COLO.SN,Santiago,Chile,CLP,Consumer Cyclical,Leisure,202
+142,HYG.SN,Santiago,Chile,USD,,,
+143,TLT.SN,Santiago,United States,USD,,,
+144,EWJ.SN,Santiago,United States,USD,,,
+145,CRUZADOS.SN,Santiago,Chile,CLP,Communication Services,Entertainment,
+146,SCHWAGER.SN,Santiago,Chile,CLP,Industrials,Engineering & Construction,"1,500"
+147,SLV.SN,Santiago,Chile,USD,,,
+148,BTU.SN,Santiago,United States,USD,Energy,Thermal Coal,"4,900"
+149,SMH.SN,Santiago,United States,USD,,,
+150,CFIEARFCHA.SN,Santiago,United States,CLP,,,
+151,CFIFALCFIG.SN,Santiago,United States,CLP,,,
+152,CFIFALCGLA.SN,Santiago,United States,CLP,,,
+153,CFIBTGGRA.SN,Santiago,United States,CLP,,,
+154,CFIBCHDALT.SN,Santiago,United States,CLP,,,
+155,CFM-BTGEMI.SN,Santiago,United States,USD,,,
+156,CFIMBILA-A.SN,Santiago,United States,CLP,,,
+157,CFMCGACHB.SN,Santiago,United States,CLP,,,
+158,CFICOMDPB.SN,Santiago,United States,CLP,,,
+159,CFIPGTPC-E.SN,Santiago,United States,CLP,,,
+160,CFIAMDVATA.SN,Santiago,United States,CLP,,,
+161,CFIFYNRF2A.SN,Santiago,United States,CLP,,,
+162,IAU.SN,Santiago,United States,USD,,,
+163,ACWI.SN,Santiago,United States,USD,,,
+164,MSCL.SN,Santiago,United States,CLP,,,
+165,CFIBCLATCP.SN,Santiago,United States,CLP,,,
+166,CFMITAFDF4.SN,Santiago,United States,CLP,,,
+167,CFMTOEEQUB.SN,Santiago,United States,CLP,,,
+168,EUSBCL.SN,Santiago,United States,CLP,,,
+169,CATCL.SN,Santiago,United States,CLP,,,"107,700"
+170,COSTCL.SN,Santiago,United States,CLP,,,"288,000"
+171,AAPLCL.SN,Santiago,United States,CLP,,,"100,000"
+172,CFIAMDDC-E.SN,Santiago,Chile,CLP,,,
+173,CFIPIONERO.SN,Santiago,Chile,CLP,,,
+174,CFI-LVRUAE.SN,Santiago,Chile,USD,,,
+175,CFIMRCLPR.SN,Santiago,Chile,CLP,,,
+176,GECL.SN,Santiago,United States,CLP,,,"168,000"
+177,CFIMBIDT-B.SN,Santiago,United States,CLP,,,
+178,MCHI.SN,Santiago,United States,USD,,,
+179,CFIFTRLPP.SN,Santiago,United States,CLP,,,
+180,CFIBCHMPUS.SN,Santiago,United States,CLP,,,
+181,FCXCL.SN,Santiago,United States,CLP,,,"24,700"
+182,GRPARGOSCL.SN,Santiago,United States,CLP,,,
+183,CFINASDAQ.SN,Santiago,United States,CLP,,,
+184,IVV.SN,Santiago,United States,USD,,,
+185,CFIWEG-1.SN,Santiago,United States,CLP,,,
+186,DVY-CL.SN,Santiago,United States,CLP,,,
+187,CFIAMDVAMA.SN,Santiago,United States,CLP,,,
+188,CFIGC.SN,Santiago,United States,CLP,,,
+189,CFINRENTAS.SN,Santiago,Chile,CLP,,,
+190,MCHICL.SN,Santiago,United States,CLP,,,
+191,CFIBTGRRA.SN,Santiago,United States,CLP,,,
+192,CFIBTGRCA.SN,Santiago,United States,CLP,,,
+193,CFIQOIA.SN,Santiago,United States,CLP,,,
+194,HALCL.SN,Santiago,United States,CLP,,,
+195,CFIHMCDPPA.SN,Santiago,United States,CLP,,,
+196,CFIBTGDAPA.SN,Santiago,United States,CLP,,,
+197,SLQD.SN,Santiago,United States,USD,,,
+198,CFICOMDPA.SN,Santiago,United States,CLP,,,
+199,CFITOERI1C.SN,Santiago,United States,CLP,,,
+200,CFINVDPR-E.SN,Santiago,United States,CLP,,,
+201,IYK.SN,Santiago,United States,USD,,,
+202,CFIMBDPA-E.SN,Santiago,United States,CLP,,,
+203,MXICL.SN,Santiago,United States,CLP,,,
+204,ITB.SN,Santiago,United States,USD,,,
+205,ILF.SN,Santiago,United States,USD,,,
+206,IYZ.SN,Santiago,United States,USD,,,
+207,CFIMBIDA-B.SN,Santiago,United States,CLP,,,
+208,CFITODPF-E.SN,Santiago,United States,CLP,,,
+209,ACWICL.SN,Santiago,United States,CLP,,,
+210,CFIAMDVASC.SN,Santiago,United States,CLP,,,
+211,EPUCL.SN,Santiago,United States,CLP,,,
+212,EWZ.SN,Santiago,United States,USD,,,
+213,SHV.SN,Santiago,United States,USD,,,
+214,JNJCL.SN,Santiago,United States,CLP,,,"141,700"
+215,MOAT.SN,Santiago,United States,USD,,,
+216,IYH.SN,Santiago,United States,USD,,,
+217,NUTRESACL.SN,Santiago,Colombia,CLP,,,
+218,IVW.SN,Santiago,Colombia,USD,,,
+219,HDV-CL.SN,Santiago,Colombia,CLP,,,
+220,CFIBMPEM-E.SN,Santiago,Colombia,CLP,,,
+221,MSFTCL.SN,Santiago,United States,CLP,,,"181,000"
+222,CFIBEUCB-E.SN,Santiago,United States,CLP,,,
+223,CFIUSREIT.SN,Santiago,United States,CLP,,,
+224,CFIMBIDA-A.SN,Santiago,United States,CLP,,,
+225,EZU.SN,Santiago,United States,USD,,,
+226,CFIMBIRF-A.SN,Santiago,United States,CLP,,,
+227,CFILVD2L-E.SN,Santiago,United States,CLP,,,
+228,CFIBCHMPGB.SN,Santiago,United States,CLP,,,
+229,CFIADGHC.SN,Santiago,United States,CLP,,,
+230,CFIETFCC.SN,Santiago,United States,CLP,,,
+231,DAVIVIENCL.SN,Santiago,United States,CLP,,,
+232,CFIMBIDT-I.SN,Santiago,United States,CLP,,,
+233,XOMCL.SN,Santiago,United States,CLP,,,"63,000"
+234,IYC.SN,Santiago,United States,USD,,,
+235,SBUXCL.SN,Santiago,United States,CLP,,,"383,000"
+236,CFIBTGRE.SN,Santiago,United States,CLP,,,
+237,CFILVCOR-I.SN,Santiago,United States,CLP,,,
+238,CFIBDEUDAI.SN,Santiago,United States,CLP,,,
+239,CFIBPDCCHA.SN,Santiago,United States,CLP,,,
+240,CFMESGIPSA.SN,Santiago,United States,CLP,,,
+241,DMXFCL.SN,Santiago,United States,CLP,,,
+242,OIH.SN,Santiago,United States,USD,,,
+243,IHAK.SN,Santiago,United States,USD,,,
+244,CFILVCOR-A.SN,Santiago,United States,CLP,,,
+245,EEM.SN,Santiago,United States,USD,,,
+246,EUFN.SN,Santiago,United States,USD,,,
+247,DGRO-CL.SN,Santiago,United States,CLP,,,
+248,CFIQRGA.SN,Santiago,United States,CLP,,,
+249,CFIMBIDT-A.SN,Santiago,United States,CLP,,,
+250,CFIBTGRE.SN,Santiago,United States,CLP,,,
+251,CFILVCOR-I.SN,Santiago,United States,CLP,,,
+252,CFMESGIPSA.SN,Santiago,United States,CLP,,,
+253,DMXFCL.SN,Santiago,United States,CLP,,,
+254,CFIQRGA.SN,Santiago,United States,CLP,,,
+255,CFIMBIDT-A.SN,Santiago,United States,CLP,,,
+256,CFIMBIRFUS.SN,Santiago,United States,CLP,,,
+257,CFILVCOR-A.SN,Santiago,United States,CLP,,,
+258,EEM.SN,Santiago,United States,USD,,,
+259,DGRO-CL.SN,Santiago,United States,CLP,,,
+260,XOMCL.SN,Santiago,United States,CLP,,,"63,000"
+261,SBUXCL.SN,Santiago,United States,CLP,,,"383,000"
+262,TECBCL.SN,Santiago,United States,CLP,,,
+263,KWEB.SN,Santiago,United States,USD,,,
+264,CFILVD1L-E.SN,Santiago,United States,CLP,,,
+265,CFIFALCTAC.SN,Santiago,United States,CLP,,,
+266,CFIMRCLP.SN,Santiago,United States,CLP,,,
+267,CFICLHUA-E.SN,Santiago,United States,CLP,,,
+268,CFILVDPU-E.SN,Santiago,United States,CLP,,,
+269,CFIAMSCPA.SN,Santiago,United States,CLP,,,
+270,BKNGCL.SN,Santiago,United States,CLP,,,
+271,CFIBTGGRI.SN,Santiago,United States,CLP,,,
+272,CFIMBIRT-A.SN,Santiago,United States,CLP,,,
+273,CFIAEA-E.SN,Santiago,United States,CLP,,,
+274,CFISUDCHE.SN,Santiago,United States,CLP,,,
+275,CFILVSCC-U.SN,Santiago,United States,CLP,,,
+276,CFICGLEA-E.SN,Santiago,United States,CLP,,,
+277,CFIDLDA-E.SN,Santiago,United States,CLP,,,
+278,CFIQAC.SN,Santiago,United States,CLP,,,
+279,CFIHMCRGPB.SN,Santiago,United States,CLP,,,
+280,SUSBCL.SN,Santiago,United States,CLP,,,
+281,USXFCL.SN,Santiago,United States,CLP,,,
+282,CFIBALT1.SN,Santiago,United States,CLP,,,
+283,CFIHMCDPGP.SN,Santiago,United States,CLP,,,
+284,CFIDHS1.SN,Santiago,United States,CLP,,,
+285,VLUE.SN,Santiago,United States,USD,,,
+286,CFIMDLATAE.SN,Santiago,United States,CLP,,,
+287,CFIMCITI.SN,Santiago,United States,CLP,,,
+288,CFIBCHDECH.SN,Santiago,United States,CLP,,,
+289,GILDCL.SN,Santiago,United States,CLP,,,
+290,CFITDPFI-E.SN,Santiago,United States,CLP,,,
+291,IYMCL.SN,Santiago,United States,CLP,,,
+292,ICLNCL.SN,Santiago,United States,CLP,,,
+293,DISCL.SN,Santiago,United States,CLP,,,"152,000"
+294,CFMEURC18D.SN,Santiago,United States,CLP,,,
+295,CFIBTGGI-E.SN,Santiago,United States,CLP,,,
+296,TLT-CL.SN,Santiago,United States,CLP,,,
+297,EWY.SN,Santiago,United States,USD,,,
+298,USMV-CL.SN,Santiago,United States,CLP,,,
+299,IEV.SN,Santiago,United States,USD,,,
+300,CFIBMPEU-E.SN,Santiago,United States,CLP,,,
+301,SMOG.SN,Santiago,United States,USD,,,
+302,CFIPCP7C-E.SN,Santiago,United States,CLP,,,
+303,CFIQRGH.SN,Santiago,United States,CLP,,,
+304,CFITAINA.SN,Santiago,United States,CLP,,,
+305,CFILVPARI1.SN,Santiago,United States,CLP,,,
+306,CFMITNIPSA.SN,Santiago,Chile,CLP,,,
+307,UNHCL.SN,Santiago,Chile,CLP,,,
+308,CFMDIVO.SN,Santiago,Chile,CLP,,,
+309,GOOGCL.SN,Santiago,United States,CLP,,,"150,028"
+310,PFECL.SN,Santiago,United States,CLP,,,"78,500"
+311,CFINHRFLA.SN,Santiago,United States,CLP,,,
+312,CSCOCL.SN,Santiago,United States,CLP,,,"79,500"
+313,CFILEASA.SN,Santiago,United States,CLP,,,
+314,CFICARVA-E.SN,Santiago,United States,CLP,,,
+315,CFIDHS2-A.SN,Santiago,United States,CLP,,,
+316,AAXJ.SN,Santiago,United States,USD,,,
+317,CFIBTGFGIA.SN,Santiago,United States,CLP,,,
+318,IYM.SN,Santiago,United States,USD,,,
+319,CFIAFESA.SN,Santiago,United States,CLP,,,
+320,CFIRENTCOM.SN,Santiago,United States,CLP,,,
+321,CFIMDCHA.SN,Santiago,United States,CLP,,,
+322,CFIEHTR-E.SN,Santiago,United States,CLP,,,
+323,IDRVCL.SN,Santiago,United States,CLP,,,
+324,CFIBC8C-E.SN,Santiago,United States,CLP,,,
+325,CFIQOIB.SN,Santiago,United States,CLP,,,
+326,CFIBTGGA-E.SN,Santiago,United States,CLP,,,
+327,CFIMBIGL-A.SN,Santiago,United States,CLP,,,
+328,CFIMLE-A.SN,Santiago,United States,CLP,,,
+329,IBB-CL.SN,Santiago,United States,CLP,,,
+330,CFIAMDVADA.SN,Santiago,United States,CLP,,,
+331,CFIGCPA-E.SN,Santiago,United States,CLP,,,
+332,CFILGTVA-E.SN,Santiago,United States,CLP,,,
+333,CFINHRFLB.SN,Santiago,United States,CLP,,,
+334,CFITODPA-E.SN,Santiago,United States,CLP,,,
+335,XCL.SN,Santiago,United States,CLP,,,
+336,CFIBCBRESG.SN,Santiago,United States,CLP,,,
+337,CFIMCUMC-E.SN,Santiago,United States,CLP,,,
+338,IYR.SN,Santiago,United States,USD,,,
+339,IYW.SN,Santiago,United States,USD,,,
+340,IUSV.SN,Santiago,United States,USD,,,
+341,WALMARTCL.SN,Santiago,United States,CLP,,,"2,300,000"
+342,IXC.SN,Santiago,United States,USD,,,
+343,CVXCL.SN,Santiago,United States,CLP,,,"47,736"
+344,IYE.SN,Santiago,United States,USD,,,
+345,IYRCL.SN,Santiago,United States,CLP,,,
+346,MRKCL.SN,Santiago,United States,CLP,,,"73,000"
+347,CFIMERPA.SN,Santiago,United States,CLP,,,
+348,AGG-CL.SN,Santiago,United States,CLP,,,
+349,IYH-CL.SN,Santiago,United States,CLP,,,
+350,CFIMBDPC-E.SN,Santiago,United States,CLP,,,
+351,CFIIMSCLI.SN,Santiago,United States,CLP,,,
+352,BACCL.SN,Santiago,United States,CLP,,,"208,000"
+353,CFIAFIIB-E.SN,Santiago,United States,CLP,,,
+354,INTCCL.SN,Santiago,United States,CLP,,,"121,100"
+355,IFRACL.SN,Santiago,United States,CLP,,,
+356,CFIETFCD.SN,Santiago,United States,CLP,,,
+357,VCL.SN,Santiago,United States,CLP,,,"21,500"
+358,FBCL.SN,Santiago,United States,CLP,,,"68,177"
+359,USMV.SN,Santiago,United States,USD,,,
+360,DGRO.SN,Santiago,United States,USD,,,
+361,CFISANTSCA.SN,Santiago,United States,CLP,,,
+362,IVWCL.SN,Santiago,United States,CLP,,,
+363,CFITACTI-A.SN,Santiago,United States,CLP,,,
+364,CFIPROYA.SN,Santiago,United States,CLP,,,
+365,CFIFALCFIW.SN,Santiago,United States,CLP,,,
+366,CFIBTGCYFA.SN,Santiago,United States,CLP,,,
+367,TGTCL.SN,Santiago,United States,CLP,,,"409,000"
+368,IYJ.SN,Santiago,United States,USD,,,
+369,IYF.SN,Santiago,United States,USD,,,
+370,KOCL.SN,Santiago,United States,CLP,,,"80,300"
+371,CFIETFGE.SN,Santiago,United States,CLP,,,

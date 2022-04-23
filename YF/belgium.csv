@@ -1,0 +1,157 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,MSF.BR,Brussels,United States,USD,Technology,Software—Infrastructure,"181,000"
+1,CHTEX.BR,Brussels,United States,USD,Energy,Oil & Gas Integrated,"42,595"
+2,IBMA.BR,Brussels,United States,USD,Technology,Information Technology Services,"282,100"
+3,ABI.BR,Brussels,Belgium,EUR,Consumer Defensive,Beverages—Brewers,"169,339"
+4,BOEI.BR,Brussels,United States,USD,Industrials,Aerospace & Defense,"142,000"
+5,VWA.BR,Brussels,Germany,EUR,Consumer Cyclical,Auto Manufacturers,"672,789"
+6,VWAP.BR,Brussels,Germany,EUR,Consumer Cyclical,Auto Manufacturers,"672,789"
+7,SIA.BR,Brussels,Germany,EUR,,,"303,000"
+8,DTEL.BR,Brussels,Germany,EUR,Communication Services,Telecom Services,"216,528"
+9,SANTA.BR,Brussels,Spain,EUR,Financial Services,Banks—Diversified,"177,033"
+10,ENI.BR,Brussels,Italy,EUR,Energy,Oil & Gas Integrated,"32,689"
+11,MEURV.BR,Brussels,Germany,EUR,Financial Services,Insurance—Reinsurance,"39,281"
+12,BBV.BR,Brussels,Spain,EUR,Financial Services,Banks—Diversified,"110,432"
+13,GEN.BR,Brussels,Italy,EUR,Financial Services,Insurance—Diversified,"74,621"
+14,TFA.BR,Brussels,Spain,EUR,Communication Services,Telecom Services,"104,150"
+15,KBC.BR,Brussels,Belgium,EUR,Financial Services,Banks—Regional,"33,555"
+16,EON.BR,Brussels,Germany,EUR,Utilities,Utilities—Diversified,"63,227"
+17,UCB.BR,Brussels,Belgium,EUR,Healthcare,Biotechnology,"8,006"
+18,ARGX.BR,Brussels,Netherlands,EUR,Healthcare,Biotechnology,650
+19,GBLB.BR,Brussels,Belgium,EUR,Financial Services,Asset Management,54
+20,SOF.BR,Brussels,Belgium,EUR,Financial Services,Asset Management,75
+21,ELI.BR,Brussels,Belgium,EUR,Utilities,Utilities—Regulated Electric,"2,750"
+22,SOLB.BR,Brussels,Belgium,EUR,Basic Materials,Chemicals,"21,189"
+23,UMI.BR,Brussels,Belgium,EUR,Industrials,Pollution & Treatment Controls,"11,050"
+24,AGS.BR,Brussels,Belgium,EUR,Financial Services,Insurance—Diversified,"10,101"
+25,DIE.BR,Brussels,Belgium,EUR,Consumer Cyclical,Auto & Truck Dealerships,
+26,WDP.BR,Brussels,Belgium,EUR,Real Estate,REIT—Industrial,89
+27,TIT.BR,Brussels,Italy,EUR,Communication Services,Telecom Services,"51,913"
+28,AZE.BR,Brussels,Belgium,EUR,Basic Materials,Specialty Chemicals,"3,000"
+29,PROX.BR,Brussels,Belgium,EUR,Communication Services,Telecom Services,"11,532"
+30,ACKB.BR,Brussels,Belgium,EUR,Industrials,Engineering & Construction,"22,653"
+31,VGP.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,322
+32,SHUR.BR,Brussels,Luxembourg,EUR,Real Estate,Real Estate Services,771
+33,COLR.BR,Brussels,Belgium,EUR,Consumer Defensive,Grocery Stores,"32,000"
+34,TUB.BR,Brussels,Belgium,EUR,Healthcare,Biotechnology,
+35,COFB.BR,Brussels,Belgium,EUR,Real Estate,REIT—Diversified,133
+36,AED.BR,Brussels,Belgium,EUR,Real Estate,REIT—Healthcare Facilities,114
+37,LOTB.BR,Brussels,Belgium,EUR,Consumer Defensive,Packaged Foods,"2,398"
+38,BREB.BR,Brussels,Luxembourg,EUR,Financial Services,Asset Management,7
+39,TNET.BR,Brussels,Belgium,EUR,Communication Services,Telecom Services,"3,216"
+40,CFEB.BR,Brussels,Belgium,EUR,Industrials,Engineering & Construction,"7,966"
+41,MELE.BR,Brussels,Belgium,EUR,Technology,Semiconductors,"1,539"
+42,KBCA.BR,Brussels,Belgium,EUR,Financial Services,Asset Management,
+43,EURN.BR,Brussels,Belgium,EUR,Energy,Oil & Gas Midstream,"3,147"
+44,SOLV.BR,Brussels,Belgium,EUR,Basic Materials,Chemicals,
+45,FLUX.BR,Brussels,Belgium,EUR,Energy,Oil & Gas Midstream,783
+46,BEKB.BR,Brussels,Belgium,EUR,Industrials,Metal Fabrication,"23,332"
+47,MONT.BR,Brussels,Belgium,EUR,Real Estate,REIT—Industrial,32
+48,BAR.BR,Brussels,Belgium,EUR,Technology,Electronic Components,"3,141"
+49,GIMB.BR,Brussels,Belgium,EUR,Financial Services,Asset Management,89
+50,KIN.BR,Brussels,Belgium,EUR,Communication Services,Entertainment,"1,962"
+51,TESB.BR,Brussels,Belgium,EUR,Basic Materials,Agricultural Inputs,"4,838"
+52,XIOR.BR,Brussels,Belgium,EUR,Real Estate,REIT—Diversified,172
+53,FAGR.BR,Brussels,Belgium,EUR,Healthcare,Drug Manufacturers—Specialty & Generic,"2,846"
+54,BEFB.BR,Brussels,Belgium,EUR,Real Estate,REIT—Office,85
+55,PIC.BR,Brussels,Belgium,EUR,Industrials,Specialty Industrial Machinery,"6,878"
+56,VIO.BR,Brussels,Belgium,EUR,Industrials,Metal Fabrication,"9,782"
+57,BPOST.BR,Brussels,Belgium,EUR,Industrials,Integrated Freight & Logistics,"27,306"
+58,REC.BR,Brussels,Belgium,EUR,Basic Materials,Specialty Chemicals,"5,145"
+59,OBEL.BR,Brussels,Belgium,EUR,Communication Services,Telecom Services,"1,321"
+60,TITC.BR,Brussels,Belgium,EUR,Basic Materials,Building Materials,"5,247"
+61,RET.BR,Brussels,Belgium,EUR,Real Estate,REIT—Retail,36
+62,FLOB.BR,Brussels,Belgium,EUR,Industrials,Conglomerates,"2,731"
+63,SPA.BR,Brussels,Belgium,EUR,Consumer Defensive,Beverages—Non-Alcoholic,"1,305"
+64,INTO.BR,Brussels,Belgium,EUR,Real Estate,REIT—Diversified,48
+65,IMMO.BR,Brussels,Belgium,EUR,Real Estate,Real Estate—Development,200
+66,NEXTA.BR,Brussels,Belgium,EUR,Real Estate,REIT—Diversified,
+67,BNB.BR,Brussels,Belgium,EUR,Financial Services,Banks—Regional,"1,702"
+68,SIP.BR,Brussels,Belgium,EUR,Consumer Defensive,Farm Products,
+69,CPINV.BR,Brussels,Belgium,EUR,Real Estate,REIT—Residential,20
+70,CENER.BR,Brussels,Belgium,EUR,Industrials,Electrical Equipment & Parts,"2,285"
+71,ECONB.BR,Brussels,France,EUR,Technology,Information Technology Services,"8,066"
+72,AGFB.BR,Brussels,Belgium,EUR,Industrials,Specialty Industrial Machinery,"7,108"
+73,COMB.BR,Brussels,Belgium,EUR,Financial Services,Asset Management,"1,301"
+74,ONTEX.BR,Brussels,Belgium,EUR,Consumer Defensive,Household & Personal Products,"9,049"
+75,TINC.BR,Brussels,Belgium,EUR,Financial Services,Asset Management,
+76,VAN.BR,Brussels,Belgium,EUR,Consumer Cyclical,Apparel Manufacturing,"1,507"
+77,WEHB.BR,Brussels,Belgium,EUR,Real Estate,REIT—Retail,54
+78,RES.BR,Brussels,Belgium,EUR,Consumer Cyclical,Packaging & Containers,979
+79,IBAB.BR,Brussels,Belgium,EUR,Healthcare,Medical Devices,"1,600"
+80,MITRA.BR,Brussels,Belgium,EUR,Healthcare,Drug Manufacturers—Specialty & Generic,248
+81,HYL.BR,Brussels,Belgium,EUR,Healthcare,Biotechnology,
+82,NYXH.BR,Brussels,Belgium,EUR,Healthcare,Medical Instruments & Supplies,105
+83,ATEB.BR,Brussels,Belgium,EUR,Real Estate,Real Estate—Development,
+84,HOMI.BR,Brussels,Belgium,EUR,Real Estate,REIT—Residential,41
+85,GREEN.BR,Brussels,Belgium,EUR,Consumer Defensive,Food Distribution,"9,000"
+86,DECB.BR,Brussels,Belgium,EUR,Industrials,Building Products & Equipment,"3,709"
+87,ASC.BR,Brussels,Belgium,EUR,Real Estate,REIT—Retail,18
+88,EXM.BR,Brussels,Belgium,EUR,Energy,Oil & Gas Midstream,"1,849"
+89,EKOP.BR,Brussels,Belgium,EUR,Utilities,Utilities—Regulated Water,42
+90,EVS.BR,Brussels,Belgium,EUR,Technology,Communication Equipment,551
+91,JEN.BR,Brussels,Belgium,EUR,Industrials,Specialty Industrial Machinery,"1,384"
+92,DMSIM.BR,Brussels,Belgium,EUR,Healthcare,Biotechnology,
+93,ROU.BR,Brussels,Belgium,EUR,Communication Services,Publishing,"1,243"
+94,BTLS.BR,Brussels,Belgium,EUR,Basic Materials,Agricultural Inputs,
+95,COBH.BR,Brussels,Belgium,EUR,Consumer Defensive,Beverages—Brewers,456
+96,UPG.BR,Brussels,Belgium,EUR,Technology,Software—Application,"1,306"
+97,TERB.BR,Brussels,Belgium,EUR,Consumer Defensive,Packaged Foods,
+98,HYSG.BR,Brussels,United Kingdom,EUR,Technology,Software—Application,120
+99,VASTB.BR,Brussels,Belgium,EUR,Real Estate,REIT—Retail,4
+100,PAY.BR,Brussels,Israel,EUR,Technology,Electronic Components,175
+101,MOUR.BR,Brussels,Belgium,EUR,Industrials,Engineering & Construction,
+102,BCART.BR,Brussels,Belgium,EUR,Healthcare,Diagnostics & Research,619
+103,MIKO.BR,Brussels,Belgium,EUR,Consumer Defensive,Packaged Foods,
+104,SEQUA.BR,Brussels,Belgium,EUR,Healthcare,Medical Devices,50
+105,INCLU.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,11
+106,WEB.BR,Brussels,Belgium,EUR,Real Estate,REIT—Diversified,1
+107,TEXF.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,
+108,MDXH.BR,Brussels,Belgium,EUR,Healthcare,Diagnostics & Research,
+109,QFG.BR,Brussels,Belgium,EUR,Financial Services,Asset Management,
+110,BALTA.BR,Brussels,Belgium,EUR,Consumer Cyclical,"Furnishings, Fixtures & Appliances","4,000"
+111,SMAR.BR,Brussels,Belgium,EUR,Consumer Cyclical,Leisure,224
+112,ACCB.BR,Brussels,Belgium,EUR,Financial,Property Management,
+113,IEP.BR,Brussels,Belgium,EUR,Real Estate,Real Estate—Development,38
+114,QRF.BR,Brussels,Belgium,EUR,Real Estate,REIT—Retail,6
+115,TISN.BR,Brussels,Italy,EUR,Communication Services,Telecom Services,472
+116,ACPH.BR,Brussels,United Kingdom,EUR,Healthcare,Biotechnology,72
+117,CAMB.BR,Brussels,Belgium,EUR,Industrials,Waste Management,191
+118,ABO.BR,Brussels,Belgium,EUR,Industrials,Waste Management,
+119,BANI.BR,Brussels,Belgium,EUR,Real Estate,Real Estate—Development,1
+120,ONWD.BR,Brussels,Netherlands,EUR,Healthcare,Biotechnology,72
+121,OXUR.BR,Brussels,Belgium,EUR,Healthcare,Biotechnology,42
+122,CYAD.BR,Brussels,Belgium,EUR,Healthcare,Biotechnology,95
+123,UNI.BR,Brussels,Belgium,EUR,Consumer Defensive,Education & Training Services,49
+124,OPTI.BR,Brussels,Belgium,EUR,Technology,Communication Equipment,77
+125,NYR.BR,Brussels,Switzerland,EUR,Basic Materials,Other Industrial Metals & Mining,9
+126,SCHD.BR,Brussels,Belgium,EUR,Basic Materials,Building Materials,224
+127,BEAB.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,
+128,KEYW.BR,Brussels,Belgium,EUR,Technology,Software—Infrastructure,64
+129,IMMOU.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,
+130,MCC.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,
+131,MLMAZ.BR,Brussels,Belgium,EUR,Consumer Cyclical,Auto Parts,
+132,DIEG.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,
+133,SOFT.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,5
+134,BOTHE.BR,Brussels,Belgium,EUR,Healthcare,Biotechnology,30
+135,GENK.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,
+136,FOU.BR,Brussels,Belgium,EUR,Consumer Defensive,Food Distribution,175
+137,BELU.BR,Brussels,Belgium,EUR,Financial Services,Asset Management,
+138,BELR.BR,Brussels,Belgium,EUR,Financial Services,Asset Management,
+139,BAS.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,
+140,ANT.BR,Brussels,Belgium,EUR,Real Estate,Real Estate Services,
+141,ROCK.BR,Brussels,Belgium,EUR,Industrials,Specialty Business Services,
+142,BE0002657386.BR,Brussels,Belgium,EUR,,,
+143,VGP24.BR,Brussels,Belgium,EUR,,,
+144,BE0002739192.BR,Brussels,Belgium,EUR,,,
+145,BE0002653344.BR,Brussels,Belgium,EUR,,,
+146,BE0002737188.BR,Brussels,Belgium,EUR,,,
+147,BE0002735166.BR,Brussels,Belgium,EUR,,,
+148,UCB23.BR,Brussels,Belgium,EUR,,,
+149,BE0941244536.BR,Brussels,Belgium,EUR,,,
+150,BE0944264663.BR,Brussels,Belgium,EUR,,,
+151,PSMP.BR,Brussels,Germany,EUR,,,"7,907"
+152,BE0002751320.BR,Brussels,Germany,EUR,,,
+153,BE0002827088.BR,Brussels,Germany,EUR,,,
+154,VGP26.BR,Brussels,Germany,EUR,,,
+155,BE0941243520.BR,Brussels,Germany,EUR,,,
