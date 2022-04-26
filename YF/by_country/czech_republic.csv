@@ -1,0 +1,41 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,VOW.PR,Prague,Germany,CZK,Consumer Cyclical,Auto Manufacturers,"672,789"
+1,DTE.PR,Prague,Germany,CZK,Communication Services,Telecom Services,"216,528"
+2,VOLVB.PR,Prague,Sweden,CZK,Industrials,Farm & Heavy Construction Machinery,"92,144"
+3,NOKIA.PR,Prague,Finland,CZK,Technology,Communication Equipment,"87,927"
+4,EOAN.PR,Prague,Germany,CZK,Utilities,Utilities—Diversified,"63,227"
+5,CEZ.PR,Prague,Germany,CZK,Utilities,Utilities—Renewable,"28,000"
+6,OMV.PR,Prague,Austria,CZK,Energy,Oil & Gas Integrated,"22,434"
+7,ERBAG.PR,Prague,Austria,CZK,Financial Services,Banks—Regional,"40,155"
+8,PKN.PR,Prague,Poland,CZK,Energy,Oil & Gas Integrated,"35,424"
+9,AVST.PR,Prague,Poland,CZK,Technology,Software—Infrastructure,"1,864"
+10,KOMB.PR,Prague,Poland,CZK,Financial Services,Banks—Regional,"7,220"
+11,MOL.PR,Prague,Hungary,CZK,Energy,Oil & Gas Integrated,"24,291"
+12,RBI.PR,Prague,Austria,CZK,Financial Services,Banks—Regional,"46,185"
+13,WIE.PR,Prague,Austria,CZK,Basic Materials,Building Materials,"15,368"
+14,VIG.PR,Prague,Austria,CZK,Financial Services,Insurance—Diversified,"25,000"
+15,UQA.PR,Prague,Austria,CZK,Financial Services,Insurance—Diversified,"22,400"
+16,TABAK.PR,Prague,Austria,CZK,Consumer Defensive,Tobacco,"1,527"
+17,MONET.PR,Prague,Austria,CZK,Financial Services,Banks—Regional,"3,003"
+18,JUVE.PR,Prague,Italy,CZK,Communication Services,Entertainment,456
+19,CZG.PR,Prague,Italy,CZK,Industrials,Aerospace & Defense,
+20,KOFOL.PR,Prague,Italy,CZK,Consumer Defensive,Beverages—Non-Alcoholic,"2,042"
+21,TMR.PR,Prague,Slovakia,CZK,Consumer Cyclical,Resorts & Casinos,"1,193"
+22,PINK.PR,Prague,Slovakia,CZK,Healthcare,Pharmaceutical Retailers,
+23,SABFG.PR,Prague,Slovakia,CZK,Financial Services,Capital Markets,60
+24,PEN.PR,Prague,Netherlands,CZK,Technology,Solar,141
+25,PVT.PR,Prague,Netherlands,CZK,Financial Services,Credit Services,10
+26,TOMA.PR,Prague,Netherlands,CZK,Industrials,Conglomerates,383
+27,PRIUA.PR,Prague,Netherlands,CZK,Industrials,Aerospace & Defense,32
+28,UDICE.PR,Prague,Netherlands,CZK,Real Estate,Real Estate—Development,100
+29,KARIN.PR,Prague,Netherlands,CZK,Consumer Cyclical,Textile Manufacturing,
+30,EFORU.PR,Prague,Netherlands,CZK,Technology,Solar,
+31,CTPNV.PR,Prague,Netherlands,CZK,,,520
+32,CZ0003704421.PR,Prague,Netherlands,EUR,,,
+33,CZ0003534596.PR,Prague,Netherlands,CZK,,,
+34,CZ0003704413.PR,Prague,Netherlands,CZK,,,
+35,FIXED.PR,Prague,Netherlands,CZK,,,
+36,CZ0003706517.PR,Prague,Netherlands,CZK,,,
+37,JTINA.PR,Prague,Netherlands,CZK,,,
+38,DBK.PR,Prague,Germany,CZK,Financial Services,Banks—Regional,"82,969"
+39,JTINB.PR,Prague,Germany,EUR,,,

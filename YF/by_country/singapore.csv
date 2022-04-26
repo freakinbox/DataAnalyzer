@@ -1,0 +1,540 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,D05.SI,SES,Singapore,SGD,Financial Services,Banks—Regional,"33,000"
+1,U11.SI,SES,Singapore,SGD,Financial Services,Banks—Regional,"24,346"
+2,O39.SI,SES,Singapore,SGD,Financial Services,Banks—Regional,"30,809"
+3,Z77.SI,SES,Singapore,SGD,Communication Services,Telecom Services,"22,914"
+4,J36.SI,SES,Bermuda,USD,Industrials,Conglomerates,"400,000"
+5,Z74.SI,SES,Singapore,SGD,Communication Services,Telecom Services,"22,914"
+6,F34.SI,SES,Singapore,SGD,Consumer Defensive,Farm Products,"100,000"
+7,S07.SI,SES,Hong Kong,HKD,Consumer Cyclical,Lodging,"23,200"
+8,9CI.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,"10,000"
+9,Q0F.SI,SES,Malaysia,SGD,Healthcare,Medical Care Facilities,
+10,Y92.SI,SES,Thailand,SGD,Consumer Defensive,Beverages—Wineries & Distilleries,
+11,C6L.SI,SES,Singapore,SGD,Industrials,Airlines,"22,934"
+12,C38U.SI,SES,Singapore,SGD,Real Estate,REIT—Retail,646
+13,S63.SI,SES,Singapore,SGD,Industrials,Aerospace & Defense,"22,405"
+14,BN4.SI,SES,Singapore,SGD,Industrials,Conglomerates,"16,393"
+15,A17U.SI,SES,Singapore,SGD,Real Estate,REIT—Industrial,
+16,H78.SI,SES,Bermuda,USD,Real Estate,Real Estate—Development,"2,880"
+17,C07.SI,SES,Singapore,SGD,Consumer Cyclical,Auto Manufacturers,"240,000"
+18,S68.SI,SES,Singapore,SGD,Financial Services,Financial Data & Stock Exchanges,980
+19,G07.SI,SES,Singapore,SGD,Financial Services,Insurance—Life,"5,500"
+20,G13.SI,SES,Singapore,SGD,Consumer Cyclical,Resorts & Casinos,
+21,M44U.SI,SES,Singapore,SGD,Real Estate,REIT—Industrial,
+22,C09.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,
+23,ME8U.SI,SES,Singapore,SGD,Real Estate,REIT—Industrial,193
+24,VC2.SI,SES,Singapore,SGD,Consumer Defensive,Food Distribution,"43,100"
+25,N2IU.SI,SES,Singapore,SGD,Real Estate,REIT—Retail,186
+26,U14.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,"1,500"
+27,BUOU.SI,SES,Singapore,SGD,Real Estate,REIT—Industrial,22
+28,T82U.SI,SES,Singapore,SGD,Real Estate,REIT—Diversified,
+29,U96.SI,SES,Singapore,SGD,Industrials,Conglomerates,"5,740"
+30,S58.SI,SES,Singapore,SGD,Industrials,Airports & Air Services,"11,900"
+31,V03.SI,SES,Singapore,SGD,Technology,Electronic Components,"11,999"
+32,K71U.SI,SES,Singapore,SGD,Real Estate,REIT—Office,24
+33,BVA.SI,SES,Malaysia,SGD,Healthcare,Medical Instruments & Supplies,"22,000"
+34,E5H.SI,SES,Singapore,SGD,Consumer Defensive,Farm Products,"88,467"
+35,TQ5.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,"5,032"
+36,RW0U.SI,SES,Singapore,SGD,Real Estate,REIT—Diversified,260
+37,T15.SI,SES,Hong Kong,HKD,Consumer Cyclical,Auto & Truck Dealerships,"5,105"
+38,J69U.SI,SES,Singapore,SGD,Real Estate,REIT—Retail,
+39,CJLU.SI,SES,Singapore,SGD,Communication Services,Telecom Services,
+40,S51.SI,SES,Singapore,SGD,Industrials,Aerospace & Defense,
+41,HMN.SI,SES,Singapore,SGD,Real Estate,REIT—Diversified,
+42,BS6.SI,SES,China,SGD,Industrials,Aerospace & Defense,
+43,D01.SI,SES,Hong Kong,USD,Consumer Defensive,Grocery Stores,"230,000"
+44,U06.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,
+45,AJBU.SI,SES,Singapore,SGD,Real Estate,REIT—Office,
+46,EB5.SI,SES,Singapore,SGD,Consumer Defensive,Farm Products,
+47,C52.SI,SES,Singapore,SGD,Industrials,Railroads,"23,187"
+48,S59.SI,SES,Singapore,SGD,Industrials,Airports & Air Services,"6,253"
+49,C2PU.SI,SES,Singapore,SGD,Real Estate,REIT—Healthcare Facilities,
+50,P7VU.SI,SES,Singapore,SGD,Industrials,Marine Shipping,
+51,A7RU.SI,SES,Singapore,SGD,Basic Materials,Specialty Chemicals,
+52,SK6U.SI,SES,Singapore,SGD,Real Estate,REIT—Retail,
+53,M04.SI,SES,Hong Kong,USD,Consumer Cyclical,Lodging,
+54,H02.SI,SES,Singapore,SGD,Healthcare,Drug Manufacturers—General,
+55,Z25.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,
+56,OV8.SI,SES,Singapore,SGD,Consumer Defensive,Grocery Stores,
+57,TS0U.SI,SES,Singapore,SGD,Real Estate,REIT—Retail,66
+58,CC3.SI,SES,Singapore,SGD,Communication Services,Telecom Services,"1,631"
+59,A50.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,
+60,BSL.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,"2,700"
+61,T14.SI,SES,China,USD,Healthcare,Drug Manufacturers—Specialty & Generic,"4,840"
+62,NS8U.SI,SES,Singapore,USD,Industrials,Marine Shipping,
+63,AU8U.SI,SES,Singapore,SGD,Real Estate,REIT—Retail,
+64,H13.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,
+65,F99.SI,SES,Singapore,SGD,Consumer Defensive,Packaged Foods,"6,900"
+66,F17.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,
+67,H15.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+68,AUE.SI,SES,Singapore,SGD,Energy,Thermal Coal,
+69,MZH.SI,SES,Singapore,SGD,Technology,Electronic Components,
+70,AGS.SI,SES,Singapore,SGD,Consumer Cyclical,Luxury Goods,
+71,J91U.SI,SES,Singapore,SGD,Real Estate,REIT—Industrial,
+72,AIY.SI,SES,Singapore,SGD,Technology,Software—Application,"1,097"
+73,J85.SI,SES,Singapore,SGD,Real Estate,REIT—Hotel & Motel,
+74,NC2.SI,SES,Thailand,SGD,Consumer Cyclical,Auto Parts,
+75,S08.SI,SES,Singapore,SGD,Industrials,Integrated Freight & Logistics,
+76,AP4.SI,SES,Singapore,SGD,Healthcare,Medical Instruments & Supplies,"4,000"
+77,CY6U.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+78,AWX.SI,SES,Singapore,SGD,Technology,Semiconductor Equipment & Materials,"1,496"
+79,P8Z.SI,SES,Indonesia,SGD,Consumer Defensive,Farm Products,
+80,U10.SI,SES,Singapore,SGD,Financial Services,Capital Markets,"3,005"
+81,S20.SI,SES,Singapore,SGD,Basic Materials,Other Industrial Metals & Mining,68
+82,JYEU.SI,SES,Singapore,SGD,Real Estate,REIT—Diversified,44
+83,P40U.SI,SES,Singapore,SGD,Real Estate,REIT—Retail,30
+84,W05.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,
+85,UD2.SI,SES,Singapore,SGD,Consumer Defensive,Farm Products,"40,000"
+86,Q5T.SI,SES,Singapore,SGD,Real Estate,REIT—Diversified,
+87,B61.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,
+88,CWBU.SI,SES,Singapore,EUR,Real Estate,REIT—Diversified,
+89,K2LU.SI,SES,Singapore,SGD,Real Estate,REIT—Industrial,
+90,ADN.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,454
+91,ACV.SI,SES,Singapore,SGD,,,
+92,P15.SI,SES,Singapore,SGD,Financial Services,Asset Management,10
+93,LJ3.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,823
+94,S41.SI,SES,Singapore,SGD,Financial Services,Banks—Regional,608
+95,BTOU.SI,SES,Singapore,USD,Real Estate,REIT—Office,13
+96,DCRU.SI,SES,Singapore,USD,Real Estate,REIT—Specialty,"3,000"
+97,CRPU.SI,SES,Singapore,SGD,Real Estate,REIT—Retail,384
+98,EH5.SI,SES,Malaysia,SGD,Real Estate,Real Estate—Development,"1,193"
+99,O5RU.SI,SES,Singapore,SGD,Real Estate,REIT—Industrial,22
+100,A26.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,
+101,S61.SI,SES,Singapore,SGD,Industrials,Railroads,
+102,U9E.SI,SES,China,SGD,Utilities,Utilities—Regulated Water,"2,318"
+103,OXMU.SI,SES,Singapore,USD,Real Estate,REIT—Office,
+104,CHZ.SI,SES,Singapore,SGD,Industrials,Staffing & Employment Services,839
+105,RE4.SI,SES,Singapore,SGD,Energy,Thermal Coal,197
+106,558.SI,SES,Singapore,SGD,Technology,Semiconductor Equipment & Materials,592
+107,5UX.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,
+108,CMOU.SI,SES,Singapore,USD,Real Estate,REIT—Office,6
+109,G92.SI,SES,Singapore,SGD,Energy,Oil & Gas Refining & Marketing,121
+110,H18.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+111,H30.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,87
+112,5CP.SI,SES,Singapore,SGD,,,
+113,WJP.SI,SES,Singapore,SGD,Consumer Cyclical,Auto & Truck Dealerships,864
+114,UD1U.SI,SES,Singapore,SGD,Real Estate,REIT—Office,
+115,8AZ.SI,SES,Singapore,SGD,Technology,Electronic Components,"2,500"
+116,D03.SI,SES,Singapore,SGD,Consumer Defensive,Packaged Foods,
+117,C41.SI,SES,Singapore,SGD,Consumer Cyclical,Luxury Goods,586
+118,NPW.SI,SES,Malaysia,SGD,Industrials,Metal Fabrication,
+119,5IG.SI,SES,Singapore,SGD,Utilities,Utilities—Diversified,"1,167"
+120,OYY.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,147
+121,M01.SI,SES,Singapore,SGD,Consumer Cyclical,Department Stores,
+122,E28.SI,SES,Malaysia,SGD,Technology,Electronic Components,"2,849"
+123,AW9U.SI,SES,Singapore,SGD,Real Estate,REIT—Healthcare Facilities,
+124,XJB.SI,SES,Singapore,SGD,Communication Services,Entertainment,170
+125,MV4.SI,SES,Singapore,SGD,Consumer Defensive,Packaged Foods,
+126,H22.SI,SES,Singapore,SGD,Consumer Cyclical,Auto Manufacturers,
+127,H07.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,422
+128,S56.SI,SES,Singapore,SGD,Industrials,Marine Shipping,151
+129,E27.SI,SES,Singapore,SGD,Communication Services,Advertising Agencies,
+130,DHLU.SI,SES,Singapore,SGD,Real Estate,REIT—Industrial,
+131,BHK.SI,SES,Singapore,SGD,Utilities,Utilities—Regulated Water,"6,031"
+132,BWM.SI,SES,China,SGD,Utilities,Utilities—Renewable,"2,546"
+133,5G3.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,
+134,F83.SI,SES,Singapore,SGD,Industrials,Integrated Freight & Logistics,875
+135,BWCU.SI,SES,Singapore,SGD,Real Estate,REIT—Industrial,
+136,5JS.SI,SES,Singapore,SGD,Consumer Defensive,Farm Products,
+137,O10.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+138,Q01.SI,SES,Singapore,SGD,Consumer Defensive,Packaged Foods,"10,000"
+139,Y03.SI,SES,Singapore,SGD,Consumer Defensive,Packaged Foods,"1,844"
+140,P34.SI,SES,Singapore,SGD,Consumer Defensive,Confectioners,
+141,T24.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,
+142,M1GU.SI,SES,Singapore,SGD,Real Estate,REIT—Industrial,
+143,1D0.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,
+144,QC7.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,
+145,F9D.SI,SES,Singapore,SGD,Industrials,Conglomerates,"1,114"
+146,579.SI,SES,Singapore,SGD,Consumer Defensive,Farm Products,
+147,QES.SI,SES,Singapore,SGD,Basic Materials,Specialty Chemicals,
+148,5WH.SI,SES,Singapore,SGD,Energy,Oil & Gas E&P,
+149,5DD.SI,SES,Singapore,SGD,Technology,Semiconductor Equipment & Materials,519
+150,BEC.SI,SES,Singapore,SGD,Basic Materials,Steel,"1,000"
+151,U13.SI,SES,Singapore,SGD,Financial Services,Insurance—Property & Casualty,80
+152,D5IU.SI,SES,Singapore,SGD,Real Estate,REIT—Retail,
+153,L09.SI,SES,Hong Kong,SGD,Industrials,Metal Fabrication,"3,300"
+154,BTE.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+155,S85.SI,SES,Singapore,SGD,Consumer Cyclical,Leisure,410
+156,G41.SI,SES,Singapore,SGD,Financial Services,Capital Markets,
+157,5VJ.SI,SES,Singapore,SGD,Consumer Cyclical,Auto Parts,"14,683"
+158,B28.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+159,Z59.SI,SES,Singapore,SGD,Industrials,Conglomerates,"3,700"
+160,C29.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,"1,525"
+161,5GD.SI,SES,China,SGD,Industrials,Pollution & Treatment Controls,
+162,JLB.SI,SES,Singapore,SGD,Technology,Semiconductors,899
+163,ODBU.SI,SES,Singapore,USD,Real Estate,REIT—Retail,
+164,5JK.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+165,N02.SI,SES,Singapore,SGD,Basic Materials,Building Materials,"2,325"
+166,F1E.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,
+167,BDX.SI,SES,Singapore,SGD,Industrials,Conglomerates,
+168,QNS.SI,SES,Malaysia,SGD,Basic Materials,Steel,
+169,P9D.SI,SES,Australia,SGD,Industrials,Engineering & Construction,
+170,OU8.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,494
+171,MXNU.SI,SES,Singapore,GBP,Real Estate,REIT—Office,
+172,P52.SI,SES,Singapore,SGD,Basic Materials,Building Materials,
+173,AVM.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+174,H12.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,431
+175,G20.SI,SES,Singapore,SGD,Industrials,Electrical Equipment & Parts,"7,480"
+176,XZL.SI,SES,Singapore,USD,Real Estate,REIT—Hotel & Motel,
+177,CLN.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,172
+178,F03.SI,SES,Singapore,SGD,Consumer Defensive,Beverages—Non-Alcoholic,
+179,BMGU.SI,SES,Singapore,SGD,Real Estate,REIT—Retail,
+180,L03.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+181,I07.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,"1,052"
+182,T6I.SI,SES,Singapore,SGD,Consumer Cyclical,Luxury Goods,
+183,B58.SI,SES,Singapore,SGD,Consumer Cyclical,Resorts & Casinos,"8,200"
+184,B73.SI,SES,Singapore,SGD,Financial Services,Asset Management,
+185,S35.SI,SES,Singapore,SGD,Financial Services,Credit Services,158
+186,5WE.SI,SES,Singapore,SGD,Utilities,Utilities—Regulated Water,
+187,TCU.SI,SES,Singapore,SGD,Financial Services,Financial Data & Stock Exchanges,176
+188,544.SI,SES,Singapore,SGD,Technology,Information Technology Services,"1,315"
+189,T13.SI,SES,Singapore,SGD,Energy,Oil & Gas E&P,
+190,S7OU.SI,SES,Singapore,SGD,Communication Services,Entertainment,
+191,CEDU.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,
+192,OAJ.SI,SES,Malaysia,SGD,Basic Materials,Steel,298
+193,BDF.SI,SES,Singapore,SGD,Technology,Electronics & Computer Distribution,700
+194,BN2.SI,SES,Hong Kong,SGD,Technology,Semiconductors,
+195,573.SI,SES,Singapore,SGD,Technology,Electronics & Computer Distribution,271
+196,A30.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+197,DM0.SI,SES,Singapore,SGD,Consumer Cyclical,Packaging & Containers,
+198,U09.SI,SES,Singapore,SGD,Industrials,Building Products & Equipment,
+199,528.SI,SES,Singapore,SGD,Consumer Cyclical,Luxury Goods,
+200,C33.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,
+201,F13.SI,SES,Singapore,SGD,Industrials,Specialty Industrial Machinery,
+202,A34.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,412
+203,BLS.SI,SES,Singapore,SGD,Financial Services,Asset Management,
+204,C8R.SI,SES,Singapore,SGD,Basic Materials,Chemicals,
+205,E3B.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+206,ER0.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,
+207,H19.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+208,1B0.SI,SES,Singapore,SGD,Communication Services,Entertainment,
+209,SYM.SI,SES,Singapore,SGD,Utilities,Utilities—Regulated Water,
+210,42R.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,
+211,KUO.SI,SES,Singapore,SGD,Basic Materials,Building Materials,
+212,L02.SI,SES,Singapore,SGD,Utilities,Utilities—Regulated Electric,
+213,BBW.SI,SES,Hong Kong,SGD,Technology,Information Technology Services,
+214,500.SI,SES,Singapore,SGD,Industrials,Electrical Equipment & Parts,933
+215,U77.SI,SES,Israel,SGD,Technology,Scientific & Technical Instruments,
+216,5UF.SI,SES,Singapore,SGD,Consumer Cyclical,Luxury Goods,
+217,AWZ.SI,SES,Singapore,SGD,Technology,Electronics & Computer Distribution,552
+218,1F2.SI,SES,Singapore,SGD,Consumer Cyclical,Specialty Retail,241
+219,C76.SI,SES,Singapore,SGD,Technology,Computer Hardware,
+220,40V.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,
+221,MR7.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+222,C9Q.SI,SES,China,SGD,Energy,Oil & Gas Midstream,562
+223,5WA.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,94
+224,40T.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,
+225,5IC.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+226,5OT.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,303
+227,S44.SI,SES,Singapore,SGD,Basic Materials,Building Materials,
+228,1J4.SI,SES,Singapore,SGD,Industrials,Aerospace & Defense,207
+229,BPF.SI,SES,Singapore,SGD,Consumer Cyclical,Auto Parts,
+230,J2T.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+231,5DM.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+232,BTM.SI,SES,Singapore,SGD,Industrials,Aerospace & Defense,
+233,5NG.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,
+234,42F.SI,SES,Singapore,SGD,Technology,Software—Infrastructure,
+235,BEW.SI,SES,Malaysia,SGD,Consumer Defensive,Confectioners,650
+236,I15.SI,SES,Singapore,SGD,Consumer Cyclical,Department Stores,330
+237,8K7.SI,SES,Singapore,SGD,Healthcare,Medical Instruments & Supplies,"1,118"
+238,IX2.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,
+239,PGS.SI,SES,Singapore,SGD,Financial Services,Shell Companies,
+240,1D1.SI,SES,Singapore,SGD,Communication Services,Advertising Agencies,
+241,B49.SI,SES,China,SGD,Industrials,Specialty Industrial Machinery,"1,905"
+242,5DP.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+243,S23.SI,SES,Singapore,SGD,Financial Services,Credit Services,120
+244,42C.SI,SES,Singapore,SGD,Healthcare,Drug Manufacturers—Specialty & Generic,
+245,L19.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,453
+246,41O.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,567
+247,M14.SI,SES,Singapore,SGD,Industrials,Metal Fabrication,
+248,1D8.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,83
+249,D8DU.SI,SES,Singapore,SGD,Industrials,Marine Shipping,
+250,5SO.SI,SES,Singapore,SGD,Consumer Cyclical,Specialty Retail,
+251,5SR.SI,SES,Singapore,SGD,Consumer Cyclical,Department Stores,
+252,VI2.SI,SES,Hong Kong,SGD,Consumer Cyclical,Auto & Truck Dealerships,894
+253,564.SI,SES,Singapore,SGD,Industrials,Tools & Accessories,
+254,BQM.SI,SES,Singapore,SGD,Industrials,Rental & Leasing Services,
+255,T12.SI,SES,Singapore,SGD,Consumer Cyclical,Packaging & Containers,
+256,546.SI,SES,Singapore,SGD,Healthcare,Medical Instruments & Supplies,
+257,5HV.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+258,S69.SI,SES,Singapore,SGD,Technology,Electronics & Computer Distribution,800
+259,BVQ.SI,SES,Singapore,SGD,Technology,Electronics & Computer Distribution,432
+260,S19.SI,SES,Singapore,SGD,Industrials,Marine Shipping,99
+261,A33.SI,SES,Singapore,SGD,Industrials,Specialty Business Services,
+262,STP.SI,SES,Singapore,SGD,Basic Materials,Other Industrial Metals & Mining,
+263,DU4.SI,SES,Thailand,SGD,Energy,Oil & Gas Equipment & Services,
+264,569.SI,SES,Singapore,SGD,Healthcare,Medical Devices,"1,000"
+265,F86.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+266,5LY.SI,SES,Singapore,SGD,Industrials,Marine Shipping,
+267,CHJ.SI,SES,Singapore,SGD,Industrials,Marine Shipping,70
+268,RQ1.SI,SES,Singapore,SGD,Consumer Defensive,Education & Training Services,390
+269,BCY.SI,SES,Singapore,SGD,Technology,Communication Equipment,84
+270,P8A.SI,SES,Singapore,SGD,Healthcare,Diagnostics & Research,
+271,5TP.SI,SES,Singapore,SGD,Basic Materials,Gold,350
+272,NO4.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,781
+273,BLH.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,"2,000"
+274,566.SI,SES,Singapore,SGD,Industrials,Metal Fabrication,388
+275,LS9.SI,SES,Singapore,SGD,Industrials,Pollution & Treatment Controls,
+276,L23.SI,SES,Singapore,SGD,Industrials,Waste Management,
+277,AWG.SI,SES,Singapore,SGD,Basic Materials,Aluminum,
+278,L38.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+279,533.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,
+280,1D4.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,
+281,N08.SI,SES,Singapore,SGD,Consumer Cyclical,Packaging & Containers,
+282,BTP.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,
+283,B69.SI,SES,Singapore,SGD,Technology,Computer Hardware,"3,500"
+284,NR7.SI,SES,Singapore,SGD,Consumer Defensive,Education & Training Services,
+285,QSD.SI,SES,Singapore,SGD,Industrials,Marine Shipping,174
+286,1J5.SI,SES,Singapore,SGD,Healthcare,Pharmaceutical Retailers,
+287,Y35.SI,SES,Singapore,SGD,Energy,Oil & Gas Refining & Marketing,
+288,5WJ.SI,SES,Singapore,SGD,Consumer Cyclical,Specialty Retail,
+289,5VS.SI,SES,Singapore,SGD,Industrials,Building Products & Equipment,324
+290,42T.SI,SES,Israel,SGD,Financial Services,Asset Management,53
+291,G0I.SI,SES,Singapore,SGD,Industrials,Metal Fabrication,
+292,595.SI,SES,Singapore,SGD,Industrials,Integrated Freight & Logistics,
+293,BNE.SI,SES,Indonesia,SGD,Consumer Defensive,Farm Products,
+294,5ML.SI,SES,Singapore,SGD,Consumer Defensive,Packaged Foods,
+295,42E.SI,SES,Singapore,SGD,Technology,Electronics & Computer Distribution,
+296,5TT.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+297,5I1.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+298,43E.SI,SES,Malaysia,SGD,Basic Materials,Other Industrial Metals & Mining,31
+299,AWI.SI,SES,Singapore,SGD,Consumer Cyclical,Specialty Retail,
+300,5RF.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,
+301,586.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,
+302,PH0.SI,SES,Malaysia,SGD,Real Estate,Real Estate—Development,
+303,1B1.SI,SES,Singapore,SGD,Healthcare,Diagnostics & Research,
+304,I49.SI,SES,Singapore,SGD,Financial Services,Credit Services,
+305,5OI.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,408
+306,1F3.SI,SES,Malaysia,SGD,Real Estate,Real Estate—Development,
+307,1G1.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,"1,600"
+308,P36.SI,SES,Hong Kong,SGD,Real Estate,Real Estate—Development,
+309,5AE.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+310,WPC.SI,SES,Singapore,SGD,Industrials,Marine Shipping,
+311,EHG.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,
+312,A78.SI,SES,Singapore,SGD,Basic Materials,Gold,
+313,KUX.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+314,BDA.SI,SES,Singapore,SGD,Technology,Electronic Components,
+315,K75.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+316,5MZ.SI,SES,Singapore,SGD,Industrials,Consulting Services,
+317,5GJ.SI,SES,Australia,SGD,Industrials,Engineering & Construction,
+318,BXE.SI,SES,Hong Kong,SGD,Technology,Semiconductor Equipment & Materials,
+319,T41.SI,SES,Singapore,SGD,Communication Services,Telecom Services,287
+320,Y3D.SI,SES,Singapore,SGD,Technology,Electronics & Computer Distribution,
+321,BIP.SI,SES,Singapore,SGD,Industrials,Integrated Freight & Logistics,
+322,5DS.SI,SES,Singapore,SGD,Basic Materials,Specialty Chemicals,247
+323,5G2.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,
+324,1R6.SI,SES,Singapore,SGD,Technology,Semiconductor Equipment & Materials,134
+325,BDR.SI,SES,Hong Kong,SGD,Technology,Electronics & Computer Distribution,359
+326,BQN.SI,SES,Singapore,SGD,Industrials,Electrical Equipment & Parts,
+327,BFI.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+328,K1Q.SI,SES,Singapore,SGD,Industrials,Metal Fabrication,
+329,T55.SI,SES,Singapore,SGD,Financial Services,Asset Management,
+330,NXR.SI,SES,Singapore,SGD,Technology,Software—Application,
+331,5CF.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,812
+332,BKA.SI,SES,Singapore,SGD,Industrials,Farm & Heavy Construction Machinery,
+333,BJZ.SI,SES,Singapore,SGD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+334,G50.SI,SES,Singapore,SGD,Consumer Cyclical,Leisure,710
+335,E6R.SI,SES,Singapore,SGD,Basic Materials,Lumber & Wood Production,
+336,BIX.SI,SES,Singapore,SGD,Technology,Semiconductor Equipment & Materials,118
+337,A55.SI,SES,Singapore,SGD,Basic Materials,Steel,
+338,AYN.SI,SES,Singapore,SGD,Technology,Semiconductor Equipment & Materials,
+339,BTG.SI,SES,Singapore,SGD,Basic Materials,Steel,
+340,TVV.SI,SES,Singapore,SGD,Technology,Software—Infrastructure,
+341,5F7.SI,SES,Singapore,SGD,Basic Materials,Gold,
+342,M05.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,694
+343,OTS.SI,SES,Singapore,SGD,Consumer Defensive,Packaged Foods,
+344,1H3.SI,SES,Singapore,SGD,Healthcare,Diagnostics & Research,172
+345,5BI.SI,SES,Singapore,SGD,Consumer Cyclical,Specialty Retail,
+346,BLW.SI,SES,Singapore,SGD,Consumer Defensive,Farm Products,864
+347,1Y1.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,
+348,C06.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,"1,500"
+349,CTO.SI,SES,Singapore,SGD,Consumer Defensive,Farm Products,
+350,S7P.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+351,CNE.SI,SES,Singapore,SGD,Consumer Defensive,Education & Training Services,
+352,B26.SI,SES,Singapore,SGD,Technology,Electronics & Computer Distribution,
+353,BTJ.SI,SES,Singapore,SGD,Industrials,Integrated Freight & Logistics,640
+354,1A1.SI,SES,Singapore,SGD,Industrials,Farm & Heavy Construction Machinery,375
+355,S9B.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,18
+356,5G1.SI,SES,Singapore,SGD,Consumer Cyclical,Auto & Truck Dealerships,81
+357,502.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,
+358,S71.SI,SES,Singapore,SGD,Technology,Semiconductors,861
+359,A31.SI,SES,Singapore,SGD,Technology,Communication Equipment,
+360,B9S.SI,SES,Singapore,SGD,Industrials,Industrial Distribution,63
+361,567.SI,SES,Singapore,SGD,Industrials,Waste Management,
+362,5WF.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+363,1H8.SI,SES,Malaysia,SGD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+364,541.SI,SES,Singapore,SGD,Basic Materials,Chemicals,
+365,KJ5.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+366,AWS.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,
+367,ZXY.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,527
+368,C13.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,25
+369,BHU.SI,SES,Singapore,SGD,Consumer Cyclical,Leisure,
+370,5I0.SI,SES,Singapore,SGD,Healthcare,Medical Devices,
+371,I06.SI,SES,Singapore,SGD,Industrials,Industrial Distribution,96
+372,41F.SI,SES,Singapore,SGD,Technology,Electronic Components,"2,070"
+373,GRQ.SI,SES,Singapore,SGD,Consumer Defensive,Farm Products,
+374,A04.SI,SES,Singapore,SGD,Industrials,Aerospace & Defense,
+375,5G9.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+376,BEI.SI,SES,Singapore,SGD,Basic Materials,Lumber & Wood Production,219
+377,V3M.SI,SES,Singapore,SGD,Industrials,Specialty Business Services,
+378,BFU.SI,SES,Singapore,SGD,Industrials,Industrial Distribution,
+379,K03.SI,SES,Singapore,SGD,Consumer Defensive,Food Distribution,
+380,FRQ.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,72
+381,42L.SI,SES,Singapore,SGD,Consumer Cyclical,Luxury Goods,
+382,5RA.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+383,N01.SI,SES,Singapore,SGD,Technology,Communication Equipment,234
+384,540.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,
+385,1AZ.SI,SES,Malaysia,SGD,Industrials,Consulting Services,
+386,BQD.SI,SES,Singapore,SGD,Consumer Defensive,Packaged Foods,"2,200"
+387,43A.SI,SES,Singapore,SGD,Industrials,Specialty Business Services,
+388,43Q.SI,SES,Singapore,SGD,Industrials,Staffing & Employment Services,
+389,PA3.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+390,8YY.SI,SES,Singapore,SGD,Healthcare,Medical Devices,34
+391,XCF.SI,SES,Malaysia,SGD,Consumer Cyclical,Apparel Manufacturing,"2,295"
+392,42W.SI,SES,Singapore,SGD,Consumer Defensive,Packaged Foods,379
+393,HQU.SI,SES,Singapore,SGD,Industrials,Specialty Industrial Machinery,65
+394,532.SI,SES,Singapore,SGD,Technology,Software—Application,14
+395,OTX.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,66
+396,BAZ.SI,SES,Singapore,SGD,Basic Materials,Building Materials,
+397,43B.SI,SES,Singapore,SGD,Industrials,Security & Protection Services,
+398,5EG.SI,SES,Singapore,SGD,Consumer Defensive,Beverages—Non-Alcoholic,
+399,5EF.SI,SES,Singapore,SGD,Industrials,Conglomerates,24
+400,Y45.SI,SES,Singapore,SGD,Consumer Cyclical,Specialty Retail,
+401,5AU.SI,SES,Singapore,SGD,Energy,Oil & Gas Refining & Marketing,98
+402,DRX.SI,SES,Australia,SGD,Consumer Cyclical,Restaurants,
+403,AVX.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+404,S3N.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+405,XVG.SI,SES,Singapore,SGD,Industrials,Security & Protection Services,
+406,5I4.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+407,1V3.SI,SES,Singapore,SGD,Industrials,Aerospace & Defense,
+408,BLA.SI,SES,Singapore,SGD,Industrials,Waste Management,234
+409,5NV.SI,SES,Singapore,SGD,Industrials,Conglomerates,
+410,H20.SI,SES,Singapore,SGD,Industrials,Industrial Distribution,143
+411,MF6.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+412,BRD.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,936
+413,5GI.SI,SES,Singapore,SGD,Energy,Oil & Gas E&P,
+414,O08.SI,SES,Singapore,SGD,Consumer Cyclical,Apparel Retail,
+415,F10.SI,SES,Singapore,SGD,Consumer Cyclical,Apparel Retail,"1,600"
+416,N0Z.SI,SES,Hong Kong,SGD,Consumer Cyclical,Leisure,"10,000"
+417,A52.SI,SES,Singapore,SGD,Basic Materials,Steel,
+418,5EB.SI,SES,Singapore,SGD,Industrials,Metal Fabrication,
+419,554.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+420,5KI.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,
+421,AJ2.SI,SES,China,SGD,Utilities,Utilities—Regulated Gas,
+422,42N.SI,SES,Singapore,SGD,Industrials,Security & Protection Services,49
+423,Q0X.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,900
+424,BCV.SI,SES,Singapore,SGD,Consumer Defensive,Farm Products,
+425,AXB.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+426,543.SI,SES,Singapore,SGD,Consumer Cyclical,Specialty Retail,121
+427,AWC.SI,SES,Singapore,SGD,Industrials,Electrical Equipment & Parts,61
+428,5TY.SI,SES,Singapore,SGD,Technology,Semiconductor Equipment & Materials,
+429,40W.SI,SES,Singapore,SGD,Industrials,Specialty Business Services,
+430,1A0.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,363
+431,AWE.SI,SES,Singapore,SGD,Industrials,Industrial Distribution,9
+432,5MD.SI,SES,Singapore,SGD,Basic Materials,Aluminum,
+433,AOF.SI,SES,Malaysia,SGD,Real Estate,Real Estate—Diversified,
+434,504.SI,SES,Singapore,SGD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+435,1E3.SI,SES,Singapore,SGD,Industrials,Waste Management,
+436,5LE.SI,SES,Singapore,SGD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+437,5PO.SI,SES,Singapore,SGD,Industrials,Rental & Leasing Services,
+438,5DX.SI,SES,Singapore,SGD,Industrials,Metal Fabrication,
+439,5EV.SI,SES,Singapore,SGD,Consumer Defensive,Food Distribution,
+440,RS1.SI,SES,Hong Kong,SGD,Consumer Cyclical,Auto & Truck Dealerships,35
+441,RCU.SI,SES,Singapore,SGD,Technology,Information Technology Services,
+442,VFP.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,129
+443,5GZ.SI,SES,Singapore,SGD,Industrials,Electrical Equipment & Parts,
+444,41T.SI,SES,Malaysia,SGD,Basic Materials,Building Materials,
+445,5EW.SI,SES,Singapore,SGD,Consumer Cyclical,Auto Parts,24
+446,BKW.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+447,BHD.SI,SES,China,SGD,Real Estate,Real Estate—Development,21
+448,OMK.SI,SES,Singapore,SGD,Communication Services,Entertainment,40
+449,5HH.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+450,5VI.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+451,BAI.SI,SES,Singapore,SGD,Communication Services,Telecom Services,
+452,BQF.SI,SES,Singapore,SGD,Industrials,Specialty Industrial Machinery,
+453,QS9.SI,SES,Singapore,SGD,Technology,Communication Equipment,315
+454,5AL.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,
+455,5AI.SI,SES,Singapore,SGD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+456,C04.SI,SES,Singapore,SGD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+457,5UA.SI,SES,Singapore,SGD,Real Estate,Real Estate—Development,36
+458,5DO.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,
+459,J03.SI,SES,Singapore,SGD,Technology,Electronic Components,
+460,5EK.SI,SES,Hong Kong,SGD,Technology,Information Technology Services,
+461,41B.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+462,575.SI,SES,Singapore,SGD,Technology,Semiconductor Equipment & Materials,
+463,5FX.SI,SES,Singapore,SGD,Basic Materials,Aluminum,
+464,583.SI,SES,Singapore,SGD,Industrials,Building Products & Equipment,
+465,AWV.SI,SES,Singapore,SGD,Communication Services,Telecom Services,173
+466,5PF.SI,SES,Singapore,SGD,Technology,Scientific & Technical Instruments,123
+467,41H.SI,SES,Singapore,SGD,Energy,Thermal Coal,
+468,505.SI,SES,Singapore,SGD,Healthcare,Diagnostics & Research,
+469,QZG.SI,SES,Singapore,SGD,Technology,Electronics & Computer Distribution,"1,897"
+470,BTX.SI,SES,China,SGD,Basic Materials,Chemicals,273
+471,N32.SI,SES,Singapore,SGD,Industrials,Business Equipment & Supplies,55
+472,M11.SI,SES,Singapore,SGD,Technology,Semiconductor Equipment & Materials,95
+473,NHD.SI,SES,Singapore,SGD,Technology,Electronics & Computer Distribution,"1,858"
+474,1H4.SI,SES,Myanmar,SGD,Consumer Cyclical,Leisure,
+475,SES.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,
+476,BBP.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+477,BLU.SI,SES,Singapore,SGD,Industrials,Conglomerates,
+478,V2Y.SI,SES,Singapore,SGD,Industrials,Specialty Business Services,
+479,YYN.SI,SES,Malaysia,SGD,Technology,Electronics & Computer Distribution,
+480,M03.SI,SES,Singapore,SGD,Industrials,Metal Fabrication,
+481,596.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,
+482,BEZ.SI,SES,Singapore,SGD,Industrials,Aerospace & Defense,
+483,5TJ.SI,SES,Singapore,SGD,Industrials,Specialty Industrial Machinery,400
+484,BEH.SI,SES,China,SGD,Utilities,Utilities—Regulated Water,
+485,5OC.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+486,5QY.SI,SES,Singapore,SGD,Financial Services,Mortgage Finance,
+487,BDU.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,160
+488,I11.SI,SES,Singapore,SGD,Utilities,Utilities—Regulated Gas,
+489,1F0.SI,SES,Singapore,SGD,Communication Services,Advertising Agencies,
+490,BLR.SI,SES,Singapore,SGD,Industrials,Pollution & Treatment Controls,
+491,43F.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+492,581.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+493,PRH.SI,SES,Singapore,SGD,Healthcare,Medical Care Facilities,
+494,585.SI,SES,Singapore,SGD,Energy,Oil & Gas Midstream,
+495,BCD.SI,SES,China,SGD,Real Estate,Real Estate—Diversified,
+496,AZA.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+497,1F1.SI,SES,Singapore,SGD,Consumer Cyclical,Internet Retail,25
+498,5HT.SI,SES,Singapore,SGD,Consumer Cyclical,Lodging,
+499,M15.SI,SES,Singapore,SGD,Basic Materials,Specialty Chemicals,
+500,5CR.SI,SES,Singapore,SGD,Utilities,Utilities—Independent Power Producers,
+501,584.SI,SES,Singapore,SGD,Real Estate,Real Estate Services,
+502,FQ7.SI,SES,Singapore,SGD,Energy,Oil & Gas Midstream,
+503,BLZ.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,
+504,594.SI,SES,Singapore,SGD,Energy,Oil & Gas E&P,
+505,SJY.SI,SES,Singapore,SGD,Consumer Cyclical,Auto & Truck Dealerships,
+506,5SY.SI,SES,Singapore,SGD,Financial Services,Asset Management,
+507,5TN.SI,SES,Malaysia,SGD,Healthcare,Medical Care Facilities,
+508,5WV.SI,SES,Singapore,SGD,Basic Materials,Other Industrial Metals & Mining,
+509,1D3.SI,SES,Singapore,SGD,Consumer Cyclical,Restaurants,6
+510,5FW.SI,SES,Singapore,SGD,Industrials,Specialty Industrial Machinery,
+511,GU5.SI,SES,China,SGD,Industrials,Electrical Equipment & Parts,
+512,YYB.SI,SES,Singapore,SGD,Communication Services,Publishing,10
+513,1H2.SI,SES,Singapore,SGD,Real Estate,Real Estate—Diversified,7
+514,O9E.SI,SES,Singapore,SGD,Consumer Cyclical,Department Stores,
+515,E9L.SI,SES,Hong Kong,SGD,Financial Services,Credit Services,
+516,5RC.SI,SES,Singapore,SGD,Industrials,Aerospace & Defense,
+517,5HC.SI,SES,Singapore,SGD,Technology,Information Technology Services,
+518,42Z.SI,SES,Singapore,SGD,Industrials,Specialty Industrial Machinery,
+519,RDR.SI,SES,Singapore,SGD,Consumer Cyclical,Luxury Goods,
+520,580.SI,SES,Singapore,SGD,Technology,Electronic Components,
+521,5OQ.SI,SES,Singapore,SGD,Energy,Oil & Gas Equipment & Services,
+522,40E.SI,SES,Singapore,SGD,Communication Services,Entertainment,
+523,42D.SI,SES,Singapore,SGD,Industrials,Engineering & Construction,
+524,BRS.SI,SES,Singapore,SGD,Industrials,Conglomerates,162
+525,BJD.SI,SES,Singapore,SGD,Industrials,Specialty Industrial Machinery,
+526,8A1.SI,SES,Singapore,SGD,Financial Services,Asset Management,17
+527,BFT.SI,SES,Singapore,SGD,Basic Materials,Specialty Chemicals,630
+528,BOU.SI,SES,Singapore,SGD,Consumer Defensive,Education & Training Services,59
+529,AYV.SI,SES,Singapore,SGD,Consumer Cyclical,Auto Parts,
+530,SSS.SI,SES,Singapore,SGD,,,
+531,S45U.SI,SES,Singapore,SGD,,,
+532,VT1.SI,SES,Singapore,SGD,Financial Services,Shell Companies,
+533,LSU.SI,SES,Singapore,USD,,,
+534,NTA.SI,SES,Singapore,SGD,Financial Services,Shell Companies,
+535,CWCU.SI,SES,Singapore,SGD,,,
+536,LSS.SI,SES,Singapore,SGD,,,
+537,XWA.SI,SES,Singapore,USD,,,"1,496"
+538,ENV.SI,SES,Singapore,SGD,Industrials,Specialty Business Services,"2,000"

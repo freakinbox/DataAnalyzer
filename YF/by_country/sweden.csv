@@ -1,0 +1,1091 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,PFE.ST,Stockholm,United States,SEK,Healthcare,Drug Manufacturers—General,"79,000"
+1,AZN.ST,Stockholm,United Kingdom,SEK,Healthcare,Drug Manufacturers—General,"83,100"
+2,INVE-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,"16,753"
+3,INVE-A.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,"16,753"
+4,ABB.ST,Stockholm,Switzerland,SEK,Industrials,Electrical Equipment & Parts,"104,400"
+5,ATCO-A.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"42,862"
+6,ATCO-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"42,862"
+7,NDA-SE.ST,Stockholm,Finland,SEK,Financial Services,Banks—Regional,"26,894"
+8,HEXA-B.ST,Stockholm,Sweden,SEK,Technology,Scientific & Technical Instruments,"22,097"
+9,EQT.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,"1,059"
+10,VOLV-A.ST,Stockholm,Sweden,SEK,Industrials,Farm & Heavy Construction Machinery,"92,144"
+11,VOLV-B.ST,Stockholm,Sweden,SEK,Industrials,Farm & Heavy Construction Machinery,"92,144"
+12,ASSA-B.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,"51,000"
+13,NOKIA-SEK.ST,Stockholm,Finland,SEK,Technology,Communication Equipment,"87,927"
+14,ERIC-A.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,"100,454"
+15,ERIC-B.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,"100,454"
+16,SAND.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"38,325"
+17,SEB-C.ST,Stockholm,Sweden,SEK,Financial Services,Banks—Regional,"15,500"
+18,SEB-A.ST,Stockholm,Sweden,SEK,Financial Services,Banks—Regional,"15,500"
+19,EPI-A.ST,Stockholm,Sweden,SEK,Industrials,Farm & Heavy Construction Machinery,"15,529"
+20,EPI-B.ST,Stockholm,Sweden,SEK,Industrials,Farm & Heavy Construction Machinery,"15,529"
+21,HM-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Apparel Manufacturing,"155,000"
+22,NIBE-B.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,"19,759"
+23,VOLCAR-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Manufacturers,"43,069"
+24,SHB-B.ST,Stockholm,Sweden,SEK,Financial Services,Banks—Diversified,"10,793"
+25,EVO.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Gambling,"8,987"
+26,ESSITY-B.ST,Stockholm,Sweden,SEK,Consumer Defensive,Household & Personal Products,"46,000"
+27,ESSITY-A.ST,Stockholm,Sweden,SEK,Consumer Defensive,Household & Personal Products,"46,000"
+28,SHB-A.ST,Stockholm,Sweden,SEK,Financial Services,Banks—Diversified,"10,793"
+29,LATO-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,"8,001"
+30,SWED-A.ST,Stockholm,Sweden,SEK,Financial Services,Banks—Regional,"16,565"
+31,TELIA.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,"19,566"
+32,STE-A.ST,Stockholm,Finland,SEK,Basic Materials,Paper & Paper Products,"22,094"
+33,STE-R.ST,Stockholm,Finland,SEK,Basic Materials,Paper & Paper Products,"22,094"
+34,SCA-A.ST,Stockholm,Sweden,SEK,Basic Materials,Lumber & Wood Production,"3,373"
+35,SCA-B.ST,Stockholm,Sweden,SEK,Basic Materials,Lumber & Wood Production,"3,373"
+36,ALFA.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"17,883"
+37,BOL.ST,Stockholm,Sweden,SEK,Basic Materials,Other Industrial Metals & Mining,"6,000"
+38,SWMA.ST,Stockholm,Sweden,SEK,Consumer Defensive,Tobacco,"7,523"
+39,LUNE.ST,Stockholm,Sweden,SEK,Energy,Oil & Gas E&P,494
+40,LUND-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,"4,073"
+41,INDU-A.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,15
+42,INDU-C.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,15
+43,TEL2-A.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,"4,435"
+44,TEL2-B.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,"4,435"
+45,LIFCO-B.ST,Stockholm,Sweden,SEK,Industrials,Conglomerates,"6,265"
+46,BALD-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,"1,040"
+47,GETI-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,"10,729"
+48,HOLM-A.ST,Stockholm,Sweden,SEK,Basic Materials,Paper & Paper Products,"3,151"
+49,HOLM-B.ST,Stockholm,Sweden,SEK,Basic Materials,Paper & Paper Products,"3,151"
+50,INDT.ST,Stockholm,Sweden,SEK,Industrials,Industrial Distribution,"8,185"
+51,SAGA-A.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,87
+52,SAGA-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,87
+53,8TRA.ST,Stockholm,Germany,SEK,Industrials,Farm & Heavy Construction Machinery,"97,235"
+54,SAGA-D.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,87
+55,SKA-B.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"28,699"
+56,SKF-A.ST,Stockholm,Sweden,SEK,Industrials,Tools & Accessories,"41,683"
+57,SKF-B.ST,Stockholm,Sweden,SEK,Industrials,Tools & Accessories,"41,683"
+58,EMBRAC-B.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,"6,860"
+59,LUMI.ST,Stockholm,Canada,SEK,Basic Materials,Copper,"4,567"
+60,BEIJ-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"4,200"
+61,SOBI.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,"1,559"
+62,CAST.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Development,416
+63,SSAB-B.ST,Stockholm,Sweden,SEK,Basic Materials,Steel,"14,656"
+64,SSAB-A.ST,Stockholm,Sweden,SEK,Basic Materials,Steel,"14,656"
+65,ALIV-SDB.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Parts,"55,752"
+66,AXFO.ST,Stockholm,Sweden,SEK,Consumer Defensive,Grocery Stores,"6,908"
+67,TREL-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"21,840"
+68,KINV-A.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,40
+69,HUSQ-A.ST,Stockholm,Sweden,SEK,Industrials,Tools & Accessories,"13,704"
+70,HUSQ-B.ST,Stockholm,Sweden,SEK,Industrials,Tools & Accessories,"13,704"
+71,SBB-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,237
+72,SBB-D.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,237
+73,KINV-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,40
+74,VOLO-PREF.ST,Stockholm,Sweden,SEK,Industrials,Conglomerates,"1,800"
+75,SAAB-B.ST,Stockholm,Sweden,SEK,Industrials,Aerospace & Defense,"17,601"
+76,ADDT-B.ST,Stockholm,Sweden,SEK,Industrials,Industrial Distribution,"3,381"
+77,SWEC-B.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"18,000"
+78,SWEC-A.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"18,000"
+79,AAK.ST,Stockholm,Sweden,SEK,Consumer Defensive,Packaged Foods,"4,000"
+80,ELUX-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,"Furnishings, Fixtures & Appliances","52,000"
+81,SECU-B.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,"296,700"
+82,SINCH.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,"2,425"
+83,ELUX-A.ST,Stockholm,Sweden,SEK,Consumer Cyclical,"Furnishings, Fixtures & Appliances","52,000"
+84,SAVE.ST,Stockholm,Sweden,SEK,Financial Services,Banks—Regional,648
+85,FABG.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,215
+86,THULE.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Leisure,"3,300"
+87,WALL-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Development,267
+88,STOR-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,"8,719"
+89,AZA.ST,Stockholm,Sweden,SEK,Financial Services,Banks—Regional,603
+90,VITR.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,"1,200"
+91,BILL.ST,Stockholm,Sweden,SEK,Basic Materials,Paper & Paper Products,"4,197"
+92,INTRUM.ST,Stockholm,Sweden,SEK,Financial Services,Credit Services,"8,505"
+93,HPOL-B.ST,Stockholm,Sweden,SEK,Basic Materials,Specialty Chemicals,"4,771"
+94,ALIF-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,"1,802"
+95,NENT-A.ST,Stockholm,Sweden,SEK,Communication Services,Entertainment,
+96,TIETOS.ST,Stockholm,Finland,SEK,Technology,Information Technology Services,"24,389"
+97,OP-PREF.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Residential Construction,26
+98,CORE-A.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,368
+99,CORE-PREF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,368
+100,CORE-D.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,368
+101,NENT-B.ST,Stockholm,Sweden,SEK,Communication Services,Entertainment,
+102,PEAB-B.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"14,895"
+103,MCOV-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Care Facilities,"38,555"
+104,VIMIAN.ST,Stockholm,Sweden,SEK,Healthcare,Diagnostics & Research,600
+105,WIHL.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,221
+106,EKTA-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,"4,591"
+107,SECT-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,876
+108,PNDX-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Lodging,"1,255"
+109,DOM.ST,Stockholm,Sweden,SEK,Consumer Cyclical,"Furnishings, Fixtures & Appliances","9,095"
+110,HUFV-A.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,228
+111,TIGO-SDB.ST,Stockholm,Luxembourg,SEK,Communication Services,Telecom Services,"21,000"
+112,TRUE-B.ST,Stockholm,Sweden,SEK,Technology,Software—Application,306
+113,HMS.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,692
+114,CATE.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,47
+115,BRAV.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"12,000"
+116,FIL.ST,Stockholm,Georgia,SEK,Basic Materials,Other Industrial Metals & Mining,
+117,ATRLJ-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Development,329
+118,OX2.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Renewable,269
+119,NYF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,70
+120,ARJO-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Distribution,"6,554"
+121,AFRY.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"14,343"
+122,CINT.ST,Stockholm,Sweden,SEK,Technology,Software—Application,"1,051"
+123,NOLA-B.ST,Stockholm,Sweden,SEK,Industrials,Conglomerates,"8,669"
+124,KIND-SDB.ST,Stockholm,Malta,SEK,Consumer Cyclical,Gambling,"2,055"
+125,BURE.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,11
+126,LUG.ST,Stockholm,Georgia,SEK,Basic Materials,Gold,
+127,ARION-SDB.ST,Stockholm,Iceland,SEK,Financial Services,Banks—Regional,751
+128,VIT-B.ST,Stockholm,Sweden,SEK,Technology,Software—Application,"1,033"
+129,MIPS.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Leisure,78
+130,LOOMIS.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,"24,000"
+131,SECARE.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,272
+132,PDX.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,721
+133,LIAB.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,"4,549"
+134,FPAR-D.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,80
+135,FPAR-A.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,80
+136,HTRO.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,"1,289"
+137,RATO-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,"11,600"
+138,JM.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Residential Construction,"2,453"
+139,MYCR.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"1,771"
+140,RATO-A.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,"11,600"
+141,INSTAL.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"4,887"
+142,EPRO-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"3,973"
+143,NP3.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,55
+144,MTG-A.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,"1,004"
+145,MTG-B.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,"1,004"
+146,CORE-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,368
+147,SKIS-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Resorts & Casinos,"1,697"
+148,TROAX.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"1,104"
+149,IPCO.ST,Stockholm,Georgia,SEK,Energy,Oil & Gas E&P,
+150,FOI-B.ST,Stockholm,Switzerland,SEK,Consumer Cyclical,Specialty Retail,"2,446"
+151,SYSR.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,"6,552"
+152,HEM.ST,Stockholm,Sweden,SEK,Communication Services,Internet Content & Information,112
+153,ANOD-B.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,"1,897"
+154,BIOT.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,497
+155,VOLO.ST,Stockholm,Sweden,SEK,Industrials,Conglomerates,"1,800"
+156,KARO.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,225
+157,NCC-A.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"12,198"
+158,NCC-B.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"12,198"
+159,SDIP-B.ST,Stockholm,Sweden,SEK,Industrials,Infrastructure Operations,"1,652"
+160,NCAB.ST,Stockholm,Sweden,SEK,Technology,Electronic Components,562
+161,BUFAB.ST,Stockholm,Sweden,SEK,Industrials,Industrial Distribution,"1,411"
+162,CRED-A.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,9
+163,BEIA-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"2,866"
+164,SDIP-PREF.ST,Stockholm,Sweden,SEK,Industrials,Infrastructure Operations,"1,652"
+165,NEWA-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Specialty Retail,"2,060"
+166,PLAZ-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,87
+167,DIOS.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,140
+168,HEBA-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,
+169,BILI-A.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto & Truck Dealerships,"5,331"
+170,ALM.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,
+171,CIBUS.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,7
+172,BIOG-B.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,167
+173,KFAST-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,691
+174,ALM-PREF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,
+175,MTRS.ST,Stockholm,Sweden,SEK,Industrials,Pollution & Treatment Controls,"3,315"
+176,VESTUM.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"1,764"
+177,BICO.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,"1,150"
+178,SF.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,"1,381"
+179,SUS.ST,Stockholm,Sweden,SEK,Healthcare,Health Information Services,209
+180,BFG.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,"1,836"
+181,CARY.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Parts,"1,500"
+182,SYNSAM.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,"3,000"
+183,CAMX.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,148
+184,PCELL.ST,Stockholm,Sweden,SEK,Industrials,Electrical Equipment & Parts,83
+185,BETCO.ST,Stockholm,Denmark,SEK,Technology,Software—Application,781
+186,IVSO.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,187
+187,GRNG.ST,Stockholm,Sweden,SEK,Basic Materials,Aluminum,"2,702"
+188,RVRC.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Apparel Retail,104
+189,XANO-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"1,335"
+190,DUST.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,"2,373"
+191,COLL.ST,Stockholm,Sweden,SEK,Financial Services,Credit Services,301
+192,SAS.ST,Stockholm,Sweden,SEK,Industrials,Airlines,"6,326"
+193,ENQ.ST,Stockholm,United Kingdom,SEK,Energy,Oil & Gas E&P,789
+194,KNOW.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,"3,849"
+195,COOR.ST,Stockholm,Sweden,SEK,Industrials,Specialty Business Services,"10,075"
+196,BHG.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,"2,589"
+197,CEVI.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,200
+198,AOI.ST,Stockholm,Georgia,SEK,Energy,Oil & Gas E&P,
+199,SHOT.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Lodging,"4,945"
+200,BETS-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Gambling,"1,678"
+201,COIC.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"1,291"
+202,GARO.ST,Stockholm,Sweden,SEK,Industrials,Electrical Equipment & Parts,498
+203,BTS-B.ST,Stockholm,Sweden,SEK,Industrials,Consulting Services,"1,071"
+204,STEF-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,55
+205,CLA-B.ST,Stockholm,Sweden,SEK,Consumer Defensive,Confectioners,"2,514"
+206,FG.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"1,485"
+207,XVIVO.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,113
+208,CLAS-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Specialty Retail,"5,000"
+209,TRIAN-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,89
+210,BIOA-B.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,49
+211,ASPIRE.ST,Stockholm,Malta,SEK,Consumer Cyclical,Gambling,544
+212,INWI.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,"4,600"
+213,NMAN.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"2,246"
+214,LAGR-B.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,"1,849"
+215,KAR.ST,Stockholm,Sweden,SEK,Industrials,Specialty Business Services,297
+216,BOOZT.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Apparel Retail,"1,297"
+217,NOBI.ST,Stockholm,Sweden,SEK,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+218,MEKO.ST,Stockholm,Sweden,SEK,Industrials,Industrial Distribution,"5,094"
+219,SLP-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,12
+220,NOTE.ST,Stockholm,Sweden,SEK,Technology,Electronic Components,"1,300"
+221,SVOL-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,5
+222,ACAD.ST,Stockholm,Sweden,SEK,Consumer Defensive,Education & Training Services,"13,847"
+223,NYTTO.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,
+224,ALLIGO-B.ST,Stockholm,Sweden,SEK,Industrials,Industrial Distribution,"2,319"
+225,RESURS.ST,Stockholm,Sweden,SEK,Financial Services,Credit Services,56
+226,JOMA.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Development,45
+227,BONAV-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Residential Construction,"1,958"
+228,ALIG.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"2,103"
+229,FAG.ST,Stockholm,Sweden,SEK,Industrials,Electrical Equipment & Parts,"4,060"
+230,CTEK.ST,Stockholm,Sweden,SEK,Technology,Electronic Components,192
+231,STORY-B.ST,Stockholm,Sweden,SEK,Communication Services,Publishing,648
+232,ORES.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,6
+233,CS.ST,Stockholm,Jersey,SEK,Financial Services,Capital Markets,80
+234,PEGRO-PREF.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,800
+235,AQ.ST,Stockholm,Sweden,SEK,Industrials,Electrical Equipment & Parts,"6,477"
+236,BONAV-A.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Residential Construction,"1,958"
+237,SEDANA.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,90
+238,M8G.ST,Stockholm,Malta,SEK,Technology,Software—Application,800
+239,KAMBI.ST,Stockholm,Malta,SEK,Consumer Cyclical,Gambling,"1,006"
+240,VNV.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,9
+241,ELAN-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Business Services,"7,019"
+242,VIVA.ST,Stockholm,Sweden,SEK,Consumer Defensive,Beverages—Wineries & Distilleries,130
+243,AMBEA.ST,Stockholm,Sweden,SEK,Healthcare,Medical Care Facilities,"26,000"
+244,DUNI.ST,Stockholm,Sweden,SEK,Consumer Defensive,Household & Personal Products,"2,214"
+245,PRFO.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Leisure,93
+246,NORVA.ST,Stockholm,Norway,SEK,Industrials,Waste Management,"1,450"
+247,BMAX.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,"1,309"
+248,TRAC-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,4
+249,ATT.ST,Stockholm,Sweden,SEK,Healthcare,Medical Care Facilities,"27,000"
+250,CALTX.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,66
+251,HUMBLE.ST,Stockholm,Sweden,SEK,Consumer Defensive,Packaged Foods,654
+252,GREEN.ST,Stockholm,Sweden,SEK,Industrials,Specialty Business Services,"1,601"
+253,ABSO.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,
+254,VEFAB.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,6
+255,BACTI-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,210
+256,NP3-PREF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,55
+257,LINC.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,3
+258,TFBANK.ST,Stockholm,Sweden,SEK,Financial Services,Banks—Regional,236
+259,NWG.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,"1,249"
+260,CAT-A.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,501
+261,LEO.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,864
+262,SFAST.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,6
+263,GPG.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,29
+264,NIVI-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,52
+265,PROB.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,175
+266,KLARA-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,60
+267,OEM-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,898
+268,RENEW.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Textile Manufacturing,68
+269,ENEA.ST,Stockholm,Sweden,SEK,Technology,Software—Application,772
+270,CAT-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,501
+271,LIME.ST,Stockholm,Sweden,SEK,Technology,Software—Application,354
+272,MMGR-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Specialty Retail,
+273,NANOFS.ST,Stockholm,Finland,SEK,Healthcare,Biotechnology,125
+274,AGROUP.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Development,64
+275,BRIN-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,48
+276,BERG-B.ST,Stockholm,Sweden,SEK,Industrials,Conglomerates,"1,213"
+277,GENO.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,33
+278,VBG-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Parts,"1,714"
+279,ACQ-SPAC.ST,Stockholm,Sweden,SEK,Financial Services,Shell Companies,
+280,LYKO-A.ST,Stockholm,Sweden,SEK,Consumer Defensive,Household & Personal Products,728
+281,K2A-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,131
+282,ACAST.ST,Stockholm,Sweden,SEK,Communication Services,Entertainment,313
+283,FMM-B.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,532
+284,TOBII.ST,Stockholm,Sweden,SEK,Technology,Computer Hardware,500
+285,FING-B.ST,Stockholm,Sweden,SEK,Technology,Scientific & Technical Instruments,261
+286,QLINEA.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,136
+287,FNOX.ST,Stockholm,Sweden,SEK,Technology,Software—Application,571
+288,CTM.ST,Stockholm,Malta,SEK,Consumer Cyclical,Gambling,454
+289,IDUN-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,570
+290,BONEX.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,98
+291,REJL-B.ST,Stockholm,Sweden,SEK,Industrials,Consulting Services,"2,464"
+292,WBGR-B.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,542
+293,EOLU-B.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,54
+294,TETY.ST,Stockholm,Sweden,SEK,Energy,Oil & Gas E&P,26
+295,AEC.ST,Stockholm,Georgia,SEK,Energy,Oil & Gas E&P,
+296,HNSA.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,131
+297,TDVOX.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,
+298,ITAB.ST,Stockholm,Sweden,SEK,Industrials,Business Equipment & Supplies,"2,930"
+299,BEGR.ST,Stockholm,Sweden,SEK,Basic Materials,Steel,627
+300,BINV.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,84
+301,CTT.ST,Stockholm,Sweden,SEK,Industrials,Aerospace & Defense,76
+302,HOFI.ST,Stockholm,Sweden,SEK,Financial Services,Mortgage Finance,"1,219"
+303,SEYE.ST,Stockholm,Sweden,SEK,Technology,Software—Application,256
+304,SVOL-A.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,5
+305,HUM.ST,Stockholm,Sweden,SEK,Healthcare,Medical Care Facilities,"10,945"
+306,THUNDR.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,408
+307,SCST.ST,Stockholm,Sweden,SEK,Consumer Defensive,Packaged Foods,"3,200"
+308,OVZON.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,36
+309,RFAST.ST,Stockholm,Sweden,SEK,,,
+310,MCAP.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,361
+311,CPAC-SPAC.ST,Stockholm,Sweden,SEK,Financial Services,Shell Companies,
+312,GHP.ST,Stockholm,Sweden,SEK,Healthcare,Medical Care Facilities,538
+313,DOXA.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,10
+314,EXS.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,381
+315,SIGNUP.ST,Stockholm,Sweden,SEK,Technology,Software—Application,
+316,FNOVA-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,47
+317,MILDEF.ST,Stockholm,Sweden,SEK,Industrials,Aerospace & Defense,188
+318,PAGERO.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,610
+319,BALCO.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,467
+320,XBRANE.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,58
+321,KABE-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Recreational Vehicles,900
+322,ARISE.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Renewable,30
+323,NORB-B.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,821
+324,BESQ.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,119
+325,FOOT-PREF.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,94
+326,MAHA-A.ST,Stockholm,Sweden,SEK,Energy,Oil & Gas E&P,80
+327,FOOT-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,94
+328,NPAPER.ST,Stockholm,Sweden,SEK,Basic Materials,Paper & Paper Products,690
+329,ELOS-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,535
+330,CDON.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,115
+331,AJA-B.ST,Stockholm,Sweden,SEK,Industrials,Conglomerates,374
+332,SEMC.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"2,045"
+333,RUG.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,84
+334,TRAIN-B.ST,Stockholm,Sweden,SEK,Industrials,Infrastructure Operations,
+335,MNTC.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,104
+336,PSCAND.ST,Stockholm,Sweden,SEK,Basic Materials,Chemicals,110
+337,BRG-B.ST,Stockholm,Sweden,SEK,Basic Materials,Lumber & Wood Production,"1,000"
+338,MINEST.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Renewable,59
+339,EWRK.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,327
+340,LUC.ST,Stockholm,Canada,SEK,Basic Materials,Other Precious Metals & Mining,
+341,HLDX.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Parts,"2,003"
+342,AROS.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Development,29
+343,EAST.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,23
+344,BUSER.ST,Stockholm,Sweden,SEK,Technology,Software—Application,146
+345,TEQ.ST,Stockholm,Sweden,SEK,Industrials,Industrial Distribution,328
+346,NETEL.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,658
+347,SOLT.ST,Stockholm,Sweden,SEK,Technology,Solar,
+348,FPIP.ST,Stockholm,Sweden,SEK,Technology,Software—Application,274
+349,IVACC.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,13
+350,LOGI-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,
+351,BRE2.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,223
+352,AWRD.ST,Stockholm,Sweden,SEK,Communication Services,Advertising Agencies,142
+353,RROS.ST,Stockholm,Sweden,SEK,Basic Materials,Paper & Paper Products,316
+354,PRIC-B.ST,Stockholm,Sweden,SEK,Industrials,Business Equipment & Supplies,180
+355,MSON-B.ST,Stockholm,Sweden,SEK,Consumer Defensive,Packaged Foods,849
+356,IRLAB-A.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,27
+357,ELTEL.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"5,046"
+358,MSON-A.ST,Stockholm,Sweden,SEK,Consumer Defensive,Packaged Foods,849
+359,BELE.ST,Stockholm,Sweden,SEK,Technology,Software—Application,802
+360,LOGI-A.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,
+361,ATIN.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,
+362,ARP.ST,Stockholm,Poland,SEK,Basic Materials,Paper & Paper Products,"1,500"
+363,SVED-B.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,463
+364,PACT.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,"1,178"
+365,G5EN.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,
+366,PROF-B.ST,Stockholm,Sweden,SEK,Industrials,Metal Fabrication,582
+367,CRAD-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,62
+368,MANG.ST,Stockholm,Sweden,SEK,Financial Services,Capital Markets,90
+369,VICO.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,21
+370,GIGSEK.ST,Stockholm,Malta,SEK,,,610
+371,IAR-B.ST,Stockholm,Sweden,SEK,Technology,Software—Application,214
+372,TRANS.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,"1,048"
+373,PREV-B.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,772
+374,HANZA.ST,Stockholm,Sweden,SEK,Technology,Electronic Components,"2,001"
+375,SIVE.ST,Stockholm,Sweden,SEK,Technology,Semiconductors,126
+376,RAY-B.ST,Stockholm,Sweden,SEK,Healthcare,Health Information Services,418
+377,SNM.ST,Stockholm,Georgia,SEK,Energy,Oil & Gas E&P,11
+378,COPP-B.ST,Stockholm,Sweden,SEK,Basic Materials,Other Industrial Metals & Mining,24
+379,ACCON.ST,Stockholm,Sweden,SEK,Technology,Electronic Components,41
+380,ANNE-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,18
+381,ZZ-B.ST,Stockholm,Sweden,SEK,Consumer Defensive,Household & Personal Products,224
+382,ALCA.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,95
+383,CANTA.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,26
+384,KJELL.ST,Stockholm,Sweden,SEK,Technology,Consumer Electronics,"1,200"
+385,FASTAT.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,228
+386,STUDBO.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Residential Construction,27
+387,SOF-B.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,427
+388,CI-B.ST,Stockholm,Sweden,SEK,Industrials,Metal Fabrication,106
+389,BULTEN.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Parts,"1,649"
+390,ISOFOL.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,15
+391,EG7.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,880
+392,ASAB.ST,Stockholm,Sweden,SEK,Technology,Solar,14
+393,NETI-B.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,129
+394,SRNKE-B.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,"1,218"
+395,GREAT.ST,Stockholm,Sweden,SEK,Technology,Software—Application,
+396,DMYD-B.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,19
+397,STRLNG.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,51
+398,NIL-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Apparel Manufacturing,553
+399,TITA-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Development,
+400,INZILE.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Manufacturers,
+401,FLAT-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,1
+402,MSOFT.ST,Stockholm,Sweden,SEK,Technology,Software—Application,97
+403,AZELIO.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Renewable,192
+404,ADDV-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,285
+405,SKMO.ST,Stockholm,Sweden,SEK,Consumer Defensive,Packaged Foods,29
+406,GOGRID-SDB.ST,Stockholm,United States,SEK,Industrials,Specialty Industrial Machinery,
+407,JETPAK.ST,Stockholm,Sweden,SEK,Industrials,Integrated Freight & Logistics,215
+408,DE.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Regulated Electric,
+409,IRIS.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,100
+410,SEZI.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,
+411,BORG.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Apparel Manufacturing,164
+412,BOAT.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Leisure,391
+413,TORSAB.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,1
+414,APAC-SPAC-A.ST,Stockholm,Sweden,SEK,Financial Services,Shell Companies,3
+415,XSPRAY.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,23
+416,OP.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Residential Construction,26
+417,DSNO.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,175
+418,CCC.ST,Stockholm,Switzerland,SEK,Industrials,Specialty Industrial Machinery,787
+419,ONEF.ST,Stockholm,Sweden,SEK,Technology,Software—Application,
+420,ADDV-A.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,285
+421,DVYSR.ST,Stockholm,Sweden,SEK,Healthcare,Diagnostics & Research,55
+422,BYGGP.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,610
+423,FERRO.ST,Stockholm,Sweden,SEK,Industrials,Electrical Equipment & Parts,50
+424,DURC-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,"1,093"
+425,PAX.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,63
+426,SLEEP.ST,Stockholm,Sweden,SEK,Technology,Software—Application,41
+427,CHECK.ST,Stockholm,Sweden,SEK,Technology,Software—Application,34
+428,SEAF.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,181
+429,MSAB-B.ST,Stockholm,Sweden,SEK,Technology,Software—Application,186
+430,GAPW-B.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,26
+431,B3.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,655
+432,SES.ST,Stockholm,Sweden,SEK,Industrials,Waste Management,23
+433,PIERCE.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,450
+434,ENZY.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,26
+435,PIEZO.ST,Stockholm,Sweden,SEK,Technology,Electronic Components,58
+436,RAKE.ST,Stockholm,Malta,SEK,Communication Services,Advertising Agencies,93
+437,TBD30-SPAC-A.ST,Stockholm,Sweden,SEK,Financial Services,Shell Companies,4
+438,SENS.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,263
+439,SINT.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,30
+440,SFAB.ST,Stockholm,Sweden,SEK,Financial Services,Insurance—Specialty,68
+441,DIST.ST,Stockholm,Sweden,SEK,Technology,Electronics & Computer Distribution,264
+442,VSSAB-B.ST,Stockholm,Sweden,SEK,Industrials,Marine Shipping,300
+443,EGTX.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,12
+444,POOL-B.ST,Stockholm,Sweden,SEK,Industrials,Staffing & Employment Services,"4,557"
+445,UPSALE.ST,Stockholm,Sweden,SEK,Technology,Software—Application,72
+446,ARPL.ST,Stockholm,Sweden,SEK,Basic Materials,Chemicals,265
+447,INTEG-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,18
+448,SPEC.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,17
+449,NHCBHFFS.ST,Stockholm,Sweden,SEK,,,
+450,BIOVIC-B.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,26
+451,KDEV.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,7
+452,BOUL.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,218
+453,HAYPP.ST,Stockholm,Sweden,SEK,Consumer Defensive,Tobacco,117
+454,ATVEXA-B.ST,Stockholm,Sweden,SEK,Consumer Defensive,Education & Training Services,"3,890"
+455,MIDS.ST,Stockholm,Sweden,SEK,Technology,Solar,
+456,ZWIPE.ST,Stockholm,Norway,SEK,Technology,Software—Infrastructure,32
+457,CLIME-B.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Renewable,46
+458,HEXI.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,32
+459,GENI.ST,Stockholm,Sweden,SEK,Technology,Software—Application,18
+460,SVIK.ST,Stockholm,Sweden,SEK,Industrials,Waste Management,517
+461,MAVEN.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,22
+462,KAPIAB.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,
+463,ACRI-B.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,21
+464,FLEXM.ST,Stockholm,United Kingdom,SEK,Communication Services,Electronic Gaming & Multimedia,64
+465,DEDI.ST,Stockholm,Sweden,SEK,Industrials,Staffing & Employment Services,925
+466,URBIT.ST,Stockholm,Sweden,SEK,Industrials,Integrated Freight & Logistics,194
+467,ARCANE.ST,Stockholm,Sweden,SEK,Financial Services,Capital Markets,21
+468,ACRI-A.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Diversified,21
+469,EPIS-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,29
+470,IBT-B.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,8
+471,IMMNOV.ST,Stockholm,Sweden,SEK,Healthcare,Diagnostics & Research,65
+472,BOKUS.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Specialty Retail,410
+473,ACE.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,21
+474,VIVE.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,22
+475,INDEX.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,9
+476,FRACTL.ST,Stockholm,Sweden,SEK,Technology,Computer Hardware,84
+477,STAR-B.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,138
+478,ALBERT.ST,Stockholm,Sweden,SEK,Technology,Software—Application,40
+479,KOPY.ST,Stockholm,Sweden,SEK,Basic Materials,Gold,702
+480,BIOGAS.ST,Stockholm,Sweden,SEK,Basic Materials,Specialty Chemicals,100
+481,GOMX.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,181
+482,STAR-A.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,138
+483,CX.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,
+484,EMBELL.ST,Stockholm,Sweden,SEK,Consumer Cyclical,"Furnishings, Fixtures & Appliances",236
+485,SLITE.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Regulated Electric,8
+486,FLUO.ST,Stockholm,Denmark,SEK,Healthcare,Medical Instruments & Supplies,3
+487,AVEN.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,319
+488,NAXS.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,1
+489,FNM.ST,Stockholm,Sweden,SEK,Industrials,Industrial Distribution,"1,791"
+490,NTEK-B.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,158
+491,ZORDIX-B.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,196
+492,PTRK.ST,Stockholm,United Kingdom,SEK,Healthcare,Health Information Services,49
+493,BIM.ST,Stockholm,Sweden,SEK,Technology,Software—Application,168
+494,ONCO.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,162
+495,DORO.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,112
+496,ORX.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,119
+497,BIOWKS.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,36
+498,CANDLE-B.ST,Stockholm,Sweden,SEK,Consumer Defensive,Household & Personal Products,121
+499,ECC-B.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,83
+500,MOBA.ST,Stockholm,Sweden,SEK,Technology,Software—Application,9
+501,ENDO.ST,Stockholm,Finland,SEK,Basic Materials,Gold,72
+502,STIL.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,101
+503,CAG.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,375
+504,MIDW-B.ST,Stockholm,Sweden,SEK,Industrials,Conglomerates,245
+505,OPTI.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,
+506,SOLNA.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,1
+507,CFISH.ST,Stockholm,Sweden,SEK,Technology,Software—Application,20
+508,NEPA.ST,Stockholm,Sweden,SEK,Industrials,Specialty Business Services,251
+509,HOVD.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Leisure,38
+510,QAIR.ST,Stockholm,Sweden,SEK,Industrials,Pollution & Treatment Controls,108
+511,VERT-B.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,137
+512,LEMSE.ST,Stockholm,Georgia,SEK,Basic Materials,Other Industrial Metals & Mining,
+513,ADVE.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,62
+514,PENG-B.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,795
+515,INISS-B.ST,Stockholm,Sweden,SEK,Industrials,Industrial Distribution,503
+516,OBAB.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,13
+517,FRAG.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,
+518,STWK.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,325
+519,OGUN-B.ST,Stockholm,Sweden,SEK,Industrials,Staffing & Employment Services,481
+520,CNCJO-B.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,
+521,CASE.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,
+522,SCOL.ST,Stockholm,Denmark,SEK,Healthcare,Biotechnology,15
+523,IMPC.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,40
+524,EPTI.ST,Stockholm,Sweden,SEK,Technology,Software—Application,225
+525,INFREA.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,462
+526,FLEXQ.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,44
+527,POLYG.ST,Stockholm,Sweden,SEK,Basic Materials,Specialty Chemicals,38
+528,NEXAM.ST,Stockholm,Sweden,SEK,Basic Materials,Specialty Chemicals,52
+529,ADTR.ST,Stockholm,Sweden,SEK,Communication Services,Advertising Agencies,75
+530,OXE.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Parts,41
+531,MAGI.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,111
+532,RAIL.ST,Stockholm,Sweden,SEK,Industrials,Railroads,141
+533,PRCO-B.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,238
+534,ICO.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,28
+535,CBTT-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,209
+536,W5.ST,Stockholm,Sweden,SEK,Industrials,Aerospace & Defense,62
+537,BBROOM.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,
+538,HEIM-PREF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,"1,717"
+539,FIRE.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,99
+540,SODER.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Leisure,51
+541,ISR.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,6
+542,NELLY.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,250
+543,ORGC.ST,Stockholm,Sweden,SEK,Basic Materials,Specialty Chemicals,51
+544,ITECH.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,9
+545,CE.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Renewable,31
+546,MEAB-B.ST,Stockholm,Sweden,SEK,Technology,Electronic Components,173
+547,GHUS-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Residential Construction,287
+548,DIGN.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,25
+549,NICA.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,17
+550,EXPRS2.ST,Stockholm,Denmark,SEK,Healthcare,Biotechnology,25
+551,MVIR-B.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,9
+552,SPEQT.ST,Stockholm,Sweden,SEK,Communication Services,Internet Content & Information,33
+553,BOTX.ST,Stockholm,Sweden,SEK,Basic Materials,Other Industrial Metals & Mining,1
+554,ATORX.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,46
+555,WISE.ST,Stockholm,Sweden,SEK,Industrials,Staffing & Employment Services,566
+556,YIELD.ST,Stockholm,Sweden,SEK,Financial Services,Credit Services,60
+557,SPEONE.ST,Stockholm,Sweden,SEK,Technology,Software—Application,51
+558,AAC.ST,Stockholm,Sweden,SEK,Technology,Scientific & Technical Instruments,172
+559,IMMU.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,30
+560,OSSD.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,47
+561,UNIBAP.ST,Stockholm,Sweden,SEK,Technology,Electronic Components,24
+562,MISE.ST,Stockholm,Sweden,SEK,Energy,Oil & Gas E&P,24
+563,LMKG.ST,Stockholm,Sweden,SEK,Consumer Defensive,Food Distribution,322
+564,GUARD.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,
+565,BONAS.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,1
+566,LAMM-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,"Furnishings, Fixtures & Appliances",309
+567,INIT.ST,Stockholm,Denmark,SEK,Healthcare,Biotechnology,1
+568,NETM-B.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,32
+569,VO2.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,
+570,AKEL-D.ST,Stockholm,Sweden,EUR,Real Estate,Real Estate Services,865
+571,CARE.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,
+572,MOMENT.ST,Stockholm,Sweden,SEK,Communication Services,Entertainment,108
+573,DDM.ST,Stockholm,Switzerland,SEK,Financial Services,Asset Management,11
+574,STW.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,
+575,NXTMS.ST,Stockholm,Finland,SEK,Healthcare,Medical Devices,35
+576,PREC.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,31
+577,AGES-B.ST,Stockholm,Sweden,SEK,Industrials,Metal Fabrication,491
+578,HAV-B.ST,Stockholm,Sweden,SEK,Financial Services,Capital Markets,
+579,QLIRO.ST,Stockholm,Sweden,SEK,Financial Services,Credit Services,208
+580,OPTER.ST,Stockholm,Sweden,SEK,Technology,Software—Application,38
+581,FREEM.ST,Stockholm,Sweden,SEK,Technology,Computer Hardware,16
+582,KAN.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,7
+583,SDS.ST,Stockholm,Sweden,SEK,Technology,Software—Application,149
+584,STRAX.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,200
+585,ASAI.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,63
+586,ALPCOT-B.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,
+587,ELEC.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Specialty Retail,138
+588,NILAR.ST,Stockholm,Sweden,SEK,Technology,Electronic Components,233
+589,GBK.ST,Stockholm,Sweden,SEK,Communication Services,Entertainment,237
+590,SCIB.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,18
+591,ALELIO.ST,Stockholm,Sweden,SEK,Industrials,Electrical Equipment & Parts,37
+592,NNH.ST,Stockholm,Sweden,SEK,Consumer Defensive,Packaged Foods,72
+593,HILB-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,
+594,BUILD.ST,Stockholm,Sweden,SEK,Technology,Software—Application,101
+595,DEVP-B.ST,Stockholm,Sweden,SEK,Technology,Software—Application,309
+596,SALT-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,15
+597,USWE.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Leisure,10
+598,MAGLE.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,69
+599,READ.ST,Stockholm,Sweden,SEK,Communication Services,Internet Content & Information,105
+600,ECOWVE.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Renewable,14
+601,QLIFE.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,56
+602,KLAR.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,6
+603,RLS.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,9
+604,ACROUD.ST,Stockholm,Malta,SEK,Consumer Cyclical,Gambling,108
+605,CLAV.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,133
+606,TERRNT-B.ST,Stockholm,Sweden,SEK,Technology,Software—Application,15
+607,NXTCL.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,13
+608,SFTR.ST,Stockholm,Sweden,SEK,Technology,Software—Application,41
+609,FREJA.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,54
+610,FUUD.ST,Stockholm,Sweden,SEK,Consumer Defensive,Packaged Foods,62
+611,AXIC-A.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,6
+612,DRIL.ST,Stockholm,Sweden,SEK,Industrials,Specialty Business Services,
+613,CCOR-B.ST,Stockholm,Sweden,SEK,Industrials,Marine Shipping,3
+614,TSEC.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,470
+615,CLBIO.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,10
+616,TAGM-B.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,137
+617,CEDER.ST,Stockholm,Sweden,SEK,Consumer Defensive,Education & Training Services,574
+618,ORTI-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,34
+619,TOURN.ST,Stockholm,Sweden,SEK,Communication Services,Internet Content & Information,
+620,REALFI.ST,Stockholm,Denmark,SEK,Technology,Computer Hardware,9
+621,ACTI.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,8
+622,PLUN.ST,Stockholm,Sweden,SEK,Healthcare,Medical Care Facilities,7
+623,NAIG-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,
+624,ACOU.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,14
+625,ORTI-A.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,34
+626,LINKFI.ST,Stockholm,Denmark,SEK,Communication Services,Advertising Agencies,68
+627,MODEL-B.ST,Stockholm,Sweden,SEK,Technology,Software—Application,92
+628,AEGIR.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,
+629,BELLE.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Apparel Retail,
+630,NITRO.ST,Stockholm,Finland,SEK,Communication Services,Electronic Gaming & Multimedia,37
+631,2CUREX.ST,Stockholm,Denmark,SEK,Healthcare,Biotechnology,
+632,ZIGN.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,87
+633,INT.ST,Stockholm,Sweden,SEK,Industrials,Electrical Equipment & Parts,8
+634,QUART.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,75
+635,SENZA.ST,Stockholm,Sweden,SEK,Healthcare,Diagnostics & Research,31
+636,CLS-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,
+637,HRNTS.ST,Stockholm,Finland,SEK,Healthcare,Biotechnology,13
+638,JLT.ST,Stockholm,Sweden,SEK,Technology,Computer Hardware,28
+639,TRAD.ST,Stockholm,Sweden,SEK,Communication Services,Advertising Agencies,264
+640,LIPI.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—General,2
+641,LINKAB.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,
+642,QUART-PREF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,75
+643,SAXG.ST,Stockholm,Sweden,SEK,Industrials,Pollution & Treatment Controls,73
+644,MANTEX.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,
+645,LCLEAN.ST,Stockholm,Sweden,SEK,Consumer Defensive,Household & Personal Products,
+646,PURE.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,24
+647,BIOSGN.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,1
+648,NGS.ST,Stockholm,Sweden,SEK,Industrials,Staffing & Employment Services,291
+649,LIDDS.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,
+650,K2A-PREF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,131
+651,FIRST-B.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,
+652,INCOAX.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,
+653,WAYS.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,18
+654,LITI.ST,Stockholm,Sweden,SEK,Technology,Software—Application,600
+655,SFL.ST,Stockholm,Sweden,SEK,Technology,Software—Application,32
+656,JDT.ST,Stockholm,Sweden,SEK,Technology,Electronic Components,18
+657,MULQ.ST,Stockholm,Sweden,SEK,Technology,Computer Hardware,63
+658,TRG.ST,Stockholm,Sweden,SEK,Industrials,Consulting Services,123
+659,BONG.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Packaging & Containers,"1,129"
+660,ANOT.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,95
+661,ERMA.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,10
+662,DEAR.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,1
+663,ABLI.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,9
+664,LEVEL.ST,Stockholm,Sweden,SEK,Industrials,Security & Protection Services,121
+665,BAWAT.ST,Stockholm,Denmark,SEK,Industrials,Pollution & Treatment Controls,
+666,NEWBRY.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,3
+667,COMBI.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,8
+668,MYFC.ST,Stockholm,Sweden,SEK,Industrials,Electrical Equipment & Parts,13
+669,ATIC.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Personal Services,600
+670,AUR.ST,Stockholm,Sweden,SEK,Basic Materials,Gold,578
+671,NIO.ST,Stockholm,Sweden,SEK,Basic Materials,Other Industrial Metals & Mining,3
+672,PLEX.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,
+673,NOTEK.ST,Stockholm,Sweden,SEK,Industrials,Waste Management,
+674,LOHILO.ST,Stockholm,Sweden,SEK,Consumer Defensive,Food Distribution,85
+675,CLEM.ST,Stockholm,Sweden,SEK,Consumer Defensive,Household & Personal Products,64
+676,ACARIX.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,
+677,COALA.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Apparel Retail,22
+678,BIOS.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,30
+679,TESSIN.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,
+680,SPRINT.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,35
+681,ME.ST,Stockholm,Sweden,SEK,Industrials,Specialty Business Services,102
+682,XINT.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,
+683,VOLAB.ST,Stockholm,Sweden,SEK,Consumer Defensive,Packaged Foods,6
+684,FRAM-B.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,
+685,HELIO.ST,Stockholm,Sweden,SEK,Industrials,Electrical Equipment & Parts,
+686,AMNI.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,21
+687,CMOTEC-B.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,7
+688,FLUI.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,19
+689,NANEXA.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,16
+690,WYLD.ST,Stockholm,Switzerland,SEK,Technology,Information Technology Services,14
+691,BONES.ST,Stockholm,Finland,SEK,Healthcare,Medical Devices,21
+692,IS.ST,Stockholm,Sweden,SEK,Technology,Consumer Electronics,81
+693,ALZCUR.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,12
+694,IRRAS.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,53
+695,EFFH.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,
+696,SBOK.ST,Stockholm,Sweden,SEK,Industrials,Specialty Business Services,204
+697,HIFA-B.ST,Stockholm,Sweden,SEK,Industrials,Engineering & Construction,290
+698,KEBNI-B.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,18
+699,SCOUT.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,125
+700,AVT-B.ST,Stockholm,Sweden,SEK,Industrials,Aerospace & Defense,8
+701,NORDIG.ST,Stockholm,Sweden,SEK,Technology,Software—Application,4
+702,CMH.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,3
+703,BINERO.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,57
+704,KONT.ST,Stockholm,Sweden,SEK,Healthcare,Health Information Services,14
+705,KENH.ST,Stockholm,Sweden,SEK,Technology,Software—Application,28
+706,INSP.ST,Stockholm,Sweden,SEK,Technology,Scientific & Technical Instruments,15
+707,ARCOMA.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,31
+708,GCOR.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,13
+709,MACK-B.ST,Stockholm,Sweden,SEK,Consumer Defensive,Beverages—Wineries & Distilleries,58
+710,TOL.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,4
+711,SOZAP.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,34
+712,SNX.ST,Stockholm,Sweden,SEK,Consumer Defensive,Packaged Foods,74
+713,QCORE.ST,Stockholm,Sweden,SEK,Technology,Software—Application,15
+714,PROGEN.ST,Stockholm,Sweden,SEK,Healthcare,Diagnostics & Research,6
+715,SPAGO.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,18
+716,AROC.ST,Stockholm,Sweden,SEK,Healthcare,Diagnostics & Research,5
+717,DIAH.ST,Stockholm,Sweden,SEK,Technology,Software—Application,53
+718,UTG.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Leisure,65
+719,ZAZZ-B.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Renewable,
+720,MOB.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,8
+721,BRICK-B.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,
+722,NG.ST,Stockholm,Sweden,SEK,Basic Materials,Gold,
+723,EMPIR-B.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,18
+724,SDOS.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,35
+725,SANION.ST,Stockholm,Denmark,SEK,Healthcare,Biotechnology,53
+726,ANNX.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,5
+727,ADDERA.ST,Stockholm,Sweden,SEK,Healthcare,Medical Care Facilities,
+728,NGENIC.ST,Stockholm,Sweden,SEK,Technology,Scientific & Technical Instruments,55
+729,PHLOG-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,9
+730,QIIWI.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,52
+731,XMR.ST,Stockholm,Sweden,SEK,Technology,Software—Application,24
+732,HEART.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,
+733,PILA.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,3
+734,BTCX.ST,Stockholm,Sweden,SEK,Financial Services,Capital Markets,11
+735,ZICC.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,8
+736,LADYLU.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,
+737,MOV.ST,Stockholm,Sweden,SEK,Technology,Software—Application,
+738,SERT.ST,Stockholm,Sweden,SEK,Basic Materials,Chemicals,22
+739,MESTRO.ST,Stockholm,Sweden,SEK,Technology,Software—Application,
+740,MEDHLP.ST,Stockholm,Sweden,SEK,Healthcare,Health Information Services,37
+741,TELLUS.ST,Stockholm,Sweden,SEK,Consumer Defensive,Education & Training Services,417
+742,NBZ.ST,Stockholm,Sweden,SEK,Technology,Consumer Electronics,
+743,GIAB.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,81
+744,ARCT.ST,Stockholm,Sweden,SEK,Basic Materials,Other Industrial Metals & Mining,
+745,CDMIL.ST,Stockholm,Sweden,SEK,Technology,Software—Application,77
+746,BRIG.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,55
+747,WPAY.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,35
+748,LIPUM.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,4
+749,MAV.ST,Stockholm,Sweden,SEK,Communication Services,Entertainment,48
+750,CYXO.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,8
+751,HOYLU.ST,Stockholm,Sweden,SEK,Technology,Software—Application,44
+752,GPX.ST,Stockholm,Sweden,SEK,Technology,Scientific & Technical Instruments,17
+753,COMPDM.ST,Stockholm,Sweden,SEK,Technology,Software—Application,
+754,PCAT.ST,Stockholm,Denmark,SEK,Basic Materials,Specialty Chemicals,10
+755,ELIC.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,1
+756,CHRO.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,29
+757,GGEO.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,75
+758,SAVOS.ST,Stockholm,Finland,SEK,Technology,Solar,34
+759,PROMO.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,1
+760,CIRCHE.ST,Stockholm,Sweden,SEK,Industrials,Pollution & Treatment Controls,4
+761,AYIMA-B.ST,Stockholm,United Kingdom,SEK,Communication Services,Advertising Agencies,186
+762,NICO.ST,Stockholm,Sweden,SEK,Consumer Defensive,Tobacco,1
+763,HEGR.ST,Stockholm,Sweden,SEK,Industrials,Staffing & Employment Services,29
+764,STABL.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,3
+765,POLY.ST,Stockholm,Sweden,SEK,Industrials,Building Products & Equipment,14
+766,RO.ST,Stockholm,Sweden,SEK,Technology,Scientific & Technical Instruments,17
+767,SECI.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,
+768,RIZZO-B.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Apparel Retail,525
+769,TCT.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,12
+770,LXB.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,
+771,TALK.ST,Stockholm,Switzerland,SEK,Communication Services,Telecom Services,
+772,LYGRD.ST,Stockholm,Sweden,SEK,Industrials,Farm & Heavy Construction Machinery,
+773,BRILL.ST,Stockholm,Sweden,SEK,Industrials,Consulting Services,90
+774,DLAB.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Renewable,37
+775,EMPLI.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,
+776,NFGAB.ST,Stockholm,Sweden,SEK,Industrials,Metal Fabrication,108
+777,DIVIO-B.ST,Stockholm,Sweden,SEK,Technology,Software—Application,
+778,LOUDS.ST,Stockholm,Finland,SEK,Industrials,Conglomerates,
+779,FAGA.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,30
+780,SIMRIS-B.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,6
+781,GABA.ST,Stockholm,Sweden,SEK,Healthcare,Drug Manufacturers—Specialty & Generic,3
+782,KAKEL.ST,Stockholm,Sweden,SEK,Basic Materials,Building Materials,
+783,PHARM.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,7
+784,HEAD.ST,Stockholm,Sweden,SEK,Industrials,Consulting Services,4
+785,AERO.ST,Stockholm,Sweden,SEK,Basic Materials,Specialty Chemicals,15
+786,S2M.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,
+787,HDW-B.ST,Stockholm,Sweden,SEK,Technology,Communication Equipment,
+788,GPXMED.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,5
+789,MODTX.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,2
+790,ENRO.ST,Stockholm,Sweden,SEK,Communication Services,Internet Content & Information,608
+791,BOMILL.ST,Stockholm,Sweden,SEK,Industrials,Specialty Industrial Machinery,12
+792,APRNDR.ST,Stockholm,Sweden,SEK,Consumer Defensive,Education & Training Services,191
+793,RESQ.ST,Stockholm,Sweden,SEK,Industrials,Pollution & Treatment Controls,
+794,ZAPLOX.ST,Stockholm,Sweden,SEK,Technology,Software—Application,15
+795,FRISQ.ST,Stockholm,Sweden,SEK,Healthcare,Health Information Services,25
+796,XPC.ST,Stockholm,Sweden,SEK,Basic Materials,Chemicals,2
+797,CISH.ST,Stockholm,Sweden,SEK,Utilities,Utilities—Renewable,
+798,IZAFE-B.ST,Stockholm,Sweden,SEK,Healthcare,Medical Instruments & Supplies,8
+799,IDOGEN.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,10
+800,EURA.ST,Stockholm,Sweden,SEK,Technology,Information Technology Services,
+801,ALZ.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,3
+802,AXOLOT.ST,Stockholm,Sweden,SEK,Industrials,Waste Management,7
+803,TH1NG.ST,Stockholm,Sweden,SEK,Communication Services,Telecom Services,30
+804,AINO.ST,Stockholm,Sweden,SEK,Healthcare,Health Information Services,
+805,KOLL.ST,Stockholm,Ireland,SEK,Industrials,Waste Management,52
+806,APTR.ST,Stockholm,Sweden,SEK,Technology,Software—Application,22
+807,CLEMO.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Manufacturers,
+808,AVENT-B.ST,Stockholm,Sweden,SEK,Industrials,Specialty Business Services,100
+809,REDW.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,2
+810,SPIFF.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,23
+811,ENERS.ST,Stockholm,Sweden,SEK,Technology,Software—Application,11
+812,LPGO.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,6
+813,ASAP.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,6
+814,HEMC.ST,Stockholm,Sweden,SEK,Healthcare,Medical Devices,6
+815,YAYTRD.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Internet Retail,
+816,DOME.ST,Stockholm,Sweden,SEK,Energy,Oil & Gas E&P,
+817,TRIBO-B.ST,Stockholm,Sweden,SEK,Basic Materials,Specialty Chemicals,3
+818,CLINE-B.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,
+819,DIABIO.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,5
+820,EKOBOT.ST,Stockholm,Sweden,SEK,Industrials,Farm & Heavy Construction Machinery,6
+821,ADVBOX.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,11
+822,AGILIT.ST,Stockholm,Sweden,SEK,Healthcare,Health Information Services,
+823,PCOM-B.ST,Stockholm,Sweden,SEK,Industrials,Metal Fabrication,129
+824,NILS.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Manufacturers,51
+825,ONCOZ.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,
+826,SONE.ST,Stockholm,Sweden,SEK,Technology,Software—Infrastructure,30
+827,ELLWEE.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Auto Manufacturers,27
+828,NJOB.ST,Stockholm,Sweden,SEK,Industrials,Staffing & Employment Services,16
+829,BONZUN.ST,Stockholm,Sweden,SEK,Healthcare,Health Information Services,
+830,LAUR.ST,Stockholm,Denmark,SEK,Consumer Cyclical,Specialty Retail,60
+831,MTI.ST,Stockholm,Sweden,SEK,Financial Services,Asset Management,67
+832,ELN.ST,Stockholm,Sweden,SEK,Consumer Defensive,Household & Personal Products,5
+833,L2S.ST,Stockholm,Sweden,SEK,Healthcare,Health Information Services,12
+834,KILI.ST,Stockholm,Sweden,SEK,Technology,Software—Application,6
+835,TANGI.ST,Stockholm,Sweden,SEK,Consumer Cyclical,Gambling,
+836,QUIA.ST,Stockholm,Sweden,SEK,Healthcare,Biotechnology,5
+837,CYB1.ST,Stockholm,Sweden,EUR,Technology,Software—Infrastructure,180
+838,FSPORT.ST,Stockholm,Sweden,SEK,Communication Services,Electronic Gaming & Multimedia,
+839,TWIIK.ST,Stockholm,Sweden,SEK,Technology,Software—Application,
+840,BEAR-NIBE-X5-AVA-1.ST,Stockholm,Sweden,SEK,,,
+841,MINI-L-SSAB-AVA-57.ST,Stockholm,Sweden,SEK,,,
+842,BULL-OMX-X10S-N1.ST,Stockholm,Sweden,SEK,,,
+843,CLEMO-TO1.ST,Stockholm,Sweden,SEK,,,
+844,MINI-S-DJIA-AVA-96.ST,Stockholm,Sweden,SEK,,,
+845,MINI-S-JM-AVA-029.ST,Stockholm,Sweden,SEK,,,
+846,TCT-TR.ST,Stockholm,Sweden,SEK,,,
+847,LOGI-BTA-A.ST,Stockholm,Sweden,SEK,,,
+848,MINI-S-NIBE-AVA-22.ST,Stockholm,Sweden,SEK,,,
+849,KARO-BTA.ST,Stockholm,Sweden,SEK,,,225
+850,MINI-L-OMX-AVA-599.ST,Stockholm,Sweden,SEK,,,
+851,MINI-L-OMX-AVA-553.ST,Stockholm,Sweden,SEK,,,
+852,HIGHCO-B.ST,Stockholm,Sweden,SEK,Consumer Defensive,Beverages—Wineries & Distilleries,
+853,BAWAT-TO1.ST,Stockholm,Sweden,SEK,,,
+854,BULL-OMX-X15S-N1.ST,Stockholm,Sweden,SEK,,,
+855,BULL-GAS-X5-AVA-8.ST,Stockholm,Sweden,SEK,,,
+856,QUIA-UR.ST,Stockholm,Sweden,SEK,,,
+857,BULL-DAX-X10S-N2.ST,Stockholm,Sweden,SEK,,,
+858,STW-TO2.ST,Stockholm,Sweden,SEK,,,
+859,MINI-S-WTI-AVA-40.ST,Stockholm,Sweden,SEK,,,
+860,MOV-TO1.ST,Stockholm,Sweden,SEK,,,
+861,SAVOS-TO9.ST,Stockholm,Sweden,SEK,,,
+862,MINI-L-DAX-AVA-428.ST,Stockholm,Sweden,SEK,,,
+863,MINI-S-SAGAX-AVA-6.ST,Stockholm,Sweden,SEK,,,
+864,BULL-KPR-X1-N1.ST,Stockholm,Sweden,SEK,,,
+865,HEGR-BTA.ST,Stockholm,Sweden,SEK,Healthcare,Medical Care Facilities,29
+866,MINI-L-SAAB-AVA-27.ST,Stockholm,Sweden,SEK,,,
+867,BEAR-GULD-X5-AVA-4.ST,Stockholm,Sweden,SEK,,,
+868,MINI-L-GAS-AVA-16.ST,Stockholm,Sweden,SEK,,,
+869,MINI-S-NIBE-AVA-21.ST,Stockholm,Sweden,SEK,,,
+870,BULL-SILVER-X4-AVA.ST,Stockholm,Sweden,SEK,,,
+871,BULL-SILVER-X3-AVA.ST,Stockholm,Sweden,SEK,,,
+872,BULL-GULD-X4-AVA.ST,Stockholm,Sweden,SEK,,,
+873,ETHEREUM-XBTE.ST,Stockholm,Sweden,EUR,,,
+874,MINI-L-OMX-AVA-600.ST,Stockholm,Sweden,SEK,,,
+875,BULL-DAX-X2-AVA.ST,Stockholm,Sweden,SEK,,,
+876,MINI-L-DJIA-AVA-66.ST,Stockholm,Sweden,SEK,,,
+877,BULL-GULD-X1-N1.ST,Stockholm,Sweden,SEK,,,
+878,MINI-S-DAX-AVA-524.ST,Stockholm,Sweden,SEK,,,
+879,MINI-L-OMX-AVA-598.ST,Stockholm,Sweden,SEK,,,
+880,CHARGE.ST,Stockholm,Sweden,SEK,Technology,Software—Application,
+881,MINI-L-IPCO-AVA-21.ST,Stockholm,Sweden,SEK,,,
+882,SWE2L-187NDSX.ST,Stockholm,Sweden,SEK,,,
+883,BEAR-OLJA-X2-AVA-3.ST,Stockholm,Sweden,SEK,,,
+884,BOL2R-340SHB.ST,Stockholm,Sweden,SEK,,,
+885,BULL-NIO-X2-AVA-5.ST,Stockholm,Sweden,SEK,,,
+886,ERI2E-95SHB.ST,Stockholm,Sweden,SEK,,,
+887,HM-2E-170SHB.ST,Stockholm,Sweden,SEK,,,
+888,SAVOS-TO10.ST,Stockholm,Sweden,SEK,,,
+889,BEAR-OMX-X12S-N2.ST,Stockholm,Sweden,SEK,,,
+890,MINI-S-OMX-AVA-670.ST,Stockholm,Sweden,SEK,,,
+891,XPC-TO1.ST,Stockholm,Sweden,SEK,,,
+892,LXB-BTA.ST,Stockholm,Sweden,SEK,,,
+893,BULLSILVER-X1-N1.ST,Stockholm,Sweden,SEK,,,
+894,CLEMO-TO2.ST,Stockholm,Sweden,SEK,,,
+895,VOL2L-240SHBX.ST,Stockholm,Sweden,SEK,,,
+896,L2S-TO1.ST,Stockholm,Sweden,SEK,,,
+897,MINI-S-SBB-AVA-15.ST,Stockholm,Sweden,SEK,,,
+898,VOL2L-200NDSZ.ST,Stockholm,Sweden,SEK,,,
+899,BULL-OMX-X8-AVA-1.ST,Stockholm,Sweden,SEK,,,
+900,ERI2H-105SHB.ST,Stockholm,Sweden,SEK,,,
+901,BULL-SP500-X5-AVA.ST,Stockholm,Sweden,SEK,,,
+902,KILI-TO1.ST,Stockholm,Sweden,SEK,,,
+903,MINI-L-EVO-AVA-49.ST,Stockholm,Sweden,SEK,,,
+904,BULL-OMX-X2-AVA.ST,Stockholm,Sweden,SEK,,,
+905,MINI-S-GAS-AVA-51.ST,Stockholm,Sweden,SEK,,,
+906,MINI-L-OMX-AVA-601.ST,Stockholm,Sweden,SEK,,,
+907,HM3L-160NDS.ST,Stockholm,Sweden,SEK,,,
+908,MINI-S-OMX-AVA-703.ST,Stockholm,Sweden,SEK,,,
+909,BITCOIN-XBT.ST,Stockholm,Sweden,SEK,,,
+910,BEAR-OLJA-X4-AVA-9.ST,Stockholm,Sweden,SEK,,,
+911,FLUI-TO-3.ST,Stockholm,Sweden,SEK,,,
+912,CYB1-TO1.ST,Stockholm,Sweden,EUR,,,
+913,CFISH-TO9.ST,Stockholm,Sweden,SEK,,,
+914,S2M-UR.ST,Stockholm,Sweden,SEK,,,
+915,BULL-OMX-X8-N1.ST,Stockholm,Sweden,SEK,,,
+916,BRIG-TO-7.ST,Stockholm,Sweden,SEK,,,
+917,LOGI-BTA-B.ST,Stockholm,Sweden,SEK,,,
+918,MINI-L-IPCO-AVA-23.ST,Stockholm,Sweden,SEK,,,
+919,BEAR-SILVER-X2-AVA.ST,Stockholm,Sweden,SEK,,,
+920,MINI-S-OMX-AVA-582.ST,Stockholm,Sweden,SEK,,,
+921,ATIC-TR.ST,Stockholm,Sweden,SEK,,,
+922,MINI-L-DAX-AVA-436.ST,Stockholm,Sweden,SEK,,,
+923,MINI-L-DAX-AVA-430.ST,Stockholm,Sweden,SEK,,,
+924,BULL-DAX-X4-AVA.ST,Stockholm,Sweden,SEK,,,
+925,BULL-OMX-X5-AVA.ST,Stockholm,Sweden,SEK,,,
+926,MINI-L-OMX-AVA-619.ST,Stockholm,Sweden,SEK,,,
+927,MINI-L-OMX-AVA-603.ST,Stockholm,Sweden,SEK,,,
+928,NYTTO-PREF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,
+929,SMART-SDB.ST,Stockholm,Switzerland,SEK,Technology,Software—Application,
+930,MINI-S-DAX-AVA-537.ST,Stockholm,Switzerland,SEK,,,
+931,MINI-S-SSAB-AVA-48.ST,Stockholm,Switzerland,SEK,,,
+932,BULL-OMX-X4-N1.ST,Stockholm,Switzerland,SEK,,,
+933,FSPORT-TO-1.ST,Stockholm,Switzerland,SEK,,,
+934,MINI-L-G5-AVA-048.ST,Stockholm,Switzerland,SEK,,,
+935,MINI-L-LUMI-AVA-29.ST,Stockholm,Switzerland,SEK,,,
+936,APRNDR-TO1.ST,Stockholm,Switzerland,SEK,,,
+937,MINI-L-GAS-AVA-23.ST,Stockholm,Switzerland,SEK,,,
+938,BONZUN-TO1.ST,Stockholm,Switzerland,SEK,,,
+939,MINI-L-IPCO-AVA-24.ST,Stockholm,Switzerland,SEK,,,
+940,VOL2I-187SHBX.ST,Stockholm,Switzerland,SEK,,,
+941,MINI-S-DAX-AVA-503.ST,Stockholm,Switzerland,SEK,,,
+942,VOL2L-201SHBX.ST,Stockholm,Switzerland,SEK,,,
+943,BULL-GULD-X2-AVA.ST,Stockholm,Switzerland,SEK,,,
+944,L2S-TO2.ST,Stockholm,Switzerland,SEK,,,
+945,MINI-L-DAX-AVA-425.ST,Stockholm,Switzerland,SEK,,,
+946,MINI-L-NIBE-AVA-10.ST,Stockholm,Switzerland,SEK,,,
+947,BEAR-OMXX18S-N12.ST,Stockholm,Switzerland,SEK,,,
+948,MINI-S-SCA-AVA-41.ST,Stockholm,Switzerland,SEK,,,
+949,BEAR-DAX-X4-AVA.ST,Stockholm,Switzerland,SEK,,,
+950,BEAR-OLJA-X3-AVA-6.ST,Stockholm,Switzerland,SEK,,,
+951,HEART-TO1.ST,Stockholm,Switzerland,SEK,,,
+952,VOL2F-182SHBX.ST,Stockholm,Switzerland,SEK,,,
+953,TURBO-S-EVO-AVA-5.ST,Stockholm,Switzerland,SEK,,,
+954,BEAR-ASSA-X5-AVA-1.ST,Stockholm,Switzerland,SEK,,,
+955,MINI-L-IPCO-AVA-22.ST,Stockholm,Switzerland,SEK,,,
+956,MINI-L-OMX-AVA-544.ST,Stockholm,Switzerland,SEK,,,
+957,BULL-GULD-X3-N1.ST,Stockholm,Switzerland,SEK,,,
+958,MINI-S-HM-AVA-074.ST,Stockholm,Switzerland,SEK,,,
+959,TURBO-L-HM-AVA-28.ST,Stockholm,Switzerland,SEK,,,
+960,L2S-TO3.ST,Stockholm,Switzerland,SEK,,,
+961,MINI-L-SAAB-AVA-26.ST,Stockholm,Switzerland,SEK,,,
+962,ETHEREUM-XBT.ST,Stockholm,Switzerland,SEK,,,
+963,SIMRIS-TR-B.ST,Stockholm,Switzerland,SEK,,,
+964,BEAR-OMX-X1-AVA-1.ST,Stockholm,Switzerland,SEK,,,
+965,MINI-L-DAX-AVA-426.ST,Stockholm,Switzerland,SEK,,,
+966,MINI-S-OMX-AVA-687.ST,Stockholm,Switzerland,SEK,,,
+967,BULL-OMX-X4-AVA.ST,Stockholm,Switzerland,SEK,,,
+968,BEAR-DAX-X2-AVA.ST,Stockholm,Switzerland,SEK,,,
+969,BULL-OLJA-X3-AVA-5.ST,Stockholm,Switzerland,SEK,,,
+970,BEAMMW-B.ST,Stockholm,Sweden,SEK,Technology,Semiconductors,4
+971,EMIL-PREF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Development,15
+972,IMP-A-SDB.ST,Stockholm,Liechtenstein,SEK,Healthcare,Medical Devices,29
+973,ENRO-PREF-B.ST,Stockholm,Sweden,SEK,Communication Services,Internet Content & Information,608
+974,OP-TO1.ST,Stockholm,Sweden,SEK,,,
+975,BULL-OMX-X3-AVA-1.ST,Stockholm,Sweden,SEK,,,
+976,MINI-L-SSAB-AVA-59.ST,Stockholm,Sweden,USD,,,
+977,EKT2F-80SHB.ST,Stockholm,Sweden,SEK,,,
+978,MINI-L-GAS-AVA-19.ST,Stockholm,Sweden,SEK,,,
+979,MINI-S-OMX-AVA-686.ST,Stockholm,Sweden,SEK,,,
+980,MINI-S-OMX-AVA-587.ST,Stockholm,Sweden,SEK,,,
+981,BEAR-DAX-X1-AVA-1.ST,Stockholm,Sweden,SEK,,,
+982,BULL-PLATX10S-N1.ST,Stockholm,Sweden,SEK,,,
+983,MINI-S-SBB-AVA-18.ST,Stockholm,Sweden,SEK,,,
+984,MINI-S-OMX-AVA-674.ST,Stockholm,Sweden,SEK,,,
+985,ANNX-TO3.ST,Stockholm,Sweden,SEK,,,
+986,TURBO-S-AMD-AVA-45.ST,Stockholm,Sweden,SEK,,,
+987,SWE3L-207NDSX.ST,Stockholm,Sweden,SEK,,,
+988,BEAR-OMX-X5-N2.ST,Stockholm,Sweden,SEK,,,
+989,MINI-L-HM-AVA-089.ST,Stockholm,Sweden,SEK,,,
+990,ACOU-TO1.ST,Stockholm,Sweden,SEK,,,
+991,IDOGEN-TO5.ST,Stockholm,Sweden,SEK,,,
+992,BEAR-DAX-X18S-N7.ST,Stockholm,Sweden,SEK,,,
+993,VOL2E-192SHBX.ST,Stockholm,Sweden,SEK,,,
+994,VOL2H-192SHBX.ST,Stockholm,Sweden,SEK,,,
+995,LEVEL-TO3.ST,Stockholm,Sweden,SEK,,,
+996,AERO-TO-5.ST,Stockholm,Sweden,SEK,,,
+997,BULL-GULD-X2-AVA-1.ST,Stockholm,Sweden,SEK,,,
+998,ELU2L-205NDSX.ST,Stockholm,Sweden,SEK,,,
+999,BEAR-OMX-X4-N1.ST,Stockholm,Sweden,SEK,,,
+1000,MINI-S-SBB-AVA-18.ST,Stockholm,Sweden,SEK,,,
+1001,LXB-BTA.ST,Stockholm,Sweden,SEK,,,
+1002,MINI-S-SCA-AVA-41.ST,Stockholm,Sweden,SEK,,,
+1003,MINI-S-DAX-AVA-536.ST,Stockholm,Sweden,SEK,,,
+1004,MINI-S-SBB-AVA-15.ST,Stockholm,Sweden,SEK,,,
+1005,VOL2I-187SHBX.ST,Stockholm,Sweden,SEK,,,
+1006,ERI2H-105SHB.ST,Stockholm,Sweden,SEK,,,
+1007,BULL-GULD-X2-AVA-1.ST,Stockholm,Sweden,SEK,,,
+1008,SWE3L-207NDSX.ST,Stockholm,Sweden,SEK,,,
+1009,MINI-S-NIBE-AVA-21.ST,Stockholm,Sweden,SEK,,,
+1010,BULL-SILVER-X4-AVA.ST,Stockholm,Sweden,SEK,,,
+1011,OP-TO1.ST,Stockholm,Sweden,SEK,,,
+1012,MINI-L-GAS-AVA-19.ST,Stockholm,Sweden,SEK,,,
+1013,BULL-OMX-X3-AVA-1.ST,Stockholm,Sweden,SEK,,,
+1014,CFISH-TO9.ST,Stockholm,Sweden,SEK,,,
+1015,MINI-S-ROKU-AVA-7.ST,Stockholm,Sweden,SEK,,,
+1016,BULL-PLATX10S-N1.ST,Stockholm,Sweden,SEK,,,
+1017,ATIC-TR.ST,Stockholm,Sweden,SEK,,,
+1018,BULL-NIO-X2-AVA-4.ST,Stockholm,Sweden,SEK,,,
+1019,TURBO-L-EVO-AVA-3.ST,Stockholm,Sweden,SEK,,,
+1020,BITCOIN-XBT.ST,Stockholm,Sweden,SEK,,,
+1021,BEAR-OMX-X4-AVA.ST,Stockholm,Sweden,SEK,,,
+1022,BEAR-GULD-X2-AVA-1.ST,Stockholm,Sweden,SEK,,,
+1023,MINI-S-WTI-AVA-40.ST,Stockholm,Sweden,SEK,,,
+1024,BULL-OMX-X2-AVA.ST,Stockholm,Sweden,SEK,,,
+1025,MINI-S-GAS-AVA-51.ST,Stockholm,Sweden,SEK,,,
+1026,MINI-L-SSAB-AVA-58.ST,Stockholm,Sweden,SEK,,,
+1027,STW-TO2.ST,Stockholm,Sweden,SEK,,,
+1028,MINI-S-DAX-AVA-523.ST,Stockholm,Sweden,SEK,,,
+1029,LOGI-BTA-B.ST,Stockholm,Sweden,SEK,,,
+1030,BEAR-DAX-X1-AVA-1.ST,Stockholm,Sweden,SEK,,,
+1031,MINI-S-DAX-AVA-524.ST,Stockholm,Sweden,SEK,,,
+1032,BULL-OMX-X5-AVA.ST,Stockholm,Sweden,SEK,,,
+1033,BULL-GULD-X5-AVA.ST,Stockholm,Sweden,SEK,,,
+1034,CHARGE.ST,Stockholm,Sweden,SEK,Technology,Software—Application,
+1035,BEAMMW-B.ST,Stockholm,Sweden,SEK,Technology,Semiconductors,4
+1036,FRISQ-BTA.ST,Stockholm,Sweden,SEK,,,25
+1037,MINI-S-OMX-AVA-674.ST,Stockholm,Sweden,SEK,,,
+1038,MINI-S-OMX-AVA-706.ST,Stockholm,Sweden,SEK,,,
+1039,SAVOS-TO10.ST,Stockholm,Sweden,SEK,,,
+1040,MINI-L-GAS-AVA-16.ST,Stockholm,Sweden,SEK,,,
+1041,SWE2H-167SHBX.ST,Stockholm,Sweden,SEK,,,
+1042,BEAR-DAX-X18S-N7.ST,Stockholm,Sweden,SEK,,,
+1043,MINI-L-DAX-AVA-425.ST,Stockholm,Sweden,SEK,,,
+1044,MINI-L-IPCO-AVA-20.ST,Stockholm,Sweden,SEK,,,
+1045,MINI-L-NIBE-AVA-10.ST,Stockholm,Sweden,SEK,,,
+1046,MINI-L-SAAB-AVA-27.ST,Stockholm,Sweden,SEK,,,
+1047,MINI-S-DAX-AVA-503.ST,Stockholm,Sweden,SEK,,,
+1048,VOL2L-201SHBX.ST,Stockholm,Sweden,SEK,,,
+1049,CLEMO-TO2.ST,Stockholm,Sweden,SEK,,,
+1050,BEAR-OMX-X5-N2.ST,Stockholm,Sweden,SEK,,,
+1051,ELU2L-205NDSX.ST,Stockholm,Sweden,SEK,,,
+1052,TURBO-S-EVO-AVA-5.ST,Stockholm,Sweden,SEK,,,
+1053,MINI-L-MAHA-AVA-21.ST,Stockholm,Sweden,SEK,,,
+1054,MINI-S-DAX-AVA-522.ST,Stockholm,Sweden,SEK,,,
+1055,VOL2L-200NDSZ.ST,Stockholm,Sweden,SEK,,,
+1056,MINI-L-SAAB-AVA-26.ST,Stockholm,Sweden,SEK,,,
+1057,TCT-TR.ST,Stockholm,Sweden,SEK,,,
+1058,MINI-S-DAX-AVA-514.ST,Stockholm,Sweden,SEK,,,
+1059,HIGHCO-B.ST,Stockholm,Sweden,SEK,Consumer Defensive,Beverages—Wineries & Distilleries,
+1060,MINI-S-OMX-AVA-582.ST,Stockholm,Sweden,SEK,,,
+1061,MINI-S-OMX-AVA-587.ST,Stockholm,Sweden,SEK,,,
+1062,MINI-S-NIBE-AVA-22.ST,Stockholm,Sweden,SEK,,,
+1063,LOGI-BTA-A.ST,Stockholm,Sweden,SEK,,,
+1064,BOL2R-340SHB.ST,Stockholm,Sweden,SEK,,,
+1065,BULL-NIO-X2-AVA-5.ST,Stockholm,Sweden,SEK,,,
+1066,MINI-L-LUMI-AVA-29.ST,Stockholm,Sweden,SEK,,,
+1067,SWE2L-187NDSX.ST,Stockholm,Sweden,SEK,,,
+1068,BULL-OMX-X10S-N1.ST,Stockholm,Sweden,SEK,,,
+1069,WYLD-TO3.ST,Stockholm,Sweden,SEK,,,
+1070,MINI-L-OMX-AVA-609.ST,Stockholm,Sweden,SEK,,,
+1071,MINI-S-WIHL-AVA-21.ST,Stockholm,Sweden,SEK,,,
+1072,MINI-S-DJIA-AVA-96.ST,Stockholm,Sweden,SEK,,,
+1073,MINI-L-DJIA-AVA-65.ST,Stockholm,Sweden,SEK,,,
+1074,MTI-TO1.ST,Stockholm,Sweden,SEK,,,
+1075,BULL-MIPS-X2-AVA-1.ST,Stockholm,Sweden,SEK,,,
+1076,BULL-DAX-X2-AVA.ST,Stockholm,Sweden,SEK,,,
+1077,MINI-S-OMX-AVA-703.ST,Stockholm,Sweden,SEK,,,
+1078,MINI-L-SKF-AVA-44.ST,Stockholm,Sweden,SEK,,,
+1079,MINI-S-HM-AVA-074.ST,Stockholm,Sweden,SEK,,,
+1080,BEAR-OMX-X3-AVA-1.ST,Stockholm,Sweden,SEK,,,
+1081,BULL-SILVER-X2-AVA.ST,Stockholm,Sweden,SEK,,,
+1082,MINI-L-DAX-AVA-424.ST,Stockholm,Sweden,SEK,,,
+1083,MINI-L-DAX-AVA-430.ST,Stockholm,Sweden,SEK,,,
+1084,MINI-S-OMX-AVA-676.ST,Stockholm,Sweden,SEK,,,
+1085,MINI-L-OMX-AVA-603.ST,Stockholm,Sweden,SEK,,,
+1086,BULL-GULD-X10-AVA.ST,Stockholm,Sweden,SEK,,,
+1087,BULL-NIBE-X5-AVA-1.ST,Stockholm,Sweden,SEK,,,
+1088,NYTTO-PREF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate Services,
+1089,EMIL-PREF.ST,Stockholm,Sweden,SEK,Real Estate,Real Estate—Development,15

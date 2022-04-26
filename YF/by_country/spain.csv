@@ -1,0 +1,196 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,XPBR.MC,MCE,Chile,EUR,Energy,Oil & Gas Integrated,"45,532"
+1,XPBRA.MC,MCE,Chile,EUR,Energy,Oil & Gas Integrated,"45,532"
+2,AIR.MC,MCE,Netherlands,EUR,Industrials,Aerospace & Defense,"121,056"
+3,XVALO.MC,MCE,Brazil,EUR,Basic Materials,Other Industrial Metals & Mining,
+4,IBE.MC,MCE,Spain,EUR,Utilities,Utilities—Diversified,"38,702"
+5,ITX.MC,MCE,Spain,EUR,Consumer Cyclical,Apparel Retail,"73,024"
+6,SAN.MC,MCE,Spain,EUR,Financial Services,Banks—Diversified,"177,033"
+7,XAMXL.MC,MCE,Mexico,EUR,Communication Services,Telecom Services,"181,205"
+8,XBBDC.MC,MCE,Brazil,EUR,Financial Services,Banks—Regional,"85,264"
+9,BBVA.MC,MCE,Spain,EUR,Financial Services,Banks—Diversified,"110,432"
+10,CLNX.MC,MCE,Spain,EUR,Communication Services,Telecom Services,"2,877"
+11,TEF.MC,MCE,Spain,EUR,Communication Services,Telecom Services,"104,150"
+12,NTGY.MC,MCE,Spain,EUR,Utilities,Utilities—Regulated Gas,"7,231"
+13,MTS.MC,MCE,Luxembourg,EUR,Basic Materials,Steel,"158,000"
+14,AMS.MC,MCE,Spain,EUR,Consumer Cyclical,Travel Services,"15,936"
+15,CABK.MC,MCE,Spain,EUR,Financial Services,Banks—Regional,"49,607"
+16,AENA.MC,MCE,Spain,EUR,Industrials,Airports & Air Services,"8,162"
+17,CCEP.MC,MCE,United Kingdom,EUR,Consumer Defensive,Beverages—Non-Alcoholic,"22,000"
+18,ELE.MC,MCE,Spain,EUR,Utilities,Utilities—Regulated Electric,"9,258"
+19,REP.MC,MCE,Spain,EUR,Energy,Oil & Gas Integrated,"23,268"
+20,FER.MC,MCE,Spain,EUR,Industrials,Infrastructure Operations,"18,680"
+21,XEKT.MC,MCE,Mexico,EUR,Financial Services,Financial Conglomerates,"67,848"
+22,XELTB.MC,MCE,Brazil,EUR,Utilities,Utilities—Regulated Electric,"12,126"
+23,ANE.MC,MCE,Spain,EUR,Utilities,Utilities—Renewable,"1,762"
+24,ANA.MC,MCE,Spain,EUR,Industrials,Engineering & Construction,"41,664"
+25,SGRE.MC,MCE,Spain,EUR,Industrials,Specialty Industrial Machinery,"26,481"
+26,REE.MC,MCE,Spain,EUR,Utilities,Utilities—Regulated Electric,"2,087"
+27,GRF.MC,MCE,Spain,EUR,Healthcare,Drug Manufacturers—General,"23,245"
+28,XGGB.MC,MCE,Brazil,EUR,Basic Materials,Steel,"30,000"
+29,IAG.MC,MCE,Spain,EUR,Industrials,Airlines,"44,193"
+30,ACS.MC,MCE,Spain,EUR,Industrials,Engineering & Construction,"120,827"
+31,XBRK.MC,MCE,Brazil,EUR,Basic Materials,Chemicals,"8,312"
+32,MAP.MC,MCE,Spain,EUR,Financial Services,Insurance—Diversified,"31,478"
+33,ENG.MC,MCE,Spain,EUR,Utilities,Utilities—Regulated Gas,"1,312"
+34,XCMIG.MC,MCE,Brazil,EUR,Utilities,Utilities—Diversified,"5,102"
+35,MRL.MC,MCE,Spain,EUR,Real Estate,REIT—Diversified,239
+36,BKT.MC,MCE,Spain,EUR,Financial Services,Banks—Regional,"6,138"
+37,FDR.MC,MCE,Spain,EUR,Industrials,Specialty Industrial Machinery,"6,594"
+38,FCC.MC,MCE,Spain,EUR,Industrials,Waste Management,"44,356"
+39,SAB.MC,MCE,Spain,EUR,Financial Services,Banks—Diversified,"19,878"
+40,XCOP.MC,MCE,Brazil,EUR,Utilities,Utilities—Diversified,"6,538"
+41,COL.MC,MCE,Spain,EUR,Real Estate,REIT—Office,227
+42,ROVI.MC,MCE,Spain,EUR,Healthcare,Biotechnology,"1,751"
+43,ZOT.MC,MCE,Spain,EUR,Industrials,Specialty Industrial Machinery,"5,552"
+44,GCO.MC,MCE,Spain,EUR,Financial Services,Insurance—Diversified,"7,507"
+45,ALB.MC,MCE,Spain,EUR,Financial Services,Asset Management,"2,146"
+46,XALFA.MC,MCE,Mexico,EUR,Industrials,Conglomerates,"56,160"
+47,APAM.MC,MCE,Luxembourg,EUR,Basic Materials,Steel,"9,500"
+48,XUSI.MC,MCE,Brazil,EUR,Basic Materials,Steel,
+49,SLR.MC,MCE,Spain,EUR,Utilities,Utilities—Renewable,128
+50,ACX.MC,MCE,Spain,EUR,Basic Materials,Steel,"8,150"
+51,XUSIO.MC,MCE,Brazil,EUR,Basic Materials,Steel,
+52,EBRO.MC,MCE,Spain,EUR,Consumer Defensive,Packaged Foods,"5,920"
+53,CIE.MC,MCE,Spain,EUR,Consumer Cyclical,Auto Parts,"24,484"
+54,UNI.MC,MCE,Spain,EUR,Financial Services,Banks—Regional,"9,100"
+55,VIS.MC,MCE,Spain,EUR,Consumer Cyclical,Packaging & Containers,"5,182"
+56,LOG.MC,MCE,Spain,EUR,Industrials,Integrated Freight & Logistics,"5,900"
+57,ALM.MC,MCE,Spain,EUR,Healthcare,Drug Manufacturers—Specialty & Generic,"1,787"
+58,VID.MC,MCE,Spain,EUR,Consumer Cyclical,Packaging & Containers,"3,319"
+59,GEST.MC,MCE,Spain,EUR,Consumer Cyclical,Auto Parts,"37,085"
+60,IDR.MC,MCE,Spain,EUR,Technology,Information Technology Services,"52,083"
+61,SCYR.MC,MCE,Spain,EUR,Industrials,Engineering & Construction,"46,562"
+62,NHH.MC,MCE,Spain,EUR,Consumer Cyclical,Lodging,"10,209"
+63,MEL.MC,MCE,Spain,EUR,Consumer Cyclical,Lodging,"10,796"
+64,LDA.MC,MCE,Spain,EUR,Financial Services,Insurance—Property & Casualty,"2,582"
+65,XVOLB.MC,MCE,Peru,EUR,Basic Materials,Other Industrial Metals & Mining,
+66,PHM.MC,MCE,Spain,EUR,Healthcare,Biotechnology,477
+67,TL5.MC,MCE,Spain,EUR,Communication Services,Broadcasting,"1,595"
+68,FAE.MC,MCE,Spain,EUR,Healthcare,Drug Manufacturers—Specialty & Generic,"1,565"
+69,CAF.MC,MCE,Spain,EUR,Industrials,Railroads,"13,284"
+70,MVC.MC,MCE,Spain,EUR,Consumer Cyclical,Residential Construction,203
+71,PSG.MC,MCE,Spain,EUR,Industrials,Security & Protection Services,"129,999"
+72,APPS.MC,MCE,Spain,EUR,Industrials,Specialty Business Services,"25,278"
+73,CASH.MC,MCE,Spain,EUR,Industrials,Integrated Freight & Logistics,"42,366"
+74,ENO.MC,MCE,Spain,EUR,Industrials,Infrastructure Operations,"21,209"
+75,AEDAS.MC,MCE,Spain,EUR,Consumer Cyclical,Residential Construction,303
+76,EDR.MC,MCE,Spain,EUR,Consumer Cyclical,Travel Services,937
+77,GRE.MC,MCE,Spain,EUR,Industrials,Specialty Industrial Machinery,227
+78,EAT.MC,MCE,Spain,EUR,Consumer Cyclical,Restaurants,"21,891"
+79,A3M.MC,MCE,Spain,EUR,Communication Services,Entertainment,"2,512"
+80,PRO.MC,MCE,Spain,EUR,Consumer Defensive,Education & Training Services,"2,247"
+81,HOME.MC,MCE,Spain,EUR,Consumer Cyclical,Residential Construction,330
+82,ENC.MC,MCE,Spain,EUR,Basic Materials,Paper & Paper Products,"1,133"
+83,RLIA.MC,MCE,Spain,EUR,Real Estate,Real Estate Services,85
+84,DOM.MC,MCE,Spain,EUR,Technology,Information Technology Services,"10,625"
+85,ALNT.MC,MCE,Spain,EUR,Financial Services,Capital Markets,657
+86,YCPS.MC,MCE,Spain,EUR,Real Estate,REIT—Diversified,30
+87,EIDF.MC,MCE,Spain,EUR,Technology,Solar,38
+88,ATRY.MC,MCE,Spain,EUR,Healthcare,Biotechnology,"2,121"
+89,ADX.MC,MCE,Spain,EUR,Utilities,Utilities—Renewable,708
+90,UBS.MC,MCE,Spain,EUR,Real Estate,Real Estate Services,806
+91,OHLA.MC,MCE,Spain,EUR,Industrials,Engineering & Construction,"16,195"
+92,MCM.MC,MCE,Spain,EUR,Basic Materials,Paper & Paper Products,904
+93,TLGO.MC,MCE,Spain,EUR,Industrials,Railroads,"2,692"
+94,LRE.MC,MCE,Spain,EUR,Real Estate,REIT—Diversified,4
+95,XTZA.MC,MCE,Mexico,EUR,Communication Services,Broadcasting,"3,041"
+96,TRE.MC,MCE,Spain,EUR,Industrials,Engineering & Construction,"6,516"
+97,SOL.MC,MCE,Spain,EUR,Technology,Solar,598
+98,R4.MC,MCE,Spain,EUR,Financial Services,Asset Management,608
+99,CBAV.MC,MCE,Spain,EUR,Healthcare,Diagnostics & Research,722
+100,ECR.MC,MCE,Spain,EUR,Basic Materials,Chemicals,"1,321"
+101,YATO.MC,MCE,Spain,EUR,,,1
+102,GRN.MC,MCE,Spain,EUR,Industrials,Conglomerates,108
+103,SQRL.MC,MCE,Spain,EUR,Technology,Information Technology Services,132
+104,AMP.MC,MCE,Spain,EUR,Technology,Information Technology Services,"2,704"
+105,ENER.MC,MCE,Spain,EUR,Utilities,Utilities—Renewable,117
+106,GSJ.MC,MCE,Spain,EUR,Industrials,Engineering & Construction,"3,625"
+107,ARM.MC,MCE,Spain,EUR,Real Estate,REIT—Office,14
+108,HLZ.MC,MCE,Spain,EUR,Utilities,Utilities—Renewable,190
+109,PRM.MC,MCE,Spain,EUR,Healthcare,Medical Instruments & Supplies,613
+110,XBRPO.MC,MCE,Brazil,EUR,Financial Services,Asset Management,
+111,XBRPP.MC,MCE,Brazil,EUR,Financial Services,Asset Management,
+112,TUB.MC,MCE,Spain,EUR,Basic Materials,Steel,"2,329"
+113,SNG.MC,MCE,Spain,EUR,Technology,Software—Application,769
+114,YORE.MC,MCE,Spain,EUR,,,1
+115,RJF.MC,MCE,Spain,EUR,Healthcare,Drug Manufacturers—Specialty & Generic,"1,152"
+116,IZER.MC,MCE,Spain,EUR,Technology,Information Technology Services,"1,036"
+117,OLE.MC,MCE,Spain,EUR,Consumer Defensive,Packaged Foods,642
+118,IBG.MC,MCE,Spain,EUR,Basic Materials,Paper & Paper Products,293
+119,CEV.MC,MCE,Spain,EUR,,,
+120,ISUR.MC,MCE,Spain,EUR,Real Estate,Real Estate Services,160
+121,YTRM.MC,MCE,Spain,EUR,,,
+122,MAKS.MC,MCE,Spain,EUR,Communication Services,Advertising Agencies,282
+123,NXT.MC,MCE,Spain,EUR,Consumer Cyclical,Textile Manufacturing,473
+124,LLYC.MC,MCE,Spain,EUR,Industrials,Consulting Services,966
+125,ORY.MC,MCE,Spain,EUR,Healthcare,Biotechnology,43
+126,AZK.MC,MCE,Spain,EUR,Industrials,Business Equipment & Supplies,753
+127,AGIL.MC,MCE,Spain,EUR,Technology,Software—Infrastructure,246
+128,YMRE.MC,MCE,Spain,EUR,,,
+129,BKY.MC,MCE,Spain,EUR,Energy,Uranium,
+130,AMEN.MC,MCE,Spain,EUR,Technology,Software—Infrastructure,
+131,VOC.MC,MCE,Spain,EUR,Communication Services,Entertainment,"2,784"
+132,GALQ.MC,MCE,Spain,EUR,Industrials,Rental & Leasing Services,"1,150"
+133,NTH.MC,MCE,Spain,EUR,Consumer Defensive,Packaged Foods,263
+134,LGT.MC,MCE,Spain,EUR,Consumer Cyclical,Auto Parts,496
+135,GIGA.MC,MCE,Spain,EUR,Technology,Software—Infrastructure,278
+136,AI.MC,MCE,Spain,EUR,Industrials,Specialty Industrial Machinery,767
+137,MDF.MC,MCE,Spain,EUR,Industrials,Engineering & Construction,"1,067"
+138,PAR.MC,MCE,Spain,EUR,Communication Services,Telecom Services,99
+139,DIA.MC,MCE,Spain,EUR,Consumer Defensive,Discount Stores,"31,168"
+140,YTRA.MC,MCE,Spain,EUR,Real Estate,REIT—Diversified,2
+141,YVIT.MC,MCE,Spain,EUR,Real Estate,REIT—Diversified,15
+142,YGOP.MC,MCE,Spain,EUR,Real Estate,REIT—Diversified,1
+143,NEA.MC,MCE,Spain,EUR,Industrials,Specialty Industrial Machinery,350
+144,YHSP.MC,MCE,Spain,EUR,Real Estate,REIT—Diversified,4
+145,NBI.MC,MCE,Spain,EUR,Industrials,Tools & Accessories,383
+146,GRI.MC,MCE,Spain,EUR,Industrials,Waste Management,335
+147,BAIN.MC,MCE,Spain,EUR,Consumer Defensive,Farm Products,440
+148,TRG.MC,MCE,Spain,EUR,Basic Materials,Steel,"1,326"
+149,REN.MC,MCE,Spain,EUR,Real Estate,Real Estate Services,42
+150,PRS.MC,MCE,Spain,EUR,Communication Services,Entertainment,"6,660"
+151,SEC.MC,MCE,Spain,EUR,Communication Services,Entertainment,"1,304"
+152,LLN.MC,MCE,Spain,EUR,Communication Services,Telecom Services,99
+153,YAC1.MC,MCE,Spain,EUR,,,2
+154,MIO.MC,MCE,Spain,EUR,Communication Services,Advertising Agencies,97
+155,FACE.MC,MCE,Mexico,EUR,Technology,Software—Application,57
+156,MTB.MC,MCE,Spain,EUR,Real Estate,Real Estate Services,35
+157,COM.MC,MCE,Spain,EUR,Industrials,Staffing & Employment Services,80
+158,ELZ.MC,MCE,Spain,EUR,Industrials,Metal Fabrication,109
+159,480S.MC,MCE,Spain,EUR,Technology,Software—Application,
+160,LIB.MC,MCE,Spain,EUR,Real Estate,Real Estate Services,38
+161,YABA.MC,MCE,Spain,EUR,,,9
+162,ISE.MC,MCE,Spain,EUR,Industrials,Specialty Business Services,98
+163,ADZ.MC,MCE,Spain,EUR,Consumer Cyclical,Apparel Manufacturing,821
+164,ALQ.MC,MCE,Spain,EUR,Industrials,Rental & Leasing Services,183
+165,PANG.MC,MCE,Spain,EUR,Healthcare,Diagnostics & Research,50
+166,NTX.MC,MCE,Spain,EUR,Technology,Software—Application,139
+167,END.MC,MCE,Spain,EUR,Industrials,Electrical Equipment & Parts,
+168,VYT.MC,MCE,Spain,EUR,Healthcare,Biotechnology,
+169,TR1.MC,MCE,Spain,EUR,Technology,Information Technology Services,265
+170,KOM.MC,MCE,Palau,EUR,Basic Materials,Specialty Chemicals,81
+171,NYE.MC,MCE,Spain,EUR,Real Estate,Real Estate—Development,68
+172,EZE.MC,MCE,Spain,EUR,Industrials,Engineering & Construction,"9,101"
+173,SPH.MC,MCE,Spain,EUR,Technology,Solar,
+174,CLR.MC,MCE,Spain,EUR,Industrials,Engineering & Construction,232
+175,ADL.MC,MCE,Spain,EUR,Healthcare,Biotechnology,33
+176,RIO.MC,MCE,Spain,EUR,Consumer Defensive,Beverages—Wineries & Distilleries,96
+177,CMM.MC,MCE,Spain,EUR,Communication Services,Telecom Services,463
+178,IFF.MC,MCE,Spain,EUR,,,17
+179,PVA.MC,MCE,Spain,EUR,Consumer Defensive,Farm Products,
+180,MED.MC,MCE,Spain,EUR,Healthcare,Medical Distribution,107
+181,YQPQ.MC,MCE,Spain,EUR,,,1
+182,CLE.MC,MCE,Spain,EUR,Industrials,Specialty Business Services,245
+183,EEP.MC,MCE,Spain,EUR,Healthcare,Diagnostics & Research,41
+184,MONI.MC,MCE,Spain,EUR,Communication Services,Entertainment,
+185,RBT.MC,MCE,Spain,EUR,Industrials,Building Products & Equipment,36
+186,CITY.MC,MCE,Mexico,EUR,,,
+187,ART.MC,MCE,Spain,EUR,Technology,Electronic Components,"1,078"
+188,YINB6.MC,MCE,Spain,EUR,Real Estate,REIT—Diversified,
+189,YHCR.MC,MCE,Spain,EUR,,,
+190,TLG-D.MC,MCE,Spain,EUR,,,
+191,GRF-P.MC,MCE,Spain,EUR,,,
+192,YTRI.MC,MCE,Spain,EUR,,,
+193,YGO2.MC,MCE,Spain,EUR,Real Estate,REIT—Diversified,
+194,ENRS.MC,MCE,Spain,EUR,Industrials,Engineering & Construction,

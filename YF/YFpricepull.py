@@ -1,6 +1,6 @@
 #Data and URL handling
 from locale import currency
-from msilib.schema import Error, tables
+#from msilib.schema import Error, tables #Disable for Linux runs
 import time
 from numpy import append
 import requests
@@ -121,7 +121,7 @@ saudi_arabia = ['https://ca.finance.yahoo.com/screener/unsaved/8b08a708-81a2-4a5
 sweden = ['https://ca.finance.yahoo.com/screener/unsaved/9fc549b4-3f52-4326-8968-db5288e3a82f', 'sweden']
 singapore = ['https://ca.finance.yahoo.com/screener/unsaved/fa08bcbc-5456-4b19-b723-7bf0b327e5ae', 'singapore']
 thailand = ['https://ca.finance.yahoo.com/screener/unsaved/86d7f6c8-52a5-407f-9a57-86eaf879cd00', 'thailand']
-turkey = ['https://ca.finance.yahoo.com/screener/unsaved/a1cc511e-c7e7-4d7a-95b0-70ea1b156ffb', 'turkey']
+turkey = ['https://ca.finance.yahoo.com/screener/unsaved/082a18bc-4a3c-46b3-9cde-35a773875e3a', 'turkey']
 taiwan = ['https://ca.finance.yahoo.com/screener/unsaved/fa4ee96d-58bf-492a-af80-ac1141d9053b', 'taiwan']
 venezuela = ['https://ca.finance.yahoo.com/screener/unsaved/6ed6d5ac-f228-4daa-af36-5fae98d2c876', 'venezuela']
 south_africa = ['https://ca.finance.yahoo.com/screener/unsaved/785834c2-65d3-407c-b12d-0868938280fc', 'south_africa']
@@ -136,7 +136,10 @@ not_done = [taiwan]
 
 tables=[]
 
-#country = taiwan
+country = ''
+url= ''
+
+#country = turkey
 #url = f'{country[0]}?count=250&dependentField=sector&dependentValues=&offset='
 
 def first_5000():
@@ -231,14 +234,10 @@ def third_5000():
 
 
 
-
-not_done = []
-
-
-
+#%%
 
 '''
-code to combine multi file CSV
+code to combine multifile CSV
 
 '''
 # country = south_africa
@@ -300,52 +299,22 @@ def UpdateCan(): #this could be run as a daily update from Yahoo for all Canadia
 
 
 
-#url = 'https://ca.finance.yahoo.com/quote/GME/profile?p=GME'
-        
-#dfs = requests.get(url, headers=headers).content
-#df = pd.read_html(dfs)
-            
-#%%               
-# tick = 'GME'
 
-# page = requests.get(f"https://ca.finance.yahoo.com/quote/{tick}/profile?p={tick}", headers=headers)
-# soup = BeautifulSoup(page.content, 'html.parser')
-    
-# exchange = soup.select_one('#quote-header-info > div.Mt\(15px\).D\(f\).Jc\(sb\) > div.D\(ib\).Mt\(-5px\).Maw\(38\%\)--tab768.Maw\(38\%\).Mend\(10px\).Ov\(h\).smartphone_Maw\(85\%\).smartphone_Mend\(0px\) > div.C\(\$tertiaryColor\).Fz\(12px\) > span').text
-# exchange = exchange.split()[0]
-
-
-
-
-
-# appended_data = []
-
-# filename = 'Canada.csv'
-# df = pd.read_csv(filename)
-
-# tick = 'AAPL.NE'
-# page = requests.get(f"https://ca.finance.yahoo.com/quote/{tick}/profile?p={tick}", headers=headers)
-# soup = BeautifulSoup(page.content, 'html.parser')
-    
-    
-# exchange = soup.select_one('#quote-header-info > div.Mt\(15px\).D\(f\).Jc\(sb\) > div.D\(ib\).Mt\(-5px\).Maw\(38\%\)--tab768.Maw\(38\%\).Mend\(10px\).Ov\(h\).smartphone_Maw\(85\%\).smartphone_Mend\(0px\) > div.C\(\$tertiaryColor\).Fz\(12px\) > span').text
-#         #exchange = exchange.split()[0]
-#         #currency1 = exchange.resplit()[0]
-# first, *middle, last = exchange.split()
 
 
 
 
 #%%
 
-done = [canada, argentina, austria, belgium]
+done = [canada, argentina, austria, belgium, chile,australia,brazil,switzerland, china,czech_republic,denmark,estonia, egypt, spain, finland, uk, greece, hong_kong, hungary, indonesia, ireland, israel, india, france, iceland, japan, south_korea, lithuania, mexico, malaysia, netherlands, norway, new_zealand, poland, portugal, qatar, russia, saudi_arabia, sweden, singapore, thailand, venezuela, south_africa,]
 
-notdone = [australia, brazil, switzerland, chile, china, czech_republic, denmark, estonia, egypt, spain, finland, uk, greece, hong_kong, hungary, indonesia, ireland, israel, india, france, iceland, italy, japan, south_korea, lithuania, latvia, mexico, malaysia, netherlands, norway, new_zealand, poland, portugal, qatar, russia, saudi_arabia, sweden, singapore, thailand, turkey, venezuela, south_africa]
+notdone = []
 
 
 appended_data = []
 
-countryname = 'chile'
+countryname = 'germany'
+print(countryname)
 
 
 filename = countryname+'1.csv'

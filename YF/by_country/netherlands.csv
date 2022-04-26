@@ -1,0 +1,284 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,ASML.AS,Amsterdam,Netherlands,EUR,Technology,Semiconductor Equipment & Materials,"29,861"
+1,SHELL.AS,Amsterdam,United Kingdom,EUR,Energy,Oil & Gas Integrated,"82,000"
+2,PRX.AS,Amsterdam,Netherlands,EUR,Communication Services,Internet Content & Information,"23,939"
+3,UNA.AS,Amsterdam,United Kingdom,EUR,Consumer Defensive,Household & Personal Products,"148,012"
+4,REN.AS,Amsterdam,United Kingdom,EUR,Communication Services,Publishing,"33,500"
+5,HEIA.AS,Amsterdam,Netherlands,EUR,Consumer Defensive,Beverages—Brewers,"81,070"
+6,ADYEN.AS,Amsterdam,Netherlands,EUR,Technology,Software—Infrastructure,"2,180"
+7,UMG.AS,Amsterdam,Netherlands,EUR,Communication Services,Entertainment,"9,215"
+8,INGA.AS,Amsterdam,Netherlands,EUR,Financial Services,Banks—Diversified,"57,000"
+9,AD.AS,Amsterdam,Netherlands,EUR,Consumer Defensive,Grocery Stores,"144,550"
+10,MT.AS,Amsterdam,Luxembourg,EUR,Basic Materials,Steel,"158,000"
+11,DSM.AS,Amsterdam,Netherlands,EUR,Basic Materials,Specialty Chemicals,"21,358"
+12,WKL.AS,Amsterdam,Netherlands,EUR,Industrials,Specialty Business Services,"19,454"
+13,PHIA.AS,Amsterdam,Netherlands,EUR,Healthcare,Medical Devices,"78,189"
+14,CCEP.AS,Amsterdam,United Kingdom,EUR,Consumer Defensive,Beverages—Non-Alcoholic,"22,000"
+15,HEIO.AS,Amsterdam,Netherlands,EUR,Consumer Defensive,Beverages—Brewers,"82,257"
+16,ASM.AS,Amsterdam,Netherlands,EUR,Technology,Semiconductor Equipment & Materials,"3,312"
+17,AKZA.AS,Amsterdam,Netherlands,EUR,Basic Materials,Specialty Chemicals,"32,800"
+18,NN.AS,Amsterdam,Netherlands,EUR,Financial Services,Insurance—Diversified,"11,871"
+19,JDEP.AS,Amsterdam,Netherlands,EUR,Consumer Defensive,Packaged Foods,"19,000"
+20,KPN.AS,Amsterdam,Netherlands,EUR,Communication Services,Telecom Services,"7,364"
+21,HAL.AS,Amsterdam,Netherlands,EUR,Financial Services,Asset Management,"23,673"
+22,AGN.AS,Amsterdam,Netherlands,EUR,Financial Services,Insurance—Diversified,"17,936"
+23,ABN.AS,Amsterdam,Netherlands,EUR,Financial Services,Banks—Diversified,"19,957"
+24,URW.AS,Amsterdam,France,EUR,Real Estate,REIT—Retail,"2,678"
+25,RAND.AS,Amsterdam,Netherlands,EUR,Industrials,Staffing & Employment Services,"39,530"
+26,IMCD.AS,Amsterdam,Netherlands,EUR,Basic Materials,Specialty Chemicals,"3,740"
+27,OCI.AS,Amsterdam,Netherlands,EUR,Basic Materials,Specialty Chemicals,"3,779"
+28,PSH.AS,Amsterdam,United States,USD,Financial Services,Asset Management,
+29,CTPNV.AS,Amsterdam,Netherlands,EUR,Real Estate,Real Estate—Development,520
+30,ASRNL.AS,Amsterdam,Netherlands,EUR,Financial Services,Insurance—Diversified,"4,155"
+31,HDG.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,"Furnishings, Fixtures & Appliances","23,000"
+32,ALLFG.AS,Amsterdam,United Kingdom,EUR,Financial Services,Asset Management,765
+33,TKWY.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,Internet Retail,"20,000"
+34,AALB.AS,Amsterdam,Netherlands,EUR,Industrials,Specialty Industrial Machinery,"14,402"
+35,LIGHT.AS,Amsterdam,Netherlands,EUR,Industrials,Electrical Equipment & Parts,"36,824"
+36,BOKA.AS,Amsterdam,Netherlands,EUR,Industrials,Engineering & Construction,"7,872"
+37,MAREL.AS,Amsterdam,Iceland,EUR,Industrials,Specialty Industrial Machinery,"6,645"
+38,GLPG.AS,Amsterdam,Belgium,EUR,Healthcare,Biotechnology,"1,309"
+39,ARCAD.AS,Amsterdam,Netherlands,EUR,Industrials,Engineering & Construction,"26,933"
+40,REINA.AS,Amsterdam,Luxembourg,EUR,Financial Services,Asset Management,
+41,VPK.AS,Amsterdam,Netherlands,EUR,Energy,Oil & Gas Midstream,"5,583"
+42,BESI.AS,Amsterdam,Netherlands,EUR,Technology,Semiconductor Equipment & Materials,"1,645"
+43,MAJ.AS,Amsterdam,Luxembourg,EUR,Industrials,Specialty Business Services,"69,000"
+44,INPST.AS,Amsterdam,Luxembourg,EUR,Industrials,Specialty Business Services,
+45,APAM.AS,Amsterdam,Luxembourg,EUR,Basic Materials,Steel,"9,500"
+46,BFIT.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,Leisure,"6,964"
+47,SBMO.AS,Amsterdam,Netherlands,EUR,Energy,Oil & Gas Equipment & Services,"4,895"
+48,TWEKA.AS,Amsterdam,Netherlands,EUR,Technology,Communication Equipment,"5,784"
+49,ALFEN.AS,Amsterdam,Netherlands,EUR,Industrials,Electrical Equipment & Parts,683
+50,INTER.AS,Amsterdam,Netherlands,EUR,Financial Services,Asset Management,"4,175"
+51,CRBN.AS,Amsterdam,Netherlands,EUR,Basic Materials,Specialty Chemicals,"2,362"
+52,PNL.AS,Amsterdam,Netherlands,EUR,Industrials,Integrated Freight & Logistics,"35,721"
+53,ACCEL.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,Leisure,"3,500"
+54,EBUS.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,Auto Manufacturers,214
+55,FLOW.AS,Amsterdam,Netherlands,EUR,Financial Services,Capital Markets,613
+56,ECMPA.AS,Amsterdam,Netherlands,EUR,Real Estate,REIT—Retail,92
+57,CLB.AS,Amsterdam,Netherlands,EUR,Energy,Oil & Gas Equipment & Services,"3,700"
+58,FUR.AS,Amsterdam,Netherlands,EUR,Energy,Oil & Gas Equipment & Services,"8,490"
+59,AMG.AS,Amsterdam,Netherlands,EUR,Basic Materials,Other Industrial Metals & Mining,"3,309"
+60,TFG.AS,Amsterdam,United States,USD,Financial Services,Asset Management,
+61,VEON.AS,Amsterdam,Netherlands,EUR,Communication Services,Telecom Services,
+62,VLK.AS,Amsterdam,Netherlands,EUR,Financial Services,Banks—Regional,"1,654"
+63,TOM2.AS,Amsterdam,Netherlands,EUR,Technology,Software—Application,"4,424"
+64,SLIGR.AS,Amsterdam,Netherlands,EUR,Consumer Defensive,Food Distribution,"3,975"
+65,BAMNB.AS,Amsterdam,Netherlands,EUR,Industrials,Engineering & Construction,"15,739"
+66,ACOMO.AS,Amsterdam,Netherlands,EUR,Consumer Defensive,Food Distribution,"1,209"
+67,NSI.AS,Amsterdam,Netherlands,EUR,Real Estate,REIT—Office,60
+68,WHA.AS,Amsterdam,Netherlands,EUR,Real Estate,REIT—Retail,93
+69,RWI.AS,Amsterdam,United Kingdom,EUR,Industrials,Waste Management,"6,586"
+70,BGHL.AS,Amsterdam,United Kingdom,EUR,Financial,Asset Management,
+71,BSGR.AS,Amsterdam,Luxembourg,EUR,Consumer Defensive,Food Distribution,"1,714"
+72,NXFIL.AS,Amsterdam,Netherlands,EUR,Utilities,Utilities—Regulated Water,31
+73,BRNL.AS,Amsterdam,Netherlands,EUR,Industrials,Staffing & Employment Services,"10,836"
+74,FAST.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,Specialty Retail,73
+75,PHARM.AS,Amsterdam,Netherlands,EUR,Healthcare,Biotechnology,277
+76,CMCOM.AS,Amsterdam,Netherlands,EUR,Technology,Software—Application,755
+77,HEGA.AS,Amsterdam,Cayman Islands,EUR,Financial Services,Shell Companies,
+78,VASTN.AS,Amsterdam,Netherlands,EUR,Real Estate,REIT—Retail,25
+79,NEDAP.AS,Amsterdam,Netherlands,EUR,Technology,Information Technology Services,786
+80,ORDI.AS,Amsterdam,Netherlands,EUR,Technology,Information Technology Services,"2,428"
+81,AXS.AS,Amsterdam,United Kingdom,EUR,Basic Materials,Lumber & Wood Production,241
+82,AZRN.AS,Amsterdam,Netherlands,EUR,Communication Services,Electronic Gaming & Multimedia,"1,048"
+83,HEIJM.AS,Amsterdam,Netherlands,EUR,Industrials,Engineering & Construction,"4,839"
+84,ODYSY.AS,Amsterdam,Luxembourg,EUR,Financial Services,Shell Companies,
+85,SIFG.AS,Amsterdam,Netherlands,EUR,Industrials,Metal Fabrication,368
+86,FFARM.AS,Amsterdam,Netherlands,EUR,Consumer Defensive,Farm Products,"2,444"
+87,KENDR.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,Auto Parts,"2,512"
+88,ESG.AS,Amsterdam,Netherlands,EUR,Financial Services,Shell Companies,
+89,AJAX.AS,Amsterdam,Netherlands,EUR,Communication Services,Entertainment,441
+90,VTA.AS,Amsterdam,France,EUR,Financial Services,Asset Management,
+91,VAM.AS,Amsterdam,Italy,EUR,Financial Services,Shell Companies,
+92,VVY.AS,Amsterdam,Germany,EUR,Healthcare,Biotechnology,18
+93,NEWAY.AS,Amsterdam,Netherlands,EUR,Technology,Electronic Components,"2,589"
+94,MTRK.AS,Amsterdam,Netherlands,EUR,Technology,Software—Application,400
+95,PEACE.AS,Amsterdam,Netherlands,EUR,Financial Services,Shell Companies,
+96,BHND.AS,Amsterdam,Luxembourg,EUR,Financial Services,Shell Companies,
+97,EHCS.AS,Amsterdam,Germany,EUR,Financial Services,Shell Companies,
+98,BBED.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,"Furnishings, Fixtures & Appliances",452
+99,BOLS.AS,Amsterdam,Netherlands,EUR,Consumer Defensive,Beverages—Wineries & Distilleries,62
+100,HOLCO.AS,Amsterdam,Netherlands,EUR,Basic Materials,Specialty Chemicals,430
+101,ENVI.AS,Amsterdam,Netherlands,EUR,Industrials,Pollution & Treatment Controls,
+102,HYDRA.AS,Amsterdam,Netherlands,EUR,Industrials,Farm & Heavy Construction Machinery,
+103,AVTX.AS,Amsterdam,Netherlands,EUR,Basic Materials,Specialty Chemicals,153
+104,CABKA.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,Packaging & Containers,700
+105,BEVER.AS,Amsterdam,Netherlands,EUR,Real Estate,Real Estate Services,1
+106,VALUE.AS,Amsterdam,Netherlands,EUR,Financial Services,Asset Management,748
+107,CTAC.AS,Amsterdam,Netherlands,EUR,Technology,Information Technology Services,444
+108,BRILL.AS,Amsterdam,Netherlands,EUR,Communication Services,Publishing,158
+109,SNOW.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,Leisure,351
+110,TIE.AS,Amsterdam,Netherlands,EUR,Technology,Software—Application,104
+111,EAS2P.AS,Amsterdam,Netherlands,EUR,Technology,Software—Infrastructure,5
+112,PBH.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,Auto & Truck Dealerships,"1,236"
+113,ECT.AS,Amsterdam,Guernsey,EUR,Financial Services,Asset Management,
+114,PREVA.AS,Amsterdam,Netherlands,EUR,Financial Services,Asset Management,748
+115,ROOD.AS,Amsterdam,Netherlands,EUR,Technology,Semiconductors,94
+116,NEDSE.AS,Amsterdam,Netherlands,EUR,Technology,Software—Application,
+117,NAI.AS,Amsterdam,Netherlands,EUR,Financial Services,Shell Companies,
+118,PORF.AS,Amsterdam,Netherlands,EUR,Consumer Defensive,Household & Personal Products,50
+119,DGB.AS,Amsterdam,Netherlands,EUR,Basic Materials,Lumber & Wood Production,
+120,GOJXN.AS,Amsterdam,Netherlands,EUR,Technology,Software—Application,17
+121,ALX.AS,Amsterdam,Netherlands,EUR,Consumer Cyclical,Internet Retail,1
+122,IEX.AS,Amsterdam,Netherlands,EUR,Financial Services,Asset Management,22
+123,AMUND.AS,Amsterdam,Netherlands,EUR,Technology,Information Technology Services,73
+124,MORE.AS,Amsterdam,Curaçao,EUR,Industrials,Staffing & Employment Services,
+125,LVIDE.AS,Amsterdam,Netherlands,EUR,Financial Services,Shell Companies,
+126,NSE.AS,Amsterdam,Netherlands,EUR,Utilities,Utilities—Renewable,
+127,TBIRD.AS,Amsterdam,Panama,USD,Consumer Cyclical,Resorts & Casinos,457
+128,ESP.AS,Amsterdam,Netherlands,EUR,Healthcare,Medical Care Facilities,133
+129,AA261.AS,Amsterdam,Netherlands,EUR,,,
+130,3DIS.AS,Amsterdam,Netherlands,EUR,,,
+131,3KWE.AS,Amsterdam,Netherlands,EUR,,,
+132,KSGHD.AS,Amsterdam,Netherlands,EUR,,,
+133,BTCW.AS,Amsterdam,Netherlands,USD,,,
+134,XS0821168423.AS,Amsterdam,Netherlands,EUR,,,
+135,SSPY.AS,Amsterdam,Netherlands,EUR,,,
+136,3NIO.AS,Amsterdam,Netherlands,EUR,,,
+137,XS1115800655.AS,Amsterdam,Netherlands,EUR,,,
+138,SXLG.AS,Amsterdam,Netherlands,EUR,,,
+139,S3CO.AS,Amsterdam,Netherlands,EUR,,,
+140,WSOL.AS,Amsterdam,Netherlands,USD,,,
+141,SAIR.AS,Amsterdam,Netherlands,EUR,,,
+142,CH1168929078.AS,Amsterdam,Netherlands,USD,,,
+143,WADA.AS,Amsterdam,Netherlands,USD,,,
+144,GB00BMTP1519.AS,Amsterdam,Netherlands,USD,,,
+145,3TSM.AS,Amsterdam,Netherlands,EUR,,,
+146,2BRK.AS,Amsterdam,Netherlands,EUR,,,
+147,NL0012818504.AS,Amsterdam,Netherlands,EUR,,,
+148,3TWT.AS,Amsterdam,Netherlands,EUR,,,
+149,SARKG.AS,Amsterdam,Netherlands,EUR,,,
+150,CH0514065058.AS,Amsterdam,Netherlands,USD,,,
+151,CH1135202088.AS,Amsterdam,Netherlands,USD,,,
+152,CH1146882316.AS,Amsterdam,Netherlands,USD,,,
+153,SQQQ.AS,Amsterdam,Netherlands,EUR,,,
+154,LSIL.AS,Amsterdam,Netherlands,EUR,,,
+155,1ARKK.AS,Amsterdam,Netherlands,EUR,,,
+156,SBIU.AS,Amsterdam,Netherlands,EUR,,,
+157,CH1114873776.AS,Amsterdam,Netherlands,USD,,,
+158,3ARKG.AS,Amsterdam,Netherlands,EUR,,,
+159,SE1X.AS,Amsterdam,Netherlands,EUR,,,
+160,SKWE.AS,Amsterdam,Netherlands,EUR,,,
+161,NL0010418810.AS,Amsterdam,Netherlands,EUR,,,
+162,NL0012171458.AS,Amsterdam,Netherlands,EUR,,,
+163,NL0000116150.AS,Amsterdam,Netherlands,EUR,,,
+164,AI261.AS,Amsterdam,Netherlands,EUR,,,
+165,PACEU.AS,Amsterdam,Netherlands,EUR,Financial Services,Shell Companies,3
+166,XS0215349357.AS,Amsterdam,Netherlands,EUR,,,
+167,3PLU.AS,Amsterdam,Netherlands,EUR,,,
+168,SABN.AS,Amsterdam,Netherlands,EUR,,,
+169,GOOG.AS,Amsterdam,Netherlands,EUR,,,
+170,3CON.AS,Amsterdam,Netherlands,EUR,,,
+171,3VT.AS,Amsterdam,Netherlands,EUR,,,
+172,CH1135202120.AS,Amsterdam,Netherlands,USD,,,
+173,CH0496454155.AS,Amsterdam,Netherlands,USD,,,
+174,SSMH.AS,Amsterdam,Netherlands,EUR,,,
+175,STSM.AS,Amsterdam,Netherlands,EUR,,,
+176,3GDX.AS,Amsterdam,Netherlands,EUR,,,
+177,3AIR.AS,Amsterdam,Netherlands,EUR,,,
+178,BITC.AS,Amsterdam,Netherlands,EUR,,,
+179,LBUL.AS,Amsterdam,Netherlands,EUR,,,
+180,SBUL.AS,Amsterdam,Netherlands,EUR,,,
+181,PHPM.AS,Amsterdam,Netherlands,EUR,,,
+182,3BID.AS,Amsterdam,Netherlands,EUR,,,
+183,CH1100083471.AS,Amsterdam,Netherlands,USD,,,
+184,NFLX.AS,Amsterdam,Netherlands,EUR,,,
+185,5QQQ.AS,Amsterdam,Netherlands,EUR,,,
+186,PHPD.AS,Amsterdam,Netherlands,EUR,,,
+187,SGLD.AS,Amsterdam,Netherlands,EUR,,,
+188,SARKK.AS,Amsterdam,Netherlands,EUR,,,
+189,NL0010733424.AS,Amsterdam,Netherlands,EUR,,,
+190,XS0210781828.AS,Amsterdam,Netherlands,EUR,,,
+191,DSCW3.AS,Amsterdam,Netherlands,EUR,,,
+192,NL0010060257.AS,Amsterdam,Netherlands,EUR,,,
+193,NL0011220108.AS,Amsterdam,Netherlands,EUR,,,
+194,NL0000120004.AS,Amsterdam,Netherlands,USD,,,
+195,NL0000102234.AS,Amsterdam,Netherlands,EUR,,,
+196,ESGWA.AS,Amsterdam,Netherlands,EUR,,,
+197,NL0015000QL2.AS,Amsterdam,Netherlands,EUR,,,
+198,3MRN.AS,Amsterdam,Netherlands,EUR,,,
+199,3JET.AS,Amsterdam,Netherlands,EUR,,,
+200,SJET.AS,Amsterdam,Netherlands,EUR,,,
+201,SMRN.AS,Amsterdam,Netherlands,EUR,,,
+202,NIO.AS,Amsterdam,Netherlands,EUR,,,
+203,NL0010071189.AS,Amsterdam,Netherlands,EUR,,,
+204,NL0000121416.AS,Amsterdam,Netherlands,USD,,,
+205,JPE3.AS,Amsterdam,Netherlands,EUR,,,
+206,1ARKG.AS,Amsterdam,Netherlands,EUR,,,
+207,JPEU.AS,Amsterdam,Netherlands,EUR,,,
+208,3PLT.AS,Amsterdam,Netherlands,EUR,,,
+209,SHFY.AS,Amsterdam,Netherlands,EUR,,,
+210,CH0593331561.AS,Amsterdam,Netherlands,USD,,,
+211,3XLE.AS,Amsterdam,Netherlands,EUR,,,
+212,CH1109575535.AS,Amsterdam,Netherlands,USD,,,
+213,GB00BMTP1626.AS,Amsterdam,Netherlands,USD,,,
+214,3UBR.AS,Amsterdam,Netherlands,EUR,,,
+215,SGDX.AS,Amsterdam,Netherlands,EUR,,,
+216,CH1135202161.AS,Amsterdam,Netherlands,USD,,,
+217,CH0475552201.AS,Amsterdam,Netherlands,USD,,,
+218,CH1102728750.AS,Amsterdam,Netherlands,USD,,,
+219,CH0491507486.AS,Amsterdam,Netherlands,USD,,,
+220,USE3.AS,Amsterdam,Netherlands,EUR,,,
+221,3ARKK.AS,Amsterdam,Netherlands,EUR,,,
+222,PHAG.AS,Amsterdam,Netherlands,EUR,,,
+223,NIOS.AS,Amsterdam,Netherlands,EUR,,,
+224,PHPT.AS,Amsterdam,Netherlands,EUR,,,
+225,CH0454664001.AS,Amsterdam,Netherlands,USD,,,
+226,PHAU.AS,Amsterdam,Netherlands,EUR,,,
+227,TSLQ.AS,Amsterdam,Netherlands,EUR,,,
+228,AMZN.AS,Amsterdam,Netherlands,EUR,,,
+229,AAPL.AS,Amsterdam,Netherlands,EUR,,,
+230,XS0224480722.AS,Amsterdam,Netherlands,EUR,,,
+231,BA261.AS,Amsterdam,Netherlands,EUR,,,
+232,XS0188935174.AS,Amsterdam,Netherlands,EUR,,,
+233,ABNB.AS,Amsterdam,Netherlands,EUR,,,
+234,NL0010721999.AS,Amsterdam,Netherlands,EUR,,,
+235,3XLF.AS,Amsterdam,Netherlands,EUR,,,
+236,EUJP.AS,Amsterdam,Netherlands,EUR,,,
+237,JD1X.AS,Amsterdam,Netherlands,EUR,,,
+238,3IBB.AS,Amsterdam,Netherlands,EUR,,,
+239,SIBB.AS,Amsterdam,Netherlands,EUR,,,
+240,3ABN.AS,Amsterdam,Netherlands,EUR,,,
+241,SARKW.AS,Amsterdam,Netherlands,EUR,,,
+242,5SPY.AS,Amsterdam,Netherlands,EUR,,,
+243,1ARKW.AS,Amsterdam,Netherlands,EUR,,,
+244,SROK.AS,Amsterdam,Netherlands,EUR,,,
+245,FB1X.AS,Amsterdam,Netherlands,EUR,,,
+246,SPLR.AS,Amsterdam,Netherlands,EUR,,,
+247,WDOT.AS,Amsterdam,Netherlands,USD,,,
+248,SICL.AS,Amsterdam,Netherlands,EUR,,,
+249,EJP3.AS,Amsterdam,Netherlands,EUR,,,
+250,CH1135202088.AS,Amsterdam,Netherlands,USD,,,
+251,3ABN.AS,Amsterdam,Netherlands,EUR,,,
+252,3ARKK.AS,Amsterdam,Netherlands,EUR,,,
+253,XS1054522922.AS,Amsterdam,Netherlands,EUR,,,
+254,PHPT.AS,Amsterdam,Netherlands,EUR,,,
+255,NL0010733424.AS,Amsterdam,Netherlands,EUR,,,
+256,BIDU.AS,Amsterdam,Netherlands,EUR,,,
+257,AAPL.AS,Amsterdam,Netherlands,EUR,,,
+258,3KWE.AS,Amsterdam,Netherlands,EUR,,,
+259,3DIS.AS,Amsterdam,Netherlands,EUR,,,
+260,BTCW.AS,Amsterdam,Netherlands,USD,,,
+261,NL0000120004.AS,Amsterdam,Netherlands,USD,,,
+262,NL0010071189.AS,Amsterdam,Netherlands,EUR,,,
+263,NFLX.AS,Amsterdam,Netherlands,EUR,,,
+264,LSIL.AS,Amsterdam,Netherlands,EUR,,,
+265,3ARKW.AS,Amsterdam,Netherlands,EUR,,,
+266,WADA.AS,Amsterdam,Netherlands,USD,,,
+267,SIBB.AS,Amsterdam,Netherlands,EUR,,,
+268,FB1X.AS,Amsterdam,Netherlands,EUR,,,
+269,CH0496454155.AS,Amsterdam,Netherlands,USD,,,
+270,3TSM.AS,Amsterdam,Netherlands,EUR,,,
+271,SARKW.AS,Amsterdam,Netherlands,EUR,,,
+272,3PLT.AS,Amsterdam,Netherlands,EUR,,,
+273,EUJP.AS,Amsterdam,Netherlands,EUR,,,
+274,3TWT.AS,Amsterdam,Netherlands,EUR,,,
+275,3UBR.AS,Amsterdam,Netherlands,EUR,,,
+276,CH1135202179.AS,Amsterdam,Netherlands,USD,,,
+277,3GDX.AS,Amsterdam,Netherlands,EUR,,,
+278,CH0454664043.AS,Amsterdam,Netherlands,USD,,,
+279,CH1135202161.AS,Amsterdam,Netherlands,USD,,,
+280,CH1100083471.AS,Amsterdam,Netherlands,USD,,,
+281,NIOS.AS,Amsterdam,Netherlands,EUR,,,
+282,CH0454664001.AS,Amsterdam,Netherlands,USD,,,

@@ -1,0 +1,445 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,BHG.JO,Johannesburg,Australia,ZAc,Basic Materials,Other Industrial Metals & Mining,"40,110"
+1,PRX.JO,Johannesburg,Netherlands,ZAc,Communication Services,Internet Content & Information,"23,939"
+2,ANH.JO,Johannesburg,Belgium,ZAc,Consumer Defensive,Beverages—Brewers,"169,339"
+3,BTI.JO,Johannesburg,United Kingdom,ZAc,Consumer Defensive,Tobacco,"54,365"
+4,GLN.JO,Johannesburg,Switzerland,ZAc,Basic Materials,Other Industrial Metals & Mining,"81,284"
+5,CFR.JO,Johannesburg,Switzerland,ZAc,Consumer Cyclical,Luxury Goods,"34,760"
+6,AGL.JO,Johannesburg,United Kingdom,ZAc,Basic Materials,Other Industrial Metals & Mining,"106,000"
+7,AMS.JO,Johannesburg,South Africa,ZAc,Basic Materials,Other Precious Metals & Mining,
+8,FSRP.JO,Johannesburg,South Africa,ZAc,,,
+9,ABSP.JO,Johannesburg,South Africa,ZAc,Financial Services,Banks—Regional,"25,908"
+10,FSR.JO,Johannesburg,South Africa,ZAc,Financial Services,Banks—Diversified,"47,579"
+11,NPN.JO,Johannesburg,South Africa,ZAc,Communication Services,Internet Content & Information,"28,445"
+12,MTN.JO,Johannesburg,South Africa,ZAc,Communication Services,Telecom Services,
+13,SBK.JO,Johannesburg,South Africa,ZAc,Financial Services,Banks—Regional,"49,224"
+14,S32.JO,Johannesburg,Australia,ZAc,Basic Materials,Other Industrial Metals & Mining,
+15,VOD.JO,Johannesburg,South Africa,ZAc,Communication Services,Telecom Services,"7,642"
+16,CPI.JO,Johannesburg,South Africa,ZAc,Financial Services,Banks—Regional,"14,789"
+17,SOL.JO,Johannesburg,South Africa,ZAc,Basic Materials,Specialty Chemicals,"28,736"
+18,GFI.JO,Johannesburg,South Africa,ZAc,Basic Materials,Gold,"17,604"
+19,SOLBE1.JO,Johannesburg,South Africa,ZAc,Basic Materials,Specialty Chemicals,"28,736"
+20,IMP.JO,Johannesburg,South Africa,ZAc,Basic Materials,Other Precious Metals & Mining,
+21,KIO.JO,Johannesburg,South Africa,ZAc,Basic Materials,Steel,
+22,CPIP.JO,Johannesburg,South Africa,ZAc,Financial Services,Banks—Regional,"14,789"
+23,SSW.JO,Johannesburg,South Africa,ZAc,Basic Materials,Gold,"80,000"
+24,MNP.JO,Johannesburg,United Kingdom,ZAc,Basic Materials,Paper & Paper Products,"26,400"
+25,SLM.JO,Johannesburg,South Africa,ZAc,Financial Services,Insurance—Life,"21,180"
+26,ABG.JO,Johannesburg,South Africa,ZAc,Financial Services,Banks—Regional,"35,267"
+27,ANG.JO,Johannesburg,South Africa,ZAc,Basic Materials,Gold,
+28,SHP.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Department Stores,
+29,SBPP.JO,Johannesburg,South Africa,ZAc,,,
+30,DSY.JO,Johannesburg,South Africa,ZAc,Financial Services,Insurance—Life,
+31,BID.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Food Distribution,"22,552"
+32,NED.JO,Johannesburg,South Africa,ZAc,Financial Services,Banks—Regional,
+33,DSBP.JO,Johannesburg,South Africa,ZAc,Financial Services,Insurance—Life,
+34,REM.JO,Johannesburg,South Africa,ZAc,Financial Services,Asset Management,
+35,PPH.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Department Stores,
+36,APN.JO,Johannesburg,South Africa,ZAc,Healthcare,Drug Manufacturers—Specialty & Generic,"8,581"
+37,EXX.JO,Johannesburg,South Africa,ZAc,Energy,Thermal Coal,
+38,CLS.JO,Johannesburg,South Africa,ZAc,Healthcare,Pharmaceutical Retailers,"15,252"
+39,BVT.JO,Johannesburg,South Africa,ZAc,Industrials,Conglomerates,
+40,NPH.JO,Johannesburg,South Africa,ZAc,Basic Materials,Other Precious Metals & Mining,
+41,INP.JO,Johannesburg,South Africa,ZAc,Financial Services,Capital Markets,"8,200"
+42,INPR.JO,Johannesburg,South Africa,ZAc,,,
+43,WHL.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Department Stores,"40,339"
+44,RNI.JO,Johannesburg,Luxembourg,ZAc,Financial Services,Asset Management,
+45,NRP.JO,Johannesburg,Isle of Man,ZAc,Real Estate,Real Estate—Diversified,
+46,OMU.JO,Johannesburg,South Africa,ZAc,Financial Services,Insurance—Life,
+47,MRP.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Apparel Retail,"17,831"
+48,MCG.JO,Johannesburg,South Africa,ZAc,Communication Services,Entertainment,"7,028"
+49,MEI.JO,Johannesburg,South Africa,ZAc,Healthcare,Medical Care Facilities,"30,470"
+50,ARI.JO,Johannesburg,South Africa,ZAc,Basic Materials,Other Industrial Metals & Mining,"12,335"
+51,N91.JO,Johannesburg,South Africa,ZAc,Financial Services,Asset Management,"1,186"
+52,GRT.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+53,NY1.JO,Johannesburg,South Africa,ZAc,Financial Services,Asset Management,"1,186"
+54,TFG.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Specialty Retail,
+55,RBP.JO,Johannesburg,South Africa,ZAc,Basic Materials,Other Precious Metals & Mining,"11,024"
+56,QLT.JO,Johannesburg,United Kingdom,ZAc,Financial Services,Asset Management,"3,056"
+57,HAR.JO,Johannesburg,South Africa,ZAc,Basic Materials,Gold,"38,459"
+58,RMI.JO,Johannesburg,South Africa,ZAc,Financial Services,Insurance—Diversified,
+59,DGH.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Beverages—Wineries & Distilleries,"4,440"
+60,TCP.JO,Johannesburg,South Africa,ZAc,Financial Services,Credit Services,
+61,VVO.JO,Johannesburg,United Kingdom,ZAc,Energy,Oil & Gas Refining & Marketing,"2,700"
+62,LHC.JO,Johannesburg,South Africa,ZAc,Healthcare,Medical Care Facilities,
+63,DCP.JO,Johannesburg,South Africa,ZAc,Healthcare,Pharmaceutical Retailers,
+64,SNT.JO,Johannesburg,South Africa,ZAc,Financial Services,Insurance—Specialty,
+65,TGA.JO,Johannesburg,South Africa,ZAc,Energy,Thermal Coal,
+66,SPP.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Food Distribution,
+67,RDF.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+68,SAP.JO,Johannesburg,South Africa,ZAc,Basic Materials,Paper & Paper Products,
+69,SRE.JO,Johannesburg,Guernsey,ZAc,Real Estate,Real Estate Services,270
+70,PIK.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Department Stores,"90,000"
+71,TBS.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Packaged Foods,"10,158"
+72,CCO.JO,Johannesburg,United Kingdom,ZAc,Real Estate,REIT—Retail,72
+73,HMN.JO,Johannesburg,United Kingdom,ZAc,Real Estate,REIT—Retail,426
+74,INL.JO,Johannesburg,South Africa,ZAc,Financial Services,Banks—Regional,"8,200"
+75,TXT.JO,Johannesburg,Bermuda,ZAc,Industrials,Rental & Leasing Services,164
+76,NTCP.JO,Johannesburg,South Africa,ZAc,Healthcare,Medical Care Facilities,
+77,MTM.JO,Johannesburg,South Africa,ZAc,Financial Services,Insurance—Diversified,"16,761"
+78,BYI.JO,Johannesburg,United Kingdom,ZAc,Technology,Software—Infrastructure,685
+79,MKR.JO,Johannesburg,United States,ZAc,Utilities,Utilities—Diversified,132
+80,BAW.JO,Johannesburg,South Africa,ZAc,Industrials,Rental & Leasing Services,"10,229"
+81,AVI.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Packaged Foods,"9,351"
+82,TKG.JO,Johannesburg,South Africa,ZAc,Communication Services,Telecom Services,"11,853"
+83,TRU.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Apparel Retail,"9,478"
+84,NTC.JO,Johannesburg,South Africa,ZAc,Healthcare,Medical Care Facilities,
+85,APH.JO,Johannesburg,Mauritius,ZAc,Basic Materials,Other Industrial Metals & Mining,
+86,MTH.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Auto Parts,"17,000"
+87,ITE.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Home Improvement Retail,"2,613"
+88,PSG.JO,Johannesburg,South Africa,ZAc,Industrials,Conglomerates,33
+89,RES.JO,Johannesburg,South Africa,ZAc,,,
+90,FFA.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+91,KST.JO,Johannesburg,South Africa,ZAc,Financial Services,Asset Management,
+92,KRO.JO,Johannesburg,Singapore,ZAc,Technology,Software—Application,"2,999"
+93,EQU.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Industrial,
+94,MSP.JO,Johannesburg,Isle of Man,ZAc,Real Estate,Real Estate—Diversified,
+95,CML.JO,Johannesburg,South Africa,ZAc,Financial Services,Asset Management,
+96,LTE.JO,Johannesburg,Malta,ZAc,Real Estate,Real Estate Services,
+97,IAP.JO,Johannesburg,Australia,ZAc,Real Estate,REIT—Diversified,
+98,KAP.JO,Johannesburg,South Africa,ZAc,Industrials,Conglomerates,
+99,VKE.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Retail,
+100,OMN.JO,Johannesburg,South Africa,ZAc,Industrials,Conglomerates,"4,200"
+101,HYP.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Retail,
+102,SNH.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Specialty Retail,"90,731"
+103,DRD.JO,Johannesburg,South Africa,ZAc,Basic Materials,Gold,953
+104,AFE.JO,Johannesburg,South Africa,ZAc,Basic Materials,Specialty Chemicals,"6,973"
+105,MLI.JO,Johannesburg,Guernsey,ZAc,Real Estate,REIT—Industrial,44
+106,TSG.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Resorts & Casinos,
+107,RCL.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Packaged Foods,
+108,IPF.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+109,ACL.JO,Johannesburg,South Africa,ZAc,Basic Materials,Steel,"7,135"
+110,THA.JO,Johannesburg,Cyprus,ZAc,Basic Materials,Other Precious Metals & Mining,"3,000"
+111,SPG.JO,Johannesburg,South Africa,ZAc,Industrials,Integrated Freight & Logistics,
+112,PAN.JO,Johannesburg,South Africa,ZAc,Basic Materials,Gold,"2,104"
+113,HCI.JO,Johannesburg,South Africa,ZAc,Industrials,Conglomerates,
+114,ADH.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Education & Training Services,"7,853"
+115,JSE.JO,Johannesburg,South Africa,ZAc,Financial Services,Financial Data & Stock Exchanges,
+116,AFT.JO,Johannesburg,South Africa,ZAc,Basic Materials,Building Materials,
+117,MSM.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Department Stores,
+118,AIL.JO,Johannesburg,Mauritius,ZAc,Financial Services,Asset Management,
+119,AIP.JO,Johannesburg,South Africa,ZAc,Healthcare,Drug Manufacturers—Specialty & Generic,
+120,DTC.JO,Johannesburg,South Africa,ZAc,Technology,Information Technology Services,"9,300"
+121,JBL.JO,Johannesburg,United Kingdom,ZAc,Basic Materials,Other Industrial Metals & Mining,559
+122,RLO.JO,Johannesburg,South Africa,ZAc,Industrials,Electrical Equipment & Parts,"4,796"
+123,GSH.JO,Johannesburg,Singapore,ZAc,Industrials,Marine Shipping,596
+124,RBX.JO,Johannesburg,South Africa,ZAc,Industrials,Engineering & Construction,
+125,SUI.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Resorts & Casinos,
+126,OCE.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Packaged Foods,
+127,SSS.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Industrial,
+128,COH.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Education & Training Services,"6,150"
+129,CSB.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Home Improvement Retail,
+130,PPC.JO,Johannesburg,South Africa,ZAc,Basic Materials,Building Materials,
+131,AFH.JO,Johannesburg,South Africa,ZAc,Financial Services,Financial Conglomerates,
+132,FTB.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Retail,
+133,MTA.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Auto Parts,"6,062"
+134,FBR.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Restaurants,
+135,ARL.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Farm Products,"9,679"
+136,SAC.JO,Johannesburg,South Africa,ZAc,,,
+137,BAT.JO,Johannesburg,Malta,ZAc,Financial Services,Asset Management,
+138,EMI.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,24
+139,ATT.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+140,BLU.JO,Johannesburg,South Africa,ZAc,Communication Services,Telecom Services,"1,635"
+141,REN.JO,Johannesburg,South Africa,ZAc,Financial Services,Asset Management,
+142,MPT.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Packaging & Containers,
+143,GNDP.JO,Johannesburg,South Africa,ZAc,Industrials,Integrated Freight & Logistics,
+144,TGO.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Lodging,"5,844"
+145,ZED.JO,Johannesburg,South Africa,ZAc,Financial Services,Asset Management,
+146,MUR.JO,Johannesburg,South Africa,ZAc,Industrials,Engineering & Construction,"9,385"
+147,WBO.JO,Johannesburg,South Africa,ZAc,Industrials,Engineering & Construction,
+148,NT1.JO,Johannesburg,South Africa,ZAc,Technology,Software—Infrastructure,"3,079"
+149,GND.JO,Johannesburg,South Africa,ZAc,Industrials,Integrated Freight & Logistics,
+150,HDC.JO,Johannesburg,South Africa,ZAc,Industrials,Industrial Distribution,"3,593"
+151,MTNZF.JO,Johannesburg,South Africa,ZAc,Financial Services,Shell Companies,
+152,MRF.JO,Johannesburg,South Africa,ZAc,Basic Materials,Other Industrial Metals & Mining,
+153,L4L.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Specialty Retail,"2,462"
+154,GML.JO,Johannesburg,Guernsey,ZAc,Basic Materials,Other Precious Metals & Mining,"1,594"
+155,SHG.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Farm Products,"5,270"
+156,CAT.JO,Johannesburg,South Africa,ZAc,Communication Services,Publishing,"4,636"
+157,MIX.JO,Johannesburg,United States,ZAc,Technology,Software—Application,946
+158,DIA.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+159,L2D.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Retail,
+160,IVT.JO,Johannesburg,South Africa,ZAc,Industrials,Industrial Distribution,
+161,CLI.JO,Johannesburg,South Africa,ZAc,Financial Services,Insurance—Diversified,"2,125"
+162,DIB.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+163,LBR.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Packaged Foods,
+164,SDO.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Education & Training Services,
+165,RFG.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Packaged Foods,
+166,PPE.JO,Johannesburg,South Africa,ZAc,Financial Services,Financial Conglomerates,
+167,FFB.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+168,KAL.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Farm Products,"3,736"
+169,AEL.JO,Johannesburg,South Africa,ZAc,Technology,Information Technology Services,"7,711"
+170,LEW.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Specialty Retail,"8,880"
+171,ACT.JO,Johannesburg,South Africa,ZAc,Healthcare,Medical Care Facilities,"5,957"
+172,HIL.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Specialty Retail,
+173,CLH.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Lodging,"1,477"
+174,TDH.JO,Johannesburg,Malta,ZAc,Real Estate,Real Estate Services,
+175,WEZ.JO,Johannesburg,South Africa,ZAc,Basic Materials,Other Industrial Metals & Mining,
+176,SBP.JO,Johannesburg,South Africa,ZAc,Financial Services,Asset Management,
+177,SYG.JO,Johannesburg,South Africa,ZAc,Financial Services,Financial Conglomerates,248
+178,YYLBEE.JO,Johannesburg,South Africa,ZAc,Communication Services,Telecom Services,
+179,OAO.JO,Johannesburg,Nigeria,ZAc,Energy,Oil & Gas Refining & Marketing,137
+180,AVV.JO,Johannesburg,South Africa,ZAc,Technology,Information Technology Services,
+181,RMH.JO,Johannesburg,South Africa,ZAc,Financial Services,Banks—Regional,
+182,ACS.JO,Johannesburg,South Africa,ZAc,Real Estate,Real Estate—Development,
+183,CTA.JO,Johannesburg,South Africa,ZAc,Technology,Information Technology Services,365
+184,CMH.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Auto & Truck Dealerships,"2,204"
+185,SZK.JO,Johannesburg,South Africa,ZAc,Financial Services,Shell Companies,
+186,OCT.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,212
+187,MDI.JO,Johannesburg,South Africa,ZAc,Industrials,Engineering & Construction,
+188,SUR.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Restaurants,
+189,NPK.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Packaging & Containers,
+190,AEG.JO,Johannesburg,South Africa,ZAc,Industrials,Engineering & Construction,"6,260"
+191,EMH.JO,Johannesburg,South Africa,ZAc,Communication Services,Entertainment,
+192,BRN.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Packaged Foods,
+193,ARH.JO,Johannesburg,South Africa,ZAc,Technology,Electronics & Computer Distribution,
+194,BRT.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Packaged Foods,
+195,TTO.JO,Johannesburg,Namibia,ZAc,Financial Services,Insurance—Diversified,663
+196,SEA.JO,Johannesburg,South Africa,ZAc,,,26
+197,EMN.JO,Johannesburg,South Africa,ZAc,Communication Services,Entertainment,
+198,DRA.JO,Johannesburg,Australia,ZAc,Industrials,Engineering & Construction,"4,500"
+199,UPL.JO,Johannesburg,Mauritius,ZAc,Financial Services,Asset Management,
+200,FTH.JO,Johannesburg,South Africa,ZAc,Industrials,Railroads,"2,565"
+201,ENX.JO,Johannesburg,South Africa,ZAc,Industrials,Specialty Industrial Machinery,899
+202,MFL.JO,Johannesburg,South Africa,ZAc,Industrials,Specialty Business Services,"1,306"
+203,EPE.JO,Johannesburg,Mauritius,ZAc,Financial Services,Asset Management,72
+204,SAR.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+205,HLM.JO,Johannesburg,South Africa,ZAc,Basic Materials,Aluminum,"1,722"
+206,BEL.JO,Johannesburg,South Africa,ZAc,Industrials,Farm & Heavy Construction Machinery,
+207,BWN.JO,Johannesburg,South Africa,ZAc,Real Estate,Real Estate—Development,
+208,ORN.JO,Johannesburg,Australia,ZAc,Basic Materials,Other Industrial Metals & Mining,
+209,AYO.JO,Johannesburg,South Africa,ZAc,Technology,Information Technology Services,
+210,TEX.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Office,
+211,EOH.JO,Johannesburg,South Africa,ZAc,Technology,Information Technology Services,
+212,GPL.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Restaurants,
+213,DNB.JO,Johannesburg,South Africa,ZAc,Industrials,Conglomerates,"2,305"
+214,QFH.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Farm Products,
+215,APF.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Retail,
+216,ILU.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Residential,
+217,TPF.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Residential,
+218,MST.JO,Johannesburg,South Africa,ZAc,Technology,Computer Hardware,"1,068"
+219,YRK.JO,Johannesburg,South Africa,ZAc,Basic Materials,Lumber & Wood Production,
+220,SFN.JO,Johannesburg,South Africa,ZAc,Financial Services,Banks—Regional,
+221,KP2.JO,Johannesburg,United Kingdom,ZAc,Basic Materials,Other Industrial Metals & Mining,46
+222,MMP.JO,Johannesburg,Jersey,ZAc,Industrials,Industrial Distribution,
+223,BCF.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Packaging & Containers,
+224,SNV.JO,Johannesburg,South Africa,ZAc,Industrials,Integrated Freight & Logistics,259
+225,TRE.JO,Johannesburg,South Africa,ZAc,Industrials,Marine Shipping,6
+226,APO.JO,Johannesburg,South Africa,ZAc,,,
+227,TMT.JO,Johannesburg,South Africa,ZAc,Real Estate,Real Estate Services,497
+228,HUG.JO,Johannesburg,South Africa,ZAc,Communication Services,Telecom Services,315
+229,TPC.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Packaging & Containers,"1,522"
+230,CHP.JO,Johannesburg,Botswana,ZAc,Consumer Defensive,Grocery Stores,"9,000"
+231,SLG.JO,Johannesburg,South Africa,ZAc,Energy,Thermal Coal,192
+232,NWL.JO,Johannesburg,South Africa,ZAc,Technology,Consumer Electronics,350
+233,ART.JO,Johannesburg,South Africa,ZAc,Basic Materials,Steel,
+234,NVS.JO,Johannesburg,South Africa,ZAc,Industrials,Specialty Business Services,"1,741"
+235,OLG.JO,Johannesburg,South Africa,ZAc,Industrials,Trucking,"2,009"
+236,PBG.JO,Johannesburg,South Africa,ZAc,Technology,Information Technology Services,840
+237,RACP.JO,Johannesburg,South Africa,ZAc,Financial Services,Asset Management,
+238,CKS.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Farm Products,
+239,ADR.JO,Johannesburg,South Africa,ZAc,Industrials,Staffing & Employment Services,
+240,ANI.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Specialty,
+241,GLI.JO,Johannesburg,Mauritius,ZAc,Healthcare,Drug Manufacturers—Specialty & Generic,
+242,ISB.JO,Johannesburg,South Africa,ZAc,Industrials,Metal Fabrication,645
+243,CGR.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Residential Construction,
+244,EPS.JO,Johannesburg,Georgia,ZAc,Basic Materials,Other Precious Metals & Mining,
+245,DLT.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Office,
+246,FGL.JO,Johannesburg,South Africa,ZAc,Financial Services,Mortgage Finance,"1,909"
+247,ASC.JO,Johannesburg,South Africa,ZAc,Healthcare,Drug Manufacturers—Specialty & Generic,
+248,TON.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Confectioners,
+249,WKF.JO,Johannesburg,South Africa,ZAc,Industrials,Staffing & Employment Services,"1,259"
+250,ARA.JO,Johannesburg,Mauritius,ZAc,Financial Services,Asset Management,
+251,SOH.JO,Johannesburg,South Africa,ZAc,Industrials,Electrical Equipment & Parts,473
+252,BAU.JO,Johannesburg,South Africa,ZAc,Basic Materials,Other Industrial Metals & Mining,363
+253,HUL.JO,Johannesburg,South Africa,ZAc,Utilities,Utilities—Renewable,
+254,AEE.JO,Johannesburg,South Africa,ZAc,Technology,Information Technology Services,
+255,REA.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+256,MHB.JO,Johannesburg,South Africa,ZAc,Financial Services,Asset Management,
+257,REB.JO,Johannesburg,South Africa,ZAc,Real Estate,REIT—Diversified,
+258,TRL.JO,Johannesburg,South Africa,ZAc,Industrials,Security & Protection Services,
+259,ETO.JO,Johannesburg,South Africa,ZAc,Technology,Scientific & Technical Instruments,281
+260,BIK.JO,Johannesburg,South Africa,ZAc,Industrials,Conglomerates,
+261,AME.JO,Johannesburg,South Africa,ZAc,Communication Services,Broadcasting,208
+262,RHB.JO,Johannesburg,South Africa,ZAc,Healthcare,Medical Care Facilities,
+263,CMO.JO,Johannesburg,South Africa,ZAc,Basic Materials,Other Industrial Metals & Mining,
+264,CSG.JO,Johannesburg,South Africa,ZAc,Industrials,Staffing & Employment Services,"5,058"
+265,ATI.JO,Johannesburg,South Africa,ZAc,Industrials,Specialty Business Services,
+266,AVL.JO,Johannesburg,South Africa,ZAc,Healthcare,Medical Care Facilities,152
+267,ELI.JO,Johannesburg,South Africa,ZAc,Technology,Communication Equipment,
+268,ISA.JO,Johannesburg,South Africa,ZAc,Technology,Software—Infrastructure,
+269,PPR.JO,Johannesburg,South Africa,ZAc,Real Estate,Real Estate Services,7
+270,4SI.JO,Johannesburg,Mauritius,ZAc,Technology,Information Technology Services,340
+271,PFB.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Packaged Foods,
+272,LAB.JO,Johannesburg,South Africa,ZAc,Technology,Semiconductors,26
+273,JSC.JO,Johannesburg,South Africa,ZAc,Industrials,Conglomerates,570
+274,PMV.JO,Johannesburg,South Africa,ZAc,Industrials,Staffing & Employment Services,
+275,RNG.JO,Johannesburg,South Africa,ZAc,Basic Materials,Gold,
+276,SSK.JO,Johannesburg,South Africa,ZAc,Industrials,Engineering & Construction,
+277,CGN.JO,Johannesburg,South Africa,ZAc,Industrials,Consulting Services,204
+278,TLM.JO,Johannesburg,South Africa,ZAc,Communication Services,Telecom Services,
+279,LUX.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Luxury Goods,
+280,EUZ.JO,Johannesburg,Australia,ZAc,Basic Materials,Other Industrial Metals & Mining,
+281,SVB.JO,Johannesburg,South Africa,ZAc,Technology,Software—Application,
+282,NCS.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,Specialty Retail,42
+283,SCD.JO,Johannesburg,United Kingdom,ZAc,Real Estate,REIT—Specialty,1
+284,ILE.JO,Johannesburg,South Africa,ZAc,Consumer Defensive,Household & Personal Products,
+285,ADW.JO,Johannesburg,South Africa,ZAc,Financial Services,Credit Services,50
+286,VIS.JO,Johannesburg,South Africa,ZAc,Real Estate,Real Estate Services,2
+287,SXM.JO,Johannesburg,South Africa,ZAc,Basic Materials,Other Precious Metals & Mining,
+288,SHFF.JO,Johannesburg,South Africa,ZAc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+289,NFETNC.JO,Johannesburg,South Africa,ZAc,,,
+290,USQCPA.JO,Johannesburg,South Africa,ZAc,,,
+291,SBOIL.JO,Johannesburg,South Africa,ZAc,,,
+292,NFGOVI.JO,Johannesburg,South Africa,ZAc,,,
+293,STXGBD.JO,Johannesburg,South Africa,ZAc,,,
+294,FNBWGB.JO,Johannesburg,South Africa,ZAc,,,
+295,SYGT40.JO,Johannesburg,South Africa,ZAc,,,
+296,TSETNC.JO,Johannesburg,South Africa,ZAc,,,
+297,ETFGLD.JO,Johannesburg,South Africa,ZAc,,,
+298,SBPP.JO,Johannesburg,South Africa,ZAc,,,
+299,COETNC.JO,Johannesburg,South Africa,ZAc,,,
+300,NFEDEF.JO,Johannesburg,South Africa,ZAc,,,
+301,SYGCN.JO,Johannesburg,South Africa,ZAc,,,
+302,VSETNC.JO,Johannesburg,South Africa,ZAc,,,
+303,TSETNQ.JO,Johannesburg,South Africa,ZAc,,,
+304,ADETNQ.JO,Johannesburg,South Africa,ZAc,,,
+305,NFEHGE.JO,Johannesburg,South Africa,ZAc,,,
+306,ETFSWX.JO,Johannesburg,South Africa,ZAc,,,
+307,STXEME.JO,Johannesburg,South Africa,ZAc,,,
+308,DCCUSD.JO,Johannesburg,South Africa,ZAc,,,
+309,FNBMID.JO,Johannesburg,South Africa,ZAc,,,
+310,AMETNQ.JO,Johannesburg,South Africa,ZAc,,,
+311,SYGH.JO,Johannesburg,South Africa,ZAc,,,
+312,ETFWLD.JO,Johannesburg,South Africa,ZAc,,,
+313,STXIND.JO,Johannesburg,South Africa,ZAc,,,
+314,STXRES.JO,Johannesburg,South Africa,ZAc,,,
+315,ETFT40.JO,Johannesburg,South Africa,ZAc,,,
+316,GLOBAL.JO,Johannesburg,South Africa,ZAc,,,
+317,STXSWX.JO,Johannesburg,South Africa,ZAc,,,
+318,STXCHN.JO,Johannesburg,South Africa,ZAc,,,
+319,GLD.JO,Johannesburg,South Africa,ZAc,,,
+320,STXEMG.JO,Johannesburg,South Africa,ZAc,,,
+321,STXFIN.JO,Johannesburg,South Africa,ZAc,,,
+322,STX500.JO,Johannesburg,South Africa,ZAc,,,
+323,SYGUS.JO,Johannesburg,South Africa,ZAc,,,
+324,STX40.JO,Johannesburg,South Africa,ZAc,,,
+325,SYGUK.JO,Johannesburg,South Africa,ZAc,,,
+326,UABCPA.JO,Johannesburg,South Africa,ZAc,,,
+327,KCCGLD.JO,Johannesburg,South Africa,ZAc,,,
+328,GLODIV.JO,Johannesburg,South Africa,ZAc,,,
+329,NGPLD.JO,Johannesburg,South Africa,ZAc,,,
+330,SWXTR2.JO,Johannesburg,South Africa,ZAc,,,
+331,COETNQ.JO,Johannesburg,South Africa,ZAc,,,
+332,SRETNQ.JO,Johannesburg,South Africa,ZAc,,,
+333,FNBEQF.JO,Johannesburg,South Africa,ZAc,,,
+334,SMART.JO,Johannesburg,South Africa,ZAc,,,
+335,CTOP50.JO,Johannesburg,South Africa,ZAc,,,
+336,ETFPLT.JO,Johannesburg,South Africa,ZAc,,,
+337,ETF5IT.JO,Johannesburg,South Africa,ZAc,,,
+338,GSETNQ.JO,Johannesburg,South Africa,ZAc,,,
+339,MWETNC.JO,Johannesburg,South Africa,ZAc,,,
+340,WWETNC.JO,Johannesburg,South Africa,ZAc,,,
+341,NEWPLT.JO,Johannesburg,South Africa,ZAc,,,
+342,CSPROP.JO,Johannesburg,South Africa,ZAc,,,
+343,ETFGGB.JO,Johannesburg,South Africa,ZAc,,,
+344,STXESG.JO,Johannesburg,South Africa,ZAc,,,
+345,MSETNC.JO,Johannesburg,South Africa,ZAc,,,
+346,ABETNQ.JO,Johannesburg,South Africa,ZAc,,,
+347,FNBGSE.JO,Johannesburg,South Africa,ZAc,,,
+348,SYGP.JO,Johannesburg,South Africa,ZAc,,,
+349,UMMIES.JO,Johannesburg,South Africa,ZAc,,,
+350,SYGESG.JO,Johannesburg,South Africa,ZAc,,,
+351,ALETNC.JO,Johannesburg,South Africa,ZAc,,,
+352,PPETNQ.JO,Johannesburg,South Africa,ZAc,,,
+353,WWETNQ.JO,Johannesburg,South Africa,ZAc,,,
+354,SRETNC.JO,Johannesburg,South Africa,ZAc,,,
+355,NEWUSD.JO,Johannesburg,South Africa,ZAc,,,
+356,ETFGRE.JO,Johannesburg,South Africa,ZAc,,,
+357,STXCAP.JO,Johannesburg,South Africa,ZAc,,,
+358,STXIFR.JO,Johannesburg,South Africa,ZAc,,,
+359,SYG4IR.JO,Johannesburg,South Africa,ZAc,,,
+360,BHETNQ.JO,Johannesburg,South Africa,ZAc,,,
+361,FRK02.JO,Johannesburg,South Africa,ZAc,,,
+362,NEWPRP.JO,Johannesburg,South Africa,ZAc,,,
+363,STXNDA.JO,Johannesburg,South Africa,ZAc,,,
+364,JPETNQ.JO,Johannesburg,South Africa,ZAc,,,
+365,MAPPSP.JO,Johannesburg,South Africa,ZAc,,,
+366,MSETNQ.JO,Johannesburg,South Africa,ZAc,,,
+367,NFTRCI.JO,Johannesburg,South Africa,ZAc,,,
+368,ASBI.JO,Johannesburg,South Africa,ZAc,,,
+369,URETGP.JO,Johannesburg,South Africa,ZAc,,,
+370,ABETNC.JO,Johannesburg,South Africa,ZAc,,,
+371,NFETNQ.JO,Johannesburg,South Africa,ZAc,,,
+372,DIVTRX.JO,Johannesburg,South Africa,ZAc,,,
+373,NFEVOL.JO,Johannesburg,South Africa,ZAc,,,
+374,ETFBND.JO,Johannesburg,South Africa,ZAc,,,
+375,BHETNC.JO,Johannesburg,South Africa,ZAc,,,
+376,FDETNQ.JO,Johannesburg,South Africa,ZAc,,,
+377,FDETNC.JO,Johannesburg,South Africa,ZAc,,,
+378,ETFSAP.JO,Johannesburg,South Africa,ZAc,,,
+379,NEWGBP.JO,Johannesburg,South Africa,ZAc,,,
+380,NFEMOM.JO,Johannesburg,South Africa,ZAc,,,
+381,NGPLT.JO,Johannesburg,South Africa,ZAc,,,
+382,INPR.JO,Johannesburg,South Africa,ZAc,,,
+383,PPETNC.JO,Johannesburg,South Africa,ZAc,,,
+384,PREFTX.JO,Johannesburg,South Africa,ZAc,,,
+385,FSRP.JO,Johannesburg,South Africa,ZAc,,,
+386,FNBGEG.JO,Johannesburg,South Africa,ZAc,,,
+387,STXNDQ.JO,Johannesburg,South Africa,ZAc,,,
+388,SYG500.JO,Johannesburg,South Africa,ZAc,,,
+389,FNBINF.JO,Johannesburg,South Africa,ZAc,,,
+390,UOMWPA.JO,Johannesburg,South Africa,ZAc,,,
+391,SYGEU.JO,Johannesburg,South Africa,ZAc,,,
+392,APETNQ.JO,Johannesburg,South Africa,ZAc,,,
+393,MCETNQ.JO,Johannesburg,South Africa,ZAc,,,
+394,SBCOP.JO,Johannesburg,South Africa,ZAc,,,
+395,STXILB.JO,Johannesburg,South Africa,ZAc,,,
+396,NFEVAL.JO,Johannesburg,South Africa,ZAc,,,
+397,UEFPCA.JO,Johannesburg,South Africa,ZAc,,,
+398,ALETNQ.JO,Johannesburg,South Africa,ZAc,,,
+399,MAPPSG.JO,Johannesburg,South Africa,ZAc,,,
+400,NFNAMB.JO,Johannesburg,South Africa,ZAc,,,
+401,STXRAF.JO,Johannesburg,South Africa,ZAc,,,
+402,AMETNC.JO,Johannesburg,South Africa,ZAc,,,
+403,STXMMT.JO,Johannesburg,South Africa,ZAc,,,
+404,ADETNC.JO,Johannesburg,South Africa,ZAc,,,
+405,FNBT40.JO,Johannesburg,South Africa,ZAc,,,
+406,APETNC.JO,Johannesburg,South Africa,ZAc,,,
+407,NFILBI.JO,Johannesburg,South Africa,ZAc,,,
+408,SYGJP.JO,Johannesburg,South Africa,ZAc,,,
+409,EGETNC.JO,Johannesburg,South Africa,ZAc,,,
+410,STXQUA.JO,Johannesburg,South Africa,ZAc,,,
+411,TOPTR2.JO,Johannesburg,South Africa,ZAc,,,
+412,MCETNC.JO,Johannesburg,South Africa,ZAc,,,
+413,UMMIEA.JO,Johannesburg,South Africa,ZAc,,,
+414,NEWEUR.JO,Johannesburg,South Africa,ZAc,,,
+415,STXGOV.JO,Johannesburg,South Africa,ZAc,,,
+416,FAETNQ.JO,Johannesburg,South Africa,ZAc,,,
+417,STXDIV.JO,Johannesburg,South Africa,ZAc,,,
+418,STXWDM.JO,Johannesburg,South Africa,ZAc,,,
+419,ETFRHO.JO,Johannesburg,South Africa,ZAc,,,
+420,ETF500.JO,Johannesburg,South Africa,ZAc,,,
+421,IVTP.JO,Johannesburg,South Africa,ZAc,Industrials,Industrial Distribution,
+422,SYGWD.JO,Johannesburg,South Africa,ZAc,,,
+423,NEWSLV.JO,Johannesburg,South Africa,ZAc,,,
+424,MWETNQ.JO,Johannesburg,South Africa,ZAc,,,
+425,UABSPA.JO,Johannesburg,South Africa,ZAc,,,
+426,NFEMOD.JO,Johannesburg,South Africa,ZAc,,,
+427,GSETNC.JO,Johannesburg,South Africa,ZAc,,,
+428,UMMIEB.JO,Johannesburg,South Africa,ZAc,,,
+429,EGETNQ.JO,Johannesburg,South Africa,ZAc,,,
+430,ETFPLD.JO,Johannesburg,South Africa,ZAc,,,
+431,DCCUS2.JO,Johannesburg,South Africa,ZAc,,,
+432,NFSH40.JO,Johannesburg,South Africa,ZAc,,,
+433,STXID.JO,Johannesburg,South Africa,ZAc,,,
+434,FAETNC.JO,Johannesburg,South Africa,ZAc,,,
+435,JPETNC.JO,Johannesburg,South Africa,ZAc,,,
+436,AMIB50.JO,Johannesburg,South Africa,ZAc,,,
+437,VSETNQ.JO,Johannesburg,South Africa,ZAc,,,
+438,GIVISA.JO,Johannesburg,South Africa,ZAc,,,
+439,CSP500.JO,Johannesburg,South Africa,ZAc,,,
+440,SYGSW4.JO,Johannesburg,South Africa,ZAc,,,
+441,GLPROP.JO,Johannesburg,South Africa,ZAc,,,
+442,STXPRO.JO,Johannesburg,South Africa,ZAc,,,
+443,SYGEMF.JO,Johannesburg,South Africa,ZAc,,,

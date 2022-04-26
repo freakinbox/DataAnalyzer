@@ -1,0 +1,254 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,WBC.NZ,NZSE,Australia,NZD,Financial Services,Banks—Diversified,"40,143"
+1,ANZ.NZ,NZSE,Australia,NZD,Financial Services,Banks—Diversified,"39,684"
+2,FPH.NZ,NZSE,New Zealand,NZD,Healthcare,Medical Instruments & Supplies,"5,788"
+3,MEL.NZ,NZSE,New Zealand,NZD,Utilities,Utilities—Renewable,"1,001"
+4,AIA.NZ,NZSE,New Zealand,NZD,Industrials,Airports & Air Services,441
+5,AFI.NZ,NZSE,Australia,NZD,Financial Services,Asset Management,
+6,SPK.NZ,NZSE,New Zealand,NZD,Communication Services,Telecom Services,"4,921"
+7,FCT.NZ,NZSE,United States,NZD,,,
+8,EBO.NZ,NZSE,Australia,NZD,Healthcare,Medical Distribution,"2,677"
+9,MFT.NZ,NZSE,New Zealand,NZD,Industrials,Integrated Freight & Logistics,"9,240"
+10,MCY.NZ,NZSE,New Zealand,NZD,Utilities,Utilities—Renewable,752
+11,CEN.NZ,NZSE,New Zealand,NZD,Utilities,Utilities—Renewable,834
+12,IFT.NZ,NZSE,New Zealand,NZD,Utilities,Utilities—Renewable,
+13,FBU.NZ,NZSE,New Zealand,NZD,Basic Materials,Building Materials,"14,500"
+14,FCG.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Farm Products,"19,354"
+15,RYM.NZ,NZSE,New Zealand,NZD,Healthcare,Medical Care Facilities,"6,400"
+16,POT.NZ,NZSE,New Zealand,NZD,Industrials,Marine Shipping,243
+17,VCT.NZ,NZSE,New Zealand,NZD,Utilities,Utilities—Diversified,600
+18,ATM.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Farm Products,335
+19,TCL.NZ,NZSE,United Kingdom,NZD,,,
+20,CNU.NZ,NZSE,New Zealand,NZD,Communication Services,Telecom Services,797
+21,GMT.NZ,NZSE,New Zealand,NZD,Real Estate,REIT—Industrial,
+22,GNE.NZ,NZSE,New Zealand,NZD,Utilities,Utilities—Independent Power Producers,"1,149"
+23,VNT.NZ,NZSE,Australia,NZD,Industrials,Infrastructure Operations,"15,000"
+24,SUM.NZ,NZSE,New Zealand,NZD,Healthcare,Medical Care Facilities,"2,131"
+25,PCT.NZ,NZSE,New Zealand,NZD,Real Estate,REIT—Diversified,
+26,SKC.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Resorts & Casinos,"3,784"
+27,TPW.NZ,NZSE,New Zealand,NZD,Utilities,Utilities—Renewable,766
+28,FRE.NZ,NZSE,New Zealand,NZD,Industrials,Integrated Freight & Logistics,
+29,ZEL.NZ,NZSE,New Zealand,NZD,Energy,Oil & Gas Refining & Marketing,"2,121"
+30,VHP.NZ,NZSE,New Zealand,NZD,Real Estate,REIT—Healthcare Facilities,
+31,KPG.NZ,NZSE,New Zealand,NZD,Real Estate,REIT—Diversified,164
+32,RBD.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Restaurants,
+33,AIR.NZ,NZSE,New Zealand,NZD,Industrials,Airlines,"8,000"
+34,HGH.NZ,NZSE,New Zealand,NZD,Financial Services,Mortgage Finance,
+35,PFI.NZ,NZSE,New Zealand,NZD,Real Estate,REIT—Industrial,16
+36,VSL.NZ,NZSE,New Zealand,NZD,Basic Materials,Steel,842
+37,DGL.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Beverages—Wineries & Distilleries,400
+38,BGP.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Department Stores,
+39,DGC.NZ,NZSE,New Zealand,NZD,Industrials,Conglomerates,
+40,ARV.NZ,NZSE,New Zealand,NZD,Healthcare,Medical Care Facilities,"2,600"
+41,JPG.NZ,NZSE,United Kingdom,NZD,,,
+42,PPH.NZ,NZSE,New Zealand,NZD,Technology,Software—Infrastructure,547
+43,ARG.NZ,NZSE,New Zealand,NZD,Real Estate,REIT—Diversified,
+44,SKL.NZ,NZSE,New Zealand,NZD,Industrials,Specialty Industrial Machinery,860
+45,WHS.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Department Stores,
+46,WIN.NZ,NZSE,New Zealand,NZD,Real Estate,Real Estate—Development,
+47,KMD.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Apparel Manufacturing,
+48,SPG.NZ,NZSE,New Zealand,NZD,Real Estate,Real Estate Services,
+49,TEM.NZ,NZSE,New Zealand,NZD,,,
+50,HFL.NZ,NZSE,United Kingdom,NZD,Financial,Asset Management,
+51,SML.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Packaged Foods,
+52,PEB.NZ,NZSE,New Zealand,NZD,Healthcare,Diagnostics & Research,
+53,OCA.NZ,NZSE,New Zealand,NZD,Healthcare,Medical Care Facilities,"2,800"
+54,SCL.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Farm Products,
+55,IPL.NZ,NZSE,New Zealand,NZD,Real Estate,Real Estate Services,
+56,NPH.NZ,NZSE,New Zealand,NZD,Industrials,Marine Shipping,298
+57,KFL.NZ,NZSE,New Zealand,NZD,Financial Services,Asset Management,
+58,SKO.NZ,NZSE,New Zealand,NZD,Technology,Software—Infrastructure,287
+59,MHJ.NZ,NZSE,Australia,NZD,Consumer Cyclical,Luxury Goods,
+60,SKT.NZ,NZSE,New Zealand,NZD,Communication Services,Entertainment,
+61,THL.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Recreational Vehicles,"1,110"
+62,SAN.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Farm Products,849
+63,VGL.NZ,NZSE,New Zealand,NZD,Technology,Software—Application,658
+64,CHI.NZ,NZSE,New Zealand,NZD,Energy,Oil & Gas Refining & Marketing,300
+65,AFT.NZ,NZSE,New Zealand,NZD,Healthcare,Drug Manufacturers—Specialty & Generic,94
+66,RAK.NZ,NZSE,New Zealand,NZD,Industrials,Electrical Equipment & Parts,
+67,NZX.NZ,NZSE,New Zealand,NZD,Financial Services,Financial Data & Stock Exchanges,292
+68,TGG.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Farm Products,"2,188"
+69,BIT.NZ,NZSE,United Kingdom,NZD,Financial,Asset Management,
+70,HLG.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Apparel Retail,
+71,CMO.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Auto & Truck Dealerships,988
+72,TRA.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Auto & Truck Dealerships,700
+73,FSF.NZ,NZSE,New Zealand,NZD,Financial Services,Asset Management,
+74,ERD.NZ,NZSE,New Zealand,NZD,Technology,Software—Infrastructure,363
+75,CDI.NZ,NZSE,New Zealand,NZD,Real Estate,Real Estate—Development,
+76,PGW.NZ,NZSE,New Zealand,NZD,Industrials,Specialty Business Services,
+77,NZM.NZ,NZSE,New Zealand,NZD,Communication Services,Entertainment,
+78,TWR.NZ,NZSE,New Zealand,NZD,Financial Services,Insurance—Diversified,
+79,MCK.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Lodging,
+80,MMH.NZ,NZSE,New Zealand,NZD,Industrials,Infrastructure Operations,
+81,STU.NZ,NZSE,New Zealand,NZD,Basic Materials,Steel,870
+82,SCT.NZ,NZSE,New Zealand,NZD,Industrials,Specialty Industrial Machinery,622
+83,SPN.NZ,NZSE,New Zealand,NZD,Industrials,Marine Shipping,107
+84,CVT.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Packaged Foods,500
+85,MFB.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Internet Retail,
+86,MLN.NZ,NZSE,New Zealand,NZD,Financial Services,Asset Management,
+87,LIC.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Farm Products,
+88,SEK.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Farm Products,663
+89,GXH.NZ,NZSE,New Zealand,NZD,Healthcare,Pharmaceutical Retailers,
+90,BRM.NZ,NZSE,New Zealand,NZD,Financial Services,Asset Management,
+91,GTK.NZ,NZSE,New Zealand,NZD,Technology,Software—Infrastructure,
+92,SPY.NZ,NZSE,New Zealand,NZD,Technology,Software—Infrastructure,
+93,MOV.NZ,NZSE,New Zealand,NZD,Industrials,Integrated Freight & Logistics,
+94,HMY.NZ,NZSE,New Zealand,NZD,Financial Services,Credit Services,
+95,IKE.NZ,NZSE,United States,NZD,Technology,Scientific & Technical Instruments,
+96,ARB.NZ,NZSE,New Zealand,NZD,Basic Materials,Lumber & Wood Production,
+97,EVO.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Education & Training Services,
+98,NZL.NZ,NZSE,New Zealand,NZD,Real Estate,Real Estate Services,
+99,RAD.NZ,NZSE,New Zealand,NZD,Healthcare,Medical Care Facilities,"1,600"
+100,APL.NZ,NZSE,New Zealand,NZD,Real Estate,REIT—Diversified,
+101,FWL.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Beverages—Wineries & Distilleries,
+102,NZO.NZ,NZSE,New Zealand,NZD,Energy,Oil & Gas E&P,
+103,WDT.NZ,NZSE,New Zealand,NZD,Industrials,Electrical Equipment & Parts,94
+104,MWE.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Beverages—Wineries & Distilleries,
+105,JLG.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Beverages—Non-Alcoholic,
+106,AGL.NZ,NZSE,New Zealand,NZD,Industrials,Staffing & Employment Services,
+107,RUA.NZ,NZSE,New Zealand,NZD,Healthcare,Drug Manufacturers—Specialty & Generic,30
+108,NWF.NZ,NZSE,New Zealand,NZD,Utilities,Utilities—Regulated Electric,
+109,MPG.NZ,NZSE,New Zealand,NZD,Industrials,Building Products & Equipment,
+110,BLT.NZ,NZSE,New Zealand,NZD,Healthcare,Biotechnology,
+111,PX1.NZ,NZSE,New Zealand,NZD,Technology,Software—Application,163
+112,CBD.NZ,NZSE,New Zealand,NZD,Healthcare,Drug Manufacturers—Specialty & Generic,
+113,NZK.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Farm Products,500
+114,MHM.NZ,NZSE,New Zealand,NZD,Industrials,Specialty Industrial Machinery,158
+115,CRP.NZ,NZSE,New Zealand,NZD,Basic Materials,Other Industrial Metals & Mining,
+116,GFL.NZ,NZSE,New Zealand,NZD,Financial Services,Credit Services,58
+117,BRW.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Textile Manufacturing,
+118,PYS.NZ,NZSE,New Zealand,NZD,Technology,Software—Application,31
+119,SDL.NZ,NZSE,New Zealand,NZD,Technology,Software—Application,98
+120,MEE.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Packaged Foods,
+121,NZA.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Auto & Truck Dealerships,75
+122,SVR.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Restaurants,
+123,TAH.NZ,NZSE,New Zealand,NZD,Healthcare,Medical Care Facilities,
+124,TRU.NZ,NZSE,New Zealand,NZD,Healthcare,Medical Devices,
+125,ALF.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Farm Products,
+126,PHL.NZ,NZSE,New Zealand,NZD,Healthcare,Medical Care Facilities,286
+127,ENS.NZ,NZSE,New Zealand,NZD,Technology,Software—Application,
+128,GEO.NZ,NZSE,New Zealand,NZD,Technology,Software—Application,11
+129,CCC.NZ,NZSE,New Zealand,NZD,Consumer Defensive,Food Distribution,32
+130,BFG.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Restaurants,
+131,VTL.NZ,NZSE,New Zealand,NZD,Communication Services,Telecom Services,
+132,GEN.NZ,NZSE,New Zealand,NZD,Financial Services,Mortgage Finance,
+133,NTL.NZ,NZSE,New Zealand,NZD,Basic Materials,Gold,
+134,GSH.NZ,NZSE,New Zealand,NZD,Consumer Cyclical,Restaurants,
+135,BGI.NZ,NZSE,New Zealand,NZD,Financial Services,Mortgage Finance,
+136,ACE.NZ,NZSE,New Zealand,NZD,Financial Services,Asset Management,
+137,SUM010.NZ,NZSE,New Zealand,NZD,,,
+138,PCT020.NZ,NZSE,New Zealand,NZD,,,
+139,WEL010.NZ,NZSE,New Zealand,NZD,,,
+140,CEN050.NZ,NZSE,New Zealand,NZD,,,
+141,TPW180.NZ,NZSE,New Zealand,NZD,,,
+142,VCT100.NZ,NZSE,New Zealand,NZD,,,
+143,ANB170.NZ,NZSE,New Zealand,NZD,,,
+144,AIA240.NZ,NZSE,New Zealand,NZD,,,
+145,ANB160.NZ,NZSE,New Zealand,NZD,,,
+146,RYM010.NZ,NZSE,New Zealand,NZD,,,
+147,LIV.NZ,NZSE,New Zealand,NZD,,,
+148,ASF.NZ,NZSE,New Zealand,NZD,,,
+149,DIV.NZ,NZSE,New Zealand,NZD,,,
+150,ESG.NZ,NZSE,New Zealand,NZD,,,
+151,USA.NZ,NZSE,New Zealand,NZD,,,
+152,EMG.NZ,NZSE,New Zealand,NZD,,,
+153,USF.NZ,NZSE,New Zealand,NZD,,,
+154,NZB.NZ,NZSE,New Zealand,NZD,,,
+155,TNZ.NZ,NZSE,New Zealand,NZD,,,
+156,FBI200.NZ,NZSE,New Zealand,NZD,,,
+157,NZG.NZ,NZSE,New Zealand,NZD,,,
+158,KPG020.NZ,NZSE,New Zealand,NZD,,,
+159,GMB060.NZ,NZSE,New Zealand,NZD,,,
+160,ZEL060.NZ,NZSE,New Zealand,NZD,,,
+161,AIA220.NZ,NZSE,New Zealand,NZD,,,
+162,PCT030.NZ,NZSE,New Zealand,NZD,,,
+163,IFT210.NZ,NZSE,New Zealand,NZD,,,
+164,IPL020.NZ,NZSE,New Zealand,NZD,,,
+165,WIA060.NZ,NZSE,New Zealand,NZD,,,
+166,ARG020.NZ,NZSE,New Zealand,NZD,,,
+167,VCT080.NZ,NZSE,New Zealand,NZD,,,
+168,IFT280.NZ,NZSE,New Zealand,NZD,,,
+169,SKC050.NZ,NZSE,New Zealand,NZD,,,
+170,IFT240.NZ,NZSE,New Zealand,NZD,,,
+171,CEN060.NZ,NZSE,New Zealand,NZD,,,
+172,SML010.NZ,NZSE,New Zealand,NZD,,,
+173,OZY.NZ,NZSE,New Zealand,NZD,,,
+174,NZC.NZ,NZSE,New Zealand,NZD,,,
+175,USM.NZ,NZSE,New Zealand,NZD,,,
+176,CO2.NZ,NZSE,New Zealand,NZD,,,
+177,GBF.NZ,NZSE,New Zealand,NZD,,,
+178,AUS.NZ,NZSE,New Zealand,NZD,,,
+179,NGB.NZ,NZSE,New Zealand,NZD,,,
+180,ASD.NZ,NZSE,New Zealand,NZD,,,
+181,JPN.NZ,NZSE,New Zealand,NZD,,,
+182,GNE040.NZ,NZSE,New Zealand,NZD,,,
+183,IFT190.NZ,NZSE,New Zealand,NZD,,,
+184,NPF.NZ,NZSE,New Zealand,NZD,,,
+185,TWL.NZ,NZSE,New Zealand,NZD,Technology,Software—Application,
+186,MDZ.NZ,NZSE,New Zealand,NZD,,,
+187,MZY.NZ,NZSE,New Zealand,NZD,,,
+188,MCY030.NZ,NZSE,New Zealand,NZD,,,
+189,MEL040.NZ,NZSE,New Zealand,NZD,,,
+190,AIR020.NZ,NZSE,New Zealand,NZD,,,
+191,ARG030.NZ,NZSE,New Zealand,NZD,,,
+192,WIA070.NZ,NZSE,New Zealand,NZD,,,
+193,GMB040.NZ,NZSE,New Zealand,NZD,,,
+194,OCA010.NZ,NZSE,New Zealand,NZD,,,
+195,BNZ150.NZ,NZSE,New Zealand,NZD,,,
+196,BOT.NZ,NZSE,New Zealand,NZD,,,
+197,AIA230.NZ,NZSE,New Zealand,NZD,,,
+198,FBI180.NZ,NZSE,New Zealand,NZD,,,
+199,TPW170.NZ,NZSE,New Zealand,NZD,,,
+200,KWB010.NZ,NZSE,New Zealand,NZD,,,
+201,TPW150.NZ,NZSE,New Zealand,NZD,,,
+202,SUM020.NZ,NZSE,New Zealand,NZD,,,
+203,FBI210.NZ,NZSE,New Zealand,NZD,,,
+204,IFT270.NZ,NZSE,New Zealand,NZD,,,
+205,CNU020.NZ,NZSE,New Zealand,NZD,,,
+206,EMF.NZ,NZSE,New Zealand,NZD,,,
+207,IFT310.NZ,NZSE,New Zealand,NZD,,,
+208,TWF.NZ,NZSE,New Zealand,NZD,,,
+209,IPL030.NZ,NZSE,New Zealand,NZD,,,
+210,USV.NZ,NZSE,New Zealand,NZD,,,
+211,EUF.NZ,NZSE,New Zealand,NZD,,,
+212,ANB150.NZ,NZSE,New Zealand,NZD,,,
+213,IFT250.NZ,NZSE,New Zealand,NZD,,,
+214,GOV410.NZ,NZSE,New Zealand,NZD,,,
+215,ARV010.NZ,NZSE,New Zealand,NZD,,,
+216,CCH020.NZ,NZSE,New Zealand,NZD,,,
+217,FCG040.NZ,NZSE,New Zealand,NZD,,,
+218,NZX010.NZ,NZSE,New Zealand,NZD,,,
+219,WIA080.NZ,NZSE,New Zealand,NZD,,,
+220,PLP.NZ,NZSE,New Zealand,NZD,,,
+221,MCY020.NZ,NZSE,New Zealand,NZD,,,
+222,WIA050.NZ,NZSE,New Zealand,NZD,,,
+223,VCT090.NZ,NZSE,New Zealand,NZD,,,
+224,TRP070.NZ,NZSE,New Zealand,NZD,,,
+225,KPG050.NZ,NZSE,New Zealand,NZD,,,
+226,GNE050.NZ,NZSE,New Zealand,NZD,,,
+227,SBS010.NZ,NZSE,New Zealand,NZD,,,
+228,BIF.NZ,NZSE,New Zealand,NZD,,,
+229,GFI.NZ,NZSE,New Zealand,NZD,Healthcare,Drug Manufacturers—Specialty & Generic,
+230,AGG.NZ,NZSE,New Zealand,NZD,,,
+231,FNZ.NZ,NZSE,New Zealand,NZD,,,
+232,BNZ140.NZ,NZSE,New Zealand,NZD,,,
+233,LGF110.NZ,NZSE,New Zealand,NZD,,,
+234,MEL050.NZ,NZSE,New Zealand,NZD,,,
+235,KPG030.NZ,NZSE,New Zealand,NZD,,,
+236,CNU030.NZ,NZSE,New Zealand,NZD,,,
+237,FBI190.NZ,NZSE,New Zealand,NZD,,,
+238,PFI010.NZ,NZSE,New Zealand,NZD,,,
+239,WIA040.NZ,NZSE,New Zealand,NZD,,,
+240,OCA020.NZ,NZSE,New Zealand,NZD,,,
+241,CHI010.NZ,NZSE,New Zealand,NZD,,,
+242,ARG010.NZ,NZSE,New Zealand,NZD,,,
+243,FBI170.NZ,NZSE,New Zealand,NZD,,,
+244,USS.NZ,NZSE,New Zealand,NZD,,,
+245,EUG.NZ,NZSE,New Zealand,NZD,,,
+246,ASP.NZ,NZSE,New Zealand,NZD,,,
+247,APA.NZ,NZSE,New Zealand,NZD,,,
+248,IFT260.NZ,NZSE,New Zealand,NZD,,,
+249,USG.NZ,NZSE,New Zealand,NZD,,,
+250,ASR.NZ,NZSE,New Zealand,NZD,,,
+251,TWH.NZ,NZSE,New Zealand,NZD,,,
+252,AIRRG.NZ,NZSE,New Zealand,NZD,,,

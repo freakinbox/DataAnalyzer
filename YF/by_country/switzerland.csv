@@ -1,0 +1,247 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,NESN.SW,Swiss,Switzerland,CHF,Consumer Defensive,Packaged Foods,"276,000"
+1,ROG.SW,Swiss,Switzerland,CHF,Healthcare,Drug Manufacturers—General,"100,920"
+2,RO.SW,Swiss,Switzerland,CHF,Healthcare,Drug Manufacturers—General,"100,920"
+3,PEP.SW,Swiss,United States,CHF,Consumer Defensive,Beverages—Non-Alcoholic,"309,000"
+4,NOVNEE.SW,Swiss,Switzerland,CHF,Healthcare,Drug Manufacturers—General,"104,323"
+5,NOVN.SW,Swiss,Switzerland,CHF,Healthcare,Drug Manufacturers—General,"104,323"
+6,MMM.SW,Swiss,United States,CHF,Industrials,Conglomerates,"95,000"
+7,CFR.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Luxury Goods,"34,760"
+8,ZURN.SW,Swiss,Switzerland,CHF,Financial Services,Insurance—Diversified,
+9,AAM.SW,Swiss,United Kingdom,CHF,Basic Materials,Other Industrial Metals & Mining,"106,000"
+10,UBSGE.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Diversified,"71,385"
+11,ABBN.SW,Swiss,Switzerland,CHF,Industrials,Electrical Equipment & Parts,"104,400"
+12,ABBNE.SW,Swiss,Switzerland,CHF,Industrials,Electrical Equipment & Parts,"104,400"
+13,UBSG.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Diversified,"71,385"
+14,LONN.SW,Swiss,Switzerland,CHF,Healthcare,Diagnostics & Research,"16,218"
+15,SIKA.SW,Swiss,Switzerland,CHF,Basic Materials,Specialty Chemicals,"26,272"
+16,ALC.SW,Swiss,Switzerland,CHF,Healthcare,Medical Instruments & Supplies,"24,389"
+17,GIVN.SW,Swiss,Switzerland,CHF,Basic Materials,Specialty Chemicals,"16,842"
+18,KNIN.SW,Swiss,Switzerland,CHF,Industrials,Integrated Freight & Logistics,"73,516"
+19,PGHN.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,"1,573"
+20,SCMN.SW,Swiss,Switzerland,CHF,Communication Services,Telecom Services,"18,905"
+21,HOLN.SW,Swiss,Switzerland,CHF,Basic Materials,Building Materials,"70,000"
+22,LISPE.SW,Swiss,Switzerland,CHF,Consumer Defensive,Confectioners,"14,000"
+23,LISP.SW,Swiss,Switzerland,CHF,Consumer Defensive,Confectioners,"14,000"
+24,LISN.SW,Swiss,Switzerland,CHF,Consumer Defensive,Confectioners,"14,000"
+25,SREN.SW,Swiss,Switzerland,CHF,Financial Services,Insurance—Reinsurance,"13,985"
+26,SOON.SW,Swiss,Switzerland,CHF,Healthcare,Medical Devices,"14,922"
+27,SCHP.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"69,015"
+28,SCHN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"69,015"
+29,EMSN.SW,Swiss,Switzerland,CHF,Basic Materials,Specialty Chemicals,"2,646"
+30,GEBN.SW,Swiss,Switzerland,CHF,Industrials,Building Products & Equipment,"11,149"
+31,STMN.SW,Swiss,Switzerland,CHF,Healthcare,Medical Instruments & Supplies,"8,692"
+32,GEBNE.SW,Swiss,Switzerland,CHF,Industrials,Building Products & Equipment,"11,149"
+33,SGSN.SW,Swiss,Switzerland,CHF,Industrials,Consulting Services,"96,216"
+34,SLHNE.SW,Swiss,Switzerland,CHF,Financial Services,Insurance—Diversified,"10,890"
+35,SLHN.SW,Swiss,Switzerland,CHF,Financial Services,Insurance—Diversified,"10,890"
+36,CSGN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Diversified,"50,110"
+37,NIBEB.SW,Swiss,Switzerland,CHF,,,
+38,UHRN.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Luxury Goods,"31,444"
+39,UHR.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Luxury Goods,"31,444"
+40,BARN.SW,Swiss,Switzerland,CHF,Consumer Defensive,Confectioners,"12,783"
+41,VIFN.SW,Swiss,Switzerland,CHF,,,
+42,LOGN.SW,Swiss,Switzerland,CHF,Technology,Computer Hardware,"9,000"
+43,BAER.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,"6,667"
+44,BAERE.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,"6,667"
+45,VACN.SW,Swiss,Switzerland,CHF,,,
+46,BALN.SW,Swiss,Switzerland,CHF,,,
+47,SPSN.SW,Swiss,Switzerland,CHF,,,
+48,BCVN.SW,Swiss,Switzerland,CHF,,,
+49,SIGN.SW,Swiss,Switzerland,CHF,,,
+50,HELN.SW,Swiss,Switzerland,CHF,Financial Services,Insurance—Diversified,"11,687"
+51,BANB.SW,Swiss,Switzerland,CHF,Basic Materials,Chemicals,"1,580"
+52,TEMN.SW,Swiss,Switzerland,CHF,Technology,Software—Application,"7,227"
+53,ADEN.SW,Swiss,Switzerland,CHF,Industrials,Staffing & Employment Services,"34,574"
+54,BEAN.SW,.,Switzerland,USD,Industrials,Building Products & Equipment,"1,848"
+55,BKW.SW,Swiss,Switzerland,CHF,Utilities,Utilities—Renewable,"10,500"
+56,PSPN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate—Diversified,97
+57,DKSH.SW,Swiss,Switzerland,CHF,Industrials,Consulting Services,"31,453"
+58,DAE.SW,Swiss,Switzerland,CHF,Industrials,Industrial Distribution,"6,998"
+59,EMMN.SW,Swiss,Switzerland,CHF,Consumer Defensive,Packaged Foods,"9,230"
+60,CLN.SW,Swiss,Switzerland,CHF,,,
+61,FHZN.SW,Swiss,Switzerland,CHF,Industrials,Airports & Air Services,"1,744"
+62,SFSN.SW,Swiss,Switzerland,CHF,Industrials,Tools & Accessories,"10,436"
+63,TECN.SW,Swiss,Switzerland,CHF,Healthcare,Medical Instruments & Supplies,"2,050"
+64,VONN.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,"2,070"
+65,BUCN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"13,428"
+66,DESN.SW,Swiss,Switzerland,CHF,Basic Materials,Chemicals,658
+67,SRAIL.SW,Swiss,Switzerland,CHF,Industrials,Railroads,"12,025"
+68,DUFN.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Specialty Retail,"17,795"
+69,GALE.SW,Swiss,Switzerland,CHF,Healthcare,Medical Distribution,"5,388"
+70,LUKN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,
+71,BION.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,10
+72,AMS.SW,Swiss,Austria,CHF,Technology,Semiconductors,
+73,ALLN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,203
+74,IDIA.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,
+75,SFZN.SW,Swiss,Switzerland,CHF,Healthcare,Drug Manufacturers—Specialty & Generic,"3,338"
+76,PPGN.SW,Swiss,Switzerland,CHF,Healthcare,Drug Manufacturers—Specialty & Generic,"1,026"
+77,ALSN.SW,Swiss,Switzerland,CHF,Technology,Information Technology Services,"4,071"
+78,VZN.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,
+79,SGKN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,"1,301"
+80,PMAG.SW,Swiss,Austria,CHF,Consumer Cyclical,Recreational Vehicles,"4,888"
+81,LEHN.SW,Swiss,Switzerland,CHF,Industrials,Electrical Equipment & Parts,"1,297"
+82,SUN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"15,574"
+83,INRN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"2,309"
+84,SQN.SW,Swiss,Switzerland,CHF,Financial Services,Capital Markets,805
+85,OERL.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"11,927"
+86,IFCN.SW,Swiss,Switzerland,CHF,Technology,Scientific & Technical Instruments,"1,266"
+87,EFGN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Diversified,"3,110"
+88,MOVE.SW,Swiss,Switzerland,CHF,Healthcare,Medical Devices,"1,246"
+89,CMBN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,934
+90,FORN.SW,Swiss,Switzerland,CHF,Industrials,Building Products & Equipment,"5,519"
+91,ZUGER.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,402
+92,BEKN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,"1,018"
+93,SWON.SW,Swiss,Switzerland,CHF,Technology,Software—Application,"8,711"
+94,DOKA.SW,Swiss,Switzerland,CHF,Industrials,Security & Protection Services,"14,998"
+95,ZUGN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate—Diversified,116
+96,BYS.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"3,357"
+97,MOBN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate—Diversified,
+98,SENS.SW,Swiss,Switzerland,CHF,Technology,Scientific & Technical Instruments,857
+99,HBMN.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,
+100,YPSN.SW,Swiss,Switzerland,CHF,Healthcare,Medical Instruments & Supplies,"1,900"
+101,COTN.SW,Swiss,Switzerland,CHF,Technology,Scientific & Technical Instruments,"1,403"
+102,WKBN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,487
+103,HUBN.SW,Swiss,Switzerland,CHF,Technology,Communication Equipment,"4,450"
+104,LLBN.SW,Swiss,Liechtenstein,CHF,Financial Services,Banks—Regional,"1,048"
+105,HUBNE.SW,Swiss,Switzerland,CHF,Technology,Communication Equipment,"4,450"
+106,BCHN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"2,603"
+107,BELL.SW,Swiss,Switzerland,CHF,Consumer Defensive,Packaged Foods,"12,045"
+108,BOSN.SW,Swiss,Switzerland,CHF,Industrials,Industrial Distribution,"2,480"
+109,LAND.SW,Swiss,Switzerland,CHF,Industrials,Electrical Equipment & Parts,"5,000"
+110,TXGN.SW,Swiss,Switzerland,CHF,Communication Services,Publishing,"3,667"
+111,SKAN.SW,Swiss,Switzerland,CHF,Healthcare,Medical Instruments & Supplies,2
+112,KARN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"1,870"
+113,AEVS.SW,Swiss,Switzerland,CHF,Healthcare,Medical Care Facilities,"3,803"
+114,VATN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,994
+115,SWTQ.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"4,432"
+116,EDHN.SW,Swiss,Switzerland,CHF,Utilities,Utilities—Renewable,"1,084"
+117,IREN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,"2,343"
+118,BOBNN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"5,687"
+119,MED.SW,Swiss,Switzerland,CHF,Healthcare,Medical Devices,649
+120,VAHN.SW,Swiss,Switzerland,CHF,Financial Services,Insurance—Diversified,"1,593"
+121,MEDX.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"2,036"
+122,GRKP.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,787
+123,ARBN.SW,Swiss,Switzerland,CHF,Industrials,Building Products & Equipment,"5,892"
+124,LEON.SW,Swiss,Switzerland,CHF,Financial Services,Financial Conglomerates,517
+125,HREN.SW,Swiss,Switzerland,CHF,Utilities,Utilities—Renewable,"1,146"
+126,ISN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,49
+127,BCGE.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,824
+128,MBTN.SW,Swiss,Switzerland,CHF,Technology,Semiconductor Equipment & Materials,800
+129,ROSE.SW,Swiss,Switzerland,CHF,Healthcare,Pharmaceutical Retailers,"1,960"
+130,AERO.SW,Swiss,Switzerland,CHF,Industrials,Aerospace & Defense,"5,141"
+131,HIAG.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate—Diversified,70
+132,KOMN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"2,046"
+133,METN.SW,Swiss,Switzerland,CHF,Industrials,Conglomerates,"3,248"
+134,COPN.SW,Swiss,Ireland,CHF,Healthcare,Drug Manufacturers—General,276
+135,ARYN.SW,Swiss,Switzerland,CHF,Consumer Defensive,Packaged Foods,"9,251"
+136,ZEHN.SW,Swiss,Switzerland,CHF,Industrials,Building Products & Equipment,"3,473"
+137,STLN.SW,Swiss,Switzerland,CHF,Basic Materials,Steel,"9,864"
+138,CFT.SW,Swiss,Switzerland,CHF,Financial Services,Capital Markets,"2,400"
+139,VETN.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Packaging & Containers,"3,914"
+140,JFN.SW,Swiss,Switzerland,CHF,Industrials,Railroads,665
+141,SNBN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,870
+142,VALN.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Specialty Retail,"3,395"
+143,PLAN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,13
+144,PEAN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,160
+145,VZUG.SW,Swiss,Switzerland,CHF,Technology,Consumer Electronics,"2,066"
+146,MOZN.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Specialty Retail,"1,002"
+147,RIEN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"4,385"
+148,SFPN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,2
+149,GUR.SW,Swiss,Switzerland,CHF,Basic Materials,Specialty Chemicals,"2,362"
+150,CLTN.SW,Swiss,Switzerland,CHF,Healthcare,Medical Instruments & Supplies,"1,189"
+151,FREN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,10
+152,WARN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,10
+153,UBXN.SW,Swiss,Switzerland,CHF,Technology,Communication Equipment,"1,123"
+154,APGN.SW,Swiss,Switzerland,CHF,Communication Services,Advertising Agencies,491
+155,VPBN.SW,Swiss,Liechtenstein,CHF,Financial Services,Banks—Regional,940
+156,ORON.SW,Swiss,Switzerland,CHF,Consumer Defensive,Packaged Foods,"2,000"
+157,AUTN.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Auto Parts,"12,093"
+158,VARN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,
+159,MOLN.SW,Swiss,Switzerland,CHF,,,
+160,BLKB.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,710
+161,BBN.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,94
+162,LINN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,166
+163,BRKN.SW,Swiss,Switzerland,CHF,Industrials,Engineering & Construction,"3,300"
+164,TKBP.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,680
+165,EPH.SW,Swiss,Switzerland,USD,Real Estate,Real Estate Services,
+166,CALN.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Apparel Manufacturing,"2,800"
+167,IMPN.SW,Swiss,Switzerland,CHF,Industrials,Engineering & Construction,"8,701"
+168,BSLN.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,160
+169,LMN.SW,Swiss,Netherlands,CHF,Consumer Cyclical,Travel Services,"1,093"
+170,CPHN.SW,Swiss,Switzerland,CHF,Basic Materials,Paper & Paper Products,"1,101"
+171,GLKBN.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,221
+172,PM.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"7,385"
+173,ODHN.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Lodging,10
+174,ROL.SW,Swiss,Switzerland,CHF,Industrials,Electrical Equipment & Parts,933
+175,NREN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate—Diversified,
+176,BSKP.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,"1,320"
+177,ASCN.SW,Swiss,Switzerland,CHF,Healthcare,Health Information Services,"1,298"
+178,KUD.SW,Swiss,Switzerland,CHF,Communication Services,Entertainment,"3,201"
+179,PNHO.SW,Swiss,Switzerland,CHF,Industrials,Engineering & Construction,"1,417"
+180,HBLN.SW,Swiss,Switzerland,CHF,Financial Services,Mortgage Finance,330
+181,LLQ.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Luxury Goods,680
+182,VBSN.SW,Swiss,Switzerland,CHF,Healthcare,Medical Instruments & Supplies,338
+183,SHLTN.SW,Swiss,Israel,CHF,Healthcare,Health Information Services,
+184,MTGE.SW,Swiss,Israel,CHF,,,
+185,MTG.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"1,254"
+186,AFP.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Packaging & Containers,"1,324"
+187,FTON.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"2,567"
+188,HLEE.SW,Swiss,Switzerland,CHF,Communication Services,Entertainment,"1,344"
+189,XLS.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,6
+190,PEHN.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,
+191,GAV.SW,Swiss,Switzerland,CHF,Industrials,Electrical Equipment & Parts,"1,033"
+192,RLF.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,10
+193,VT5.SW,Swiss,Switzerland,CHF,Financial Services,Shell Companies,
+194,SAHN.SW,Swiss,Switzerland,CHF,Technology,Electronic Components,"1,739"
+195,ELMN.SW,Swiss,Switzerland,CHF,Technology,Computer Hardware,787
+196,INA.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,10
+197,OFN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Business Services,569
+198,BCJ.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,123
+199,GAM.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,652
+200,TIBN.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Leisure,
+201,CICN.SW,.,Switzerland,USD,Technology,Electronic Components,"1,990"
+202,LECN.SW,Swiss,Switzerland,CHF,Industrials,Electrical Equipment & Parts,
+203,STGN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"1,327"
+204,GMI.SW,Swiss,Switzerland,CHF,Consumer Defensive,Farm Products,186
+205,TOHN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,613
+206,BVZN.SW,Swiss,Switzerland,CHF,Industrials,Railroads,655
+207,KLIN.SW,.,Switzerland,USD,Industrials,Specialty Industrial Machinery,"1,145"
+208,ALPN.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,3
+209,MCHN.SW,Swiss,Switzerland,CHF,,,
+210,MIKN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,"1,327"
+211,ESUN.SW,Swiss,Switzerland,CHF,Utilities,Utilities—Renewable,
+212,DCN.SW,Swiss,Switzerland,CHF,Technology,Scientific & Technical Instruments,371
+213,OBSN.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,48
+214,CPEN.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,
+215,CLXN.SW,Swiss,Switzerland,CHF,Technology,Software—Application,572
+216,EVE.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,68
+217,ADVN.SW,Swiss,Switzerland,CHF,Industrials,Metal Fabrication,"1,132"
+218,ZUBN.SW,Swiss,Switzerland,CHF,Real Estate,Real Estate Services,6
+219,HOCN.SW,Swiss,Switzerland,CHF,Consumer Defensive,Packaged Foods,387
+220,NBEN.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,
+221,VILN.SW,Swiss,Switzerland,CHF,Consumer Defensive,Grocery Stores,269
+222,SPCE.SW,Swiss,Switzerland,USD,Financial Services,Asset Management,
+223,KURN.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,58
+224,SPEX.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,
+225,WIHN.SW,Swiss,Switzerland,CHF,Technology,Semiconductors,81
+226,VLRT.SW,Swiss,Switzerland,CHF,Financial Services,Capital Markets,71
+227,BLS.SW,Swiss,Switzerland,CHF,Basic Materials,Other Industrial Metals & Mining,10
+228,AIRE.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Leisure,
+229,ONE.SW,Swiss,Switzerland,CHF,Financial Services,Banks—Regional,32
+230,STRN.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,328
+231,ARON.SW,Swiss,Switzerland,CHF,Financial Services,Capital Markets,13
+232,ASWN.SW,Swiss,Switzerland,CHF,Consumer Cyclical,Travel Services,50
+233,ADXN.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,26
+234,NWRN.SW,Swiss,Italy,CHF,Healthcare,Biotechnology,25
+235,SANN.SW,Swiss,Switzerland,CHF,Healthcare,Biotechnology,86
+236,IGPH.SW,Swiss,Netherlands,CHF,Healthcare,Diagnostics & Research,2
+237,RUS.SW,Swiss,Switzerland,CHF,Financial Services,Asset Management,19
+238,PRFN.SW,Swiss,Switzerland,CHF,Industrials,Airports & Air Services,
+239,ACHI.SW,Swiss,Switzerland,CHF,Healthcare,Health Information Services,29
+240,PEDU.SW,Swiss,Switzerland,CHF,Industrials,Specialty Industrial Machinery,103
+241,CASN.SW,Swiss,Ireland,CHF,Financial Services,Asset Management,
+242,THAG.SW,Swiss,Switzerland,CHF,Communication Services,Internet Content & Information,
+243,FI.SW,Swiss,Switzerland,CHF,,,
+244,VIFNE.SW,Swiss,Switzerland,CHF,,,"2,200"
+245,NESNE.SW,Swiss,Switzerland,CHF,,,"276,000"

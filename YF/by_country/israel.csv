@@ -1,0 +1,641 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,ICL.TA,Tel,Israel,ILA,Basic Materials,Agricultural Inputs,"12,269"
+1,LUMI.TA,Tel,Israel,ILA,Financial Services,Banks—Regional,
+2,NICE.TA,Tel,Israel,ILA,Technology,Software—Application,"7,102"
+3,POLI.TA,Tel,Israel,ILA,Financial Services,Banks—Regional,"8,535"
+4,AZRG.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,391
+5,TEVA.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,"34,713"
+6,MZTF.TA,Tel,Israel,ILA,Financial Services,Banks—Regional,"7,632"
+7,ESLT.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,"17,787"
+8,DSCT.TA,Tel,Israel,ILA,Financial Services,Banks—Regional,"8,036"
+9,TSEM.TA,Tel,Israel,ILA,Technology,Semiconductors,
+10,ILCO.TA,Tel,Israel,ILA,Basic Materials,Specialty Chemicals,"1,332"
+11,ORA.TA,Tel,United States,ILA,Utilities,Utilities—Renewable,"1,385"
+12,BEZQ.TA,Tel,Israel,ILA,Communication Services,Telecom Services,"5,475"
+13,FIBI.TA,Tel,Israel,ILA,Financial Services,Banks—Regional,"3,645"
+14,MLSR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,
+15,NWMD.TA,Tel,Israel,ILA,Energy,Oil & Gas E&P,16
+16,AMOT.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,112
+17,KEN.TA,Tel,Singapore,ILA,Utilities,Utilities—Regulated Electric,124
+18,STRS.TA,Tel,Israel,ILA,Consumer Defensive,Packaged Foods,"17,440"
+19,SPEN.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,"2,320"
+20,PHOE.TA,Tel,Israel,ILA,Financial Services,Insurance—Diversified,355
+21,BIG.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,
+22,DLEKG.TA,Tel,Israel,ILA,Energy,Oil & Gas E&P,
+23,MVNE.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,
+24,ASHG.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,733
+25,ALHE.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,
+26,NVMI.TA,Tel,Israel,ILA,Technology,Semiconductor Equipment & Materials,819
+27,ARPT.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,169
+28,HARL.TA,Tel,Israel,ILA,Financial Services,Insurance—Diversified,"4,940"
+29,ENOG.TA,Tel,United Kingdom,ILA,Energy,Oil & Gas E&P,
+30,ELTR.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,"14,029"
+31,SKBN.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,"8,529"
+32,AFPR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,313
+33,GVYM.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,54
+34,SAE.TA,Tel,Israel,ILA,Consumer Defensive,Grocery Stores,"14,774"
+35,FTAL.TA,Tel,Israel,ILA,Consumer Cyclical,Lodging,"3,265"
+36,OPCE.TA,Tel,Israel,ILA,Utilities,Utilities—Independent Power Producers,125
+37,OPK.TA,Tel,United States,ILA,Healthcare,Diagnostics & Research,"5,767"
+38,ENLT.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,80
+39,FOX.TA,Tel,Israel,ILA,Consumer Cyclical,Apparel Manufacturing,"10,147"
+40,ELCO.TA,Tel,Israel,ILA,Industrials,Conglomerates,"14,029"
+41,MGDL.TA,Tel,Israel,ILA,Financial Services,Insurance—Life,"4,565"
+42,MTRN.TA,Tel,Israel,ILA,Technology,Consumer Electronics,"1,507"
+43,LPSN.TA,Tel,United States,ILA,Technology,Software—Application,"1,540"
+44,ENRG.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,140
+45,DIMRI.TA,Tel,Israel,ILA,Consumer Cyclical,Residential Construction,244
+46,CLIS.TA,Tel,Israel,ILA,Financial Services,Insurance—Diversified,"4,100"
+47,FIBIH.TA,Tel,Israel,ILA,Financial Services,Banks—Regional,"3,645"
+48,ISRO.TA,Tel,Israel,ILA,Consumer Cyclical,Lodging,"4,800"
+49,DELT.TA,Tel,Israel,ILA,Consumer Cyclical,Apparel Manufacturing,"24,700"
+50,PZOL.TA,Tel,Israel,ILA,Energy,Oil & Gas Refining & Marketing,"3,968"
+51,MMHD.TA,Tel,Israel,ILA,Financial Services,Insurance—Diversified,"3,170"
+52,ISCN.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,60
+53,SMT.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,144
+54,MTRX.TA,Tel,Israel,ILA,Technology,Software—Application,"10,820"
+55,EQTL.TA,Tel,Israel,ILA,Industrials,Conglomerates,434
+56,FORTY.TA,Tel,Israel,ILA,Technology,Information Technology Services,
+57,PTNR.TA,Tel,Israel,ILA,Communication Services,Telecom Services,"2,574"
+58,ALRPR.TA,Tel,Israel,ILA,Real Estate,Real Estate—Diversified,"1,042"
+59,GZT.TA,Tel,Israel,ILA,Real Estate,Real Estate—Diversified,
+60,ORL.TA,Tel,Israel,ILA,Energy,Oil & Gas Refining & Marketing,"1,425"
+61,MGOR.TA,Tel,Israel,ILA,Real Estate,Real Estate—Diversified,
+62,TDRN.TA,Tel,Israel,ILA,Technology,Consumer Electronics,510
+63,CAMT.TA,Tel,Israel,ILA,Technology,Semiconductor Equipment & Materials,404
+64,DLEA.TA,Tel,Israel,ILA,Consumer Cyclical,Auto & Truck Dealerships,318
+65,ECP.TA,Tel,Israel,ILA,Technology,Consumer Electronics,"6,656"
+66,SPNS.TA,Tel,Israel,ILA,Technology,Software—Application,"4,044"
+67,HLAN.TA,Tel,Israel,ILA,Technology,Software—Application,"3,908"
+68,ISRS.TA,Tel,Israel,ILA,Real Estate,Real Estate—Diversified,97
+69,SANO1.TA,Tel,Israel,ILA,Consumer Defensive,Household & Personal Products,"1,150"
+70,VRDS.TA,Tel,Israel,ILA,Industrials,Waste Management,824
+71,RTLS.TA,Tel,Israel,ILA,Consumer Cyclical,Apparel Retail,"3,054"
+72,BCNV.TA,Tel,Netherlands,ILA,Real Estate,Real Estate Services,140
+73,RIT1.TA,Tel,Israel,ILA,Real Estate,REIT—Diversified,
+74,ONE.TA,Tel,Israel,ILA,Technology,Software—Application,"6,308"
+75,ACRO.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,
+76,AZRM.TA,Tel,Israel,ILA,Consumer Cyclical,Residential Construction,88
+77,MCMN.TA,Tel,Israel,ILA,Financial Services,Credit Services,13
+78,BLSR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,47
+79,ISCD.TA,Tel,Israel,ILA,Financial Services,Credit Services,"1,442"
+80,PERI.TA,Tel,Israel,ILA,Communication Services,Internet Content & Information,399
+81,PTBL.TA,Tel,Israel,ILA,Real Estate,Real Estate—Diversified,
+82,ELCRE.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,12
+83,DANH.TA,Tel,Israel,ILA,Consumer Cyclical,Lodging,"2,068"
+84,NTML.TA,Tel,Israel,ILA,Consumer Defensive,Packaged Foods,"1,180"
+85,VILR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,358
+86,LAPD.TA,Tel,Israel,ILA,Energy,Oil & Gas E&P,34
+87,RMLI.TA,Tel,Israel,ILA,Consumer Defensive,Grocery Stores,"7,400"
+88,ARAD.TA,Tel,Israel,ILA,Industrials,Electrical Equipment & Parts,"4,254"
+89,AFRE.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,58
+90,CEL.TA,Tel,Israel,ILA,Communication Services,Telecom Services,"2,779"
+91,PRSK.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,126
+92,NOFR.TA,Tel,Israel,ILA,Technology,Solar,49
+93,DANE.TA,Tel,Israel,ILA,Healthcare,Medical Care Facilities,"3,870"
+94,YHNF.TA,Tel,Israel,ILA,Consumer Defensive,Grocery Stores,
+95,ALTF.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+96,DNYA.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,"1,820"
+97,ISHI.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,176
+98,MGIC.TA,Tel,Israel,ILA,Technology,Information Technology Services,
+99,AUDC.TA,Tel,Israel,ILA,Technology,Communication Equipment,
+100,NFTA.TA,Tel,Israel,ILA,Energy,Oil & Gas E&P,290
+101,RADA.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,308
+102,SLARL.TA,Tel,Israel,ILA,Real Estate,REIT—Diversified,2
+103,TRPZ.TA,Tel,Israel,ILA,Basic Materials,Specialty Chemicals,372
+104,NYAX.TA,Tel,Israel,ILA,Technology,Information Technology Services,550
+105,DIFI.TA,Tel,Israel,ILA,Financial Services,Credit Services,606
+106,DRAL.TA,Tel,Israel,ILA,Energy,Oil & Gas Refining & Marketing,"2,922"
+107,ILDC.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,71
+108,ARGO.TA,Tel,Netherlands,ILA,Real Estate,Real Estate Services,
+109,DORL.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,47
+110,ISTA.TA,Tel,Israel,ILA,Consumer Cyclical,Travel Services,
+111,IES.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,5
+112,SCOP.TA,Tel,Israel,ILA,Industrials,Industrial Distribution,555
+113,MSKE.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,16
+114,CRSO.TA,Tel,Israel,ILA,Consumer Cyclical,Auto & Truck Dealerships,906
+115,INFN.TA,Tel,Israel,ILA,Basic Materials,Paper & Paper Products,"1,451"
+116,DLTI.TA,Tel,Israel,ILA,Consumer Cyclical,Apparel Manufacturing,981
+117,INRM.TA,Tel,Israel,ILA,Basic Materials,Building Materials,820
+118,PLSN.TA,Tel,Israel,ILA,Consumer Cyclical,Auto Parts,"2,390"
+119,AURA.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,
+120,MLTM.TA,Tel,Israel,ILA,Technology,Information Technology Services,"4,070"
+121,BCOM.TA,Tel,Israel,ILA,Communication Services,Telecom Services,"9,458"
+122,NSTR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,
+123,POLP.TA,Tel,Israel,ILA,Basic Materials,Specialty Chemicals,341
+124,IDIN.TA,Tel,Israel,ILA,Financial Services,Insurance—Diversified,"1,500"
+125,LVPR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,5
+126,NVLG.TA,Tel,Israel,ILA,Healthcare,Medical Care Facilities,739
+127,RMON.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,
+128,TASE.TA,Tel,Israel,ILA,Financial Services,Financial Data & Stock Exchanges,258
+129,MDTR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,445
+130,DIPL.TA,Tel,Israel,ILA,Consumer Defensive,Food Distribution,"2,425"
+131,MNRT.TA,Tel,Israel,ILA,Real Estate,REIT—Diversified,
+132,DISI.TA,Tel,Israel,ILA,Consumer Cyclical,Department Stores,
+133,GNRS.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+134,IBI.TA,Tel,Israel,ILA,Financial Services,Financial Conglomerates,510
+135,HGG.TA,Tel,Israel,ILA,,,140
+136,LEVI.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,118
+137,VTNA.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,
+138,ACKR.TA,Tel,Israel,ILA,Basic Materials,Building Materials,561
+139,ILX.TA,Tel,Israel,ILA,,,240
+140,ELWS.TA,Tel,Israel,ILA,Technology,Electronic Components,34
+141,GILT.TA,Tel,Israel,ILA,Technology,Communication Equipment,
+142,LAHAV.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,"1,989"
+143,MTDS.TA,Tel,Israel,ILA,Financial Services,Asset Management,"1,147"
+144,ISI.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,92
+145,BKFR.TA,Tel,Israel,ILA,Healthcare,Medical Care Facilities,
+146,PLRM.TA,Tel,Israel,ILA,Industrials,Building Products & Equipment,"1,594"
+147,ADGR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,121
+148,CLBV.TA,Tel,Israel,ILA,Consumer Defensive,Beverages—Non-Alcoholic,
+149,HAMAT.TA,Tel,Israel,ILA,Industrials,Building Products & Equipment,859
+150,ECNR.TA,Tel,United Kingdom,ILA,Utilities,Utilities—Renewable,45
+151,MAXO.TA,Tel,Israel,ILA,Consumer Cyclical,Department Stores,"2,044"
+152,PRTC.TA,Tel,Israel,ILA,Technology,Electronic Components,"1,611"
+153,ARD.TA,Tel,Israel,ILA,Technology,Scientific & Technical Instruments,"1,038"
+154,TLSY.TA,Tel,Israel,ILA,Technology,Electronics & Computer Distribution,72
+155,HRON.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,30
+156,ELLO.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,18
+157,APLP.TA,Tel,Israel,ILA,Technology,Solar,63
+158,FBRT.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,134
+159,KRUR.TA,Tel,Israel,ILA,Consumer Defensive,Packaged Foods,960
+160,AFHL.TA,Tel,Israel,ILA,Technology,Electronic Components,"1,301"
+161,TRX.TA,Tel,Israel,ILA,Consumer Cyclical,Internet Retail,
+162,MISH.TA,Tel,Israel,ILA,Financial Services,Asset Management,530
+163,RANI.TA,Tel,Israel,ILA,Real Estate,Real Estate—Diversified,46
+164,MGRT.TA,Tel,Israel,ILA,,,14
+165,CMDR.TA,Tel,Israel,ILA,Technology,Information Technology Services,
+166,AZRT.TA,Tel,Israel,ILA,,,
+167,KARE.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,
+168,NTO.TA,Tel,Israel,ILA,Consumer Defensive,Food Distribution,"1,348"
+169,TPGM.TA,Tel,Israel,ILA,Consumer Defensive,Confectioners,
+170,NAWI.TA,Tel,Israel,ILA,Financial Services,Credit Services,
+171,HNMR.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,97
+172,SPGE.TA,Tel,Israel,ILA,Utilities,Utilities—Regulated Gas,397
+173,LUZN.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,
+174,TTAM.TA,Tel,Israel,ILA,Consumer Defensive,Food Distribution,"1,452"
+175,BSEN.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,"1,088"
+176,ATRY.TA,Tel,Israel,ILA,Financial Services,Capital Markets,16
+177,DUNI.TA,Tel,Israel,ILA,,,42
+178,INCR.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,75
+179,JBNK.TA,Tel,Israel,ILA,Financial Services,Banks—Regional,585
+180,MRIN.TA,Tel,Israel,ILA,Financial Services,Asset Management,167
+181,TMRP.TA,Tel,Israel,ILA,Energy,Oil & Gas E&P,8
+182,ARIN.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,18
+183,SHVA.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,95
+184,BKRY.TA,Tel,Israel,ILA,Consumer Defensive,Food Distribution,"1,349"
+185,ZUR.TA,Tel,Israel,ILA,Financial Services,Insurance—Property & Casualty,444
+186,CAST.TA,Tel,Israel,ILA,Consumer Cyclical,Apparel Retail,"2,641"
+187,GNCL.TA,Tel,Israel,ILA,Technology,Electronic Components,85
+188,KSTN.TA,Tel,Israel,ILA,,,
+189,SRAC.TA,Tel,Israel,ILA,Financial Services,Financial Conglomerates,44
+190,KMDA.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,355
+191,VCTR.TA,Tel,Israel,ILA,Consumer Defensive,Food Distribution,"1,278"
+192,AVGL.TA,Tel,Israel,ILA,Consumer Cyclical,Textile Manufacturing,782
+193,ROTS.TA,Tel,Israel,ILA,Consumer Cyclical,Residential Construction,25
+194,MPP.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+195,GMA.TA,Tel,Israel,ILA,Financial Services,Credit Services,
+196,ASGR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,29
+197,CGEN.TA,Tel,Israel,ILA,Healthcare,Biotechnology,73
+198,ELAL.TA,Tel,Israel,ILA,Industrials,Airlines,"2,533"
+199,ICON.TA,Tel,Israel,ILA,Technology,Electronics & Computer Distribution,
+200,ALLT.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,508
+201,BLGO.TA,Tel,Israel,ILA,,,
+202,SOFW.TA,Tel,Israel,ILA,Healthcare,Medical Devices,92
+203,ZMH.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,158
+204,RIMO.TA,Tel,Israel,ILA,Basic Materials,Specialty Chemicals,357
+205,SLGN.TA,Tel,Israel,ILA,Healthcare,Biotechnology,23
+206,CMCT-P.TA,Tel,United States,ILA,Real Estate,REIT—Office,5
+207,GOLD.TA,Tel,Israel,ILA,Industrials,Marine Shipping,189
+208,BONS.TA,Tel,Israel,ILA,Healthcare,Biotechnology,32
+209,HGGE.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,11
+210,KLIL.TA,Tel,Israel,ILA,Basic Materials,Aluminum,362
+211,ELRN.TA,Tel,Israel,ILA,Industrials,Conglomerates,12
+212,CDEV.TA,Tel,Israel,ILA,Industrials,Conglomerates,
+213,MNIF.TA,Tel,Israel,ILA,Financial Services,Credit Services,5
+214,PEN.TA,Tel,Israel,ILA,Financial Services,Credit Services,53
+215,KAFR.TA,Tel,Israel,ILA,Basic Materials,Specialty Chemicals,467
+216,MEDN.TA,Tel,Israel,ILA,,,748
+217,MMAN.TA,Tel,Israel,ILA,Industrials,Integrated Freight & Logistics,"2,407"
+218,JCFN.TA,Tel,Israel,ILA,Financial Services,Credit Services,
+219,ORIN.TA,Tel,Israel,ILA,Industrials,Integrated Freight & Logistics,917
+220,SRFT.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,40
+221,AQUA.TA,Tel,Israel,ILA,Industrials,Specialty Industrial Machinery,68
+222,EMDV.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+223,MNIN.TA,Tel,Israel,ILA,Basic Materials,Steel,535
+224,PULS.TA,Tel,Israel,ILA,Healthcare,Medical Devices,
+225,ILDR.TA,Tel,Israel,ILA,Energy,Oil & Gas E&P,
+226,HIPR.TA,Tel,Israel,ILA,Technology,Computer Hardware,
+227,RVL.TA,Tel,Israel,ILA,Consumer Cyclical,Auto Parts,"1,088"
+228,PNRG.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,
+229,ETGA.TA,Tel,Israel,ILA,Industrials,Integrated Freight & Logistics,186
+230,BRIH.TA,Tel,Israel,ILA,Industrials,Building Products & Equipment,948
+231,EPIT.TA,Tel,Israel,ILA,Healthcare,Medical Devices,
+232,GLBX.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,308
+233,RPAC.TA,Tel,Israel,ILA,Technology,Communication Equipment,565
+234,EXPO.TA,Tel,Israel,ILA,Financial Services,Banks—Regional,572
+235,AYAL.TA,Tel,Israel,ILA,Financial Services,Insurance—Diversified,"1,137"
+236,ELMR.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,484
+237,AMRK.TA,Tel,Israel,ILA,Basic Materials,Agricultural Inputs,213
+238,GLRS.TA,Tel,Israel,ILA,Consumer Defensive,Food Distribution,209
+239,EMCO.TA,Tel,Israel,ILA,Technology,Information Technology Services,"1,091"
+240,AUGN.TA,Tel,Israel,ILA,Industrials,Specialty Industrial Machinery,33
+241,SOLR.TA,Tel,Israel,ILA,Technology,Solar,
+242,TRLT.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,8
+243,KRDI.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,96
+244,AMD.TA,Tel,Israel,ILA,Industrials,Pollution & Treatment Controls,719
+245,WLFD.TA,Tel,Israel,ILA,Consumer Defensive,Packaged Foods,182
+246,VALU.TA,Tel,Israel,ILA,Financial Services,Capital Markets,6
+247,SKLN.TA,Tel,Canada,ILA,Consumer Cyclical,Lodging,843
+248,SALG.TA,Tel,Israel,ILA,Consumer Cyclical,Textile Manufacturing,121
+249,NTGR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,39
+250,ANLT.TA,Tel,Israel,ILA,Financial Services,Asset Management,140
+251,TIGBUR.TA,Tel,Israel,ILA,,,"13,692"
+252,MRG.TA,Tel,Israel,ILA,Consumer Cyclical,Home Improvement Retail,990
+253,BWAY.TA,Tel,Israel,ILA,Healthcare,Medical Devices,118
+254,MSHR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,845
+255,SNCM.TA,Tel,Israel,ILA,Communication Services,Telecom Services,204
+256,SARN.TA,Tel,Israel,ILA,Technology,Scientific & Technical Instruments,
+257,GOLF.TA,Tel,Israel,ILA,Consumer Cyclical,Specialty Retail,"2,314"
+258,MDPR.TA,Tel,Cyprus,ILA,Real Estate,Real Estate Services,
+259,SPNTC.TA,Tel,Israel,ILA,Consumer Cyclical,Textile Manufacturing,402
+260,ALGS.TA,Tel,Israel,ILA,Energy,Oil & Gas E&P,
+261,ENLV.TA,Tel,Israel,ILA,Healthcare,Biotechnology,50
+262,GOSS.TA,Tel,Israel,ILA,Industrials,Security & Protection Services,"5,721"
+263,ORBI.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,188
+264,MLRN.TA,Tel,Israel,ILA,Financial Services,Credit Services,30
+265,YBOX.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,13
+266,DRSL.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,
+267,ORMP.TA,Tel,United States,ILA,,,
+268,BRMG.TA,Tel,Israel,ILA,Technology,Electronics & Computer Distribution,
+269,PAYT.TA,Tel,Israel,ILA,Industrials,Electrical Equipment & Parts,202
+270,MCLL.TA,Tel,Israel,ILA,,,
+271,SMNIN.TA,Tel,Israel,ILA,Consumer Defensive,Farm Products,135
+272,MGDA.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+273,ASHO.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,422
+274,GLPL.TA,Tel,Jordan,ILA,Industrials,Building Products & Equipment,271
+275,MSVT.TA,Tel,Israel,ILA,Technology,Computer Hardware,96
+276,GAGR.TA,Tel,Israel,ILA,Basic Materials,Steel,
+277,BOTI.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,88
+278,PWFL.TA,Tel,United States,ILA,Technology,Communication Equipment,669
+279,UNIT.TA,Tel,Israel,ILA,Technology,Semiconductor Equipment & Materials,131
+280,SHOM.TA,Tel,Israel,ILA,Industrials,Conglomerates,11
+281,GPGB.TA,Tel,Israel,ILA,Utilities,Utilities—Independent Power Producers,6
+282,HLMS.TA,Tel,Israel,ILA,Consumer Cyclical,Leisure,"1,603"
+283,BIRM.TA,Tel,Israel,ILA,,,233
+284,ALMA.TA,Tel,Israel,ILA,Consumer Cyclical,Residential Construction,87
+285,GNGR.TA,Tel,Israel,ILA,Consumer Cyclical,Textile Manufacturing,318
+286,MSLA.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,36
+287,OPAL.TA,Tel,Israel,ILA,Financial Services,Capital Markets,55
+288,ABRA.TA,Tel,Israel,ILA,Technology,Software—Application,567
+289,SHAN.TA,Tel,Israel,ILA,Basic Materials,Paper & Paper Products,483
+290,SHNP.TA,Tel,Israel,ILA,Consumer Cyclical,Auto Parts,363
+291,ALBA.TA,Tel,Israel,ILA,Consumer Defensive,Household & Personal Products,"1,822"
+292,PRMG.TA,Tel,Israel,ILA,Consumer Defensive,Household & Personal Products,
+293,ZNKL.TA,Tel,Israel,ILA,Consumer Defensive,Packaged Foods,177
+294,RMN.TA,Tel,Israel,ILA,Basic Materials,Chemicals,341
+295,BIMT.TA,Tel,Israel,ILA,,,1
+296,WESR.TA,Tel,Israel,ILA,Financial Services,Insurance—Property & Casualty,
+297,SNFL.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,9
+298,ICCM.TA,Tel,Israel,ILA,Healthcare,Medical Devices,40
+299,PMVM.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,529
+300,NURI.TA,Tel,Israel,ILA,Basic Materials,Specialty Chemicals,
+301,PIU.TA,Tel,Israel,ILA,Financial Services,Capital Markets,14
+302,GSFI.TA,Tel,Israel,ILA,Consumer Defensive,Beverages—Non-Alcoholic,389
+303,PCBT.TA,Tel,Israel,ILA,Technology,Electronic Components,757
+304,PRIM.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,8
+305,RLCO.TA,Tel,Israel,ILA,Technology,Electronics & Computer Distribution,44
+306,RTSN.TA,Tel,Israel,ILA,Consumer Cyclical,Residential Construction,
+307,GMLA.TA,Tel,Israel,ILA,Financial Services,Credit Services,3
+308,ALUMA.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+309,BLRX.TA,Tel,Israel,ILA,Healthcare,Biotechnology,38
+310,LSCO.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,322
+311,OVRS.TA,Tel,Israel,ILA,Industrials,Integrated Freight & Logistics,429
+312,JNGO.TA,Tel,Israel,ILA,Technology,Software—Application,
+313,TOPS.TA,Tel,Israel,ILA,Technology,Information Technology Services,363
+314,BRND.TA,Tel,Israel,ILA,Basic Materials,Steel,195
+315,REKA.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,385
+316,SPRG.TA,Tel,Israel,ILA,Financial Services,Asset Management,5
+317,TFRLF.TA,Tel,Israel,ILA,Consumer Cyclical,Apparel Manufacturing,"1,038"
+318,BNRG.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,81
+319,BCUR.TA,Tel,Israel,ILA,Healthcare,Medical Devices,146
+320,CFX.TA,Tel,Israel,ILA,Consumer Cyclical,Restaurants,617
+321,HICN.TA,Tel,Israel,ILA,Industrials,Specialty Industrial Machinery,
+322,LEOF.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,
+323,QLTU.TA,Tel,Israel,ILA,Technology,Semiconductor Equipment & Materials,63
+324,ANGL.TA,Tel,Israel,ILA,Consumer Defensive,Confectioners,"1,043"
+325,TURB.TA,Tel,Israel,ILA,Industrials,Specialty Industrial Machinery,
+326,BRAN.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,769
+327,DNA.TA,Tel,Israel,ILA,Healthcare,Biotechnology,
+328,UTRN.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,116
+329,ORON.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,343
+330,QNCO.TA,Tel,Israel,ILA,Consumer Cyclical,Resorts & Casinos,696
+331,FRSX.TA,Tel,Israel,ILA,Consumer Cyclical,Auto Parts,59
+332,LUDN.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,"1,051"
+333,ACCL.TA,Tel,Israel,ILA,Technology,Electronics & Computer Distribution,25
+334,SHGR.TA,Tel,Israel,ILA,Industrials,Specialty Business Services,385
+335,PSTI.TA,Tel,Israel,ILA,Healthcare,Biotechnology,153
+336,GOHO.TA,Tel,Israel,ILA,Healthcare,Medical Care Facilities,140
+337,PLX.TA,Tel,United States,ILA,Healthcare,Biotechnology,207
+338,AVGD.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,
+339,SFRN.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,
+340,AICS.TA,Tel,Israel,ILA,Technology,Software—Application,9
+341,NISA.TA,Tel,Israel,ILA,Healthcare,Medical Instruments & Supplies,402
+342,RAVD.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,4
+343,ININ.TA,Tel,Israel,ILA,Technology,Electronic Components,316
+344,TATT.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,413
+345,POLY.TA,Tel,Israel,ILA,,,4
+346,SNEL.TA,Tel,Israel,ILA,Technology,Software—Application,254
+347,HMGS.TA,Tel,Israel,ILA,Utilities,Utilities—Renewable,93
+348,LBTL.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,
+349,NXTM.TA,Tel,Israel,ILA,Communication Services,Telecom Services,335
+350,CBI.TA,Tel,Israel,ILA,Healthcare,Biotechnology,
+351,PPBT.TA,Tel,Israel,ILA,Healthcare,Biotechnology,19
+352,HOD.TA,Tel,Israel,ILA,Basic Materials,Steel,807
+353,CMCT.TA,Tel,United States,ILA,,,5
+354,AVIV.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,535
+355,CKRT.TA,Tel,Israel,ILA,Consumer Cyclical,Specialty Retail,
+356,TRAN.TA,Tel,Israel,ILA,Technology,Software—Application,
+357,PLCR.TA,Tel,Israel,ILA,Consumer Cyclical,Packaging & Containers,391
+358,PMNT.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,
+359,TLRD.TA,Tel,Israel,ILA,Technology,Communication Equipment,"1,592"
+360,INTR.TA,Tel,Israel,ILA,Industrials,Conglomerates,9
+361,TAYA.TA,Tel,Israel,ILA,Communication Services,Entertainment,87
+362,PHGE.TA,Tel,Israel,ILA,Healthcare,Biotechnology,95
+363,BULL.TA,Tel,Israel,ILA,Financial Services,Credit Services,
+364,FGAS.TA,Tel,Israel,ILA,Energy,Oil & Gas Equipment & Services,38
+365,BUFT.TA,Tel,Israel,ILA,Communication Services,Electronic Gaming & Multimedia,
+366,ZOOZ.TA,Tel,Israel,ILA,Consumer Cyclical,Specialty Retail,
+367,EVGN.TA,Tel,Israel,ILA,Healthcare,Biotechnology,133
+368,KNFM.TA,Tel,Israel,ILA,Industrials,Airlines,"1,900"
+369,AMAN.TA,Tel,Israel,ILA,Industrials,Conglomerates,"1,493"
+370,BHNY.TA,Tel,Israel,ILA,Consumer Defensive,Farm Products,17
+371,BRKT.TA,Tel,Israel,ILA,Financial Services,Credit Services,
+372,UWAY.TA,Tel,Israel,ILA,Technology,Software—Application,
+373,TKUN.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,100
+374,TOEN.TA,Tel,Israel,ILA,Energy,Oil & Gas E&P,
+375,LZNR.TA,Tel,Israel,ILA,Consumer Cyclical,Lodging,
+376,AVER.TA,Tel,Israel,ILA,Consumer Cyclical,"Furnishings, Fixtures & Appliances",139
+377,BLND.TA,Tel,Israel,ILA,Financial Services,Credit Services,83
+378,TECT.TA,Tel,Israel,ILA,Technology,Software—Application,9
+379,SCDX.TA,Tel,Israel,ILA,Industrials,Specialty Industrial Machinery,
+380,ARYT.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,65
+381,ORTC.TA,Tel,Israel,ILA,Industrials,Business Equipment & Supplies,17
+382,TGI.TA,Tel,Israel,ILA,Consumer Cyclical,Auto Parts,154
+383,WILK.TA,Tel,Israel,ILA,Consumer Defensive,Farm Products,
+384,BYON.TA,Tel,Israel,ILA,Industrials,Building Products & Equipment,
+385,GFC-L.TA,Tel,Israel,ILA,,,3
+386,FRDN.TA,Tel,Israel,ILA,Industrials,Integrated Freight & Logistics,406
+387,AUSA.TA,Tel,Israel,ILA,Technology,Consumer Electronics,
+388,SEMG.TA,Tel,Israel,ILA,Industrials,Waste Management,73
+389,NRGN.TA,Tel,Israel,ILA,Technology,Software—Application,48
+390,UPSL.TA,Tel,Israel,ILA,Technology,Information Technology Services,8
+391,SCC.TA,Tel,Israel,ILA,Communication Services,Telecom Services,56
+392,LODZ.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,3
+393,SPDV.TA,Tel,Israel,ILA,Technology,Information Technology Services,
+394,TREN.TA,Tel,Israel,ILA,Communication Services,Internet Content & Information,132
+395,CPTP.TA,Tel,Israel,ILA,Financial Services,Asset Management,37
+396,GKL.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,
+397,ARAN.TA,Tel,Israel,ILA,Industrials,Conglomerates,141
+398,RZR.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,60
+399,SVRT.TA,Tel,Israel,ILA,Consumer Defensive,Packaged Foods,18
+400,YAAC.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,598
+401,BYAR.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,10
+402,IDMO.TA,Tel,Israel,ILA,Technology,Software—Application,73
+403,IMPC.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,
+404,ROBO.TA,Tel,Israel,ILA,,,75
+405,AILN.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,
+406,PNAX.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,167
+407,MTLF.TA,Tel,Israel,ILA,Healthcare,Biotechnology,
+408,GLTC.TA,Tel,Israel,ILA,Industrials,Waste Management,5
+409,CANF.TA,Tel,Israel,ILA,Healthcare,Biotechnology,8
+410,CMER.TA,Tel,Israel,ILA,Technology,Communication Equipment,617
+411,QUIK.TA,Tel,Israel,ILA,Consumer Cyclical,Internet Retail,
+412,CRMT.TA,Tel,Israel,ILA,Consumer Defensive,Confectioners,88
+413,NXFR.TA,Tel,Israel,ILA,Consumer Defensive,Packaged Foods,17
+414,ELDAV.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+415,HMAM.TA,Tel,Israel,ILA,Consumer Defensive,Farm Products,41
+416,BLRN.TA,Tel,Israel,ILA,Technology,Computer Hardware,10
+417,VISN.TA,Tel,Israel,ILA,Industrials,Conglomerates,7
+418,STG.TA,Tel,Israel,ILA,,,59
+419,ENDY.TA,Tel,United States,ILA,Healthcare,Medical Devices,41
+420,ARDM.TA,Tel,Israel,ILA,Consumer Defensive,Education & Training Services,33
+421,QLRD.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,47
+422,UNVO.TA,Tel,Israel,ILA,,,48
+423,G107.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,285
+424,DM3.TA,Tel,Israel,ILA,Technology,Computer Hardware,
+425,TNDO.TA,Tel,Israel,ILA,Technology,Information Technology Services,
+426,KDST.TA,Tel,Israel,ILA,Healthcare,Biotechnology,28
+427,TEDE.TA,Tel,Israel,ILA,Technology,Electronic Components,55
+428,UNCR.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,19
+429,HUMX.TA,Tel,Israel,ILA,Healthcare,Medical Devices,72
+430,CNTC.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,
+431,SFET.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,62
+432,PPIL.TA,Tel,Israel,ILA,Consumer Cyclical,Packaging & Containers,
+433,ELSPC.TA,Tel,Israel,ILA,Industrials,Electrical Equipment & Parts,"3,119"
+434,MYDS.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+435,ENVM.TA,Tel,Israel,ILA,Healthcare,Medical Devices,23
+436,AVLN.TA,Tel,Israel,ILA,Industrials,Engineering & Construction,
+437,CISY.TA,Tel,Israel,ILA,Technology,Scientific & Technical Instruments,
+438,TGTR.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,10
+439,EMITF.TA,Tel,Israel,ILA,Healthcare,Medical Devices,4
+440,TUZA.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+441,CNTL.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,
+442,GIX.TA,Tel,Israel,ILA,Communication Services,Advertising Agencies,39
+443,THES.TA,Tel,Israel,ILA,Industrials,Security & Protection Services,2
+444,ARTS.TA,Tel,Israel,ILA,Industrials,Pollution & Treatment Controls,29
+445,MSBI.TA,Tel,Israel,ILA,Consumer Cyclical,Department Stores,"2,290"
+446,PHTM.TA,Tel,Israel,ILA,Technology,Software—Application,24
+447,MIFT.TA,Tel,Israel,ILA,Consumer Defensive,Packaged Foods,
+448,BRAM.TA,Tel,Israel,ILA,Consumer Cyclical,Packaging & Containers,162
+449,EFNC.TA,Tel,Israel,ILA,Healthcare,Medical Devices,
+450,BIGT.TA,Tel,Israel,ILA,Financial Services,Asset Management,1
+451,AVIA.TA,Tel,Israel,ILA,Consumer Cyclical,Travel Services,36
+452,NALA.TA,Tel,Israel,ILA,Basic Materials,Other Industrial Metals & Mining,
+453,IMCO.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,180
+454,ADKA.TA,Tel,Israel,ILA,Consumer Cyclical,Internet Retail,445
+455,AIRO.TA,Tel,Israel,ILA,Technology,Computer Hardware,
+456,KVSR.TA,Tel,Israel,ILA,Consumer Defensive,Education & Training Services,
+457,BOLT.TA,Tel,Israel,ILA,Healthcare,Biotechnology,5
+458,NXTG.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,
+459,SAVR.TA,Tel,Israel,ILA,Technology,Scientific & Technical Instruments,41
+460,ORAD.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,222
+461,BIOV.TA,Tel,Israel,ILA,Healthcare,Medical Devices,35
+462,INTL.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,40
+463,SHMM.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,
+464,CHAM.TA,Tel,Israel,ILA,Consumer Defensive,Packaged Foods,93
+465,AMX.TA,Tel,Israel,ILA,Consumer Cyclical,Auto & Truck Dealerships,
+466,NXGN.TA,Tel,Israel,ILA,Healthcare,Medical Instruments & Supplies,4
+467,MRHL.TA,Tel,Israel,ILA,Healthcare,Medical Care Facilities,1
+468,HDST.TA,Tel,Israel,ILA,Healthcare,Biotechnology,2
+469,TIGI.TA,Tel,Israel,ILA,Technology,Solar,
+470,DCMA.TA,Tel,Israel,ILA,Real Estate,Real Estate—Development,1
+471,BRIL.TA,Tel,Israel,ILA,Consumer Cyclical,Apparel Retail,257
+472,XTLB.TA,Tel,Israel,ILA,,,
+473,LHIS.TA,Tel,Israel,ILA,Industrials,Farm & Heavy Construction Machinery,89
+474,ALMD.TA,Tel,Israel,ILA,Healthcare,Medical Devices,46
+475,PLNT.TA,Tel,Israel,ILA,Healthcare,Biotechnology,
+476,TNPV.TA,Tel,Israel,ILA,Financial Services,Asset Management,102
+477,PMCN.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,
+478,GLTL.TA,Tel,Israel,ILA,Communication Services,Telecom Services,73
+479,MYSZ.TA,Tel,Israel,ILA,Technology,Software—Application,30
+480,CNMD.TA,Tel,Israel,ILA,Healthcare,Biotechnology,21
+481,UNCT.TA,Tel,Israel,ILA,Financial Services,Asset Management,3
+482,PTX.TA,Tel,Israel,ILA,Energy,Oil & Gas E&P,
+483,STEC.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+484,GODM-M.TA,Tel,Israel,ILA,,,
+485,RSEL.TA,Tel,Israel,ILA,Industrials,Aerospace & Defense,37
+486,CSURE.TA,Tel,Israel,ILA,,,44
+487,EDRL.TA,Tel,Israel,ILA,Real Estate,Real Estate Services,1
+488,MCRNT.TA,Tel,Israel,ILA,Technology,Communication Equipment,14
+489,STRG.TA,Tel,United Kingdom,ILA,Healthcare,Medical Instruments & Supplies,
+490,HUB.TA,Tel,Israel,ILA,Technology,Software—Infrastructure,
+491,IMED.TA,Tel,Israel,ILA,Healthcare,Health Information Services,45
+492,GLEX.TA,Tel,Israel,ILA,Energy,Oil & Gas E&P,
+493,SLCL.TA,Tel,Israel,ILA,Financial Services,Asset Management,4
+494,VNTZ-M.TA,Tel,Israel,ILA,Communication Services,Broadcasting,
+495,UNTC.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+496,SMAG.TA,Tel,Israel,ILA,Financial Services,Asset Management,
+497,ABIL.TA,Tel,Israel,ILA,Technology,Communication Equipment,10
+498,MLD.TA,Tel,Cyprus,ILA,Real Estate,Real Estate—Development,175
+499,CNZN.TA,Tel,Israel,ILA,Healthcare,Drug Manufacturers—Specialty & Generic,6
+500,ELDT-B7.TA,Tel,Israel,ILA,,,
+501,AFPR-B14.TA,Tel,Israel,ILA,,,
+502,KSM-F207.TA,Tel,Israel,ILA,,,
+503,DSMN-P1.TA,Tel,Israel,ILA,,,
+504,ECNR-C1.TA,Tel,Israel,ILA,,,
+505,LBRA.TA,Tel,Israel,ILA,Financial Services,Insurance—Property & Casualty,110
+506,LEOF-B4.TA,Tel,Israel,ILA,,,
+507,KRNV.TA,Tel,Netherlands,ILA,,,102
+508,ASPR-B13.TA,Tel,Netherlands,ILA,,,
+509,INIS-B12.TA,Tel,Netherlands,ILA,,,
+510,LUM-B184.TA,Tel,Netherlands,ILA,,,
+511,TR223.TA,Tel,Netherlands,ILA,,,
+512,DSMN-B15.TA,Tel,Netherlands,ILA,,,
+513,HGG-B11.TA,Tel,Netherlands,ILA,,,
+514,GVYM-B10.TA,Tel,Netherlands,ILA,,,
+515,AMX-B2.TA,Tel,Netherlands,ILA,,,
+516,GIBUI.TA,Tel,Israel,ILA,,,14
+517,ROTS-B10.TA,Tel,Israel,ILA,,,
+518,LUM-B182.TA,Tel,Israel,ILA,,,
+519,MZIS-B62.TA,Tel,Israel,ILA,,,
+520,NVPT.TA,Tel,Israel,ILA,,,25
+521,BONI-B20.TA,Tel,Israel,ILA,,,
+522,NVPT-C4.TA,Tel,Israel,ILA,,,
+523,ENOP-B1.TA,Tel,Israel,ILA,,,
+524,FLYS.TA,Tel,Israel,ILA,,,7
+525,GZT-B16.TA,Tel,Israel,ILA,,,
+526,AMDA.TA,Tel,Israel,ILA,,,
+527,ISRA.TA,Tel,Israel,ILA,,,
+528,NOST.TA,Tel,Israel,ILA,,,
+529,BEZQ-B14.TA,Tel,Israel,ILA,,,
+530,MGDF-B8.TA,Tel,Israel,ILA,,,
+531,MZIS-B64.TA,Tel,Israel,ILA,,,
+532,MPRS.TA,Tel,Israel,ILA,,,
+533,AZRT-C2.TA,Tel,Israel,ILA,,,
+534,MZIS-B63.TA,Tel,Israel,ILA,,,
+535,WILC.TA,Tel,Israel,ILA,,,182
+536,NAWI-B6.TA,Tel,Israel,ILA,,,
+537,NXSN.TA,Tel,Israel,ILA,,,
+538,PLI-B100.TA,Tel,Israel,ILA,,,
+539,IRS-B19.TA,Tel,Israel,ILA,,,
+540,PRSK-B14.TA,Tel,Israel,ILA,,,
+541,OPCE-B3.TA,Tel,Israel,ILA,,,
+542,HRZP-B2.TA,Tel,Israel,ILA,,,
+543,ASHG-B4.TA,Tel,Israel,ILA,,,
+544,MDG-B4.TA,Tel,Israel,ILA,,,
+545,MCMN-B2.TA,Tel,Israel,ILA,,,
+546,RANI-B3.TA,Tel,Israel,ILA,,,
+547,DLIA-B1.TA,Tel,Israel,ILA,,,
+548,RATI.TA,Tel,Israel,ILA,,,
+549,CPIA.TA,Tel,Israel,ILA,,,
+550,GIVO.TA,Tel,Israel,ILA,,,9
+551,GFI-B4.TA,Tel,Israel,ILA,,,
+552,ADGR-B12.TA,Tel,Israel,ILA,,,
+553,MNRA.TA,Tel,Israel,ILA,Technology,Information Technology Services,
+554,POLI-B6.TA,Tel,Israel,ILA,,,
+555,GLTL-B2.TA,Tel,Israel,ILA,,,
+556,EMTC-M.TA,Tel,Israel,ILA,,,472
+557,BSI-B7.TA,Tel,Israel,ILA,,,
+558,PRIM-B2.TA,Tel,Israel,ILA,,,
+559,NXTM-B3.TA,Tel,Israel,ILA,,,
+560,MVNE-B25.TA,Tel,Israel,ILA,,,
+561,IARG.TA,Tel,Israel,ILA,,,
+562,HNMR-B14.TA,Tel,Israel,ILA,,,
+563,TR113.TA,Tel,Israel,ILA,,,
+564,BULL-B1.TA,Tel,Israel,ILA,,,
+565,DSMN-B8.TA,Tel,Israel,ILA,,,
+566,DIFI-B5.TA,Tel,Israel,ILA,,,
+567,LUM-P1.TA,Tel,Israel,ILA,,,
+568,GNRS-B3.TA,Tel,Israel,ILA,,,
+569,MNRV-B4.TA,Tel,Israel,ILA,,,
+570,YBOX-C3.TA,Tel,Israel,ILA,,,
+571,GRON-B8.TA,Tel,Israel,ILA,,,
+572,GMA-B3.TA,Tel,Israel,ILA,,,
+573,MLRN-B3.TA,Tel,Israel,ILA,,,
+574,RTEN.TA,Tel,Israel,ILA,,,
+575,BVGG.TA,Tel,Israel,ILA,,,
+576,BEZQ-B13.TA,Tel,Israel,ILA,,,
+577,DISI-B11.TA,Tel,Israel,ILA,,,
+578,MTF-F100.TA,Tel,Israel,ILA,,,
+579,TR413.TA,Tel,Israel,ILA,,,
+580,HNMR-B13.TA,Tel,Israel,ILA,,,
+581,SKB-CP2.TA,Tel,Israel,ILA,,,
+582,INFR-M.TA,Tel,Israel,ILA,,,"23,700"
+583,GMA-B2.TA,Tel,Israel,ILA,,,
+584,BLTZ.TA,Tel,Israel,ILA,,,
+585,LEV-B8.TA,Tel,Israel,ILA,,,
+586,KSTN-B1.TA,Tel,Israel,ILA,,,
+587,PRTC-B1.TA,Tel,Israel,ILA,,,
+588,RMOT-B2.TA,Tel,Israel,ILA,,,
+589,UDII-B6.TA,Tel,Israel,ILA,,,
+590,PHOE-B6.TA,Tel,Israel,ILA,,,
+591,PTNR-B8.TA,Tel,Israel,ILA,,,
+592,LUM-B183.TA,Tel,Israel,ILA,,,
+593,MNIF-B1.TA,Tel,Israel,ILA,,,
+594,LVPR-B3.TA,Tel,Israel,ILA,,,
+595,UMH-B1.TA,Tel,Israel,ILA,,,
+596,MRR-B2.TA,Tel,Israel,ILA,,,
+597,LUM-B405.TA,Tel,Israel,ILA,,,
+598,LPHL.TA,Tel,Israel,ILA,,,
+599,TR313.TA,Tel,Israel,ILA,,,
+600,ISOP.TA,Tel,Israel,ILA,,,
+601,ASGR-B9.TA,Tel,Israel,ILA,,,
+602,INFN-B6.TA,Tel,Israel,ILA,,,
+603,TR1212.TA,Tel,Israel,ILA,,,
+604,INIS-B26.TA,Tel,Israel,ILA,,,
+605,EXTD-B4.TA,Tel,Israel,ILA,,,
+606,GOI1152.TA,Tel,Israel,ILA,,,
+607,SHOM-B4.TA,Tel,Israel,ILA,,,
+608,TR912.TA,Tel,Israel,ILA,,,
+609,TR1112.TA,Tel,Israel,ILA,,,
+610,JRIS-B18.TA,Tel,Israel,ILA,,,
+611,ALRP-B6.TA,Tel,Israel,ILA,,,
+612,SONO.TA,Tel,Israel,ILA,,,46
+613,AUIS.TA,Tel,Israel,ILA,,,
+614,GLTL-C3.TA,Tel,Israel,ILA,,,
+615,MGDF-B9.TA,Tel,Israel,ILA,,,
+616,SOLR-B1.TA,Tel,Israel,ILA,,,
+617,IGLD-M.TA,Tel,Israel,ILA,,,
+618,SPGE-B2.TA,Tel,Israel,ILA,,,
+619,RTPT.TA,Tel,Israel,ILA,,,
+620,BVC.TA,Tel,Israel,ILA,,,"1,023"
+621,MDIN.TA,Tel,Israel,ILA,,,
+622,MGRT-B4.TA,Tel,Israel,ILA,,,
+623,SMT-B12.TA,Tel,Israel,ILA,,,
+624,MLD-C9.TA,Tel,Israel,ILA,,,
+625,EFP-B1.TA,Tel,Israel,ILA,,,
+626,MNMO-B7.TA,Tel,Israel,ILA,,,
+627,NAWI-B5.TA,Tel,Israel,ILA,,,
+628,DLKG-B36.TA,Tel,Israel,ILA,,,
+629,BIG-B19.TA,Tel,Israel,ILA,,,
+630,PLI-B200.TA,Tel,Israel,ILA,,,
+631,HRIS-B18.TA,Tel,Israel,ILA,,,
+632,NVPT-B3.TA,Tel,Israel,ILA,,,
+633,CLBT-B12.TA,Tel,Israel,ILA,,,
+634,NRTK.TA,Tel,Israel,ILA,,,
+635,GRAC.TA,Tel,Israel,ILA,,,
+636,UNVO.TA,Tel,Israel,ILA,,,48
+637,LCTX.TA,Tel,United States,ILA,,,57
+638,ECPA.TA,Tel,Israel,ILA,,,149
+639,CLAB.TA,Tel,Israel,ILA,Technology,Computer Hardware,114

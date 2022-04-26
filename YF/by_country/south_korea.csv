@@ -1,0 +1,2667 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,005935.KS,KSE,Japan,KRW,Technology,Consumer Electronics,
+1,005930.KS,KSE,Japan,KRW,Technology,Consumer Electronics,
+2,010145.KS,KSE,Japan,KRW,Industrials,Aerospace & Defense,
+3,010140.KS,KSE,Japan,KRW,Industrials,Aerospace & Defense,
+4,373220.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+5,000660.KS,KSE,Japan,KRW,Technology,Semiconductors,
+6,207940.KS,KSE,Japan,KRW,Healthcare,Biotechnology,
+7,035420.KS,KSE,Japan,KRW,Communication Services,Internet Content & Information,
+8,035720.KS,KSE,Japan,KRW,Communication Services,Internet Content & Information,
+9,006405.KS,KSE,Japan,KRW,Technology,Electronic Components,
+10,006400.KS,KSE,Japan,KRW,Technology,Electronic Components,
+11,005387.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Manufacturers,
+12,005385.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Manufacturers,
+13,005389.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Manufacturers,
+14,005380.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Manufacturers,
+15,051915.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+16,051910.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+17,000270.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Manufacturers,
+18,105560.KS,KSE,Japan,KRW,Financial Services,Banks—Regional,
+19,005490.KS,KSE,Japan,KRW,Basic Materials,Steel,
+20,068270.KS,KSE,Japan,KRW,Healthcare,Biotechnology,
+21,055550.KS,KSE,Japan,KRW,Financial Services,Banks—Regional,
+22,066570.KS,KSE,Japan,KRW,Technology,Consumer Electronics,
+23,066575.KS,KSE,Japan,KRW,Technology,Consumer Electronics,
+24,323410.KS,KSE,Japan,KRW,Financial Services,Banks—Regional,
+25,03473K.KS,KSE,Japan,KRW,Technology,Information Technology Services,
+26,012330.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+27,009150.KS,KSE,Japan,KRW,Technology,Electronic Components,
+28,009155.KS,KSE,Japan,KRW,Technology,Electronic Components,
+29,096770.KS,KSE,Japan,KRW,Energy,Oil & Gas Refining & Marketing,
+30,02826K.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+31,096775.KS,KSE,Japan,KRW,Energy,Oil & Gas Refining & Marketing,
+32,028260.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+33,377300.KS,KSE,Japan,KRW,Technology,Software—Infrastructure,
+34,034730.KS,KSE,Japan,KRW,Technology,Information Technology Services,
+35,086790.KS,KSE,Japan,KRW,Financial Services,Banks—Regional,
+36,015760.KS,KSE,Japan,KRW,Utilities,Utilities—Regulated Electric,
+37,051900.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+38,051905.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+39,000720.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+40,000725.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+41,017670.KS,KSE,Japan,KRW,Communication Services,Telecom Services,
+42,011200.KS,KSE,Japan,KRW,Industrials,Marine Shipping,
+43,034020.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+44,329180.KS,KSE,Japan,KRW,Industrials,Aerospace & Defense,
+45,010955.KS,KSE,Japan,KRW,Energy,Oil & Gas Refining & Marketing,
+46,010950.KS,KSE,Japan,KRW,Energy,Oil & Gas Refining & Marketing,
+47,003555.KS,KSE,Japan,KRW,Technology,Consumer Electronics,
+48,032830.KS,KSE,Japan,KRW,Financial Services,Insurance—Life,
+49,316140.KS,KSE,Japan,KRW,Financial Services,Banks—Regional,
+50,259960.KS,KSE,Japan,KRW,Communication Services,Electronic Gaming & Multimedia,
+51,003550.KS,KSE,Japan,KRW,Technology,Consumer Electronics,
+52,010130.KS,KSE,Japan,KRW,Basic Materials,Other Industrial Metals & Mining,
+53,003490.KS,KSE,Japan,KRW,Industrials,Airlines,
+54,003495.KS,KSE,Japan,KRW,Industrials,Airlines,
+55,018260.KS,KSE,Japan,KRW,Technology,Information Technology Services,
+56,090430.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+57,352820.KS,KSE,Japan,KRW,Communication Services,Entertainment,
+58,090435.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+59,033780.KS,KSE,Japan,KRW,Consumer Defensive,Tobacco,
+60,302440.KS,KSE,Japan,KRW,Healthcare,Biotechnology,
+61,003670.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+62,247540.KQ,KOSDAQ,Japan,KRW,,,
+63,011070.KS,KSE,Japan,KRW,Technology,Electronic Components,
+64,361610.KS,KSE,Japan,KRW,Technology,Electronic Components,
+65,000810.KS,KSE,Japan,KRW,Financial Services,Insurance—Property & Casualty,
+66,000815.KS,KSE,Japan,KRW,Financial Services,Insurance—Property & Casualty,
+67,024110.KS,KSE,Japan,KRW,Financial Services,Banks—Regional,
+68,520013.KS,KSE,Japan,KRW,,,
+69,036570.KS,KSE,Japan,KRW,Communication Services,Electronic Gaming & Multimedia,
+70,030200.KS,KSE,Japan,KRW,Communication Services,Telecom Services,
+71,091990.KQ,KOSDAQ,Japan,KRW,,,
+72,520014.KS,KSE,Japan,KRW,,,
+73,251270.KS,KSE,Japan,KRW,Communication Services,Electronic Gaming & Multimedia,
+74,000100.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+75,000105.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+76,402340.KS,KSE,Japan,KRW,Technology,Semiconductors,
+77,086280.KS,KSE,Japan,KRW,Industrials,Integrated Freight & Logistics,
+78,520015.KS,KSE,Japan,KRW,,,
+79,009540.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,"12,900"
+80,326030.KS,KSE,Japan,KRW,Healthcare,Biotechnology,
+81,011170.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+82,034220.KS,KSE,Japan,KRW,Technology,Consumer Electronics,"63,360"
+83,009835.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+84,009830.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+85,032640.KS,KSE,Japan,KRW,Communication Services,Telecom Services,
+86,011780.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+87,011785.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+88,018880.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+89,00499K.KS,KSE,Japan,KRW,Consumer Defensive,Confectioners,
+90,097950.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+91,004990.KS,KSE,Japan,KRW,Consumer Defensive,Confectioners,
+92,097955.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+93,006805.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+94,004020.KS,KSE,Japan,KRW,Basic Materials,Steel,
+95,00680K.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+96,011790.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+97,035250.KS,KSE,Japan,KRW,Consumer Cyclical,Resorts & Casinos,
+98,383220.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+99,066970.KQ,KOSDAQ,Japan,KRW,,,927
+100,021240.KS,KSE,Japan,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+101,001045.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+102,006800.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+103,00104K.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+104,001040.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+105,137310.KS,KSE,Japan,KRW,Healthcare,Medical Instruments & Supplies,
+106,138040.KS,KSE,Japan,KRW,Financial Services,Asset Management,15
+107,088980.KS,KSE,Japan,KRW,,,
+108,000060.KS,KSE,Japan,KRW,Financial Services,Insurance—Property & Casualty,
+109,028050.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+110,005945.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+111,161390.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+112,241560.KS,KSE,Japan,KRW,Industrials,Farm & Heavy Construction Machinery,
+113,047810.KS,KSE,Japan,KRW,Industrials,Aerospace & Defense,
+114,005830.KS,KSE,Japan,KRW,Financial Services,Insurance—Property & Casualty,
+115,078935.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+116,078930.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+117,003410.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+118,267250.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+119,020150.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+120,071055.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+121,071050.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+122,002790.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+123,375500.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+124,002795.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+125,139480.KS,KSE,Japan,KRW,Consumer Defensive,Discount Stores,
+126,180640.KS,KSE,Japan,KRW,Industrials,Integrated Freight & Logistics,
+127,036460.KS,KSE,Japan,KRW,Utilities,Utilities—Regulated Gas,
+128,128940.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+129,37550K.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+130,271560.KS,KSE,Japan,KRW,Consumer Defensive,Confectioners,
+131,18064K.KS,KSE,Japan,KRW,Industrials,Integrated Freight & Logistics,
+132,307950.KS,KSE,Japan,KRW,Technology,Information Technology Services,
+133,008560.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+134,016360.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+135,028670.KS,KSE,Japan,KRW,Industrials,Marine Shipping,
+136,029780.KS,KSE,Japan,KRW,Financial Services,Credit Services,
+137,006360.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+138,003535.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+139,003530.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+140,010620.KS,KSE,Japan,KRW,Industrials,Marine Shipping,
+141,28513K.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+142,285130.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+143,008930.KS,KSE,Japan,KRW,Healthcare,Medical Distribution,
+144,336260.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+145,33626K.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+146,282330.KS,KSE,Japan,KRW,Consumer Defensive,Grocery Stores,
+147,000990.KS,KSE,Japan,KRW,Technology,Semiconductors,
+148,008775.KS,KSE,Japan,KRW,Consumer Cyclical,Specialty Retail,
+149,047050.KS,KSE,Japan,KRW,Industrials,Industrial Distribution,
+150,00088K.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+151,005940.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+152,008770.KS,KSE,Japan,KRW,Consumer Cyclical,Specialty Retail,
+153,336370.KS,KSE,Japan,KRW,Technology,Electronic Components,
+154,000880.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+155,000885.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+156,068760.KQ,KOSDAQ,Japan,KRW,,,
+157,272210.KS,KSE,Japan,KRW,Industrials,Aerospace & Defense,
+158,007070.KS,KSE,Japan,KRW,Consumer Cyclical,Department Stores,
+159,014825.KS,KSE,Japan,KRW,Consumer Cyclical,Packaging & Containers,
+160,058470.KQ,KOSDAQ,Japan,KRW,,,306
+161,052690.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+162,33637K.KS,KSE,Japan,KRW,Technology,Electronic Components,
+163,014820.KS,KSE,Japan,KRW,Consumer Cyclical,Packaging & Containers,
+164,042660.KS,KSE,Japan,KRW,Industrials,Aerospace & Defense,
+165,035760.KQ,KOSDAQ,Japan,KRW,,,
+166,023530.KS,KSE,Japan,KRW,Consumer Cyclical,Department Stores,
+167,278280.KQ,KOSDAQ,Japan,KRW,,,
+168,026960.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+169,047040.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+170,012450.KS,KSE,Japan,KRW,Industrials,Aerospace & Defense,
+171,112610.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+172,001450.KS,KSE,Japan,KRW,Financial Services,Insurance—Diversified,"3,938"
+173,014680.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+174,138930.KS,KSE,Japan,KRW,Financial Services,Banks—Regional,89
+175,002380.KS,KSE,Japan,KRW,Industrials,Building Products & Equipment,
+176,120110.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+177,030000.KS,KSE,Japan,KRW,Communication Services,Advertising Agencies,
+178,000087.KS,KSE,Japan,KRW,Consumer Defensive,Beverages—Wineries & Distilleries,
+179,204320.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+180,120115.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+181,000080.KS,KSE,Japan,KRW,Consumer Defensive,Beverages—Wineries & Distilleries,
+182,004170.KS,KSE,Japan,KRW,Consumer Cyclical,Department Stores,
+183,000120.KS,KSE,Japan,KRW,Industrials,Integrated Freight & Logistics,
+184,039490.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+185,253450.KQ,KOSDAQ,Japan,KRW,,,
+186,010060.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+187,016380.KS,KSE,Japan,KRW,Basic Materials,Steel,
+188,108320.KQ,KOSDAQ,Japan,KRW,,,"1,193"
+189,088350.KS,KSE,Japan,KRW,Financial Services,Insurance—Life,"2,601"
+190,012750.KS,KSE,Japan,KRW,Industrials,Security & Protection Services,
+191,001440.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+192,298050.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+193,001060.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+194,111770.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+195,001067.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+196,004000.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+197,064350.KS,KSE,Japan,KRW,Industrials,Railroads,"3,172"
+198,000210.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+199,006280.KS,KSE,Japan,KRW,Healthcare,Biotechnology,
+200,000215.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+201,005290.KQ,KOSDAQ,Japan,KRW,,,"1,194"
+202,081660.KS,KSE,Japan,KRW,Consumer Cyclical,Leisure,
+203,016385.KS,KSE,Japan,KRW,Basic Materials,Steel,
+204,240810.KQ,KOSDAQ,Japan,KRW,,,
+205,069620.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+206,035900.KQ,KOSDAQ,Japan,KRW,,,244
+207,086520.KQ,KOSDAQ,Japan,KRW,,,
+208,001230.KS,KSE,Japan,KRW,Basic Materials,Steel,
+209,005300.KS,KSE,Japan,KRW,Consumer Defensive,Beverages—Non-Alcoholic,
+210,298020.KS,KSE,Japan,KRW,Consumer Cyclical,Textile Manufacturing,
+211,005305.KS,KSE,Japan,KRW,Consumer Defensive,Beverages—Non-Alcoholic,
+212,004370.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+213,093370.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+214,011210.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+215,237690.KQ,KOSDAQ,Japan,KRW,,,
+216,005070.KS,KSE,Japan,KRW,Technology,Computer Hardware,352
+217,175330.KS,KSE,Japan,KRW,Financial Services,Banks—Regional,67
+218,079550.KS,KSE,Japan,KRW,Industrials,Aerospace & Defense,
+219,004800.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+220,051600.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+221,019170.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+222,069960.KS,KSE,Japan,KRW,Consumer Cyclical,Department Stores,
+223,249420.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+224,089860.KS,KSE,Japan,KRW,Industrials,Rental & Leasing Services,
+225,006260.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+226,000150.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+227,042700.KS,KSE,Japan,KRW,Technology,Semiconductor Equipment & Materials,
+228,000155.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+229,041510.KQ,KOSDAQ,Japan,KRW,,,482
+230,010780.KS,KSE,Japan,KRW,Industrials,Building Products & Equipment,
+231,007310.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+232,064760.KQ,KOSDAQ,Japan,KRW,,,
+233,353200.KS,KSE,Japan,KRW,Technology,Electronic Components,
+234,271940.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+235,139130.KS,KSE,Japan,KRW,Financial Services,Banks—Regional,91
+236,020560.KS,KSE,Japan,KRW,Industrials,Airlines,
+237,35320K.KS,KSE,Japan,KRW,Technology,Electronic Components,
+238,365550.KS,KSE,Japan,KRW,Real Estate,REIT—Industrial,
+239,019175.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+240,006125.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+241,039030.KQ,KOSDAQ,Japan,KRW,,,576
+242,017800.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+243,006120.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+244,067160.KQ,KOSDAQ,Japan,KRW,,,571
+245,330590.KS,KSE,Japan,KRW,Real Estate,REIT—Retail,
+246,178920.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+247,300720.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+248,000995.KS,KSE,Japan,KRW,Technology,Semiconductors,
+249,009415.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+250,056190.KQ,KOSDAQ,Japan,KRW,,,
+251,009240.KS,KSE,Japan,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+252,001120.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+253,000240.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+254,112040.KQ,KOSDAQ,Japan,KRW,,,135
+255,025900.KQ,KOSDAQ,Japan,KRW,,,
+256,181710.KS,KSE,Japan,KRW,Communication Services,Electronic Gaming & Multimedia,
+257,042670.KS,KSE,Japan,KRW,Industrials,Farm & Heavy Construction Machinery,
+258,012510.KS,KSE,Japan,KRW,Technology,Software—Application,
+259,034230.KQ,KOSDAQ,Japan,KRW,,,
+260,166090.KQ,KOSDAQ,Japan,KRW,,,
+261,078340.KQ,KOSDAQ,Japan,KRW,,,
+262,248070.KS,KSE,Japan,KRW,Technology,Electronic Components,
+263,003090.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—General,
+264,195870.KS,KSE,Japan,KRW,Technology,Semiconductor Equipment & Materials,
+265,032500.KQ,KOSDAQ,Japan,KRW,,,409
+266,214370.KQ,KOSDAQ,Japan,KRW,,,
+267,222800.KQ,KOSDAQ,Japan,KRW,,,
+268,263750.KQ,KOSDAQ,Japan,KRW,,,"1,572"
+269,000670.KS,KSE,Japan,KRW,Basic Materials,Other Industrial Metals & Mining,
+270,078600.KQ,KOSDAQ,Japan,KRW,,,302
+271,073240.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+272,005850.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+273,014830.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+274,009900.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+275,032350.KS,KSE,Japan,KRW,Consumer Cyclical,Travel Services,
+276,031430.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Retail,
+277,005800.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+278,028300.KQ,KOSDAQ,Japan,KRW,,,
+279,215200.KQ,KOSDAQ,Japan,KRW,,,
+280,003540.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+281,079160.KS,KSE,Japan,KRW,Communication Services,Entertainment,
+282,185750.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+283,089590.KS,KSE,Japan,KRW,Industrials,Airlines,
+284,036930.KQ,KOSDAQ,Japan,KRW,,,
+285,007700.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+286,096530.KQ,KOSDAQ,Japan,KRW,,,928
+287,004490.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+288,039130.KS,KSE,Japan,KRW,Consumer Cyclical,Travel Services,
+289,030190.KQ,KOSDAQ,Japan,KRW,,,
+290,003547.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+291,298380.KQ,KOSDAQ,Japan,KRW,,,
+292,215000.KQ,KOSDAQ,Japan,KRW,,,
+293,082640.KS,KSE,Japan,KRW,Financial Services,Insurance—Life,
+294,003545.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+295,001740.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+296,268280.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+297,001745.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+298,161890.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+299,018670.KS,KSE,Japan,KRW,Energy,Oil & Gas Refining & Marketing,
+300,105630.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+301,122870.KQ,KOSDAQ,Japan,KRW,,,339
+302,213420.KQ,KOSDAQ,Japan,KRW,,,
+303,003690.KS,KSE,Japan,KRW,Financial Services,Insurance—Reinsurance,386
+304,241590.KS,KSE,Japan,KRW,Consumer Cyclical,Footwear & Accessories,
+305,200130.KQ,KOSDAQ,Japan,KRW,,,
+306,005257.KS,KSE,Japan,KRW,Healthcare,Biotechnology,
+307,003380.KQ,KOSDAQ,Japan,KRW,,,
+308,002355.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+309,084370.KQ,KOSDAQ,Japan,KRW,,,250
+310,005250.KS,KSE,Japan,KRW,Healthcare,Biotechnology,
+311,013890.KS,KSE,Japan,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+312,344820.KS,KSE,Japan,KRW,Industrials,Building Products & Equipment,
+313,294870.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+314,214320.KS,KSE,Japan,KRW,Communication Services,Advertising Agencies,
+315,006650.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+316,002350.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+317,048410.KQ,KOSDAQ,Japan,KRW,,,
+318,085660.KQ,KOSDAQ,Japan,KRW,,,192
+319,009420.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+320,016710.KS,KSE,Japan,KRW,Utilities,Utilities—Regulated Gas,
+321,348950.KS,KSE,Japan,KRW,,,
+322,192820.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+323,272450.KS,KSE,Japan,KRW,Industrials,Airlines,
+324,036540.KQ,KOSDAQ,Japan,KRW,,,619
+325,114090.KS,KSE,Japan,KRW,Consumer Cyclical,Resorts & Casinos,
+326,011000.KS,KSE,Japan,KRW,Healthcare,Biotechnology,
+327,054780.KQ,KOSDAQ,Japan,KRW,,,55
+328,001680.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+329,022100.KQ,KOSDAQ,Japan,KRW,,,
+330,023590.KS,KSE,Japan,KRW,Technology,Information Technology Services,
+331,034120.KS,KSE,Japan,KRW,Communication Services,Entertainment,
+332,103140.KS,KSE,Japan,KRW,Industrials,Metal Fabrication,
+333,001685.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+334,001065.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+335,363280.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+336,003520.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,574
+337,214450.KQ,KOSDAQ,Japan,KRW,,,
+338,036420.KS,KSE,Japan,KRW,Communication Services,Entertainment,813
+339,001800.KS,KSE,Japan,KRW,Consumer Defensive,Confectioners,
+340,016790.KQ,KOSDAQ,Japan,KRW,,,
+341,069260.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+342,002840.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+343,003850.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+344,007390.KQ,KOSDAQ,Japan,KRW,,,64
+345,000250.KQ,KOSDAQ,Japan,KRW,,,390
+346,192080.KS,KSE,Japan,KRW,Communication Services,Electronic Gaming & Multimedia,
+347,137400.KQ,KOSDAQ,Japan,KRW,,,
+348,003240.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+349,005880.KS,KSE,Japan,KRW,Industrials,Marine Shipping,
+350,006040.KS,KSE,Japan,KRW,Consumer Defensive,Food Distribution,
+351,097520.KS,KSE,Japan,KRW,Technology,Electronic Components,
+352,090460.KQ,KOSDAQ,Japan,KRW,,,"1,189"
+353,053800.KQ,KOSDAQ,Japan,KRW,,,"1,180"
+354,280360.KS,KSE,Japan,KRW,Consumer Defensive,Confectioners,
+355,020000.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+356,131290.KQ,KOSDAQ,Japan,KRW,,,601
+357,267260.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+358,074600.KQ,KOSDAQ,Japan,KRW,,,948
+359,005440.KS,KSE,Japan,KRW,Consumer Defensive,Food Distribution,
+360,005090.KS,KSE,Japan,KRW,Utilities,Utilities—Renewable,
+361,003230.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+362,046890.KQ,KOSDAQ,Japan,KRW,,,
+363,003000.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+364,00781K.KS,KSE,Japan,KRW,Technology,Electronic Components,
+365,095700.KQ,KOSDAQ,Japan,KRW,,,123
+366,140860.KQ,KOSDAQ,Japan,KRW,,,
+367,284740.KS,KSE,Japan,KRW,Technology,Electronics & Computer Distribution,
+368,005610.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+369,010050.KS,KSE,Japan,KRW,Financial Services,Banks—Regional,
+370,007810.KS,KSE,Japan,KRW,Technology,Electronic Components,
+371,121600.KQ,KOSDAQ,Japan,KRW,,,221
+372,007815.KS,KSE,Japan,KRW,Technology,Electronic Components,
+373,068240.KQ,KOSDAQ,Japan,KRW,,,
+374,383800.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+375,298000.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+376,38380K.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+377,009450.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+378,024810.KQ,KOSDAQ,Japan,KRW,,,159
+379,196170.KQ,KOSDAQ,Japan,KRW,,,
+380,003280.KS,KSE,Japan,KRW,Industrials,Marine Shipping,
+381,086900.KQ,KOSDAQ,Japan,KRW,,,
+382,033290.KQ,KOSDAQ,Japan,KRW,,,406
+383,039200.KQ,KOSDAQ,Japan,KRW,,,
+384,192650.KS,KSE,Japan,KRW,Technology,Electronic Components,
+385,025860.KS,KSE,Japan,KRW,Basic Materials,Agricultural Inputs,
+386,017390.KS,KSE,Japan,KRW,Utilities,Utilities—Regulated Gas,
+387,218410.KQ,KOSDAQ,Japan,KRW,,,
+388,003470.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+389,085370.KQ,KOSDAQ,Japan,KRW,,,263
+390,025980.KQ,KOSDAQ,Japan,KRW,,,
+391,025540.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+392,000400.KS,KSE,Japan,KRW,Financial Services,Insurance—Property & Casualty,
+393,003475.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+394,007575.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+395,049770.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+396,267270.KS,KSE,Japan,KRW,Industrials,Farm & Heavy Construction Machinery,
+397,007340.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+398,064960.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+399,069080.KQ,KOSDAQ,Japan,KRW,,,
+400,144510.KQ,KOSDAQ,Japan,KRW,,,
+401,005690.KS,KSE,Japan,KRW,Healthcare,Biotechnology,
+402,000640.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+403,057050.KS,KSE,Japan,KRW,Consumer Cyclical,Internet Retail,
+404,000070.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+405,064550.KQ,KOSDAQ,Japan,KRW,,,578
+406,033640.KQ,KOSDAQ,Japan,KRW,,,631
+407,017810.KS,KSE,Japan,KRW,Consumer Defensive,Farm Products,
+408,097230.KS,KSE,Japan,KRW,Industrials,Aerospace & Defense,
+409,000075.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+410,001430.KS,KSE,Japan,KRW,Basic Materials,Steel,
+411,00806K.KS,KSE,Japan,KRW,Technology,Electronic Components,
+412,008060.KS,KSE,Japan,KRW,Technology,Electronic Components,
+413,049070.KQ,KOSDAQ,Japan,KRW,,,524
+414,091120.KQ,KOSDAQ,Japan,KRW,,,395
+415,145720.KS,KSE,Japan,KRW,Healthcare,Medical Instruments & Supplies,
+416,210980.KS,KSE,Japan,KRW,Real Estate,Real Estate—Diversified,
+417,194480.KQ,KOSDAQ,Japan,KRW,,,
+418,034310.KS,KSE,Japan,KRW,Financial Services,Financial Data & Stock Exchanges,46
+419,041190.KQ,KOSDAQ,Japan,KRW,,,12
+420,066980.KQ,KOSDAQ,Japan,KRW,,,36
+421,000370.KS,KSE,Japan,KRW,Financial Services,Insurance—Property & Casualty,
+422,004430.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+423,001390.KS,KSE,Japan,KRW,Basic Materials,Agricultural Inputs,
+424,043150.KQ,KOSDAQ,Japan,KRW,,,348
+425,091700.KQ,KOSDAQ,Japan,KRW,,,465
+426,08537M.KQ,KOSDAQ,Japan,KRW,,,263
+427,189300.KQ,KOSDAQ,Japan,KRW,,,
+428,003030.KS,KSE,Japan,KRW,Basic Materials,Steel,
+429,063080.KQ,KOSDAQ,Japan,KRW,,,255
+430,183190.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+431,009970.KS,KSE,Japan,KRW,Consumer Cyclical,Leisure,
+432,064260.KQ,KOSDAQ,Japan,KRW,,,247
+433,004255.KS,KSE,Japan,KRW,Consumer Cyclical,Packaging & Containers,209
+434,001820.KS,KSE,Japan,KRW,Technology,Electronic Components,
+435,001880.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+436,092040.KQ,KOSDAQ,Japan,KRW,,,
+437,293940.KS,KSE,Japan,KRW,,,
+438,192400.KS,KSE,Japan,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+439,170900.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+440,006390.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+441,000230.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+442,108670.KS,KSE,Japan,KRW,Industrials,Building Products & Equipment,
+443,151860.KQ,KOSDAQ,Japan,KRW,,,
+444,145995.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+445,017960.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+446,008730.KS,KSE,Japan,KRW,Consumer Cyclical,Packaging & Containers,
+447,108675.KS,KSE,Japan,KRW,Industrials,Building Products & Equipment,
+448,286940.KS,KSE,Japan,KRW,Technology,Information Technology Services,
+449,006730.KQ,KOSDAQ,Japan,KRW,,,
+450,089980.KQ,KOSDAQ,Japan,KRW,,,470
+451,100090.KQ,KOSDAQ,Japan,KRW,,,
+452,048530.KQ,KOSDAQ,Japan,KRW,,,93
+453,033240.KS,KSE,Japan,KRW,Technology,Electronic Components,483
+454,038500.KQ,KOSDAQ,Japan,KRW,,,618
+455,039840.KQ,KOSDAQ,Japan,KRW,,,480
+456,093050.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+457,225570.KQ,KOSDAQ,Japan,KRW,,,
+458,145990.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+459,095610.KQ,KOSDAQ,Japan,KRW,,,385
+460,071840.KS,KSE,Japan,KRW,Consumer Cyclical,Specialty Retail,
+461,145020.KQ,KOSDAQ,Japan,KRW,,,
+462,267980.KQ,KOSDAQ,Japan,KRW,,,
+463,101490.KQ,KOSDAQ,Japan,KRW,,,211
+464,298040.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+465,027410.KS,KSE,Japan,KRW,Consumer Cyclical,Department Stores,
+466,005420.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+467,182400.KQ,KOSDAQ,Japan,KRW,,,
+468,115390.KS,KSE,Japan,KRW,Consumer Cyclical,Packaging & Containers,509
+469,007660.KS,KSE,Japan,KRW,Technology,Electronic Components,873
+470,003075.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+471,086390.KQ,KOSDAQ,Japan,KRW,,,220
+472,005390.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+473,018250.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+474,005860.KQ,KOSDAQ,Japan,KRW,,,80
+475,085620.KS,KSE,Japan,KRW,Financial Services,Insurance—Life,
+476,357120.KS,KSE,Japan,KRW,Real Estate,REIT—Diversified,
+477,041960.KQ,KOSDAQ,Japan,KRW,,,153
+478,038540.KQ,KOSDAQ,Japan,KRW,,,153
+479,003070.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+480,082270.KQ,KOSDAQ,Japan,KRW,,,157
+481,034830.KS,KSE,Japan,KRW,Real Estate,REIT—Diversified,
+482,002240.KS,KSE,Japan,KRW,Basic Materials,Steel,
+483,095340.KQ,KOSDAQ,Japan,KRW,,,180
+484,068400.KS,KSE,Japan,KRW,Industrials,Rental & Leasing Services,
+485,009160.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+486,061970.KQ,KOSDAQ,Japan,KRW,,,609
+487,110790.KQ,KOSDAQ,Japan,KRW,,,
+488,007690.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+489,037560.KS,KSE,Japan,KRW,Communication Services,Broadcasting,
+490,032190.KQ,KOSDAQ,Japan,KRW,,,
+491,054210.KQ,KOSDAQ,Japan,KRW,,,307
+492,001530.KS,KSE,Japan,KRW,Consumer Cyclical,Textile Manufacturing,
+493,060250.KQ,KOSDAQ,Japan,KRW,,,361
+494,102710.KQ,KOSDAQ,Japan,KRW,,,485
+495,161000.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+496,182360.KQ,KOSDAQ,Japan,KRW,,,
+497,020120.KS,KSE,Japan,KRW,Communication Services,Internet Content & Information,
+498,053030.KQ,KOSDAQ,Japan,KRW,,,503
+499,044180.KQ,KOSDAQ,Japan,KRW,,,33
+500,030610.KS,KSE,Japan,KRW,Financial Services,Asset Management,785
+501,092220.KS,KSE,Japan,KRW,Technology,Semiconductor Equipment & Materials,
+502,035600.KQ,KOSDAQ,Japan,KRW,,,215
+503,082740.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+504,005180.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+505,123890.KS,KSE,Japan,KRW,Real Estate,REIT—Diversified,163
+506,051500.KQ,KOSDAQ,Japan,KRW,,,
+507,138490.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+508,272290.KQ,KOSDAQ,Japan,KRW,,,
+509,151910.KQ,KOSDAQ,Japan,KRW,,,
+510,106240.KQ,KOSDAQ,Japan,KRW,,,183
+511,095660.KQ,KOSDAQ,Japan,KRW,,,915
+512,017650.KQ,KOSDAQ,Japan,KRW,,,
+513,089970.KQ,KOSDAQ,Japan,KRW,,,
+514,102460.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+515,183300.KQ,KOSDAQ,Japan,KRW,,,
+516,050120.KQ,KOSDAQ,Japan,KRW,,,25
+517,002320.KS,KSE,Japan,KRW,Industrials,Integrated Freight & Logistics,
+518,001720.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+519,058650.KS,KSE,Japan,KRW,Basic Materials,Steel,
+520,036830.KQ,KOSDAQ,Japan,KRW,,,59
+521,001725.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+522,013120.KQ,KOSDAQ,Japan,KRW,,,120
+523,206650.KQ,KOSDAQ,Japan,KRW,,,
+524,067630.KQ,KOSDAQ,Japan,KRW,,,41
+525,104830.KQ,KOSDAQ,Japan,KRW,,,444
+526,226320.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+527,007570.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+528,003100.KQ,KOSDAQ,Japan,KRW,,,228
+529,206560.KQ,KOSDAQ,Japan,KRW,,,
+530,101160.KQ,KOSDAQ,Japan,KRW,,,254
+531,143240.KQ,KOSDAQ,Japan,KRW,,,
+532,141080.KQ,KOSDAQ,Japan,KRW,,,
+533,030520.KQ,KOSDAQ,Japan,KRW,,,381
+534,104480.KQ,KOSDAQ,Japan,KRW,,,
+535,067310.KQ,KOSDAQ,Japan,KRW,,,715
+536,121800.KQ,KOSDAQ,Japan,KRW,,,48
+537,298690.KS,KSE,Japan,KRW,Industrials,Airlines,
+538,281820.KS,KSE,Japan,KRW,Technology,Semiconductor Equipment & Materials,
+539,033270.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+540,000545.KS,KSE,Japan,KRW,Financial Services,Insurance—Property & Casualty,
+541,053210.KS,KSE,Japan,KRW,Communication Services,Broadcasting,
+542,306200.KS,KSE,Japan,KRW,Basic Materials,Steel,
+543,027360.KQ,KOSDAQ,Japan,KRW,,,
+544,139990.KS,KSE,Japan,KRW,Basic Materials,Steel,
+545,008490.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+546,001470.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+547,084010.KS,KSE,Japan,KRW,Basic Materials,Steel,
+548,130660.KS,KSE,Japan,KRW,Utilities,Utilities—Regulated Electric,"2,593"
+549,089030.KQ,KOSDAQ,Japan,KRW,,,679
+550,004250.KS,KSE,Japan,KRW,Consumer Cyclical,Packaging & Containers,209
+551,003800.KQ,KOSDAQ,Japan,KRW,,,555
+552,060150.KQ,KOSDAQ,Japan,KRW,,,378
+553,131390.KQ,KOSDAQ,Japan,KRW,,,364
+554,031330.KQ,KOSDAQ,Japan,KRW,,,117
+555,037270.KS,KSE,Japan,KRW,Communication Services,Advertising Agencies,
+556,018310.KQ,KOSDAQ,Japan,KRW,,,214
+557,243840.KQ,KOSDAQ,Japan,KRW,,,
+558,263720.KQ,KOSDAQ,Japan,KRW,,,
+559,060980.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+560,041830.KQ,KOSDAQ,Japan,KRW,,,222
+561,088800.KQ,KOSDAQ,Japan,KRW,,,259
+562,230240.KQ,KOSDAQ,Japan,KRW,,,
+563,088260.KS,KSE,Japan,KRW,Real Estate,REIT—Diversified,
+564,029960.KQ,KOSDAQ,Japan,KRW,,,
+565,071320.KS,KSE,Japan,KRW,Utilities,Utilities—Regulated Water,
+566,950130.KQ,KOSDAQ,Japan,KRW,,,
+567,003300.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+568,055490.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+569,060720.KQ,KOSDAQ,Japan,KRW,,,67
+570,099190.KQ,KOSDAQ,Japan,KRW,,,
+571,024720.KS,KSE,Japan,KRW,Consumer Defensive,Household & Personal Products,
+572,339770.KS,KSE,Japan,KRW,Consumer Cyclical,Restaurants,
+573,036810.KQ,KOSDAQ,Japan,KRW,,,532
+574,002310.KS,KSE,Japan,KRW,Basic Materials,Paper & Paper Products,
+575,100120.KQ,KOSDAQ,Japan,KRW,,,
+576,084690.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+577,086980.KQ,KOSDAQ,Japan,KRW,,,52
+578,012630.KS,KSE,Japan,KRW,Financial Services,Asset Management,
+579,000050.KS,KSE,Japan,KRW,Consumer Cyclical,Textile Manufacturing,
+580,005950.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+581,080160.KQ,KOSDAQ,Japan,KRW,,,741
+582,091810.KS,KSE,Japan,KRW,Industrials,Airlines,
+583,023410.KQ,KOSDAQ,Japan,KRW,,,650
+584,003220.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+585,051370.KQ,KOSDAQ,Japan,KRW,,,386
+586,078020.KQ,KOSDAQ,Japan,KRW,,,
+587,102940.KQ,KOSDAQ,Japan,KRW,,,422
+588,015750.KQ,KOSDAQ,Japan,KRW,,,
+589,001790.KS,KSE,Japan,KRW,Consumer Defensive,Confectioners,
+590,271980.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+591,048550.KQ,KOSDAQ,Japan,KRW,,,432
+592,002025.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+593,243070.KQ,KOSDAQ,Japan,KRW,,,
+594,206400.KQ,KOSDAQ,Japan,KRW,,,
+595,078130.KQ,KOSDAQ,Japan,KRW,,,196
+596,075580.KS,KSE,Japan,KRW,Industrials,Marine Shipping,212
+597,217270.KQ,KOSDAQ,Japan,KRW,,,
+598,009410.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+599,002995.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+600,002020.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+601,000547.KS,KSE,Japan,KRW,Financial Services,Insurance—Property & Casualty,
+602,121440.KQ,KOSDAQ,Japan,KRW,,,36
+603,026890.KS,KSE,Japan,KRW,Financial Services,Asset Management,
+604,011930.KS,KSE,Japan,KRW,Technology,Semiconductors,
+605,081000.KS,KSE,Japan,KRW,Industrials,Tools & Accessories,
+606,084680.KS,KSE,Japan,KRW,Consumer Cyclical,Leisure,
+607,008355.KS,KSE,Japan,KRW,Basic Materials,Aluminum,
+608,003580.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+609,126560.KS,KSE,Japan,KRW,Communication Services,Entertainment,
+610,004890.KS,KSE,Japan,KRW,Basic Materials,Steel,
+611,084695.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+612,004690.KS,KSE,Japan,KRW,Utilities,Utilities—Regulated Gas,
+613,119610.KQ,KOSDAQ,Japan,KRW,,,540
+614,063170.KQ,KOSDAQ,Japan,KRW,,,70
+615,001515.KS,KSE,Japan,KRW,Financial Services,Asset Management,754
+616,002990.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+617,104460.KQ,KOSDAQ,Japan,KRW,,,127
+618,205470.KQ,KOSDAQ,Japan,KRW,,,
+619,089010.KQ,KOSDAQ,Japan,KRW,,,489
+620,008350.KS,KSE,Japan,KRW,Basic Materials,Aluminum,
+621,032620.KQ,KOSDAQ,Japan,KRW,,,270
+622,001525.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+623,001510.KS,KSE,Japan,KRW,Financial Services,Asset Management,754
+624,094480.KQ,KOSDAQ,Japan,KRW,,,128
+625,002900.KS,KSE,Japan,KRW,Industrials,Farm & Heavy Construction Machinery,
+626,237880.KQ,KOSDAQ,Japan,KRW,,,
+627,178320.KQ,KOSDAQ,Japan,KRW,,,
+628,204630.KQ,KOSDAQ,Japan,KRW,,,
+629,042420.KQ,KOSDAQ,Japan,KRW,,,5
+630,001500.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+631,052400.KQ,KOSDAQ,Japan,KRW,,,372
+632,034950.KQ,KOSDAQ,Japan,KRW,,,
+633,030530.KQ,KOSDAQ,Japan,KRW,,,312
+634,011700.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+635,007460.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,60
+636,002780.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+637,230360.KQ,KOSDAQ,Japan,KRW,,,
+638,206640.KQ,KOSDAQ,Japan,KRW,,,
+639,078160.KQ,KOSDAQ,Japan,KRW,,,267
+640,002785.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+641,000020.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+642,104700.KS,KSE,Japan,KRW,Basic Materials,Steel,
+643,213500.KS,KSE,Japan,KRW,Basic Materials,Paper & Paper Products,
+644,317400.KS,KSE,Japan,KRW,Real Estate,Real Estate—Diversified,
+645,001630.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+646,002787.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+647,077970.KS,KSE,Japan,KRW,Industrials,Specialty Industrial Machinery,
+648,001250.KS,KSE,Japan,KRW,Industrials,Industrial Distribution,
+649,238090.KQ,KOSDAQ,Japan,KRW,,,
+650,058820.KQ,KOSDAQ,Japan,KRW,,,
+651,072710.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+652,900140.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Manufacturers,42
+653,377190.KS,KSE,Japan,KRW,,,
+654,136490.KS,KSE,Japan,KRW,Consumer Defensive,Farm Products,
+655,016590.KS,KSE,Japan,KRW,Basic Materials,Paper & Paper Products,
+656,001780.KS,KSE,Japan,KRW,Basic Materials,Aluminum,
+657,293480.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+658,050890.KQ,KOSDAQ,Japan,KRW,,,
+659,059090.KQ,KOSDAQ,Japan,KRW,,,114
+660,122900.KS,KSE,Japan,KRW,Industrials,Specialty Business Services,
+661,002270.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+662,196450.KQ,KOSDAQ,Japan,KRW,,,
+663,217330.KQ,KOSDAQ,Japan,KRW,,,
+664,094820.KQ,KOSDAQ,Japan,KRW,,,682
+665,003060.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+666,095720.KS,KSE,Japan,KRW,Communication Services,Publishing,
+667,265520.KQ,KOSDAQ,Japan,KRW,,,
+668,272550.KS,KSE,Japan,KRW,Consumer Cyclical,Packaging & Containers,
+669,100130.KQ,KOSDAQ,Japan,KRW,,,79
+670,009580.KS,KSE,Japan,KRW,Basic Materials,Paper & Paper Products,
+671,004980.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+672,232140.KQ,KOSDAQ,Japan,KRW,,,
+673,036200.KQ,KOSDAQ,Japan,KRW,,,707
+674,107590.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,15
+675,042600.KQ,KOSDAQ,Japan,KRW,,,"1,802"
+676,016800.KS,KSE,Japan,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+677,033500.KQ,KOSDAQ,Japan,KRW,,,406
+678,013580.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+679,058430.KS,KSE,Japan,KRW,Industrials,Metal Fabrication,
+680,033180.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+681,033160.KQ,KOSDAQ,Japan,KRW,,,
+682,099320.KQ,KOSDAQ,Japan,KRW,,,291
+683,002960.KS,KSE,Japan,KRW,Energy,Oil & Gas Refining & Marketing,
+684,000490.KS,KSE,Japan,KRW,Industrials,Farm & Heavy Construction Machinery,
+685,018470.KS,KSE,Japan,KRW,Basic Materials,Aluminum,
+686,001460.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+687,039440.KQ,KOSDAQ,Japan,KRW,,,347
+688,058610.KQ,KOSDAQ,Japan,KRW,,,382
+689,002710.KS,KSE,Japan,KRW,Basic Materials,Steel,
+690,001529.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+691,001520.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+692,131970.KQ,KOSDAQ,Japan,KRW,,,
+693,025770.KQ,KOSDAQ,Japan,KRW,,,241
+694,001465.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+695,395400.KS,KSE,Japan,KRW,Real Estate,REIT—Office,
+696,001527.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+697,005965.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+698,001130.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+699,006910.KQ,KOSDAQ,Japan,KRW,,,
+700,001200.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+701,067990.KQ,KOSDAQ,Japan,KRW,,,952
+702,115960.KQ,KOSDAQ,Japan,KRW,,,
+703,004985.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+704,000140.KS,KSE,Japan,KRW,Consumer Defensive,Beverages—Brewers,
+705,019680.KS,KSE,Japan,KRW,Consumer Defensive,Education & Training Services,"2,269"
+706,006490.KS,KSE,Japan,KRW,Communication Services,Telecom Services,
+707,019685.KS,KSE,Japan,KRW,Consumer Defensive,Education & Training Services,"2,269"
+708,084990.KQ,KOSDAQ,Japan,KRW,,,106
+709,194700.KQ,KOSDAQ,Japan,KRW,,,
+710,136480.KQ,KOSDAQ,Japan,KRW,,,
+711,000145.KS,KSE,Japan,KRW,Consumer Defensive,Beverages—Brewers,
+712,108230.KQ,KOSDAQ,Japan,KRW,,,426
+713,106520.KQ,KOSDAQ,Japan,KRW,,,
+714,065350.KQ,KOSDAQ,Japan,KRW,,,
+715,036630.KQ,KOSDAQ,Japan,KRW,,,328
+716,084110.KQ,KOSDAQ,Japan,KRW,,,122
+717,077500.KS,KSE,Japan,KRW,Technology,Electronics & Computer Distribution,
+718,099750.KQ,KOSDAQ,Japan,KRW,,,
+719,005500.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,586
+720,009520.KQ,KOSDAQ,Japan,KRW,,,
+721,006060.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+722,043610.KQ,KOSDAQ,Japan,KRW,,,222
+723,005960.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+724,214330.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+725,194370.KS,KSE,Japan,KRW,Consumer Cyclical,Footwear & Accessories,
+726,030210.KS,KSE,Japan,KRW,Financial Services,Capital Markets,171
+727,068290.KS,KSE,Japan,KRW,Communication Services,Publishing,162
+728,179290.KQ,KOSDAQ,Japan,KRW,,,
+729,029530.KS,KSE,Japan,KRW,Industrials,Business Equipment & Supplies,
+730,079430.KS,KSE,Japan,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+731,035890.KQ,KOSDAQ,Japan,KRW,,,463
+732,009290.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+733,216050.KQ,KOSDAQ,Japan,KRW,,,
+734,012610.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+735,045390.KQ,KOSDAQ,Japan,KRW,,,208
+736,117580.KS,KSE,Japan,KRW,Utilities,Utilities—Regulated Gas,
+737,035150.KS,KSE,Japan,KRW,Consumer Cyclical,Footwear & Accessories,
+738,002030.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+739,126700.KQ,KOSDAQ,Japan,KRW,,,327
+740,006840.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+741,002390.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+742,035810.KQ,KOSDAQ,Japan,KRW,,,
+743,096760.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,127
+744,069920.KQ,KOSDAQ,Japan,KRW,,,56
+745,011280.KS,KSE,Japan,KRW,Consumer Cyclical,Packaging & Containers,
+746,079370.KQ,KOSDAQ,Japan,KRW,,,644
+747,095570.KS,KSE,Japan,KRW,Industrials,Rental & Leasing Services,
+748,214310.KQ,KOSDAQ,Japan,KRW,,,
+749,031440.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+750,160550.KQ,KOSDAQ,Japan,KRW,,,
+751,052710.KQ,KOSDAQ,Japan,KRW,,,
+752,024090.KS,KSE,Japan,KRW,Basic Materials,Steel,
+753,037710.KS,KSE,Japan,KRW,Consumer Cyclical,Department Stores,
+754,064290.KQ,KOSDAQ,Japan,KRW,,,267
+755,006110.KS,KSE,Japan,KRW,Basic Materials,Aluminum,
+756,101390.KQ,KOSDAQ,Japan,KRW,,,51
+757,083450.KQ,KOSDAQ,Japan,KRW,,,611
+758,005810.KS,KSE,Japan,KRW,Basic Materials,Copper,
+759,044340.KQ,KOSDAQ,Japan,KRW,,,398
+760,004560.KS,KSE,Japan,KRW,Basic Materials,Steel,
+761,014620.KQ,KOSDAQ,Japan,KRW,,,328
+762,036800.KQ,KOSDAQ,Japan,KRW,,,182
+763,023160.KQ,KOSDAQ,Japan,KRW,,,334
+764,119860.KQ,KOSDAQ,Japan,KRW,,,321
+765,299900.KQ,KOSDAQ,Japan,KRW,,,
+766,010690.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+767,003925.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+768,131370.KQ,KOSDAQ,Japan,KRW,,,280
+769,082920.KQ,KOSDAQ,Japan,KRW,,,364
+770,003920.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+771,078070.KQ,KOSDAQ,Japan,KRW,,,13
+772,015860.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+773,038290.KQ,KOSDAQ,Japan,KRW,,,483
+774,003200.KS,KSE,Japan,KRW,Consumer Cyclical,Textile Manufacturing,
+775,035080.KQ,KOSDAQ,Japan,KRW,,,"1,182"
+776,123420.KQ,KOSDAQ,Japan,KRW,,,272
+777,014280.KS,KSE,Japan,KRW,Basic Materials,Steel,
+778,004380.KS,KSE,Japan,KRW,Technology,Semiconductor Equipment & Materials,488
+779,143160.KQ,KOSDAQ,Japan,KRW,,,405
+780,008040.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+781,000680.KS,KSE,Japan,KRW,Consumer Cyclical,Specialty Retail,
+782,100790.KQ,KOSDAQ,Japan,KRW,,,
+783,045100.KQ,KOSDAQ,Japan,KRW,,,771
+784,002460.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,295
+785,016610.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+786,004565.KS,KSE,Japan,KRW,Basic Materials,Steel,
+787,029460.KS,KSE,Japan,KRW,Technology,Semiconductor Equipment & Materials,
+788,019210.KQ,KOSDAQ,Japan,KRW,,,
+789,027710.KQ,KOSDAQ,Japan,KRW,,,420
+790,017940.KS,KSE,Japan,KRW,Energy,Oil & Gas Refining & Marketing,
+791,192440.KQ,KOSDAQ,Japan,KRW,,,
+792,007160.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+793,000540.KS,KSE,Japan,KRW,Financial Services,Insurance—Property & Casualty,
+794,016580.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+795,080420.KQ,KOSDAQ,Japan,KRW,,,
+796,016450.KS,KSE,Japan,KRW,Consumer Cyclical,Textile Manufacturing,
+797,122990.KQ,KOSDAQ,Japan,KRW,,,487
+798,052260.KQ,KOSDAQ,Japan,KRW,,,315
+799,046440.KQ,KOSDAQ,Japan,KRW,,,160
+800,001360.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+801,060570.KQ,KOSDAQ,Japan,KRW,,,278
+802,225530.KQ,KOSDAQ,Japan,KRW,,,
+803,047310.KQ,KOSDAQ,Japan,KRW,,,352
+804,048870.KQ,KOSDAQ,Japan,KRW,,,66
+805,013360.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+806,033920.KS,KSE,Japan,KRW,Consumer Defensive,Beverages—Wineries & Distilleries,
+807,000480.KS,KSE,Japan,KRW,Basic Materials,Building Materials,
+808,067280.KQ,KOSDAQ,Japan,KRW,,,762
+809,241820.KQ,KOSDAQ,Japan,KRW,,,
+810,013030.KQ,KOSDAQ,Japan,KRW,,,514
+811,002150.KS,KSE,Japan,KRW,Industrials,Engineering & Construction,
+812,060280.KQ,KOSDAQ,Japan,KRW,,,
+813,079980.KS,KSE,Japan,KRW,Consumer Cyclical,Textile Manufacturing,
+814,123860.KQ,KOSDAQ,Japan,KRW,,,
+815,108490.KQ,KOSDAQ,Japan,KRW,,,
+816,036530.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+817,056080.KQ,KOSDAQ,Japan,KRW,,,153
+818,044450.KS,KSE,Japan,KRW,Industrials,Marine Shipping,
+819,002810.KS,KSE,Japan,KRW,Industrials,Industrial Distribution,
+820,011500.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+821,025000.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+822,036580.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+823,002100.KS,KSE,Japan,KRW,Basic Materials,Agricultural Inputs,
+824,102280.KS,KSE,Japan,KRW,Consumer Cyclical,Apparel Manufacturing,
+825,196490.KQ,KOSDAQ,Japan,KRW,,,
+826,025950.KQ,KOSDAQ,Japan,KRW,,,
+827,004365.KS,KSE,Japan,KRW,Industrials,Integrated Freight & Logistics,
+828,070960.KS,KSE,Japan,KRW,Consumer Cyclical,Resorts & Casinos,
+829,001340.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+830,090355.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+831,220260.KQ,KOSDAQ,Japan,KRW,,,
+832,322000.KS,KSE,Japan,KRW,Technology,Solar,
+833,004360.KS,KSE,Japan,KRW,Industrials,Integrated Freight & Logistics,
+834,098460.KQ,KOSDAQ,Japan,KRW,,,
+835,092230.KS,KSE,Japan,KRW,Industrials,Conglomerates,
+836,089600.KQ,KOSDAQ,Japan,KRW,,,
+837,005725.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+838,037070.KQ,KOSDAQ,Japan,KRW,,,
+839,001940.KS,KSE,Japan,KRW,Basic Materials,Steel,
+840,064090.KQ,KOSDAQ,Japan,KRW,,,30
+841,005720.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+842,229640.KS,KSE,Japan,KRW,Industrials,Electrical Equipment & Parts,
+843,065680.KQ,KOSDAQ,Japan,KRW,,,359
+844,014160.KS,KSE,Japan,KRW,Consumer Cyclical,Packaging & Containers,305
+845,012700.KQ,KOSDAQ,Japan,KRW,,,
+846,011040.KQ,KOSDAQ,Japan,KRW,,,633
+847,090350.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+848,102260.KS,KSE,Japan,KRW,Basic Materials,Chemicals,
+849,017890.KQ,KOSDAQ,Japan,KRW,,,161
+850,019550.KQ,KOSDAQ,Japan,KRW,,,
+851,036890.KQ,KOSDAQ,Japan,KRW,,,203
+852,036030.KQ,KOSDAQ,Japan,KRW,,,
+853,067900.KQ,KOSDAQ,Japan,KRW,,,
+854,051160.KQ,KOSDAQ,Japan,KRW,,,169
+855,073490.KQ,KOSDAQ,Japan,KRW,,,
+856,090360.KQ,KOSDAQ,Japan,KRW,,,229
+857,093320.KQ,KOSDAQ,Japan,KRW,,,135
+858,102120.KQ,KOSDAQ,Japan,KRW,,,209
+859,018000.KQ,KOSDAQ,Japan,KRW,,,204
+860,092070.KQ,KOSDAQ,Japan,KRW,,,259
+861,003960.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+862,149950.KQ,KOSDAQ,Japan,KRW,,,
+863,083420.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+864,101530.KS,KSE,Japan,KRW,Consumer Defensive,Packaged Foods,
+865,039570.KS,KSE,Japan,KRW,Technology,Electronic Components,
+866,234080.KS,KSE,Japan,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,257
+867,000390.KS,KSE,Japan,KRW,Basic Materials,Specialty Chemicals,
+868,092130.KQ,KOSDAQ,Japan,KRW,,,138
+869,299660.KQ,KOSDAQ,Japan,KRW,,,
+870,088390.KQ,KOSDAQ,Japan,KRW,,,10
+871,021080.KQ,KOSDAQ,Japan,KRW,,,17
+872,013570.KS,KSE,Japan,KRW,Consumer Cyclical,Auto Parts,
+873,063570.KQ,KOSDAQ,Japan,KRW,,,402
+874,035510.KS,KSE,Japan,KRW,Technology,Information Technology Services,
+875,038880.KQ,KOSDAQ,Japan,KRW,,,31
+876,179900.KQ,KOSDAQ,Japan,KRW,,,
+877,033170.KQ,KOSDAQ,Japan,KRW,,,133
+878,003160.KS,KSE,Japan,KRW,Technology,Semiconductor Equipment & Materials,
+879,000970.KS,KSE,Japan,KRW,Basic Materials,Steel,
+880,001755.KS,KSE,Japan,KRW,Financial Services,Capital Markets,
+881,065500.KQ,KOSDAQ,Japan,KRW,,,54
+882,007210.KS,KSE,Japan,KRW,Industrials,Building Products & Equipment,
+883,023900.KQ,KOSDAQ,Japan,KRW,,,51
+884,950210.KS,KSE,Singapore,KRW,Healthcare,Biotechnology,66
+885,023600.KQ,KOSDAQ,Singapore,KRW,,,286
+886,248170.KS,KSE,Singapore,KRW,Consumer Defensive,Packaged Foods,
+887,048910.KQ,KOSDAQ,Singapore,KRW,,,144
+888,138080.KQ,KOSDAQ,Singapore,KRW,,,
+889,001570.KS,KSE,Singapore,KRW,Basic Materials,Chemicals,
+890,005680.KS,KSE,Singapore,KRW,Technology,Electronic Components,
+891,018120.KQ,KOSDAQ,Singapore,KRW,,,49
+892,023450.KS,KSE,Singapore,KRW,Basic Materials,Chemicals,
+893,011760.KS,KSE,Singapore,KRW,Industrials,Industrial Distribution,
+894,074430.KQ,KOSDAQ,Singapore,KRW,,,
+895,032820.KQ,KOSDAQ,Singapore,KRW,,,109
+896,246710.KQ,KOSDAQ,Singapore,KRW,,,
+897,083790.KQ,KOSDAQ,Singapore,KRW,,,55
+898,074610.KS,KSE,Singapore,KRW,Industrials,Farm & Heavy Construction Machinery,
+899,054450.KQ,KOSDAQ,Singapore,KRW,,,285
+900,092200.KS,KSE,Singapore,KRW,Consumer Cyclical,Auto Parts,
+901,028100.KS,KSE,Singapore,KRW,Industrials,Engineering & Construction,
+902,214180.KQ,KOSDAQ,Singapore,KRW,,,
+903,053260.KQ,KOSDAQ,Singapore,KRW,,,56
+904,002620.KS,KSE,Singapore,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+905,004710.KS,KSE,Singapore,KRW,Technology,Electronic Components,
+906,290720.KQ,KOSDAQ,Singapore,KRW,,,
+907,115450.KQ,KOSDAQ,Singapore,KRW,,,86
+908,096240.KQ,KOSDAQ,Singapore,KRW,,,267
+909,042370.KQ,KOSDAQ,Singapore,KRW,,,781
+910,001270.KS,KSE,Singapore,KRW,Financial Services,Capital Markets,
+911,046390.KQ,KOSDAQ,Singapore,KRW,,,25
+912,015890.KS,KSE,Singapore,KRW,Basic Materials,Chemicals,
+913,004960.KS,KSE,Singapore,KRW,Industrials,Engineering & Construction,
+914,214390.KS,KSE,Singapore,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+915,001275.KS,KSE,Singapore,KRW,Financial Services,Capital Markets,
+916,103590.KS,KSE,Singapore,KRW,Industrials,Electrical Equipment & Parts,
+917,053300.KQ,KOSDAQ,Singapore,KRW,,,
+918,000430.KS,KSE,Singapore,KRW,Consumer Cyclical,Auto Parts,
+919,137950.KQ,KOSDAQ,Singapore,KRW,,,86
+920,092730.KQ,KOSDAQ,Singapore,KRW,,,106
+921,039560.KQ,KOSDAQ,Singapore,KRW,,,39
+922,267850.KS,KSE,Singapore,KRW,Technology,Information Technology Services,
+923,054050.KQ,KOSDAQ,Singapore,KRW,,,387
+924,060240.KQ,KOSDAQ,Singapore,KRW,,,38
+925,166480.KQ,KOSDAQ,Singapore,KRW,,,
+926,211270.KQ,KOSDAQ,Singapore,KRW,,,
+927,159580.KQ,KOSDAQ,Singapore,KRW,,,
+928,004970.KS,KSE,Singapore,KRW,Consumer Defensive,Packaged Foods,
+929,091580.KQ,KOSDAQ,Singapore,KRW,,,220
+930,006220.KS,KSE,Singapore,KRW,Financial Services,Banks—Regional,
+931,086890.KQ,KOSDAQ,Singapore,KRW,,,
+932,100250.KS,KSE,Singapore,KRW,Basic Materials,Specialty Chemicals,
+933,200670.KQ,KOSDAQ,Singapore,KRW,,,
+934,268600.KQ,KOSDAQ,Singapore,KRW,,,
+935,036710.KQ,KOSDAQ,Singapore,KRW,,,26
+936,105840.KS,KSE,Singapore,KRW,Technology,Scientific & Technical Instruments,
+937,160980.KQ,KOSDAQ,Singapore,KRW,,,
+938,293780.KQ,KOSDAQ,Singapore,KRW,,,
+939,014790.KS,KSE,Singapore,KRW,Industrials,Engineering & Construction,
+940,058630.KQ,KOSDAQ,Singapore,KRW,,,110
+941,021320.KQ,KOSDAQ,Singapore,KRW,,,
+942,228850.KQ,KOSDAQ,Singapore,KRW,,,
+943,033530.KS,KSE,Singapore,KRW,Consumer Cyclical,Auto Parts,733
+944,207760.KQ,KOSDAQ,Singapore,KRW,,,
+945,009680.KS,KSE,Singapore,KRW,Consumer Cyclical,Auto Parts,
+946,077360.KQ,KOSDAQ,Singapore,KRW,,,194
+947,063160.KS,KSE,Singapore,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+948,065660.KQ,KOSDAQ,Singapore,KRW,,,
+949,104200.KQ,KOSDAQ,Singapore,KRW,,,118
+950,094280.KS,KSE,Singapore,KRW,Technology,Information Technology Services,
+951,002210.KS,KSE,Singapore,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,298
+952,082850.KQ,KOSDAQ,Singapore,KRW,,,108
+953,094850.KQ,KOSDAQ,Singapore,KRW,,,
+954,083310.KQ,KOSDAQ,Singapore,KRW,,,403
+955,125210.KQ,KOSDAQ,Singapore,KRW,,,
+956,033560.KQ,KOSDAQ,Singapore,KRW,,,95
+957,006380.KS,KSE,Singapore,KRW,Basic Materials,Chemicals,
+958,025320.KQ,KOSDAQ,Singapore,KRW,,,155
+959,009070.KS,KSE,Singapore,KRW,Industrials,Integrated Freight & Logistics,
+960,043370.KQ,KOSDAQ,Singapore,KRW,,,662
+961,012030.KS,KSE,Singapore,KRW,Technology,Information Technology Services,
+962,038390.KQ,KOSDAQ,Singapore,KRW,,,290
+963,086960.KQ,KOSDAQ,Singapore,KRW,,,117
+964,068930.KQ,KOSDAQ,Singapore,KRW,,,319
+965,018290.KQ,KOSDAQ,Singapore,KRW,,,283
+966,078150.KQ,KOSDAQ,Singapore,KRW,,,351
+967,036190.KQ,KOSDAQ,Singapore,KRW,,,716
+968,047820.KQ,KOSDAQ,Singapore,KRW,,,24
+969,006740.KS,KSE,Singapore,KRW,Basic Materials,Paper & Paper Products,
+970,334890.KS,KSE,Singapore,KRW,Real Estate,REIT—Office,
+971,037460.KQ,KOSDAQ,Singapore,KRW,,,382
+972,219550.KQ,KOSDAQ,Singapore,KRW,,,
+973,043650.KQ,KOSDAQ,Singapore,KRW,,,225
+974,111710.KQ,KOSDAQ,Singapore,KRW,,,
+975,005010.KS,KSE,Singapore,KRW,Basic Materials,Steel,
+976,122450.KQ,KOSDAQ,Singapore,KRW,,,85
+977,051380.KQ,KOSDAQ,Singapore,KRW,,,
+978,136540.KQ,KOSDAQ,Singapore,KRW,,,452
+979,078520.KS,KSE,Singapore,KRW,Consumer Defensive,Household & Personal Products,261
+980,089890.KQ,KOSDAQ,Singapore,KRW,,,
+981,004090.KS,KSE,Singapore,KRW,Basic Materials,Building Materials,
+982,003570.KS,KSE,Singapore,KRW,Industrials,Aerospace & Defense,
+983,372910.KS,KSE,Singapore,KRW,Technology,Software—Application,
+984,086450.KQ,KOSDAQ,Singapore,KRW,,,"1,056"
+985,201490.KQ,KOSDAQ,Singapore,KRW,,,
+986,067290.KQ,KOSDAQ,Singapore,KRW,,,
+987,005160.KQ,KOSDAQ,Singapore,KRW,,,361
+988,042000.KQ,KOSDAQ,Singapore,KRW,,,
+989,079940.KQ,KOSDAQ,Singapore,KRW,,,298
+990,108860.KQ,KOSDAQ,Singapore,KRW,,,130
+991,140070.KQ,KOSDAQ,Singapore,KRW,,,
+992,007860.KS,KSE,Singapore,KRW,Consumer Cyclical,Auto Parts,
+993,012340.KQ,KOSDAQ,Singapore,KRW,,,181
+994,285490.KQ,KOSDAQ,Singapore,KRW,,,
+995,236200.KQ,KOSDAQ,Singapore,KRW,,,
+996,040910.KQ,KOSDAQ,Singapore,KRW,,,
+997,009810.KS,KSE,Singapore,KRW,Industrials,Industrial Distribution,
+998,093230.KS,KSE,Singapore,KRW,Technology,Consumer Electronics,21
+999,010820.KS,KSE,Singapore,KRW,Industrials,Aerospace & Defense,
+1000,040910.KQ,KOSDAQ,Singapore,KRW,,,
+1001,009810.KS,KSE,Singapore,KRW,Industrials,Industrial Distribution,
+1002,093230.KS,KSE,Singapore,KRW,Technology,Consumer Electronics,21
+1003,010820.KS,KSE,Singapore,KRW,Industrials,Aerospace & Defense,
+1004,255440.KQ,KOSDAQ,Singapore,KRW,,,
+1005,049950.KQ,KOSDAQ,Singapore,KRW,,,313
+1006,128820.KS,KSE,Singapore,KRW,Energy,Oil & Gas Refining & Marketing,
+1007,140410.KQ,KOSDAQ,Singapore,KRW,,,62
+1008,078890.KQ,KOSDAQ,Singapore,KRW,,,253
+1009,010170.KQ,KOSDAQ,Singapore,KRW,,,
+1010,200880.KS,KSE,Singapore,KRW,Consumer Cyclical,Auto Parts,
+1011,001070.KS,KSE,Singapore,KRW,Consumer Cyclical,Textile Manufacturing,
+1012,006890.KS,KSE,Singapore,KRW,Utilities,Utilities—Regulated Gas,
+1013,270870.KQ,KOSDAQ,Singapore,KRW,,,
+1014,058400.KQ,KOSDAQ,Singapore,KRW,,,117
+1015,053580.KQ,KOSDAQ,Singapore,KRW,,,
+1016,004540.KS,KSE,Singapore,KRW,Basic Materials,Paper & Paper Products,
+1017,009470.KS,KSE,Singapore,KRW,Technology,Electronic Components,
+1018,289080.KQ,KOSDAQ,Singapore,KRW,,,
+1019,214870.KQ,KOSDAQ,Singapore,KRW,,,
+1020,004700.KS,KSE,Singapore,KRW,Consumer Cyclical,Auto Parts,
+1021,008700.KS,KSE,Singapore,KRW,Technology,Consumer Electronics,
+1022,001750.KS,KSE,Singapore,KRW,Financial Services,Capital Markets,
+1023,215100.KQ,KOSDAQ,Singapore,KRW,,,
+1024,007280.KS,KSE,Singapore,KRW,Basic Materials,Steel,
+1025,282690.KS,KSE,Singapore,KRW,Consumer Cyclical,Auto Parts,
+1026,060590.KQ,KOSDAQ,Singapore,KRW,,,206
+1027,073560.KQ,KOSDAQ,Singapore,KRW,,,
+1028,039860.KQ,KOSDAQ,Singapore,KRW,,,127
+1029,123040.KQ,KOSDAQ,Singapore,KRW,,,197
+1030,004140.KS,KSE,Singapore,KRW,Industrials,Integrated Freight & Logistics,
+1031,183490.KQ,KOSDAQ,Singapore,KRW,,,
+1032,171090.KQ,KOSDAQ,Singapore,KRW,,,
+1033,054670.KQ,KOSDAQ,Singapore,KRW,,,
+1034,023910.KQ,KOSDAQ,Singapore,KRW,,,
+1035,054620.KQ,KOSDAQ,Singapore,KRW,,,51
+1036,000180.KS,KSE,Singapore,KRW,Basic Materials,Lumber & Wood Production,
+1037,200230.KQ,KOSDAQ,Singapore,KRW,,,
+1038,067390.KQ,KOSDAQ,Singapore,KRW,,,
+1039,084730.KQ,KOSDAQ,Singapore,KRW,,,377
+1040,032560.KS,KSE,Singapore,KRW,Basic Materials,Steel,
+1041,041930.KQ,KOSDAQ,Singapore,KRW,,,322
+1042,071200.KQ,KOSDAQ,Singapore,KRW,,,294
+1043,950140.KQ,KOSDAQ,Singapore,KRW,,,
+1044,003560.KS,KSE,Singapore,KRW,Communication Services,Entertainment,
+1045,011370.KQ,KOSDAQ,Singapore,KRW,,,
+1046,014940.KQ,KOSDAQ,Singapore,KRW,,,257
+1047,241710.KQ,KOSDAQ,Singapore,KRW,,,
+1048,052300.KQ,KOSDAQ,Singapore,KRW,,,20
+1049,100700.KQ,KOSDAQ,Singapore,KRW,,,
+1050,045970.KQ,KOSDAQ,Singapore,KRW,,,226
+1051,002170.KS,KSE,Singapore,KRW,Consumer Cyclical,Footwear & Accessories,
+1052,046120.KQ,KOSDAQ,Singapore,KRW,,,456
+1053,036010.KQ,KOSDAQ,Singapore,KRW,,,344
+1054,110990.KQ,KOSDAQ,Singapore,KRW,,,
+1055,052330.KQ,KOSDAQ,Singapore,KRW,,,352
+1056,215360.KQ,KOSDAQ,Singapore,KRW,,,
+1057,080220.KQ,KOSDAQ,Singapore,KRW,,,96
+1058,000860.KS,KSE,Singapore,KRW,Basic Materials,Specialty Chemicals,
+1059,017550.KS,KSE,Singapore,KRW,Industrials,Farm & Heavy Construction Machinery,135
+1060,187870.KQ,KOSDAQ,Singapore,KRW,,,
+1061,023800.KS,KSE,Singapore,KRW,Consumer Cyclical,Auto Parts,
+1062,046140.KQ,KOSDAQ,Singapore,KRW,,,
+1063,094360.KQ,KOSDAQ,Singapore,KRW,,,
+1064,095500.KQ,KOSDAQ,Singapore,KRW,,,373
+1065,002700.KS,KSE,Singapore,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+1066,090710.KQ,KOSDAQ,Singapore,KRW,,,64
+1067,205100.KQ,KOSDAQ,Singapore,KRW,,,
+1068,200710.KQ,KOSDAQ,Singapore,KRW,,,
+1069,012800.KS,KSE,Singapore,KRW,Industrials,Metal Fabrication,
+1070,244920.KS,KSE,Singapore,KRW,Financial Services,Insurance—Diversified,
+1071,011150.KS,KSE,Singapore,KRW,Consumer Defensive,Packaged Foods,298
+1072,008970.KS,KSE,Singapore,KRW,Basic Materials,Steel,
+1073,078350.KQ,KOSDAQ,Singapore,KRW,,,44
+1074,065450.KQ,KOSDAQ,Singapore,KRW,,,
+1075,192250.KQ,KOSDAQ,Singapore,KRW,,,
+1076,210540.KS,KSE,Singapore,KRW,Industrials,Farm & Heavy Construction Machinery,
+1077,003460.KS,KSE,Singapore,KRW,Financial Services,Capital Markets,
+1078,072520.KQ,KOSDAQ,Singapore,KRW,,,79
+1079,080580.KQ,KOSDAQ,Singapore,KRW,,,
+1080,009275.KS,KSE,Singapore,KRW,Consumer Cyclical,Apparel Manufacturing,
+1081,140670.KQ,KOSDAQ,Singapore,KRW,,,
+1082,308170.KS,KSE,Singapore,KRW,Consumer Cyclical,Auto Parts,
+1083,003465.KS,KSE,Singapore,KRW,Financial Services,Capital Markets,
+1084,011155.KS,KSE,Singapore,KRW,Consumer Defensive,Packaged Foods,298
+1085,066700.KQ,KOSDAQ,Singapore,KRW,,,164
+1086,251630.KQ,KOSDAQ,Singapore,KRW,,,
+1087,123690.KS,KSE,Singapore,KRW,Consumer Defensive,Household & Personal Products,
+1088,251370.KQ,KOSDAQ,Singapore,KRW,,,
+1089,066310.KQ,KOSDAQ,Singapore,KRW,,,121
+1090,126600.KQ,KOSDAQ,Singapore,KRW,,,100
+1091,290670.KQ,KOSDAQ,Singapore,KRW,,,
+1092,053050.KQ,KOSDAQ,Guam,KRW,,,
+1093,069460.KS,KSE,Guam,KRW,Basic Materials,Aluminum,
+1094,008260.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1095,083930.KQ,KOSDAQ,Guam,KRW,,,351
+1096,025820.KS,KSE,Guam,KRW,Industrials,Metal Fabrication,
+1097,025550.KQ,KOSDAQ,Guam,KRW,,,192
+1098,052020.KQ,KOSDAQ,Guam,KRW,,,12
+1099,071460.KQ,KOSDAQ,Guam,KRW,,,
+1100,051360.KQ,KOSDAQ,Guam,KRW,,,207
+1101,039290.KQ,KOSDAQ,Guam,KRW,,,162
+1102,036560.KQ,KOSDAQ,Guam,KRW,,,
+1103,161580.KQ,KOSDAQ,Guam,KRW,,,
+1104,015360.KS,KSE,Guam,KRW,Utilities,Utilities—Regulated Gas,
+1105,009270.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1106,198440.KQ,KOSDAQ,Guam,KRW,,,
+1107,26490K.KS,KSE,Guam,KRW,Consumer Defensive,Confectioners,
+1108,089530.KQ,KOSDAQ,Guam,KRW,,,528
+1109,082210.KQ,KOSDAQ,Guam,KRW,,,471
+1110,000300.KS,KSE,Guam,KRW,Technology,Communication Equipment,
+1111,041460.KQ,KOSDAQ,Guam,KRW,,,78
+1112,005430.KS,KSE,Guam,KRW,Industrials,Airports & Air Services,
+1113,004080.KS,KSE,Guam,KRW,Healthcare,Medical Devices,
+1114,101930.KQ,KOSDAQ,Guam,KRW,,,69
+1115,040300.KQ,KOSDAQ,Guam,KRW,,,620
+1116,020710.KQ,KOSDAQ,Guam,KRW,,,140
+1117,264900.KS,KSE,Guam,KRW,Consumer Defensive,Confectioners,
+1118,001840.KQ,KOSDAQ,Guam,KRW,,,
+1119,400760.KS,KSE,Guam,KRW,,,
+1120,083650.KQ,KOSDAQ,Guam,KRW,,,304
+1121,203650.KQ,KOSDAQ,Guam,KRW,,,
+1122,093520.KQ,KOSDAQ,Guam,KRW,,,40
+1123,060310.KQ,KOSDAQ,Guam,KRW,,,
+1124,149980.KQ,KOSDAQ,Guam,KRW,,,
+1125,091090.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,
+1126,032850.KQ,KOSDAQ,Guam,KRW,,,141
+1127,009190.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1128,138610.KQ,KOSDAQ,Guam,KRW,,,
+1129,130580.KQ,KOSDAQ,Guam,KRW,,,
+1130,003610.KS,KSE,Guam,KRW,Consumer Cyclical,Textile Manufacturing,
+1131,004060.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1132,004150.KS,KSE,Guam,KRW,Basic Materials,Paper & Paper Products,
+1133,153710.KQ,KOSDAQ,Guam,KRW,,,
+1134,007330.KQ,KOSDAQ,Guam,KRW,,,
+1135,067080.KQ,KOSDAQ,Guam,KRW,,,
+1136,071970.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,263
+1137,404990.KS,KSE,Guam,KRW,,,
+1138,068790.KQ,KOSDAQ,Guam,KRW,,,180
+1139,005990.KQ,KOSDAQ,Guam,KRW,,,33
+1140,039340.KQ,KOSDAQ,Guam,KRW,,,190
+1141,066620.KQ,KOSDAQ,Guam,KRW,,,292
+1142,214420.KS,KSE,Guam,KRW,Consumer Defensive,Household & Personal Products,
+1143,067170.KQ,KOSDAQ,Guam,KRW,,,98
+1144,013990.KQ,KOSDAQ,Guam,KRW,,,139
+1145,012690.KS,KSE,Guam,KRW,Consumer Defensive,Household & Personal Products,186
+1146,072870.KQ,KOSDAQ,Guam,KRW,,,170
+1147,066670.KQ,KOSDAQ,Guam,KRW,,,29
+1148,053280.KQ,KOSDAQ,Guam,KRW,,,417
+1149,081150.KQ,KOSDAQ,Guam,KRW,,,
+1150,241790.KQ,KOSDAQ,Guam,KRW,,,
+1151,065530.KQ,KOSDAQ,Guam,KRW,,,
+1152,217500.KQ,KOSDAQ,Guam,KRW,,,
+1153,016250.KQ,KOSDAQ,Guam,KRW,,,
+1154,006340.KS,KSE,Guam,KRW,Industrials,Electrical Equipment & Parts,
+1155,014530.KS,KSE,Guam,KRW,Basic Materials,Specialty Chemicals,113
+1156,155650.KQ,KOSDAQ,Guam,KRW,,,
+1157,142760.KQ,KOSDAQ,Guam,KRW,,,
+1158,072020.KQ,KOSDAQ,Guam,KRW,,,162
+1159,108380.KQ,KOSDAQ,Guam,KRW,,,360
+1160,004545.KS,KSE,Guam,KRW,Basic Materials,Paper & Paper Products,
+1161,120240.KQ,KOSDAQ,Guam,KRW,,,
+1162,109740.KQ,KOSDAQ,Guam,KRW,,,126
+1163,000700.KS,KSE,Guam,KRW,Industrials,Marine Shipping,
+1164,134380.KS,KSE,Guam,KRW,Basic Materials,Chemicals,
+1165,004310.KS,KSE,Guam,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+1166,000440.KQ,KOSDAQ,Guam,KRW,,,53
+1167,267290.KS,KSE,Guam,KRW,Utilities,Utilities—Regulated Gas,
+1168,007110.KS,KSE,Guam,KRW,Industrials,Building Products & Equipment,81
+1169,003830.KS,KSE,Guam,KRW,Consumer Cyclical,Textile Manufacturing,
+1170,014580.KS,KSE,Guam,KRW,Basic Materials,Building Materials,
+1171,019990.KQ,KOSDAQ,Guam,KRW,,,91
+1172,002410.KS,KSE,Guam,KRW,Industrials,Engineering & Construction,
+1173,027050.KQ,KOSDAQ,Guam,KRW,,,164
+1174,253590.KQ,KOSDAQ,Guam,KRW,,,
+1175,191420.KQ,KOSDAQ,Guam,KRW,,,
+1176,122640.KQ,KOSDAQ,Guam,KRW,,,
+1177,023760.KQ,KOSDAQ,Guam,KRW,,,
+1178,025750.KS,KSE,Guam,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+1179,173940.KQ,KOSDAQ,Guam,KRW,,,
+1180,005740.KS,KSE,Guam,KRW,Consumer Defensive,Confectioners,
+1181,245620.KQ,KOSDAQ,Guam,KRW,,,
+1182,002880.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1183,214430.KQ,KOSDAQ,Guam,KRW,,,
+1184,019440.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1185,101730.KQ,KOSDAQ,Guam,KRW,,,24
+1186,123570.KQ,KOSDAQ,Guam,KRW,,,321
+1187,010040.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,
+1188,087010.KQ,KOSDAQ,Guam,KRW,,,
+1189,004440.KS,KSE,Guam,KRW,Basic Materials,Building Materials,
+1190,226950.KQ,KOSDAQ,Guam,KRW,,,
+1191,004410.KS,KSE,Guam,KRW,Consumer Defensive,Packaged Foods,
+1192,307930.KQ,KOSDAQ,Guam,KRW,,,
+1193,052790.KQ,KOSDAQ,Guam,KRW,,,150
+1194,004830.KS,KSE,Guam,KRW,Consumer Cyclical,Textile Manufacturing,
+1195,002450.KS,KSE,Guam,KRW,Technology,Electronic Components,
+1196,054920.KQ,KOSDAQ,Guam,KRW,,,87
+1197,017900.KS,KSE,Guam,KRW,Technology,Semiconductors,
+1198,014285.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1199,014470.KQ,KOSDAQ,Guam,KRW,,,20
+1200,128660.KQ,KOSDAQ,Guam,KRW,,,
+1201,071090.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1202,034300.KS,KSE,Guam,KRW,Industrials,Engineering & Construction,
+1203,005745.KS,KSE,Guam,KRW,Consumer Defensive,Confectioners,
+1204,950110.KQ,KOSDAQ,Guam,KRW,,,
+1205,225190.KQ,KOSDAQ,Guam,KRW,,,
+1206,004835.KS,KSE,Guam,KRW,Consumer Cyclical,Textile Manufacturing,
+1207,126880.KQ,KOSDAQ,Guam,KRW,,,70
+1208,004415.KS,KSE,Guam,KRW,Consumer Defensive,Packaged Foods,
+1209,007820.KQ,KOSDAQ,Guam,KRW,,,223
+1210,016880.KS,KSE,Guam,KRW,Industrials,Conglomerates,
+1211,033830.KQ,KOSDAQ,Guam,KRW,,,116
+1212,030960.KQ,KOSDAQ,Guam,KRW,,,
+1213,011320.KQ,KOSDAQ,Guam,KRW,,,521
+1214,000325.KS,KSE,Guam,KRW,Basic Materials,Specialty Chemicals,
+1215,079960.KQ,KOSDAQ,Guam,KRW,,,409
+1216,193250.KQ,KOSDAQ,Guam,KRW,,,
+1217,101140.KS,KSE,Guam,KRW,Consumer Cyclical,Footwear & Accessories,
+1218,067830.KS,KSE,Guam,KRW,Consumer Cyclical,Department Stores,
+1219,000320.KS,KSE,Guam,KRW,Basic Materials,Specialty Chemicals,
+1220,008250.KS,KSE,Guam,KRW,Basic Materials,Lumber & Wood Production,
+1221,044820.KS,KSE,Guam,KRW,Consumer Defensive,Household & Personal Products,
+1222,089470.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1223,208640.KQ,KOSDAQ,Guam,KRW,,,
+1224,253840.KQ,KOSDAQ,Guam,KRW,,,
+1225,010600.KS,KSE,Guam,KRW,Consumer Cyclical,Textile Manufacturing,
+1226,034810.KQ,KOSDAQ,Guam,KRW,,,62
+1227,023000.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1228,009200.KS,KSE,Guam,KRW,Basic Materials,Paper & Paper Products,
+1229,071670.KQ,KOSDAQ,Guam,KRW,,,349
+1230,114810.KQ,KOSDAQ,Guam,KRW,,,
+1231,000890.KS,KSE,Guam,KRW,Consumer Defensive,Beverages—Wineries & Distilleries,
+1232,047920.KQ,KOSDAQ,Guam,KRW,,,
+1233,002140.KS,KSE,Guam,KRW,Consumer Defensive,Packaged Foods,
+1234,092440.KS,KSE,Guam,KRW,Industrials,Metal Fabrication,439
+1235,036120.KQ,KOSDAQ,Guam,KRW,,,
+1236,064820.KQ,KOSDAQ,Guam,KRW,,,196
+1237,187420.KQ,KOSDAQ,Guam,KRW,,,
+1238,043100.KQ,KOSDAQ,Guam,KRW,,,105
+1239,141000.KQ,KOSDAQ,Guam,KRW,,,
+1240,001540.KQ,KOSDAQ,Guam,KRW,,,353
+1241,095190.KQ,KOSDAQ,Guam,KRW,,,269
+1242,014200.KQ,KOSDAQ,Guam,KRW,,,171
+1243,001260.KS,KSE,Guam,KRW,Industrials,Engineering & Construction,
+1244,241770.KQ,KOSDAQ,Guam,KRW,,,
+1245,005750.KS,KSE,Guam,KRW,Industrials,Building Products & Equipment,
+1246,001550.KS,KSE,Guam,KRW,Basic Materials,Agricultural Inputs,122
+1247,024950.KQ,KOSDAQ,Guam,KRW,,,126
+1248,003120.KS,KSE,Guam,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+1249,222040.KQ,KOSDAQ,Guam,KRW,,,
+1250,073640.KQ,KOSDAQ,Guam,KRW,,,58
+1251,017180.KS,KSE,Guam,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+1252,046210.KQ,KOSDAQ,Guam,KRW,,,63
+1253,011090.KS,KSE,Guam,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+1254,009460.KS,KSE,Guam,KRW,Basic Materials,Paper & Paper Products,249
+1255,011810.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,75
+1256,067570.KQ,KOSDAQ,Guam,KRW,,,
+1257,053690.KS,KSE,Guam,KRW,Industrials,Engineering & Construction,
+1258,049960.KQ,KOSDAQ,Guam,KRW,,,115
+1259,122350.KQ,KOSDAQ,Guam,KRW,,,546
+1260,007720.KQ,KOSDAQ,Guam,KRW,,,175
+1261,053450.KQ,KOSDAQ,Guam,KRW,,,812
+1262,001290.KS,KSE,Guam,KRW,Financial Services,Capital Markets,92
+1263,002760.KS,KSE,Guam,KRW,Basic Materials,Specialty Chemicals,
+1264,040350.KQ,KOSDAQ,Guam,KRW,,,
+1265,033310.KQ,KOSDAQ,Guam,KRW,,,58
+1266,065510.KQ,KOSDAQ,Guam,KRW,,,173
+1267,036640.KQ,KOSDAQ,Guam,KRW,,,145
+1268,039240.KQ,KOSDAQ,Guam,KRW,,,
+1269,009780.KQ,KOSDAQ,Guam,KRW,,,404
+1270,000220.KS,KSE,Guam,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+1271,004650.KQ,KOSDAQ,Guam,KRW,,,
+1272,085670.KQ,KOSDAQ,Guam,KRW,,,241
+1273,104540.KQ,KOSDAQ,Guam,KRW,,,
+1274,035610.KQ,KOSDAQ,Guam,KRW,,,14
+1275,047400.KS,KSE,Guam,KRW,Industrials,Tools & Accessories,
+1276,288620.KQ,KOSDAQ,Guam,KRW,,,
+1277,093190.KQ,KOSDAQ,Guam,KRW,,,108
+1278,053980.KQ,KOSDAQ,Guam,KRW,,,121
+1279,037950.KQ,KOSDAQ,Guam,KRW,,,36
+1280,061040.KQ,KOSDAQ,Guam,KRW,,,264
+1281,171120.KQ,KOSDAQ,Guam,KRW,,,
+1282,033320.KQ,KOSDAQ,Guam,KRW,,,91
+1283,047560.KQ,KOSDAQ,Guam,KRW,,,153
+1284,049720.KQ,KOSDAQ,Guam,KRW,,,
+1285,350520.KS,KSE,Guam,KRW,Real Estate,REIT—Residential,
+1286,417310.KS,KSE,Guam,KRW,,,
+1287,016090.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,468
+1288,086820.KQ,KOSDAQ,Guam,KRW,,,
+1289,097870.KQ,KOSDAQ,Guam,KRW,,,
+1290,005710.KQ,KOSDAQ,Guam,KRW,,,529
+1291,004720.KS,KSE,Guam,KRW,Healthcare,Drug Manufacturers—General,
+1292,027740.KS,KSE,Guam,KRW,Consumer Defensive,Packaged Foods,
+1293,204620.KQ,KOSDAQ,Guam,KRW,,,
+1294,003780.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1295,168330.KQ,KOSDAQ,Guam,KRW,,,
+1296,005320.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1297,003310.KQ,KOSDAQ,Guam,KRW,,,146
+1298,016740.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1299,057680.KQ,KOSDAQ,Guam,KRW,,,
+1300,003650.KS,KSE,Guam,KRW,Energy,Oil & Gas Refining & Marketing,
+1301,007540.KS,KSE,Guam,KRW,Consumer Defensive,Packaged Foods,
+1302,015230.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1303,060560.KQ,KOSDAQ,Guam,KRW,,,43
+1304,063440.KQ,KOSDAQ,Guam,KRW,,,
+1305,089150.KQ,KOSDAQ,Guam,KRW,,,
+1306,024890.KS,KSE,Guam,KRW,Basic Materials,Specialty Chemicals,
+1307,088290.KQ,KOSDAQ,Guam,KRW,,,56
+1308,203690.KQ,KOSDAQ,Guam,KRW,,,
+1309,051490.KQ,KOSDAQ,Guam,KRW,,,225
+1310,120030.KS,KSE,Guam,KRW,Industrials,Tools & Accessories,
+1311,100840.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,
+1312,093920.KQ,KOSDAQ,Guam,KRW,,,261
+1313,219130.KQ,KOSDAQ,Guam,KRW,,,
+1314,227840.KS,KSE,Guam,KRW,Consumer Defensive,Food Distribution,78
+1315,060370.KQ,KOSDAQ,Guam,KRW,,,69
+1316,134580.KQ,KOSDAQ,Guam,KRW,,,
+1317,017040.KS,KSE,Guam,KRW,Industrials,Electrical Equipment & Parts,
+1318,066130.KQ,KOSDAQ,Guam,KRW,,,184
+1319,264450.KQ,KOSDAQ,Guam,KRW,,,
+1320,080000.KQ,KOSDAQ,Guam,KRW,,,145
+1321,006140.KQ,KOSDAQ,Guam,KRW,,,
+1322,007980.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1323,101400.KQ,KOSDAQ,Guam,KRW,,,8
+1324,049180.KQ,KOSDAQ,Guam,KRW,,,78
+1325,026150.KQ,KOSDAQ,Guam,KRW,,,256
+1326,109960.KQ,KOSDAQ,Guam,KRW,,,15
+1327,009180.KS,KSE,Guam,KRW,Industrials,Integrated Freight & Logistics,
+1328,005870.KS,KSE,Guam,KRW,Technology,Communication Equipment,194
+1329,031820.KS,KSE,Guam,KRW,Technology,Communication Equipment,448
+1330,215380.KQ,KOSDAQ,Guam,KRW,,,
+1331,109860.KQ,KOSDAQ,Guam,KRW,,,57
+1332,002600.KS,KSE,Guam,KRW,Consumer Defensive,Packaged Foods,
+1333,002220.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1334,014710.KS,KSE,Guam,KRW,Consumer Defensive,Packaged Foods,
+1335,024880.KQ,KOSDAQ,Guam,KRW,,,471
+1336,260930.KQ,KOSDAQ,Guam,KRW,,,
+1337,170030.KQ,KOSDAQ,Guam,KRW,,,
+1338,131030.KQ,KOSDAQ,Guam,KRW,,,
+1339,024060.KQ,KOSDAQ,Guam,KRW,,,
+1340,002720.KS,KSE,Guam,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+1341,092870.KQ,KOSDAQ,Guam,KRW,,,
+1342,263800.KQ,KOSDAQ,Guam,KRW,,,
+1343,027830.KQ,KOSDAQ,Guam,KRW,,,
+1344,156100.KQ,KOSDAQ,Guam,KRW,,,
+1345,010960.KS,KSE,Guam,KRW,Industrials,Engineering & Construction,
+1346,003350.KS,KSE,Guam,KRW,Consumer Defensive,Household & Personal Products,96
+1347,000910.KS,KSE,Guam,KRW,Basic Materials,Building Materials,
+1348,042510.KQ,KOSDAQ,Guam,KRW,,,179
+1349,049550.KQ,KOSDAQ,Guam,KRW,,,170
+1350,049080.KQ,KOSDAQ,Guam,KRW,,,
+1351,038070.KQ,KOSDAQ,Guam,KRW,,,91
+1352,086040.KQ,KOSDAQ,Guam,KRW,,,
+1353,290550.KQ,KOSDAQ,Guam,KRW,,,
+1354,047080.KQ,KOSDAQ,Guam,KRW,,,104
+1355,002360.KS,KSE,Guam,KRW,Basic Materials,Chemicals,
+1356,100590.KQ,KOSDAQ,Guam,KRW,,,
+1357,048430.KQ,KOSDAQ,Guam,KRW,,,268
+1358,004770.KS,KSE,Guam,KRW,Technology,Electronic Components,
+1359,009300.KQ,KOSDAQ,Guam,KRW,,,287
+1360,011390.KS,KSE,Guam,KRW,Basic Materials,Building Materials,
+1361,040420.KQ,KOSDAQ,Guam,KRW,,,
+1362,089850.KQ,KOSDAQ,Guam,KRW,,,282
+1363,004590.KQ,KOSDAQ,Guam,KRW,,,42
+1364,054800.KQ,KOSDAQ,Guam,KRW,,,12
+1365,041910.KQ,KOSDAQ,Guam,KRW,,,
+1366,052220.KQ,KOSDAQ,Guam,KRW,,,82
+1367,007680.KQ,KOSDAQ,Guam,KRW,,,
+1368,038680.KQ,KOSDAQ,Guam,KRW,,,320
+1369,068940.KQ,KOSDAQ,Guam,KRW,,,90
+1370,054950.KQ,KOSDAQ,Guam,KRW,,,269
+1371,034590.KS,KSE,Guam,KRW,Utilities,Utilities—Regulated Gas,
+1372,003720.KS,KSE,Guam,KRW,Consumer Cyclical,Packaging & Containers,
+1373,075180.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1374,013870.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1375,065950.KQ,KOSDAQ,Guam,KRW,,,169
+1376,032540.KQ,KOSDAQ,Guam,KRW,,,142
+1377,078140.KQ,KOSDAQ,Guam,KRW,,,
+1378,006660.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1379,205500.KQ,KOSDAQ,Guam,KRW,,,
+1380,109820.KQ,KOSDAQ,Guam,KRW,,,
+1381,263690.KQ,KOSDAQ,Guam,KRW,,,
+1382,380440.KS,KSE,Guam,KRW,Financial Services,Shell Companies,
+1383,090850.KQ,KOSDAQ,Guam,KRW,,,
+1384,003480.KS,KSE,Guam,KRW,Industrials,Engineering & Construction,
+1385,033130.KQ,KOSDAQ,Guam,KRW,,,143
+1386,195990.KQ,KOSDAQ,Guam,KRW,,,
+1387,017480.KQ,KOSDAQ,Guam,KRW,,,
+1388,050110.KQ,KOSDAQ,Guam,KRW,,,149
+1389,006090.KS,KSE,Guam,KRW,Consumer Defensive,Packaged Foods,
+1390,039830.KQ,KOSDAQ,Guam,KRW,,,145
+1391,006880.KS,KSE,Guam,KRW,Industrials,Conglomerates,
+1392,065130.KQ,KOSDAQ,Guam,KRW,,,383
+1393,091590.KQ,KOSDAQ,Guam,KRW,,,85
+1394,015590.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,
+1395,150900.KQ,KOSDAQ,Guam,KRW,,,
+1396,022220.KQ,KOSDAQ,Guam,KRW,,,135
+1397,035000.KS,KSE,Guam,KRW,Communication Services,Advertising Agencies,
+1398,115160.KQ,KOSDAQ,Guam,KRW,,,56
+1399,139670.KQ,KOSDAQ,Guam,KRW,,,101
+1400,004840.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1401,024900.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1402,026940.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1403,000520.KS,KSE,Guam,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+1404,023810.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1405,138580.KQ,KOSDAQ,Guam,KRW,,,
+1406,049480.KQ,KOSDAQ,Guam,KRW,,,174
+1407,118000.KS,KSE,Guam,KRW,Healthcare,Drug Manufacturers—General,
+1408,037230.KQ,KOSDAQ,Guam,KRW,,,
+1409,013700.KS,KSE,Guam,KRW,Industrials,Engineering & Construction,116
+1410,009320.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1411,200470.KQ,KOSDAQ,Guam,KRW,,,
+1412,163560.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1413,128540.KQ,KOSDAQ,Guam,KRW,,,
+1414,950170.KQ,KOSDAQ,Guam,KRW,,,
+1415,014190.KQ,KOSDAQ,Guam,KRW,,,105
+1416,264660.KQ,KOSDAQ,Guam,KRW,,,
+1417,000500.KS,KSE,Guam,KRW,Technology,Communication Equipment,
+1418,052600.KQ,KOSDAQ,Guam,KRW,,,72
+1419,143210.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,"1,217"
+1420,250000.KQ,KOSDAQ,Guam,KRW,,,
+1421,017000.KQ,KOSDAQ,Guam,KRW,,,
+1422,064240.KQ,KOSDAQ,Guam,KRW,,,48
+1423,002630.KS,KSE,Guam,KRW,Healthcare,Biotechnology,
+1424,037440.KQ,KOSDAQ,Guam,KRW,,,"1,325"
+1425,174900.KQ,KOSDAQ,Guam,KRW,,,
+1426,170790.KQ,KOSDAQ,Guam,KRW,,,
+1427,064800.KQ,KOSDAQ,Guam,KRW,,,88
+1428,241690.KQ,KOSDAQ,Guam,KRW,,,
+1429,133820.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1430,028080.KQ,KOSDAQ,Guam,KRW,,,46
+1431,042520.KQ,KOSDAQ,Guam,KRW,,,
+1432,105740.KQ,KOSDAQ,Guam,KRW,,,342
+1433,043220.KQ,KOSDAQ,Guam,KRW,,,82
+1434,259630.KQ,KOSDAQ,Guam,KRW,,,
+1435,214270.KQ,KOSDAQ,Guam,KRW,,,
+1436,065710.KQ,KOSDAQ,Guam,KRW,,,78
+1437,008420.KS,KSE,Guam,KRW,Basic Materials,Steel,78
+1438,098120.KQ,KOSDAQ,Guam,KRW,,,140
+1439,357250.KS,KSE,Guam,KRW,Real Estate,REIT—Diversified,
+1440,036670.KQ,KOSDAQ,Guam,KRW,,,91
+1441,263050.KQ,KOSDAQ,Guam,KRW,,,
+1442,086670.KQ,KOSDAQ,Guam,KRW,,,316
+1443,013810.KQ,KOSDAQ,Guam,KRW,,,68
+1444,119650.KS,KSE,Guam,KRW,Industrials,Pollution & Treatment Controls,
+1445,035620.KQ,KOSDAQ,Guam,KRW,,,15
+1446,024910.KQ,KOSDAQ,Guam,KRW,,,999
+1447,241520.KQ,KOSDAQ,Guam,KRW,,,
+1448,012170.KS,KSE,Guam,KRW,Communication Services,Entertainment,
+1449,007590.KS,KSE,Guam,KRW,Basic Materials,Agricultural Inputs,
+1450,014570.KQ,KOSDAQ,Guam,KRW,,,
+1451,015710.KQ,KOSDAQ,Guam,KRW,,,153
+1452,045520.KQ,KOSDAQ,Guam,KRW,,,183
+1453,042110.KQ,KOSDAQ,Guam,KRW,,,214
+1454,049430.KQ,KOSDAQ,Guam,KRW,,,110
+1455,021050.KS,KSE,Guam,KRW,Industrials,Metal Fabrication,145
+1456,155660.KS,KSE,Guam,KRW,Consumer Cyclical,Textile Manufacturing,
+1457,263860.KQ,KOSDAQ,Guam,KRW,,,
+1458,016600.KQ,KOSDAQ,Guam,KRW,,,
+1459,045660.KQ,KOSDAQ,Guam,KRW,,,323
+1460,038460.KQ,KOSDAQ,Guam,KRW,,,164
+1461,058850.KS,KSE,Guam,KRW,Industrials,Specialty Business Services,
+1462,002200.KS,KSE,Guam,KRW,Consumer Cyclical,Packaging & Containers,
+1463,020760.KS,KSE,Guam,KRW,Technology,Electronic Components,
+1464,228340.KQ,KOSDAQ,Guam,KRW,,,
+1465,220100.KQ,KOSDAQ,Guam,KRW,,,
+1466,041440.KQ,KOSDAQ,Guam,KRW,,,496
+1467,019010.KQ,KOSDAQ,Guam,KRW,,,129
+1468,006980.KS,KSE,Guam,KRW,Consumer Defensive,Packaged Foods,
+1469,090080.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1470,049800.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,
+1471,000225.KS,KSE,Guam,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+1472,129260.KS,KSE,Guam,KRW,Industrials,Integrated Freight & Logistics,
+1473,011330.KS,KSE,Guam,KRW,Consumer Cyclical,Footwear & Accessories,
+1474,046110.KQ,KOSDAQ,Guam,KRW,,,168
+1475,088130.KQ,KOSDAQ,Guam,KRW,,,125
+1476,293580.KQ,KOSDAQ,Guam,KRW,,,
+1477,090410.KQ,KOSDAQ,Guam,KRW,,,
+1478,053290.KQ,KOSDAQ,Guam,KRW,,,
+1479,072990.KQ,KOSDAQ,Guam,KRW,,,
+1480,100220.KS,KSE,Guam,KRW,Communication Services,Publishing,
+1481,066590.KQ,KOSDAQ,Guam,KRW,,,388
+1482,034940.KQ,KOSDAQ,Guam,KRW,,,280
+1483,027970.KS,KSE,Guam,KRW,Basic Materials,Paper & Paper Products,
+1484,396690.KS,KSE,Guam,KRW,Real Estate,REIT—Diversified,
+1485,040610.KQ,KOSDAQ,Guam,KRW,,,64
+1486,000650.KS,KSE,Guam,KRW,Industrials,Railroads,
+1487,338100.KS,KSE,Guam,KRW,,,
+1488,037370.KQ,KOSDAQ,Guam,KRW,,,78
+1489,134790.KS,KSE,Guam,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+1490,123410.KQ,KOSDAQ,Guam,KRW,,,484
+1491,009440.KS,KSE,Guam,KRW,Industrials,Pollution & Treatment Controls,16
+1492,114450.KQ,KOSDAQ,Guam,KRW,,,
+1493,014970.KQ,KOSDAQ,Guam,KRW,,,66
+1494,013310.KQ,KOSDAQ,Guam,KRW,,,
+1495,044960.KQ,KOSDAQ,Guam,KRW,,,
+1496,265560.KQ,KOSDAQ,Guam,KRW,,,
+1497,004910.KS,KSE,Guam,KRW,Basic Materials,Specialty Chemicals,
+1498,010100.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1499,047770.KQ,KOSDAQ,Guam,KRW,,,47
+1500,033200.KQ,KOSDAQ,Guam,KRW,,,
+1501,090470.KQ,KOSDAQ,Guam,KRW,,,267
+1502,046940.KQ,KOSDAQ,Guam,KRW,,,210
+1503,053270.KQ,KOSDAQ,Guam,KRW,,,270
+1504,200780.KQ,KOSDAQ,Guam,KRW,,,
+1505,094170.KQ,KOSDAQ,Guam,KRW,,,
+1506,057030.KQ,KOSDAQ,Guam,KRW,,,280
+1507,032680.KQ,KOSDAQ,Guam,KRW,,,30
+1508,005360.KS,KSE,Guam,KRW,Consumer Cyclical,Specialty Retail,671
+1509,004270.KS,KSE,Guam,KRW,Technology,Consumer Electronics,60
+1510,185490.KQ,KOSDAQ,Guam,KRW,,,
+1511,036090.KQ,KOSDAQ,Guam,KRW,,,122
+1512,043340.KQ,KOSDAQ,Guam,KRW,,,
+1513,088910.KQ,KOSDAQ,Guam,KRW,,,518
+1514,001140.KS,KSE,Guam,KRW,Industrials,Integrated Freight & Logistics,
+1515,053350.KQ,KOSDAQ,Guam,KRW,,,207
+1516,072470.KQ,KOSDAQ,Guam,KRW,,,13
+1517,002800.KQ,KOSDAQ,Guam,KRW,,,
+1518,037330.KQ,KOSDAQ,Guam,KRW,,,401
+1519,057540.KQ,KOSDAQ,Guam,KRW,,,258
+1520,023460.KQ,KOSDAQ,Guam,KRW,,,6
+1521,014440.KS,KSE,Guam,KRW,Basic Materials,Chemicals,
+1522,083640.KQ,KOSDAQ,Guam,KRW,,,85
+1523,378850.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1524,171010.KQ,KOSDAQ,Guam,KRW,,,
+1525,001810.KQ,KOSDAQ,Guam,KRW,,,203
+1526,006345.KS,KSE,Guam,KRW,Industrials,Electrical Equipment & Parts,
+1527,089790.KQ,KOSDAQ,Guam,KRW,,,144
+1528,039010.KQ,KOSDAQ,Guam,KRW,,,
+1529,004870.KS,KSE,Guam,KRW,Basic Materials,Building Materials,11
+1530,001380.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1531,002230.KQ,KOSDAQ,Guam,KRW,,,107
+1532,003080.KS,KSE,Guam,KRW,Basic Materials,Agricultural Inputs,
+1533,078940.KQ,KOSDAQ,Guam,KRW,,,27
+1534,038870.KQ,KOSDAQ,Guam,KRW,,,83
+1535,024740.KQ,KOSDAQ,Guam,KRW,,,139
+1536,085310.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,
+1537,096630.KQ,KOSDAQ,Guam,KRW,,,65
+1538,006370.KS,KSE,Guam,KRW,Consumer Cyclical,Department Stores,
+1539,075970.KQ,KOSDAQ,Guam,KRW,,,63
+1540,008830.KQ,KOSDAQ,Guam,KRW,,,
+1541,010470.KQ,KOSDAQ,Guam,KRW,,,255
+1542,032940.KQ,KOSDAQ,Guam,KRW,,,91
+1543,010240.KQ,KOSDAQ,Guam,KRW,,,98
+1544,056700.KQ,KOSDAQ,Guam,KRW,,,344
+1545,189860.KQ,KOSDAQ,Guam,KRW,,,
+1546,041520.KQ,KOSDAQ,Guam,KRW,,,94
+1547,101330.KQ,KOSDAQ,Guam,KRW,,,59
+1548,059120.KQ,KOSDAQ,Guam,KRW,,,
+1549,004780.KQ,KOSDAQ,Guam,KRW,,,366
+1550,221840.KQ,KOSDAQ,Guam,KRW,,,
+1551,111110.KS,KSE,Guam,KRW,Consumer Cyclical,Textile Manufacturing,
+1552,067000.KQ,KOSDAQ,Guam,KRW,,,261
+1553,037350.KQ,KOSDAQ,Guam,KRW,,,384
+1554,067920.KQ,KOSDAQ,Guam,KRW,,,924
+1555,106190.KQ,KOSDAQ,Guam,KRW,,,
+1556,092780.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1557,019660.KQ,KOSDAQ,Guam,KRW,,,18
+1558,053700.KQ,KOSDAQ,Guam,KRW,,,493
+1559,187220.KQ,KOSDAQ,Guam,KRW,,,
+1560,099220.KQ,KOSDAQ,Guam,KRW,,,80
+1561,065170.KQ,KOSDAQ,Guam,KRW,,,24
+1562,137940.KQ,KOSDAQ,Guam,KRW,,,44
+1563,008600.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1564,153490.KQ,KOSDAQ,Guam,KRW,,,
+1565,080520.KQ,KOSDAQ,Guam,KRW,,,267
+1566,039420.KQ,KOSDAQ,Guam,KRW,,,153
+1567,001020.KS,KSE,Guam,KRW,Basic Materials,Paper & Paper Products,159
+1568,071280.KQ,KOSDAQ,Guam,KRW,,,236
+1569,025880.KQ,KOSDAQ,Guam,KRW,,,77
+1570,124500.KQ,KOSDAQ,Guam,KRW,,,
+1571,041590.KQ,KOSDAQ,Guam,KRW,,,64
+1572,058860.KS,KSE,Guam,KRW,Communication Services,Telecom Services,"9,511"
+1573,024800.KQ,KOSDAQ,Guam,KRW,,,300
+1574,066900.KQ,KOSDAQ,Guam,KRW,,,
+1575,040160.KQ,KOSDAQ,Guam,KRW,,,135
+1576,900250.KQ,KOSDAQ,Guam,KRW,,,
+1577,175250.KQ,KOSDAQ,Guam,KRW,,,
+1578,044060.KQ,KOSDAQ,Guam,KRW,,,
+1579,133750.KQ,KOSDAQ,Guam,KRW,,,
+1580,900290.KQ,KOSDAQ,Guam,KRW,,,
+1581,023440.KQ,KOSDAQ,Guam,KRW,,,
+1582,084650.KQ,KOSDAQ,Guam,KRW,,,
+1583,050960.KQ,KOSDAQ,Guam,KRW,,,
+1584,021880.KQ,KOSDAQ,Guam,KRW,,,14
+1585,006200.KS,KSE,Guam,KRW,Technology,Semiconductors,43
+1586,109610.KQ,KOSDAQ,Guam,KRW,,,
+1587,001560.KS,KSE,Guam,KRW,Industrials,Tools & Accessories,55
+1588,031980.KQ,KOSDAQ,Guam,KRW,,,82
+1589,062860.KQ,KOSDAQ,Guam,KRW,,,70
+1590,087600.KQ,KOSDAQ,Guam,KRW,,,
+1591,076080.KQ,KOSDAQ,Guam,KRW,,,246
+1592,000040.KS,KSE,Guam,KRW,Consumer Cyclical,Recreational Vehicles,67
+1593,170920.KQ,KOSDAQ,Guam,KRW,,,
+1594,019180.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1595,033100.KQ,KOSDAQ,Guam,KRW,,,
+1596,226340.KQ,KOSDAQ,Guam,KRW,,,
+1597,012280.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1598,015020.KS,KSE,Guam,KRW,Real Estate,Real Estate—Development,
+1599,267790.KQ,KOSDAQ,Guam,KRW,,,
+1600,024120.KQ,KOSDAQ,Guam,KRW,,,218
+1601,012320.KS,KSE,Guam,KRW,Utilities,Utilities—Regulated Gas,
+1602,002920.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1603,900310.KQ,KOSDAQ,Guam,KRW,,,
+1604,082800.KQ,KOSDAQ,Guam,KRW,,,35
+1605,004450.KS,KSE,Guam,KRW,Consumer Cyclical,Packaging & Containers,
+1606,140520.KQ,KOSDAQ,Guam,KRW,,,
+1607,000850.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,
+1608,013520.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1609,037760.KQ,KOSDAQ,Guam,KRW,,,179
+1610,219420.KQ,KOSDAQ,Guam,KRW,,,
+1611,056090.KQ,KOSDAQ,Guam,KRW,,,
+1612,079810.KQ,KOSDAQ,Guam,KRW,,,108
+1613,217190.KQ,KOSDAQ,Guam,KRW,,,
+1614,009310.KS,KSE,Guam,KRW,Technology,Semiconductors,
+1615,001080.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1616,012790.KQ,KOSDAQ,Guam,KRW,,,
+1617,083500.KQ,KOSDAQ,Guam,KRW,,,
+1618,222110.KQ,KOSDAQ,Guam,KRW,,,
+1619,025620.KS,KSE,Guam,KRW,Consumer Cyclical,Footwear & Accessories,54
+1620,056360.KQ,KOSDAQ,Guam,KRW,,,170
+1621,058730.KS,KSE,Guam,KRW,Basic Materials,Steel,236
+1622,092300.KQ,KOSDAQ,Guam,KRW,,,373
+1623,041650.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1624,115500.KQ,KOSDAQ,Guam,KRW,,,38
+1625,002070.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,191
+1626,109080.KQ,KOSDAQ,Guam,KRW,,,
+1627,069730.KS,KSE,Guam,KRW,Industrials,Electrical Equipment & Parts,138
+1628,290740.KQ,KOSDAQ,Guam,KRW,,,
+1629,007370.KQ,KOSDAQ,Guam,KRW,,,
+1630,127710.KQ,KOSDAQ,Guam,KRW,,,
+1631,032685.KQ,KOSDAQ,Guam,KRW,,,30
+1632,000590.KS,KSE,Guam,KRW,Industrials,Tools & Accessories,
+1633,119850.KQ,KOSDAQ,Guam,KRW,,,
+1634,021045.KQ,KOSDAQ,Guam,KRW,,,242
+1635,042500.KQ,KOSDAQ,Guam,KRW,,,214
+1636,073010.KQ,KOSDAQ,Guam,KRW,,,
+1637,023960.KS,KSE,Guam,KRW,Industrials,Engineering & Construction,
+1638,036620.KQ,KOSDAQ,Guam,KRW,,,44
+1639,148250.KQ,KOSDAQ,Guam,KRW,,,
+1640,049830.KQ,KOSDAQ,Guam,KRW,,,
+1641,052900.KQ,KOSDAQ,Guam,KRW,,,136
+1642,060540.KQ,KOSDAQ,Guam,KRW,,,70
+1643,065060.KQ,KOSDAQ,Guam,KRW,,,122
+1644,277070.KQ,KOSDAQ,Guam,KRW,,,
+1645,006620.KQ,KOSDAQ,Guam,KRW,,,
+1646,054040.KQ,KOSDAQ,Guam,KRW,,,86
+1647,038110.KQ,KOSDAQ,Guam,KRW,,,570
+1648,037400.KQ,KOSDAQ,Guam,KRW,,,50
+1649,023350.KS,KSE,Guam,KRW,Industrials,Engineering & Construction,
+1650,009770.KS,KSE,Guam,KRW,Basic Materials,Paper & Paper Products,
+1651,042040.KQ,KOSDAQ,Guam,KRW,,,71
+1652,094840.KQ,KOSDAQ,Guam,KRW,,,32
+1653,214680.KQ,KOSDAQ,Guam,KRW,,,
+1654,290120.KQ,KOSDAQ,Guam,KRW,,,
+1655,083550.KQ,KOSDAQ,Guam,KRW,,,291
+1656,100660.KQ,KOSDAQ,Guam,KRW,,,
+1657,039610.KQ,KOSDAQ,Guam,KRW,,,
+1658,000227.KS,KSE,Guam,KRW,Healthcare,Drug Manufacturers—Specialty & Generic,
+1659,053620.KQ,KOSDAQ,Guam,KRW,,,250
+1660,260660.KQ,KOSDAQ,Guam,KRW,,,
+1661,126640.KQ,KOSDAQ,Guam,KRW,,,
+1662,054090.KQ,KOSDAQ,Guam,KRW,,,117
+1663,007770.KQ,KOSDAQ,Guam,KRW,,,113
+1664,217730.KQ,KOSDAQ,Guam,KRW,,,
+1665,065650.KQ,KOSDAQ,Guam,KRW,,,33
+1666,041020.KQ,KOSDAQ,Guam,KRW,,,128
+1667,045060.KQ,KOSDAQ,Guam,KRW,,,149
+1668,025440.KQ,KOSDAQ,Guam,KRW,,,336
+1669,092460.KQ,KOSDAQ,Guam,KRW,,,176
+1670,001795.KS,KSE,Guam,KRW,Consumer Defensive,Confectioners,
+1671,123700.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1672,023150.KS,KSE,Guam,KRW,Consumer Defensive,Beverages—Wineries & Distilleries,
+1673,145270.KS,KSE,Guam,KRW,Real Estate,REIT—Diversified,13
+1674,014130.KS,KSE,Guam,KRW,Industrials,Integrated Freight & Logistics,
+1675,048470.KQ,KOSDAQ,Guam,KRW,,,
+1676,011420.KS,KSE,Guam,KRW,Communication Services,Broadcasting,
+1677,039020.KQ,KOSDAQ,Guam,KRW,,,46
+1678,049630.KQ,KOSDAQ,Guam,KRW,,,96
+1679,263600.KQ,KOSDAQ,Guam,KRW,,,
+1680,900340.KQ,KOSDAQ,Guam,KRW,,,
+1681,014990.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1682,217480.KQ,KOSDAQ,Guam,KRW,,,
+1683,059210.KQ,KOSDAQ,Guam,KRW,,,240
+1684,131100.KQ,KOSDAQ,Guam,KRW,,,34
+1685,104040.KQ,KOSDAQ,Guam,KRW,,,
+1686,068050.KQ,KOSDAQ,Guam,KRW,,,27
+1687,250060.KQ,KOSDAQ,Guam,KRW,,,
+1688,143540.KQ,KOSDAQ,Guam,KRW,,,
+1689,012160.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1690,131220.KQ,KOSDAQ,Guam,KRW,,,114
+1691,008110.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,115
+1692,011560.KQ,KOSDAQ,Guam,KRW,,,405
+1693,094970.KQ,KOSDAQ,Guam,KRW,,,11
+1694,208140.KQ,KOSDAQ,Guam,KRW,,,
+1695,115440.KQ,KOSDAQ,Guam,KRW,,,157
+1696,147760.KQ,KOSDAQ,Guam,KRW,,,
+1697,002690.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1698,001620.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,362
+1699,308100.KQ,KOSDAQ,Guam,KRW,,,
+1700,024840.KQ,KOSDAQ,Guam,KRW,,,242
+1701,142280.KQ,KOSDAQ,Guam,KRW,,,
+1702,069510.KQ,KOSDAQ,Guam,KRW,,,341
+1703,002820.KS,KSE,Guam,KRW,Basic Materials,Lumber & Wood Production,534
+1704,017510.KQ,KOSDAQ,Guam,KRW,,,
+1705,036690.KQ,KOSDAQ,Guam,KRW,,,181
+1706,224110.KQ,KOSDAQ,Guam,KRW,,,
+1707,097800.KQ,KOSDAQ,Guam,KRW,,,
+1708,060230.KQ,KOSDAQ,Guam,KRW,,,78
+1709,000950.KS,KSE,Guam,KRW,Consumer Cyclical,Textile Manufacturing,
+1710,018700.KQ,KOSDAQ,Guam,KRW,,,72
+1711,073110.KQ,KOSDAQ,Guam,KRW,,,251
+1712,096040.KQ,KOSDAQ,Guam,KRW,,,74
+1713,212560.KQ,KOSDAQ,Guam,KRW,,,
+1714,080010.KQ,KOSDAQ,Guam,KRW,,,52
+1715,154030.KQ,KOSDAQ,Guam,KRW,,,
+1716,021650.KQ,KOSDAQ,Guam,KRW,,,144
+1717,010660.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,119
+1718,032080.KQ,KOSDAQ,Guam,KRW,,,
+1719,038060.KQ,KOSDAQ,Guam,KRW,,,108
+1720,302430.KQ,KOSDAQ,Guam,KRW,,,
+1721,030720.KS,KSE,Guam,KRW,Consumer Defensive,Food Distribution,
+1722,119500.KQ,KOSDAQ,Guam,KRW,,,
+1723,131180.KQ,KOSDAQ,Guam,KRW,,,
+1724,101170.KQ,KOSDAQ,Guam,KRW,,,105
+1725,038950.KQ,KOSDAQ,Guam,KRW,,,150
+1726,122690.KQ,KOSDAQ,Guam,KRW,,,242
+1727,054540.KQ,KOSDAQ,Guam,KRW,,,115
+1728,005670.KQ,KOSDAQ,Guam,KRW,,,168
+1729,039310.KQ,KOSDAQ,Guam,KRW,,,68
+1730,018620.KQ,KOSDAQ,Guam,KRW,,,98
+1731,024940.KQ,KOSDAQ,Guam,KRW,,,163
+1732,104620.KQ,KOSDAQ,Guam,KRW,,,
+1733,189690.KQ,KOSDAQ,Guam,KRW,,,
+1734,016920.KQ,KOSDAQ,Guam,KRW,,,295
+1735,043910.KQ,KOSDAQ,Guam,KRW,,,54
+1736,052860.KQ,KOSDAQ,Guam,KRW,,,92
+1737,090370.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1738,003010.KS,KSE,Guam,KRW,Industrials,Industrial Distribution,
+1739,008370.KQ,KOSDAQ,Guam,KRW,,,186
+1740,291230.KQ,KOSDAQ,Guam,KRW,,,
+1741,203450.KQ,KOSDAQ,Guam,KRW,,,
+1742,064480.KQ,KOSDAQ,Guam,KRW,,,
+1743,002870.KS,KSE,Guam,KRW,Consumer Cyclical,Packaging & Containers,
+1744,099410.KQ,KOSDAQ,Guam,KRW,,,
+1745,021040.KQ,KOSDAQ,Guam,KRW,,,242
+1746,072770.KQ,KOSDAQ,Guam,KRW,,,26
+1747,025560.KS,KSE,Guam,KRW,Technology,Semiconductor Equipment & Materials,
+1748,221980.KQ,KOSDAQ,Guam,KRW,,,
+1749,067730.KQ,KOSDAQ,Guam,KRW,,,
+1750,037030.KQ,KOSDAQ,Guam,KRW,,,
+1751,006920.KQ,KOSDAQ,Guam,KRW,,,68
+1752,091340.KQ,KOSDAQ,Guam,KRW,,,91
+1753,046070.KQ,KOSDAQ,Guam,KRW,,,273
+1754,006570.KS,KSE,Guam,KRW,Consumer Defensive,Household & Personal Products,235
+1755,006050.KQ,KOSDAQ,Guam,KRW,,,
+1756,093240.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1757,051630.KS,KSE,Guam,KRW,Basic Materials,Chemicals,
+1758,079950.KQ,KOSDAQ,Guam,KRW,,,169
+1759,025870.KQ,KOSDAQ,Guam,KRW,,,125
+1760,027580.KQ,KOSDAQ,Guam,KRW,,,179
+1761,066790.KQ,KOSDAQ,Guam,KRW,,,35
+1762,044380.KS,KSE,Guam,KRW,Technology,Computer Hardware,
+1763,045510.KQ,KOSDAQ,Guam,KRW,,,132
+1764,192410.KQ,KOSDAQ,Guam,KRW,,,
+1765,220180.KQ,KOSDAQ,Guam,KRW,,,
+1766,046310.KQ,KOSDAQ,Guam,KRW,,,56
+1767,049120.KQ,KOSDAQ,Guam,KRW,,,120
+1768,053590.KQ,KOSDAQ,Guam,KRW,,,29
+1769,031510.KQ,KOSDAQ,Guam,KRW,,,414
+1770,177350.KQ,KOSDAQ,Guam,KRW,,,
+1771,078000.KS,KSE,Guam,KRW,Communication Services,Telecom Services,
+1772,016100.KQ,KOSDAQ,Guam,KRW,,,102
+1773,052460.KQ,KOSDAQ,Guam,KRW,,,161
+1774,010640.KS,KSE,Guam,KRW,Basic Materials,Specialty Chemicals,
+1775,015260.KS,KSE,Guam,KRW,Technology,Electronic Components,
+1776,012620.KQ,KOSDAQ,Guam,KRW,,,148
+1777,131760.KQ,KOSDAQ,Guam,KRW,,,
+1778,027040.KQ,KOSDAQ,Guam,KRW,,,85
+1779,087260.KQ,KOSDAQ,Guam,KRW,,,
+1780,065440.KQ,KOSDAQ,Guam,KRW,,,81
+1781,196700.KQ,KOSDAQ,Guam,KRW,,,
+1782,031310.KQ,KOSDAQ,Guam,KRW,,,52
+1783,130500.KQ,KOSDAQ,Guam,KRW,,,
+1784,089230.KQ,KOSDAQ,Guam,KRW,,,90
+1785,001000.KQ,KOSDAQ,Guam,KRW,,,
+1786,142210.KQ,KOSDAQ,Guam,KRW,,,
+1787,048770.KQ,KOSDAQ,Guam,KRW,,,318
+1788,138070.KQ,KOSDAQ,Guam,KRW,,,165
+1789,002290.KQ,KOSDAQ,Guam,KRW,,,
+1790,050860.KQ,KOSDAQ,Guam,KRW,,,
+1791,019770.KQ,KOSDAQ,Guam,KRW,,,203
+1792,036480.KQ,KOSDAQ,Guam,KRW,,,
+1793,080470.KQ,KOSDAQ,Guam,KRW,,,209
+1794,101240.KQ,KOSDAQ,Guam,KRW,,,
+1795,013000.KS,KSE,Guam,KRW,Basic Materials,Specialty Chemicals,
+1796,095270.KQ,KOSDAQ,Guam,KRW,,,99
+1797,123750.KQ,KOSDAQ,Guam,KRW,,,77
+1798,100030.KQ,KOSDAQ,Guam,KRW,,,60
+1799,050760.KQ,KOSDAQ,Guam,KRW,,,159
+1800,246960.KQ,KOSDAQ,Guam,KRW,,,
+1801,246690.KQ,KOSDAQ,Guam,KRW,,,
+1802,217820.KQ,KOSDAQ,Guam,KRW,,,
+1803,085910.KQ,KOSDAQ,Guam,KRW,,,212
+1804,119830.KQ,KOSDAQ,Guam,KRW,,,270
+1805,153460.KQ,KOSDAQ,Guam,KRW,,,
+1806,263700.KQ,KOSDAQ,Guam,KRW,,,
+1807,069540.KQ,KOSDAQ,Guam,KRW,,,157
+1808,035200.KQ,KOSDAQ,Guam,KRW,,,
+1809,069410.KQ,KOSDAQ,Guam,KRW,,,226
+1810,008870.KS,KSE,Guam,KRW,Consumer Cyclical,Packaging & Containers,
+1811,060900.KQ,KOSDAQ,Guam,KRW,,,
+1812,054930.KQ,KOSDAQ,Guam,KRW,,,
+1813,026040.KQ,KOSDAQ,Guam,KRW,,,348
+1814,072130.KS,KSE,Guam,KRW,Communication Services,Telecom Services,
+1815,092600.KQ,KOSDAQ,Guam,KRW,,,104
+1816,065570.KQ,KOSDAQ,Guam,KRW,,,
+1817,277410.KQ,KOSDAQ,Guam,KRW,,,
+1818,032800.KQ,KOSDAQ,Guam,KRW,,,45
+1819,079650.KQ,KOSDAQ,Guam,KRW,,,65
+1820,020180.KQ,KOSDAQ,Guam,KRW,,,211
+1821,290380.KQ,KOSDAQ,Guam,KRW,,,
+1822,066910.KQ,KOSDAQ,Guam,KRW,,,82
+1823,059100.KQ,KOSDAQ,Guam,KRW,,,
+1824,003680.KS,KSE,Guam,KRW,Consumer Defensive,Packaged Foods,
+1825,043260.KQ,KOSDAQ,Guam,KRW,,,93
+1826,177830.KQ,KOSDAQ,Guam,KRW,,,
+1827,041920.KQ,KOSDAQ,Guam,KRW,,,
+1828,033230.KQ,KOSDAQ,Guam,KRW,,,183
+1829,004100.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1830,096350.KQ,KOSDAQ,Guam,KRW,,,123
+1831,174880.KQ,KOSDAQ,Guam,KRW,,,
+1832,050090.KQ,KOSDAQ,Guam,KRW,,,
+1833,215480.KQ,KOSDAQ,Guam,KRW,,,
+1834,196300.KQ,KOSDAQ,Guam,KRW,,,
+1835,017370.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,232
+1836,105330.KQ,KOSDAQ,Guam,KRW,,,48
+1837,025530.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1838,036000.KQ,KOSDAQ,Guam,KRW,,,55
+1839,246720.KQ,KOSDAQ,Guam,KRW,,,
+1840,115310.KQ,KOSDAQ,Guam,KRW,,,79
+1841,080720.KQ,KOSDAQ,Guam,KRW,,,
+1842,018680.KQ,KOSDAQ,Guam,KRW,,,230
+1843,010770.KS,KSE,Guam,KRW,Industrials,Electrical Equipment & Parts,
+1844,038620.KQ,KOSDAQ,Guam,KRW,,,68
+1845,024070.KS,KSE,Guam,KRW,Basic Materials,Chemicals,
+1846,234300.KQ,KOSDAQ,Guam,KRW,,,
+1847,007120.KS,KSE,Guam,KRW,Industrials,Security & Protection Services,38
+1848,082660.KQ,KOSDAQ,Guam,KRW,,,57
+1849,079000.KQ,KOSDAQ,Guam,KRW,,,
+1850,114630.KQ,KOSDAQ,Guam,KRW,,,111
+1851,079170.KQ,KOSDAQ,Guam,KRW,,,
+1852,217620.KQ,KOSDAQ,Guam,KRW,,,
+1853,081580.KQ,KOSDAQ,Guam,KRW,,,94
+1854,035460.KQ,KOSDAQ,Guam,KRW,,,64
+1855,084670.KS,KSE,Guam,KRW,Industrials,Railroads,
+1856,000760.KS,KSE,Guam,KRW,Basic Materials,Chemicals,
+1857,045300.KQ,KOSDAQ,Guam,KRW,,,
+1858,086060.KQ,KOSDAQ,Guam,KRW,,,37
+1859,012860.KQ,KOSDAQ,Guam,KRW,,,
+1860,043090.KQ,KOSDAQ,Guam,KRW,,,17
+1861,038010.KQ,KOSDAQ,Guam,KRW,,,160
+1862,131090.KQ,KOSDAQ,Guam,KRW,,,63
+1863,023770.KQ,KOSDAQ,Guam,KRW,,,
+1864,049520.KQ,KOSDAQ,Guam,KRW,,,156
+1865,010400.KS,KSE,Guam,KRW,Industrials,Specialty Industrial Machinery,
+1866,085810.KQ,KOSDAQ,Guam,KRW,,,
+1867,305090.KQ,KOSDAQ,Guam,KRW,,,
+1868,049470.KQ,KOSDAQ,Guam,KRW,,,106
+1869,155900.KS,KSE,Guam,KRW,Industrials,Marine Shipping,
+1870,122310.KQ,KOSDAQ,Guam,KRW,,,
+1871,032750.KQ,KOSDAQ,Guam,KRW,,,77
+1872,005110.KS,KSE,Guam,KRW,Industrials,Conglomerates,27
+1873,187270.KQ,KOSDAQ,Guam,KRW,,,
+1874,039980.KQ,KOSDAQ,Guam,KRW,,,122
+1875,065770.KQ,KOSDAQ,Guam,KRW,,,53
+1876,008470.KQ,KOSDAQ,Guam,KRW,,,
+1877,319660.KQ,KOSDAQ,Guam,KRW,,,
+1878,045340.KQ,KOSDAQ,Guam,KRW,,,
+1879,044780.KQ,KOSDAQ,Guam,KRW,,,115
+1880,222980.KQ,KOSDAQ,Guam,KRW,,,
+1881,094940.KQ,KOSDAQ,Guam,KRW,,,121
+1882,237750.KQ,KOSDAQ,Guam,KRW,,,
+1883,088790.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1884,234920.KQ,KOSDAQ,Guam,KRW,,,
+1885,069640.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1886,094860.KQ,KOSDAQ,Guam,KRW,,,46
+1887,084870.KS,KSE,Guam,KRW,Consumer Cyclical,Apparel Manufacturing,
+1888,002420.KS,KSE,Guam,KRW,Communication Services,Entertainment,
+1889,099440.KQ,KOSDAQ,Guam,KRW,,,
+1890,095910.KQ,KOSDAQ,Guam,KRW,,,125
+1891,004920.KS,KSE,Guam,KRW,Technology,Information Technology Services,
+1892,005820.KS,KSE,Guam,KRW,Consumer Cyclical,Packaging & Containers,
+1893,117730.KQ,KOSDAQ,Guam,KRW,,,
+1894,042940.KQ,KOSDAQ,Guam,KRW,,,42
+1895,238490.KQ,KOSDAQ,Guam,KRW,,,
+1896,123840.KQ,KOSDAQ,Guam,KRW,,,105
+1897,208370.KQ,KOSDAQ,Guam,KRW,,,
+1898,072950.KQ,KOSDAQ,Guam,KRW,,,
+1899,025890.KS,KSE,Guam,KRW,Basic Materials,Steel,
+1900,054940.KQ,KOSDAQ,Guam,KRW,,,195
+1901,144960.KQ,KOSDAQ,Guam,KRW,,,
+1902,010280.KQ,KOSDAQ,Guam,KRW,,,634
+1903,024850.KQ,KOSDAQ,Guam,KRW,,,
+1904,208710.KQ,KOSDAQ,Guam,KRW,,,
+1905,019540.KQ,KOSDAQ,Guam,KRW,,,353
+1906,010420.KS,KSE,Guam,KRW,Basic Materials,Paper & Paper Products,
+1907,001210.KS,KSE,Guam,KRW,Industrials,Electrical Equipment & Parts,
+1908,032580.KQ,KOSDAQ,Guam,KRW,,,
+1909,043710.KQ,KOSDAQ,Guam,KRW,,,11
+1910,033050.KQ,KOSDAQ,Guam,KRW,,,77
+1911,043200.KQ,KOSDAQ,Guam,KRW,,,40
+1912,014910.KS,KSE,Guam,KRW,Technology,Electronic Components,65
+1913,014915.KS,KSE,Guam,KRW,Technology,Electronic Components,65
+1914,079190.KQ,KOSDAQ,Guam,KRW,,,107
+1915,093640.KQ,KOSDAQ,Guam,KRW,,,
+1916,036170.KQ,KOSDAQ,Guam,KRW,,,46
+1917,093380.KQ,KOSDAQ,Guam,KRW,,,241
+1918,018500.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1919,051390.KQ,KOSDAQ,Guam,KRW,,,19
+1920,061250.KQ,KOSDAQ,Guam,KRW,,,
+1921,159910.KQ,KOSDAQ,Guam,KRW,,,
+1922,079970.KQ,KOSDAQ,Guam,KRW,,,247
+1923,065690.KQ,KOSDAQ,Guam,KRW,,,87
+1924,123330.KQ,KOSDAQ,Guam,KRW,,,204
+1925,900070.KQ,KOSDAQ,Guam,KRW,,,774
+1926,078860.KQ,KOSDAQ,Guam,KRW,,,82
+1927,033250.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,123
+1928,225430.KQ,KOSDAQ,Guam,KRW,,,
+1929,071850.KQ,KOSDAQ,Guam,KRW,,,
+1930,032280.KQ,KOSDAQ,Guam,KRW,,,
+1931,054300.KQ,KOSDAQ,Guam,KRW,,,
+1932,319400.KQ,KOSDAQ,Guam,KRW,,,
+1933,053160.KQ,KOSDAQ,Guam,KRW,,,61
+1934,263810.KQ,KOSDAQ,Guam,KRW,,,
+1935,048830.KQ,KOSDAQ,Guam,KRW,,,287
+1936,011080.KQ,KOSDAQ,Guam,KRW,,,69
+1937,030350.KQ,KOSDAQ,Guam,KRW,,,36
+1938,089140.KQ,KOSDAQ,Guam,KRW,,,56
+1939,204210.KS,KSE,Guam,KRW,Real Estate,REIT—Hotel & Motel,
+1940,011230.KS,KSE,Guam,KRW,Technology,Electronic Components,
+1941,184230.KQ,KOSDAQ,Guam,KRW,,,
+1942,051780.KQ,KOSDAQ,Guam,KRW,,,58
+1943,043360.KQ,KOSDAQ,Guam,KRW,,,
+1944,083660.KQ,KOSDAQ,Guam,KRW,,,51
+1945,154040.KQ,KOSDAQ,Guam,KRW,,,
+1946,070590.KQ,KOSDAQ,Guam,KRW,,,196
+1947,007530.KQ,KOSDAQ,Guam,KRW,,,342
+1948,001770.KS,KSE,Guam,KRW,Consumer Cyclical,Packaging & Containers,
+1949,117670.KQ,KOSDAQ,Guam,KRW,,,107
+1950,215790.KQ,KOSDAQ,Guam,KRW,,,
+1951,009140.KS,KSE,Guam,KRW,Technology,Electronic Components,
+1952,192390.KQ,KOSDAQ,Guam,KRW,,,
+1953,113810.KQ,KOSDAQ,Guam,KRW,,,
+1954,066360.KQ,KOSDAQ,Guam,KRW,,,
+1955,032960.KQ,KOSDAQ,Guam,KRW,,,133
+1956,005030.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1957,039740.KQ,KOSDAQ,Guam,KRW,,,52
+1958,187790.KQ,KOSDAQ,Guam,KRW,,,
+1959,190510.KQ,KOSDAQ,Guam,KRW,,,
+1960,101670.KQ,KOSDAQ,Guam,KRW,,,52
+1961,002680.KQ,KOSDAQ,Guam,KRW,,,124
+1962,238120.KQ,KOSDAQ,Guam,KRW,,,
+1963,066430.KQ,KOSDAQ,Guam,KRW,,,
+1964,031860.KQ,KOSDAQ,Guam,KRW,,,16
+1965,060480.KQ,KOSDAQ,Guam,KRW,,,
+1966,127120.KQ,KOSDAQ,Guam,KRW,,,69
+1967,001420.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1968,067770.KQ,KOSDAQ,Guam,KRW,,,35
+1969,900280.KQ,KOSDAQ,Guam,KRW,,,
+1970,208340.KQ,KOSDAQ,Guam,KRW,,,
+1971,069140.KQ,KOSDAQ,Guam,KRW,,,90
+1972,130740.KQ,KOSDAQ,Guam,KRW,,,128
+1973,060380.KQ,KOSDAQ,Guam,KRW,,,113
+1974,008290.KQ,KOSDAQ,Guam,KRW,,,
+1975,033540.KQ,KOSDAQ,Guam,KRW,,,190
+1976,011300.KS,KSE,Guam,KRW,Consumer Cyclical,Textile Manufacturing,
+1977,134060.KQ,KOSDAQ,Guam,KRW,,,
+1978,073540.KQ,KOSDAQ,Guam,KRW,,,48
+1979,238200.KQ,KOSDAQ,Guam,KRW,,,
+1980,096610.KQ,KOSDAQ,Guam,KRW,,,300
+1981,058110.KQ,KOSDAQ,Guam,KRW,,,
+1982,290660.KQ,KOSDAQ,Guam,KRW,,,
+1983,054410.KQ,KOSDAQ,Guam,KRW,,,
+1984,147830.KQ,KOSDAQ,Guam,KRW,,,
+1985,063760.KQ,KOSDAQ,Guam,KRW,,,
+1986,075130.KQ,KOSDAQ,Guam,KRW,,,76
+1987,071950.KS,KSE,Guam,KRW,Consumer Cyclical,"Furnishings, Fixtures & Appliances",
+1988,256940.KQ,KOSDAQ,Guam,KRW,,,
+1989,044480.KQ,KOSDAQ,Guam,KRW,,,96
+1990,105550.KQ,KOSDAQ,Guam,KRW,,,
+1991,004105.KS,KSE,Guam,KRW,Consumer Cyclical,Auto Parts,
+1992,191410.KQ,KOSDAQ,Guam,KRW,,,
+1993,052670.KQ,KOSDAQ,Guam,KRW,,,
+1994,275630.KQ,KOSDAQ,Guam,KRW,,,
+1995,900260.KQ,KOSDAQ,Guam,KRW,,,
+1996,026910.KQ,KOSDAQ,Guam,KRW,,,
+1997,140910.KS,KSE,Guam,KRW,Real Estate,REIT—Residential,
+1998,307750.KQ,KOSDAQ,Guam,KRW,,,
+1999,096870.KQ,KOSDAQ,Guam,KRW,,,
+2000,900270.KQ,KOSDAQ,Guam,KRW,,,
+2001,111870.KQ,KOSDAQ,Guam,KRW,,,38
+2002,258610.KQ,KOSDAQ,Guam,KRW,,,
+2003,197140.KQ,KOSDAQ,Guam,KRW,,,
+2004,009620.KQ,KOSDAQ,Guam,KRW,,,369
+2005,067010.KQ,KOSDAQ,Guam,KRW,,,
+2006,139050.KQ,KOSDAQ,Guam,KRW,,,52
+2007,069330.KQ,KOSDAQ,Guam,KRW,,,77
+2008,189980.KQ,KOSDAQ,Guam,KRW,,,
+2009,227950.KQ,KOSDAQ,Guam,KRW,,,
+2010,121850.KQ,KOSDAQ,Guam,KRW,,,
+2011,020400.KQ,KOSDAQ,Guam,KRW,,,110
+2012,900120.KQ,KOSDAQ,Cayman Islands,KRW,,,238
+2013,115570.KQ,KOSDAQ,Cayman Islands,KRW,,,131
+2014,030790.KS,KSE,Cayman Islands,KRW,Technology,Information Technology Services,10
+2015,226400.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2016,290270.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2017,224060.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2018,070300.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2019,263020.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2020,008500.KS,KSE,Cayman Islands,KRW,Consumer Cyclical,Textile Manufacturing,93
+2021,096640.KQ,KOSDAQ,Cayman Islands,KRW,,,30
+2022,258830.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2023,019570.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2024,138690.KQ,KOSDAQ,Cayman Islands,KRW,,,138
+2025,017250.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2026,038530.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2027,239340.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2028,053060.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2029,091440.KQ,KOSDAQ,Cayman Islands,KRW,,,114
+2030,175140.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2031,098660.KQ,KOSDAQ,Cayman Islands,KRW,,,86
+2032,076610.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2033,131400.KQ,KOSDAQ,Cayman Islands,KRW,,,149
+2034,110020.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2035,090150.KQ,KOSDAQ,Cayman Islands,KRW,,,66
+2036,900300.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2037,255220.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2038,222810.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2039,161570.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2040,054180.KQ,KOSDAQ,Cayman Islands,KRW,,,97
+2041,023790.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2042,073570.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2043,115480.KQ,KOSDAQ,Cayman Islands,KRW,,,107
+2044,287410.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2045,115610.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2046,230980.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2047,307870.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2048,227610.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2049,013720.KQ,KOSDAQ,Cayman Islands,KRW,,,48
+2050,227100.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2051,299170.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2052,096690.KQ,KOSDAQ,Cayman Islands,KRW,,,68
+2053,270520.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2054,307280.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2055,309930.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2056,267320.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2057,317240.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2058,054630.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2059,321260.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2060,323230.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2061,322780.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2062,310870.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2063,123010.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2064,039670.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2065,239610.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2066,066410.KQ,KOSDAQ,Cayman Islands,KRW,,,47
+2067,053660.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2068,332710.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2069,570053.KS,KSE,Cayman Islands,KRW,,,
+2070,500016.KS,KSE,Cayman Islands,KRW,,,
+2071,500060.KS,KSE,Cayman Islands,KRW,,,
+2072,580010.KS,KSE,Cayman Islands,KRW,,,
+2073,580024.KS,KSE,Cayman Islands,KRW,,,
+2074,530063.KS,KSE,Cayman Islands,KRW,,,
+2075,610030.KS,KSE,Cayman Islands,KRW,,,
+2076,520033.KS,KSE,Cayman Islands,KRW,,,
+2077,530020.KS,KSE,Cayman Islands,KRW,,,
+2078,510004.KS,KSE,Cayman Islands,KRW,,,
+2079,520040.KS,KSE,Cayman Islands,KRW,,,
+2080,530077.KS,KSE,Cayman Islands,KRW,,,
+2081,580017.KS,KSE,Cayman Islands,KRW,,,
+2082,580030.KS,KSE,Cayman Islands,KRW,,,
+2083,510018.KS,KSE,Cayman Islands,KRW,,,
+2084,520038.KS,KSE,Cayman Islands,KRW,,,
+2085,550068.KS,KSE,Cayman Islands,KRW,,,
+2086,580019.KS,KSE,Cayman Islands,KRW,,,
+2087,580022.KS,KSE,Cayman Islands,KRW,,,
+2088,500035.KS,KSE,Cayman Islands,KRW,,,
+2089,570025.KS,KSE,Cayman Islands,KRW,,,
+2090,520042.KS,KSE,Cayman Islands,KRW,,,
+2091,500005.KS,KSE,Cayman Islands,KRW,,,
+2092,500051.KS,KSE,Cayman Islands,KRW,,,
+2093,386580.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2094,351340.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2095,297890.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2096,303530.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2097,396770.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2098,500010.KS,KSE,Cayman Islands,KRW,,,
+2099,700008.KS,KSE,Cayman Islands,KRW,,,
+2100,500018.KS,KSE,Cayman Islands,KRW,,,
+2101,510016.KS,KSE,Cayman Islands,KRW,,,
+2102,530085.KS,KSE,Cayman Islands,KRW,,,
+2103,500020.KS,KSE,Cayman Islands,KRW,,,
+2104,408920.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2105,265740.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2106,357550.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2107,610026.KS,KSE,Cayman Islands,KRW,,,
+2108,700011.KS,KSE,Cayman Islands,KRW,,,
+2109,229000.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2110,084850.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2111,72501773.KS,KSE,Cayman Islands,KRW,,,
+2112,371950.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2113,75701B93.KS,KSE,Cayman Islands,KRW,,,
+2114,391710.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2115,74601669.KS,KSE,Cayman Islands,KRW,,,
+2116,189330.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2117,610016.KS,KSE,Cayman Islands,KRW,,,
+2118,530081.KS,KSE,Cayman Islands,KRW,,,
+2119,580015.KS,KSE,Cayman Islands,KRW,,,
+2120,321550.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2121,550065.KS,KSE,Cayman Islands,KRW,,,
+2122,530064.KS,KSE,Cayman Islands,KRW,,,
+2123,0026801C.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2124,530070.KS,KSE,Cayman Islands,KRW,,,
+2125,570042.KS,KSE,Cayman Islands,KRW,,,
+2126,580026.KS,KSE,Cayman Islands,KRW,,,
+2127,570019.KS,KSE,Cayman Islands,KRW,,,
+2128,317690.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2129,580014.KS,KSE,Cayman Islands,KRW,,,
+2130,222420.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2131,321820.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2132,570043.KS,KSE,Cayman Islands,KRW,,,
+2133,570058.KS,KSE,Cayman Islands,KRW,,,
+2134,376980.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2135,352700.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2136,187660.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2137,610029.KS,KSE,Cayman Islands,KRW,,,
+2138,413630.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2139,062970.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2140,580016.KS,KSE,Cayman Islands,KRW,,,
+2141,273640.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2142,510015.KS,KSE,Cayman Islands,KRW,,,
+2143,291650.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2144,520047.KS,KSE,Cayman Islands,KRW,,,
+2145,580025.KS,KSE,Cayman Islands,KRW,,,
+2146,251970.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2147,244460.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2148,500004.KS,KSE,Cayman Islands,KRW,,,
+2149,348150.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2150,530074.KS,KSE,Cayman Islands,KRW,,,
+2151,520037.KS,KSE,Cayman Islands,KRW,,,
+2152,0003021C.KS,KSE,Cayman Islands,KRW,,,
+2153,365270.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2154,3363702C.KS,KSE,Cayman Islands,KRW,,,
+2155,348350.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2156,163730.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2157,404950.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2158,225220.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2159,101360.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2160,370090.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2161,400840.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2162,311390.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2163,352770.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2164,337930.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2165,340350.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2166,311320.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2167,361390.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2168,369370.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2169,332370.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2170,33637L.KS,KSE,Cayman Islands,KRW,Technology,Electronic Components,
+2171,302550.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2172,304100.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2173,290510.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2174,294140.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2175,357230.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2176,3363701C.KS,KSE,Cayman Islands,KRW,,,
+2177,347890.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2178,353190.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2179,234340.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2180,256630.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2181,340570.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2182,214610.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2183,222080.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2184,700004.KS,KSE,Cayman Islands,KRW,,,
+2185,199800.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2186,322180.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2187,530097.KS,KSE,Cayman Islands,KRW,,,
+2188,530078.KS,KSE,Cayman Islands,KRW,,,
+2189,339950.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2190,299030.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2191,297090.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2192,510007.KS,KSE,Cayman Islands,KRW,,,
+2193,376300.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2194,214150.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2195,129890.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2196,510003.KS,KSE,Cayman Islands,KRW,,,
+2197,340360.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2198,530071.KS,KSE,Cayman Islands,KRW,,,
+2199,347700.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2200,173130.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2201,530072.KS,KSE,Cayman Islands,KRW,,,
+2202,328380.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2203,500015.KS,KSE,Cayman Islands,KRW,,,
+2204,610027.KS,KSE,Cayman Islands,KRW,,,
+2205,610035.KS,KSE,Cayman Islands,KRW,,,
+2206,700009.KS,KSE,Cayman Islands,KRW,,,
+2207,610005.KS,KSE,Cayman Islands,KRW,,,
+2208,136410.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2209,610020.KS,KSE,Cayman Islands,KRW,,,
+2210,520007.KS,KSE,Cayman Islands,KRW,,,
+2211,610007.KS,KSE,Cayman Islands,KRW,,,
+2212,570062.KS,KSE,Cayman Islands,KRW,,,
+2213,500062.KS,KSE,Cayman Islands,KRW,,,
+2214,500017.KS,KSE,Cayman Islands,KRW,,,
+2215,580031.KS,KSE,Cayman Islands,KRW,,,
+2216,570073.KS,KSE,Cayman Islands,KRW,,,
+2217,500050.KS,KSE,Cayman Islands,KRW,,,
+2218,610022.KS,KSE,Cayman Islands,KRW,,,
+2219,610023.KS,KSE,Cayman Islands,KRW,,,
+2220,570065.KS,KSE,Cayman Islands,KRW,,,
+2221,520011.KS,KSE,Cayman Islands,KRW,,,
+2222,570070.KS,KSE,Cayman Islands,KRW,,,
+2223,276040.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2224,256150.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2225,530062.KS,KSE,Cayman Islands,KRW,,,
+2226,257720.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2227,300080.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2228,520006.KS,KSE,Cayman Islands,KRW,,,
+2229,060850.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2230,101000.KQ,KOSDAQ,Cayman Islands,KRW,,,66
+2231,331920.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2232,310200.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2233,352940.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2234,214260.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2235,281740.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2236,211050.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2237,297570.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2238,388800.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2239,580027.KS,KSE,Cayman Islands,KRW,,,
+2240,610009.KS,KSE,Cayman Islands,KRW,,,
+2241,550041.KS,KSE,Cayman Islands,KRW,,,
+2242,190650.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2243,146320.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2244,347000.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2245,510019.KS,KSE,Cayman Islands,KRW,,,
+2246,102370.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2247,351330.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2248,530061.KS,KSE,Cayman Islands,KRW,,,
+2249,400560.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2250,570032.KS,KSE,Cayman Islands,KRW,,,
+2251,084180.KQ,KOSDAQ,Cayman Islands,KRW,,,55
+2252,352480.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2253,179530.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2254,530056.KS,KSE,Cayman Islands,KRW,,,
+2255,530023.KS,KSE,Cayman Islands,KRW,,,
+2256,610033.KS,KSE,Cayman Islands,KRW,,,
+2257,570053.KS,KSE,Cayman Islands,KRW,,,
+2258,610030.KS,KSE,Cayman Islands,KRW,,,
+2259,580031.KS,KSE,Cayman Islands,KRW,,,
+2260,530090.KS,KSE,Cayman Islands,KRW,,,
+2261,580010.KS,KSE,Cayman Islands,KRW,,,
+2262,550068.KS,KSE,Cayman Islands,KRW,,,
+2263,500035.KS,KSE,Cayman Islands,KRW,,,
+2264,580022.KS,KSE,Cayman Islands,KRW,,,
+2265,386580.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2266,274090.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2267,397880.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2268,570043.KS,KSE,Cayman Islands,KRW,,,
+2269,610029.KS,KSE,Cayman Islands,KRW,,,
+2270,376980.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2271,520043.KS,KSE,Cayman Islands,KRW,,,
+2272,323990.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2273,33637L.KS,KSE,Cayman Islands,KRW,Technology,Electronic Components,
+2274,286750.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2275,277810.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2276,353490.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2277,186230.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2278,348210.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2279,311320.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2280,340350.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2281,327260.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2282,74401BAA.KS,KSE,Cayman Islands,KRW,,,
+2283,03481K.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2284,361390.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2285,396300.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2286,099430.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2287,353190.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2288,387310.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2289,289010.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2290,101360.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2291,00279K.KS,KSE,Cayman Islands,KRW,,,
+2292,252500.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2293,234100.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2294,322180.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2295,263770.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2296,330860.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2297,413600.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2298,323280.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2299,317330.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2300,214610.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2301,299030.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2302,71201B97.KS,KSE,Cayman Islands,KRW,,,
+2303,530093.KS,KSE,Cayman Islands,KRW,,,
+2304,353590.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2305,530014.KS,KSE,Cayman Islands,KRW,,,
+2306,129890.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2307,019590.KQ,KOSDAQ,Cayman Islands,KRW,,,10
+2308,510003.KS,KSE,Cayman Islands,KRW,,,
+2309,590018.KS,KSE,Cayman Islands,KRW,,,
+2310,124560.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2311,367340.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2312,343510.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2313,610001.KS,KSE,Cayman Islands,KRW,,,
+2314,70101B95.KS,KSE,Cayman Islands,KRW,,,
+2315,570062.KS,KSE,Cayman Islands,KRW,,,
+2316,500016.KS,KSE,Cayman Islands,KRW,,,
+2317,500017.KS,KSE,Cayman Islands,KRW,,,
+2318,610011.KS,KSE,Cayman Islands,KRW,,,
+2319,610023.KS,KSE,Cayman Islands,KRW,,,
+2320,74201773.KS,KSE,Cayman Islands,KRW,,,
+2321,530002.KS,KSE,Cayman Islands,KRW,,,
+2322,610021.KS,KSE,Cayman Islands,KRW,,,
+2323,500060.KS,KSE,Cayman Islands,KRW,,,
+2324,520037.KS,KSE,Cayman Islands,KRW,,,
+2325,610007.KS,KSE,Cayman Islands,KRW,,,
+2326,610020.KS,KSE,Cayman Islands,KRW,,,
+2327,580030.KS,KSE,Cayman Islands,KRW,,,
+2328,570067.KS,KSE,Cayman Islands,KRW,,,
+2329,520010.KS,KSE,Cayman Islands,KRW,,,
+2330,580033.KS,KSE,Cayman Islands,KRW,,,
+2331,580019.KS,KSE,Cayman Islands,KRW,,,
+2332,530019.KS,KSE,Cayman Islands,KRW,,,
+2333,570069.KS,KSE,Cayman Islands,KRW,,,
+2334,610018.KS,KSE,Cayman Islands,KRW,,,
+2335,500051.KS,KSE,Cayman Islands,KRW,,,
+2336,570031.KS,KSE,Cayman Islands,KRW,,,
+2337,610027.KS,KSE,Cayman Islands,KRW,,,
+2338,331920.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2339,530095.KS,KSE,Cayman Islands,KRW,,,
+2340,365270.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2341,317850.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2342,163730.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2343,331380.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2344,308080.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2345,500003.KS,KSE,Cayman Islands,KRW,,,
+2346,400840.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2347,361670.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2348,368770.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2349,530082.KS,KSE,Cayman Islands,KRW,,,
+2350,530069.KS,KSE,Cayman Islands,KRW,,,
+2351,059270.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2352,340120.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2353,226330.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2354,301300.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2355,510009.KS,KSE,Cayman Islands,KRW,,,
+2356,500027.KS,KSE,Cayman Islands,KRW,,,
+2357,570042.KS,KSE,Cayman Islands,KRW,,,
+2358,354200.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2359,580020.KS,KSE,Cayman Islands,KRW,,,
+2360,400560.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2361,500028.KS,KSE,Cayman Islands,KRW,,,
+2362,199820.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2363,500053.KS,KSE,Cayman Islands,KRW,,,
+2364,256150.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2365,355150.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2366,318410.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2367,510006.KS,KSE,Cayman Islands,KRW,,,
+2368,510014.KS,KSE,Cayman Islands,KRW,,,
+2369,580026.KS,KSE,Cayman Islands,KRW,,,
+2370,377330.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2371,336060.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2372,75701B93.KS,KSE,Cayman Islands,KRW,,,
+2373,252990.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2374,251120.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2375,297890.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2376,303530.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2377,332370.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2378,500004.KS,KSE,Cayman Islands,KRW,,,
+2379,060850.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2380,500014.KS,KSE,Cayman Islands,KRW,,,
+2381,228760.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2382,373340.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2383,198080.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2384,570074.KS,KSE,Cayman Islands,KRW,,,
+2385,388800.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2386,330350.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2387,351330.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2388,272110.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2389,351320.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2390,530031.KS,KSE,Cayman Islands,KRW,,,
+2391,247660.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2392,357880.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2393,365900.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2394,530062.KS,KSE,Cayman Islands,KRW,,,
+2395,357580.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2396,580014.KS,KSE,Cayman Islands,KRW,,,
+2397,279600.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2398,367460.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2399,065370.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2400,265740.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2401,313760.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2402,33626L.KS,KSE,Cayman Islands,KRW,Industrials,Electrical Equipment & Parts,
+2403,36328K.KS,KSE,Cayman Islands,KRW,Industrials,Conglomerates,
+2404,3363701C.KS,KSE,Cayman Islands,KRW,,,
+2405,294140.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2406,405350.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2407,377450.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2408,357230.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2409,361570.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2410,086710.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2411,510020.KS,KSE,Cayman Islands,KRW,,,
+2412,377030.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2413,320000.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2414,335890.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2415,218150.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2416,294090.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2417,148150.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2418,298870.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2419,232680.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2420,530092.KS,KSE,Cayman Islands,KRW,,,
+2421,262260.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2422,222080.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2423,204270.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2424,376300.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2425,950190.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2426,357780.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2427,333620.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2428,391060.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2429,347140.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2430,064850.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2431,293490.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2432,328380.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2433,700007.KS,KSE,Cayman Islands,KRW,,,
+2434,610019.KS,KSE,Cayman Islands,KRW,,,
+2435,74701B8A.KS,KSE,Cayman Islands,KRW,,,
+2436,550057.KS,KSE,Cayman Islands,KRW,,,
+2437,610012.KS,KSE,Cayman Islands,KRW,,,
+2438,700010.KS,KSE,Cayman Islands,KRW,,,
+2439,520049.KS,KSE,Cayman Islands,KRW,,,
+2440,500005.KS,KSE,Cayman Islands,KRW,,,
+2441,510018.KS,KSE,Cayman Islands,KRW,,,
+2442,520040.KS,KSE,Cayman Islands,KRW,,,
+2443,500063.KS,KSE,Cayman Islands,KRW,,,
+2444,580013.KS,KSE,Cayman Islands,KRW,,,
+2445,610034.KS,KSE,Cayman Islands,KRW,,,
+2446,520048.KS,KSE,Cayman Islands,KRW,,,
+2447,570063.KS,KSE,Cayman Islands,KRW,,,
+2448,610017.KS,KSE,Cayman Islands,KRW,,,
+2449,500064.KS,KSE,Cayman Islands,KRW,,,
+2450,530085.KS,KSE,Cayman Islands,KRW,,,
+2451,500008.KS,KSE,Cayman Islands,KRW,,,
+2452,520038.KS,KSE,Cayman Islands,KRW,,,
+2453,510017.KS,KSE,Cayman Islands,KRW,,,
+2454,500015.KS,KSE,Cayman Islands,KRW,,,
+2455,396770.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2456,610002.KS,KSE,Cayman Islands,KRW,,,
+2457,352940.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2458,211050.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2459,550043.KS,KSE,Cayman Islands,KRW,,,
+2460,195940.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2461,550042.KS,KSE,Cayman Islands,KRW,,,
+2462,363250.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2463,032300.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2464,058970.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2465,520026.KS,KSE,Cayman Islands,KRW,,,
+2466,158430.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2467,530036.KS,KSE,Cayman Islands,KRW,,,
+2468,530064.KS,KSE,Cayman Islands,KRW,,,
+2469,294630.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2470,189330.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2471,700014.KS,KSE,Cayman Islands,KRW,,,
+2472,260970.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2473,062970.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2474,500041.KS,KSE,Cayman Islands,KRW,,,
+2475,610016.KS,KSE,Cayman Islands,KRW,,,
+2476,580016.KS,KSE,Cayman Islands,KRW,,,
+2477,159010.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2478,550069.KS,KSE,Cayman Islands,KRW,,,
+2479,315640.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2480,570072.KS,KSE,Cayman Islands,KRW,,,
+2481,700012.KS,KSE,Cayman Islands,KRW,,,
+2482,376930.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2483,321820.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2484,570019.KS,KSE,Cayman Islands,KRW,,,
+2485,74601669.KS,KSE,Cayman Islands,KRW,,,
+2486,500011.KS,KSE,Cayman Islands,KRW,,,
+2487,500058.KS,KSE,Cayman Islands,KRW,,,
+2488,610036.KS,KSE,Cayman Islands,KRW,,,
+2489,200350.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2490,570044.KS,KSE,Cayman Islands,KRW,,,
+2491,187660.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2492,273640.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2493,530075.KS,KSE,Cayman Islands,KRW,,,
+2494,500050.KS,KSE,Cayman Islands,KRW,,,
+2495,610032.KS,KSE,Cayman Islands,KRW,,,
+2496,500001.KS,KSE,Cayman Islands,KRW,,,
+2497,530063.KS,KSE,Cayman Islands,KRW,,,
+2498,610024.KS,KSE,Cayman Islands,KRW,,,
+2499,500023.KS,KSE,Cayman Islands,KRW,,,
+2500,260970.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2501,159010.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2502,278650.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2503,500029.KS,KSE,Cayman Islands,KRW,,,
+2504,388220.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2505,368770.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2506,272110.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2507,114840.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2508,510006.KS,KSE,Cayman Islands,KRW,,,
+2509,570074.KS,KSE,Cayman Islands,KRW,,,
+2510,322310.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2511,530036.KS,KSE,Cayman Islands,KRW,,,
+2512,347860.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2513,520009.KS,KSE,Cayman Islands,KRW,,,
+2514,352480.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2515,570023.KS,KSE,Cayman Islands,KRW,,,
+2516,700012.KS,KSE,Cayman Islands,KRW,,,
+2517,223250.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2518,950200.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2519,264850.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2520,580032.KS,KSE,Cayman Islands,KRW,,,
+2521,530056.KS,KSE,Cayman Islands,KRW,,,
+2522,294630.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2523,500032.KS,KSE,Cayman Islands,KRW,,,
+2524,520030.KS,KSE,Cayman Islands,KRW,,,
+2525,137080.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2526,510005.KS,KSE,Cayman Islands,KRW,,,
+2527,236810.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2528,200350.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2529,500058.KS,KSE,Cayman Islands,KRW,,,
+2530,377330.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2531,357580.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2532,355150.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2533,510014.KS,KSE,Cayman Islands,KRW,,,
+2534,373200.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2535,388790.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2536,317850.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2537,377480.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2538,382800.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2539,330730.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2540,376290.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2541,294090.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2542,234100.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2543,252500.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2544,218150.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2545,148150.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2546,323280.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2547,71201B97.KS,KSE,Cayman Islands,KRW,,,
+2548,510021.KS,KSE,Cayman Islands,KRW,,,
+2549,530093.KS,KSE,Cayman Islands,KRW,,,
+2550,353590.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2551,530066.KS,KSE,Cayman Islands,KRW,,,
+2552,228670.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2553,950220.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2554,412930.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2555,590018.KS,KSE,Cayman Islands,KRW,,,
+2556,293490.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2557,347140.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2558,70101B95.KS,KSE,Cayman Islands,KRW,,,
+2559,347770.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2560,377030.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2561,306040.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2562,290650.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2563,235980.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2564,520005.KS,KSE,Cayman Islands,KRW,,,
+2565,550057.KS,KSE,Cayman Islands,KRW,,,
+2566,75601BA2.KS,KSE,Cayman Islands,KRW,,,
+2567,74701B8A.KS,KSE,Cayman Islands,KRW,,,
+2568,406760.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2569,286750.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2570,323990.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2571,500059.KS,KSE,Cayman Islands,KRW,,,
+2572,570031.KS,KSE,Cayman Islands,KRW,,,
+2573,610034.KS,KSE,Cayman Islands,KRW,,,
+2574,610021.KS,KSE,Cayman Islands,KRW,,,
+2575,361670.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2576,186230.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2577,530091.KS,KSE,Cayman Islands,KRW,,,
+2578,308080.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2579,065370.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2580,300120.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2581,270660.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2582,500064.KS,KSE,Cayman Islands,KRW,,,
+2583,500008.KS,KSE,Cayman Islands,KRW,,,
+2584,349720.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2585,610028.KS,KSE,Cayman Islands,KRW,,,
+2586,570059.KS,KSE,Cayman Islands,KRW,,,
+2587,570044.KS,KSE,Cayman Islands,KRW,,,
+2588,222160.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2589,348030.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2590,610036.KS,KSE,Cayman Islands,KRW,,,
+2591,273060.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2592,276730.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2593,580018.KS,KSE,Cayman Islands,KRW,,,
+2594,359090.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2595,282880.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2596,580020.KS,KSE,Cayman Islands,KRW,,,
+2597,500013.KS,KSE,Cayman Islands,KRW,,,
+2598,530060.KS,KSE,Cayman Islands,KRW,,,
+2599,053950.KQ,KOSDAQ,Cayman Islands,KRW,,,247
+2600,610010.KS,KSE,Cayman Islands,KRW,,,
+2601,340120.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2602,059270.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2603,289220.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2604,304840.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2605,520046.KS,KSE,Cayman Islands,KRW,,,
+2606,409570.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2607,500056.KS,KSE,Cayman Islands,KRW,,,
+2608,388720.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2609,234690.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2610,610025.KS,KSE,Cayman Islands,KRW,,,
+2611,500040.KS,KSE,Cayman Islands,KRW,,,
+2612,570057.KS,KSE,Cayman Islands,KRW,,,
+2613,261780.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2614,363250.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2615,347740.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2616,570060.KS,KSE,Cayman Islands,KRW,,,
+2617,367000.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2618,610013.KS,KSE,Cayman Islands,KRW,,,
+2619,228760.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2620,500011.KS,KSE,Cayman Islands,KRW,,,
+2621,520043.KS,KSE,Cayman Islands,KRW,,,
+2622,510011.KS,KSE,Cayman Islands,KRW,,,
+2623,700014.KS,KSE,Cayman Islands,KRW,,,
+2624,317870.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2625,530031.KS,KSE,Cayman Islands,KRW,,,
+2626,334970.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2627,520034.KS,KSE,Cayman Islands,KRW,,,
+2628,372290.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2629,319660.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2630,241840.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2631,380320.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2632,164060.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2633,348210.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2634,298060.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2635,389030.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2636,700010.KS,KSE,Cayman Islands,KRW,,,
+2637,520049.KS,KSE,Cayman Islands,KRW,,,
+2638,550044.KS,KSE,Cayman Islands,KRW,,,
+2639,610004.KS,KSE,Cayman Islands,KRW,,,
+2640,530084.KS,KSE,Cayman Islands,KRW,,,
+2641,500012.KS,KSE,Cayman Islands,KRW,,,
+2642,550059.KS,KSE,Cayman Islands,KRW,,,
+2643,570051.KS,KSE,Cayman Islands,KRW,,,
+2644,550061.KS,KSE,Cayman Islands,KRW,,,
+2645,610008.KS,KSE,Cayman Islands,KRW,,,
+2646,610024.KS,KSE,Cayman Islands,KRW,,,
+2647,500061.KS,KSE,Cayman Islands,KRW,,,
+2648,510008.KS,KSE,Cayman Islands,KRW,,,
+2649,520015.KS,KSE,Cayman Islands,KRW,,,
+2650,530015.KS,KSE,Cayman Islands,KRW,,,
+2651,610017.KS,KSE,Cayman Islands,KRW,,,
+2652,530073.KS,KSE,Cayman Islands,KRW,,,
+2653,353060.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2654,356890.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2655,317530.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2656,284620.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2657,288330.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2658,372800.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2659,520014.KS,KSE,Cayman Islands,KRW,,,
+2660,019590.KQ,KOSDAQ,Cayman Islands,KRW,,,10
+2661,099390.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2662,950190.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2663,335870.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2664,343510.KQ,KOSDAQ,Cayman Islands,KRW,,,
+2665,500024.KS,KSE,Cayman Islands,KRW,,,

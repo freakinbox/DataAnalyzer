@@ -1,0 +1,611 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,EQNR.OL,Oslo,Norway,NOK,Energy,Oil & Gas Integrated,"21,126"
+1,DNB.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,"9,410"
+2,TEL.OL,Oslo,Norway,NOK,Communication Services,Telecom Services,"16,000"
+3,NHY.OL,Oslo,Norway,NOK,Basic Materials,Aluminum,"31,264"
+4,MOWI.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,"10,484"
+5,AKRBP.OL,Oslo,Norway,NOK,Energy,Oil & Gas E&P,"1,773"
+6,YAR.OL,Oslo,Norway,NOK,Basic Materials,Agricultural Inputs,"17,800"
+7,GJF.OL,Oslo,Norway,NOK,Financial Services,Insurance—Diversified,"3,710"
+8,VAR.OL,Oslo,Norway,NOK,Energy,Oil & Gas E&P,938
+9,SALM.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,
+10,AUTO.OL,Oslo,Norway,NOK,Technology,Software—Infrastructure,585
+11,ADE.OL,Oslo,Norway,NOK,Communication Services,Internet Content & Information,
+12,ORK.OL,Oslo,Norway,NOK,Consumer Defensive,Packaged Foods,"21,423"
+13,KOG.OL,Oslo,Norway,NOK,Industrials,Aerospace & Defense,"10,810"
+14,TOM.OL,Oslo,Norway,NOK,Industrials,Waste Management,"4,610"
+15,AKER.OL,Oslo,Norway,NOK,Industrials,Conglomerates,"1,605"
+16,LSG.OL,Oslo,Norway,NOK,Consumer Defensive,Packaged Foods,"5,500"
+17,SCHA.OL,Oslo,Norway,NOK,Communication Services,Publishing,"5,689"
+18,SCHB.OL,Oslo,Norway,NOK,Communication Services,Publishing,"5,689"
+19,STB.OL,Oslo,Norway,NOK,Financial Services,Financial Conglomerates,"1,914"
+20,BAKKA.OL,Oslo,Denmark,NOK,Consumer Defensive,Farm Products,"1,571"
+21,SRBNK.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,"1,505"
+22,NOD.OL,Oslo,Norway,NOK,Technology,Semiconductors,"1,146"
+23,ENTRA.OL,Oslo,Norway,NOK,Real Estate,REIT—Office,177
+24,AUSS.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,
+25,TIETO.OL,Oslo,Finland,NOK,Technology,Information Technology Services,"24,389"
+26,ELK.OL,Oslo,Norway,NOK,Basic Materials,Specialty Chemicals,"7,074"
+27,WAWI.OL,Oslo,Norway,NOK,Industrials,Integrated Freight & Logistics,"8,283"
+28,SUBC.OL,Oslo,Luxembourg,NOK,Energy,Oil & Gas Equipment & Services,
+29,NEL.OL,Oslo,Norway,NOK,Industrials,Specialty Industrial Machinery,500
+30,AFK.OL,Oslo,Norway,NOK,Industrials,Conglomerates,"2,200"
+31,SCATC.OL,Oslo,Norway,NOK,Utilities,Utilities—Renewable,622
+32,AFG.OL,Oslo,Norway,NOK,Industrials,Engineering & Construction,"5,413"
+33,OLT.OL,Oslo,Norway,NOK,Real Estate,Real Estate Services,
+34,MING.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,"1,482"
+35,BRG.OL,Oslo,Norway,NOK,Basic Materials,Specialty Chemicals,"1,072"
+36,GOGL.OL,Oslo,Bermuda,NOK,Industrials,Marine Shipping,37
+37,VEI.OL,Oslo,Norway,NOK,Industrials,Engineering & Construction,"7,719"
+38,TGS.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,471
+39,AKSO.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,"15,012"
+40,SPOL.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,"1,137"
+41,FRO.OL,Oslo,Bermuda,NOK,Energy,Oil & Gas Midstream,79
+42,NTS.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,"1,326"
+43,GSF.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,646
+44,BONHR.OL,Oslo,Norway,NOK,Industrials,Conglomerates,
+45,AKH.OL,Oslo,Norway,NOK,Financial Services,Asset Management,988
+46,DNO.OL,Oslo,Norway,NOK,Energy,Oil & Gas E&P,"1,327"
+47,ATEA.OL,Oslo,Norway,NOK,Technology,Information Technology Services,"7,658"
+48,ACC.OL,Oslo,Norway,NOK,Industrials,Pollution & Treatment Controls,70
+49,FLNG.OL,Oslo,Bermuda,NOK,Energy,Oil & Gas Midstream,8
+50,KAHOT.OL,Oslo,Norway,NOK,Technology,Software—Application,500
+51,CRAYN.OL,Oslo,Norway,NOK,Technology,Information Technology Services,"2,318"
+52,MPCC.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,24
+53,HAFNI.OL,Oslo,Bermuda,NOK,Industrials,Marine Shipping,"2,114"
+54,NYKD.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,87
+55,SNI.OL,Oslo,United Kingdom,NOK,Industrials,Marine Shipping,"6,553"
+56,NAS.OL,Oslo,Norway,NOK,Industrials,Airlines,
+57,WWIB.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,"15,464"
+58,BEWI.OL,Oslo,Norway,NOK,Consumer Cyclical,Packaging & Containers,"2,097"
+59,SVEG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,759
+60,WWI.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,"15,464"
+61,NONG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,831
+62,NRS.OL,Oslo,Norway,NOK,Consumer Defensive,Food Distribution,273
+63,PROT.OL,Oslo,Norway,NOK,Financial Services,Insurance—Specialty,411
+64,HPUR.OL,Oslo,Norway,NOK,Industrials,Industrial Distribution,415
+65,EPR.OL,Oslo,Norway,NOK,Consumer Defensive,Discount Stores,"2,116"
+66,SOON.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,533
+67,NOR.OL,Oslo,Norway,NOK,Energy,Oil & Gas E&P,26
+68,BWLPG.OL,Oslo,Singapore,NOK,Industrials,Marine Shipping,
+69,SASNO.OL,Oslo,Sweden,NOK,Industrials,Airlines,"6,326"
+70,HEX.OL,Oslo,Norway,NOK,Consumer Cyclical,Packaging & Containers,"1,505"
+71,BWE.OL,Oslo,Norway,NOK,Energy,Oil & Gas E&P,140
+72,BOUV.OL,Oslo,Norway,NOK,Technology,Information Technology Services,"1,841"
+73,RECSI.OL,Oslo,Norway,NOK,Technology,Semiconductor Equipment & Materials,289
+74,EFUEL.OL,Oslo,Denmark,NOK,Basic Materials,Specialty Chemicals,54
+75,RAKP.OL,Oslo,United Kingdom,NOK,Energy,Oil & Gas E&P,"1,264"
+76,VOLUE.OL,Oslo,Norway,NOK,Technology,Software—Application,648
+77,MAS.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,221
+78,ODL.OL,Oslo,United Kingdom,NOK,Energy,Oil & Gas Drilling,"2,927"
+79,BORR.OL,Oslo,Bermuda,NOK,Energy,Oil & Gas Drilling,517
+80,RING.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,218
+81,HAUTO.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,"1,627"
+82,MEDI.OL,Oslo,Norway,NOK,Healthcare,Medical Devices,116
+83,BELCO.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,660
+84,BWO.OL,Oslo,Bermuda,NOK,Energy,Oil & Gas Equipment & Services,"1,395"
+85,CADLR.OL,Oslo,Denmark,NOK,Industrials,Marine Shipping,70
+86,KOMPL.OL,Oslo,Norway,NOK,Consumer Cyclical,Internet Retail,795
+87,LINK.OL,Oslo,Norway,NOK,Communication Services,Telecom Services,714
+88,AKBM.OL,Oslo,Norway,NOK,Healthcare,Drug Manufacturers—Specialty & Generic,429
+89,NSKOG.OL,Oslo,Norway,NOK,Basic Materials,Paper & Paper Products,"1,881"
+90,SOAG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,216
+91,SEAW7.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,468
+92,SBO.OL,Oslo,Norway,NOK,Real Estate,Real Estate Services,83
+93,ISLAX.OL,Oslo,Iceland,NOK,Consumer Defensive,Farm Products,119
+94,MORG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,343
+95,CLOUD.OL,Oslo,Norway,NOK,Utilities,Utilities—Renewable,14
+96,PARB.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,54
+97,KID.OL,Oslo,Norway,NOK,Consumer Cyclical,Specialty Retail,401
+98,MWTR.OL,Oslo,United States,NOK,Communication Services,Advertising Agencies,"2,191"
+99,POL.OL,Oslo,Norway,NOK,Communication Services,Publishing,"1,308"
+100,KIT.OL,Oslo,Norway,NOK,Industrials,Electrical Equipment & Parts,"1,749"
+101,MULTI.OL,Oslo,Norway,NOK,Industrials,Engineering & Construction,"2,882"
+102,FROY.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,733
+103,ELO.OL,Oslo,Norway,NOK,Consumer Cyclical,Packaging & Containers,"2,106"
+104,ABG.OL,Oslo,Norway,NOK,Financial Services,Capital Markets,318
+105,PEN.OL,Oslo,Norway,NOK,Energy,Oil & Gas E&P,
+106,AZT.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,
+107,ODFB.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,"2,299"
+108,SATS.OL,Oslo,Norway,NOK,Consumer Cyclical,Leisure,"1,834"
+109,HELG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,165
+110,OKEA.OL,Oslo,Norway,NOK,Energy,Oil & Gas E&P,213
+111,BWEK.OL,Oslo,Singapore,NOK,Industrials,Marine Shipping,"2,101"
+112,ODF.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,"2,299"
+113,ACH.OL,Oslo,Norway,NOK,Basic Materials,Specialty Chemicals,50
+114,B2H.OL,Oslo,Norway,NOK,Financial Services,Credit Services,"1,979"
+115,SACAM.OL,Oslo,Chile,NOK,,,"1,900"
+116,TRE.OL,Oslo,Norway,NOK,Financial Services,Asset Management,
+117,OTOVO.OL,Oslo,Norway,NOK,Utilities,Utilities—Renewable,149
+118,AKVA.OL,Oslo,Norway,NOK,Industrials,Farm & Heavy Construction Machinery,"1,414"
+119,OET.OL,Oslo,Greece,NOK,Industrials,Marine Shipping,
+120,COOL.OL,Oslo,Bermuda,NOK,Industrials,Marine Shipping,
+121,AGAS.OL,Oslo,Bermuda,NOK,Energy,Oil & Gas Midstream,
+122,FKRFT.OL,Oslo,Norway,NOK,Utilities,Utilities—Regulated Electric,475
+123,WILS.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,142
+124,ECIT.OL,Oslo,Norway,NOK,Technology,Information Technology Services,"2,221"
+125,PHO.OL,Oslo,Norway,NOK,Healthcare,Drug Manufacturers—Specialty & Generic,97
+126,ZAP.OL,Oslo,Norway,NOK,Consumer Cyclical,Auto Parts,80
+127,GCC.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,
+128,KCC.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,9
+129,SALME.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,19
+130,SSG.OL,Oslo,Norway,NOK,Industrials,Specialty Business Services,65
+131,ULTI.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,22
+132,QFUEL.OL,Oslo,Norway,NOK,Industrials,Waste Management,95
+133,KMCP.OL,Oslo,Norway,NOK,Real Estate,Real Estate Services,
+134,SMCRT.OL,Oslo,Norway,NOK,Technology,Software—Application,
+135,KOA.OL,Oslo,Norway,NOK,Consumer Cyclical,Auto Parts,"5,624"
+136,AFISH.OL,Oslo,Iceland,NOK,Consumer Defensive,Farm Products,
+137,2020.OL,Oslo,Bermuda,NOK,Industrials,Marine Shipping,5
+138,XXL.OL,Oslo,Norway,NOK,Consumer Cyclical,Specialty Retail,
+139,ASA.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,159
+140,PYRUM.OL,Oslo,Germany,NOK,Industrials,Pollution & Treatment Controls,51
+141,AGLX.OL,Oslo,Norway,NOK,Industrials,Waste Management,80
+142,AURA.OL,Oslo,Norway,NOK,Real Estate,Real Estate Services,
+143,OTEC.OL,Oslo,Norway,NOK,Communication Services,Advertising Agencies,
+144,SOR.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,564
+145,AKAST.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,"2,358"
+146,VOW.OL,Oslo,Norway,NOK,Industrials,Pollution & Treatment Controls,128
+147,ECO.OL,Oslo,Norway,NOK,Technology,Software—Application,517
+148,SIOFF.OL,Oslo,Norway,NOK,Energy,Oil & Gas Midstream,
+149,PEXIP.OL,Oslo,Norway,NOK,Technology,Software—Application,517
+150,RANA.OL,Oslo,Norway,NOK,Basic Materials,Steel,286
+151,ELABS.OL,Oslo,Norway,NOK,Technology,Software—Application,
+152,GIG.OL,Oslo,Malta,NOK,Consumer Cyclical,Gambling,468
+153,SADG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,138
+154,BCS.OL,Oslo,Norway,NOK,Basic Materials,Specialty Chemicals,34
+155,AMSC.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,3
+156,NORDH.OL,Oslo,Finland,NOK,Healthcare,Health Information Services,300
+157,EWIND.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,7
+158,IFISH.OL,Oslo,Iceland,NOK,Consumer Defensive,Farm Products,51
+159,TEKNA.OL,Oslo,Canada,NOK,Basic Materials,Specialty Chemicals,190
+160,BMA.OL,Oslo,Norway,NOK,Industrials,Building Products & Equipment,730
+161,AOW.OL,Oslo,Norway,NOK,Utilities,Utilities—Renewable,
+162,CARA.OL,Oslo,Norway,NOK,Healthcare,Health Information Services,103
+163,ACR.OL,Oslo,Norway,NOK,Financial Services,Credit Services,863
+164,HUNT.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,4
+165,WEST.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,112
+166,SHLF.OL,Oslo,United Arab Emirates,NOK,Energy,Oil & Gas Drilling,"2,112"
+167,MSEIS.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,320
+168,HRGI.OL,Oslo,Norway,NOK,Basic Materials,Specialty Chemicals,17
+169,HSHIP.OL,Oslo,Bermuda,NOK,Industrials,Marine Shipping,
+170,SIKRI.OL,Oslo,Norway,NOK,Technology,Information Technology Services,272
+171,BGBIO.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,42
+172,NCOD.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,
+173,JIN.OL,Oslo,Hong Kong,NOK,Industrials,Marine Shipping,64
+174,PRS.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,103
+175,PLT.OL,Oslo,Norway,NOK,Technology,Electronic Components,34
+176,IDEX.OL,Oslo,Norway,NOK,Technology,Software—Application,92
+177,NANOV.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,36
+178,NORBT.OL,Oslo,Norway,NOK,Technology,Scientific & Technical Instruments,311
+179,ELIMP.OL,Oslo,Norway,NOK,Technology,Electronics & Computer Distribution,
+180,HBC.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,63
+181,MRCEL.OL,Oslo,Norway,NOK,Technology,Software—Application,692
+182,ANDF.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,16
+183,TOTG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,92
+184,NRC.OL,Oslo,Norway,NOK,Industrials,Railroads,"1,893"
+185,OCEAN.OL,Oslo,Norway,NOK,Industrials,Pollution & Treatment Controls,
+186,SAGA.OL,Oslo,Norway,NOK,Basic Materials,Specialty Chemicals,
+187,KOMP.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,145
+188,PGS.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,839
+189,ENVIP.OL,Oslo,Netherlands,NOK,Industrials,Pollution & Treatment Controls,
+190,KING.OL,Oslo,Netherlands,NOK,Consumer Defensive,Packaged Foods,93
+191,AQUA.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,960
+192,HDLY.OL,Oslo,Norway,NOK,Technology,Communication Equipment,103
+193,DSRT.OL,Oslo,Norway,NOK,Basic Materials,Agricultural Inputs,51
+194,GYL.OL,Oslo,Norway,NOK,Communication Services,Publishing,"1,808"
+195,AIRX.OL,Oslo,Norway,NOK,Industrials,Electrical Equipment & Parts,140
+196,NOL.OL,Oslo,Bermuda,NOK,Energy,Oil & Gas Drilling,3
+197,HKY.OL,Oslo,Bermuda,NOK,,,
+198,LUMI.OL,Oslo,Norway,NOK,Consumer Defensive,Education & Training Services,295
+199,SMOP.OL,Oslo,Norway,NOK,Technology,Software—Infrastructure,
+200,HYPRO.OL,Oslo,Norway,NOK,Industrials,Specialty Industrial Machinery,
+201,INSTA.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,35
+202,SNOR.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,211
+203,SOFF.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,"3,600"
+204,JAREN.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,76
+205,CSAM.OL,Oslo,Norway,NOK,Healthcare,Health Information Services,288
+206,SPOG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,187
+207,RIVER.OL,Oslo,Malta,NOK,Technology,Information Technology Services,60
+208,DVD.OL,Oslo,Norway,NOK,Energy,Oil & Gas Drilling,
+209,MGN.OL,Oslo,Norway,NOK,Utilities,Utilities—Renewable,
+210,NORSE.OL,Oslo,Norway,NOK,Industrials,Airlines,62
+211,BRA.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,41
+212,KAL.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,
+213,PNOR.OL,Oslo,Norway,NOK,Energy,Oil & Gas E&P,
+214,CAMBI.OL,Oslo,Norway,NOK,Industrials,Waste Management,129
+215,IWS.OL,Oslo,Norway,NOK,Utilities,Utilities—Renewable,
+216,RISH.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,9
+217,ZAL.OL,Oslo,Norway,NOK,Industrials,Staffing & Employment Services,768
+218,STRO.OL,Oslo,Norway,NOK,Industrials,Business Equipment & Supplies,400
+219,OTL.OL,Oslo,United Kingdom,NOK,Energy,Oil & Gas Drilling,
+220,REACH.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,128
+221,CIRCA.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,
+222,ITERA.OL,Oslo,Norway,NOK,Technology,Information Technology Services,648
+223,SDSD.OL,Oslo,Cyprus,NOK,Energy,Oil & Gas Equipment & Services,
+224,NOM.OL,Oslo,Norway,NOK,Basic Materials,Other Industrial Metals & Mining,
+225,QFR.OL,Oslo,Norway,NOK,Industrials,Infrastructure Operations,349
+226,ALNG.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,7
+227,NKR.OL,Oslo,Norway,NOK,Industrials,Specialty Industrial Machinery,54
+228,WSTEP.OL,Oslo,Norway,NOK,Technology,Information Technology Services,478
+229,ASTK.OL,Oslo,Denmark,NOK,Technology,Computer Hardware,151
+230,AURG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,60
+231,NTI.OL,Oslo,Norway,NOK,Industrials,Aerospace & Defense,97
+232,ENSU.OL,Oslo,Norway,NOK,Technology,Electronic Components,
+233,NOHAL.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,44
+234,ZWIPE.OL,Oslo,Norway,NOK,Technology,Software—Infrastructure,32
+235,ENDUR.OL,Oslo,Norway,NOK,Industrials,Conglomerates,472
+236,NUMND.OL,Oslo,Norway,NOK,Industrials,Aerospace & Defense,122
+237,CAPSL.OL,Oslo,Norway,NOK,Industrials,Pollution & Treatment Controls,
+238,VISTN.OL,Oslo,Norway,NOK,Healthcare,Drug Manufacturers—Specialty & Generic,
+239,CONTX.OL,Oslo,Sweden,NOK,Healthcare,Health Information Services,53
+240,CSS.OL,Oslo,Australia,NOK,Consumer Defensive,Farm Products,
+241,GENT.OL,Oslo,Norway,NOK,Healthcare,Medical Devices,
+242,PMG.OL,Oslo,Norway,NOK,Technology,Software—Application,140
+243,ALT.OL,Oslo,Ireland,NOK,Utilities,Utilities—Renewable,
+244,TECO.OL,Oslo,Norway,NOK,Industrials,Specialty Industrial Machinery,23
+245,NBX.OL,Oslo,Norway,NOK,Financial Services,Capital Markets,
+246,NAPA.OL,Oslo,Denmark,NOK,Technology,Communication Equipment,84
+247,XPLRA.OL,Oslo,Norway,NOK,Consumer Cyclical,Internet Retail,90
+248,FLYR.OL,Oslo,Norway,NOK,Industrials,Airlines,53
+249,PHLY.OL,Oslo,Norway,NOK,Industrials,Aerospace & Defense,343
+250,MNTR.OL,Oslo,Norway,NOK,Industrials,Staffing & Employment Services,
+251,R8P.OL,Oslo,Norway,NOK,Real Estate,Real Estate—Development,30
+252,QEC.OL,Oslo,Canada,NOK,Energy,Oil & Gas E&P,
+253,NOAP.OL,Oslo,Denmark,NOK,Consumer Defensive,Farm Products,20
+254,PSKY.OL,Oslo,Norway,NOK,Healthcare,Health Information Services,197
+255,SB68.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,58
+256,TECH.OL,Oslo,Norway,NOK,Technology,Software—Application,341
+257,VVL.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,
+258,OSUN.OL,Oslo,Norway,NOK,Utilities,Utilities—Renewable,10
+259,GIGA.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,
+260,BWIDL.OL,Oslo,Norway,NOK,Industrials,Engineering & Construction,69
+261,NEXT.OL,Oslo,Norway,NOK,Technology,Scientific & Technical Instruments,
+262,EXTX.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,8
+263,HAV.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,
+264,SCANA.OL,Oslo,Norway,NOK,Industrials,Industrial Distribution,84
+265,VGM.OL,Oslo,Norway,NOK,Industrials,Waste Management,
+266,DLTX.OL,Oslo,Norway,NOK,Basic Materials,Other Industrial Metals & Mining,
+267,GRONG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,60
+268,SKUE.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,87
+269,CYVIZ.OL,Oslo,Norway,NOK,Technology,Computer Hardware,140
+270,NAVA.OL,Oslo,Norway,NOK,Healthcare,Medical Distribution,30
+271,MELG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,68
+272,MPCES.OL,Oslo,Netherlands,NOK,Utilities,Utilities—Renewable,13
+273,ARCH.OL,Oslo,Bermuda,NOK,Energy,Oil & Gas Drilling,"4,473"
+274,NSOL.OL,Oslo,Norway,NOK,Utilities,Utilities—Independent Power Producers,
+275,KRAB.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,35
+276,IOX.OL,Oslo,Norway,NOK,Energy,Oil & Gas E&P,
+277,EIOF.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,
+278,SOFTX.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,21
+279,NODL.OL,Oslo,Bermuda,NOK,Energy,Oil & Gas Drilling,1
+280,ABS.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,13
+281,HOC.OL,Oslo,Norway,NOK,Technology,Software—Application,124
+282,LYTIX.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,8
+283,STATT.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,
+284,ARR.OL,Oslo,Norway,NOK,Technology,Information Technology Services,373
+285,ORN.OL,Oslo,Norway,NOK,Technology,Software—Application,129
+286,LIFE.OL,Oslo,Norway,NOK,Healthcare,Medical Devices,
+287,BARRA.OL,Oslo,Singapore,NOK,Consumer Defensive,Farm Products,160
+288,DOF.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,"2,719"
+289,ELOP.OL,Oslo,Norway,NOK,Technology,Scientific & Technical Instruments,
+290,PROXI.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,"45,000"
+291,TRVX.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,21
+292,HUDL.OL,Oslo,Norway,NOK,Technology,Software—Application,30
+293,NTEL.OL,Oslo,Norway,NOK,Communication Services,Telecom Services,33
+294,OBSRV.OL,Oslo,Norway,NOK,Healthcare,Medical Devices,
+295,BALT.OL,Oslo,Norway,NOK,Real Estate,Real Estate Services,
+296,PSE.OL,Oslo,Cyprus,NOK,Energy,Oil & Gas Equipment & Services,
+297,NORTH.OL,Oslo,Norway,NOK,Financial Services,Asset Management,
+298,AKOBO.OL,Oslo,Sweden,NOK,Basic Materials,Gold,38
+299,CARBN.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,9
+300,SUNSB.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,27
+301,ASTRO.OL,Oslo,Switzerland,NOK,Technology,Communication Equipment,51
+302,MVW.OL,Oslo,Norway,NOK,Industrials,Pollution & Treatment Controls,
+303,ROMSB.OL,Oslo,Norway,NOK,Financial Services,Financial Conglomerates,44
+304,PRYME.OL,Oslo,Netherlands,NOK,Industrials,Waste Management,17
+305,EMGS.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,17
+306,BOR.OL,Oslo,Norway,NOK,Industrials,Building Products & Equipment,
+307,ZENA.OL,Oslo,Canada,NOK,Energy,Oil & Gas E&P,59
+308,AWDR.OL,Oslo,United Kingdom,NOK,Energy,Oil & Gas Drilling,108
+309,GOD.OL,Oslo,Norway,NOK,Industrials,Engineering & Construction,309
+310,ABT.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,5
+311,GEM.OL,Oslo,Norway,NOK,Basic Materials,Other Industrial Metals & Mining,
+312,BFISH.OL,Oslo,Norway,NOK,Consumer Defensive,Farm Products,
+313,TYSB.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,
+314,PCIB.OL,Oslo,Norway,NOK,Healthcare,Biotechnology,
+315,KYOTO.OL,Oslo,Norway,NOK,Industrials,Specialty Industrial Machinery,9
+316,HYARD.OL,Oslo,Norway,NOK,Industrials,Aerospace & Defense,490
+317,GEG.OL,Oslo,Cyprus,NOK,Energy,Oil & Gas Equipment & Services,
+318,HMONY.OL,Oslo,Norway,NOK,Technology,Software—Infrastructure,4
+319,5PG.OL,Oslo,Denmark,NOK,Communication Services,Electronic Gaming & Multimedia,20
+320,GNP.OL,Oslo,Norway,NOK,Utilities,Utilities—Regulated Electric,
+321,AASB.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,33
+322,NISB.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,23
+323,ARGEO.OL,Oslo,Norway,NOK,Energy,Oil & Gas Equipment & Services,35
+324,HAVI.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,461
+325,ROMER.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,
+326,HYON.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,
+327,QUEST.OL,Oslo,Norway,NOK,Technology,Software—Infrastructure,64
+328,CAN.OL,Oslo,Norway,NOK,Technology,Software—Application,42
+329,HSPG.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,
+330,HYN.OL,Oslo,Norway,NOK,Consumer Cyclical,Specialty Retail,7
+331,SOGN.OL,Oslo,Norway,NOK,Financial Services,Banks—Regional,36
+332,SKAND.OL,Oslo,Norway,NOK,Utilities,Utilities—Renewable,35
+333,AYFIE.OL,Oslo,Norway,NOK,Technology,Software—Application,
+334,AEGA.OL,Oslo,Norway,NOK,Utilities,Utilities—Renewable,
+335,EAM.OL,Oslo,Norway,NOK,Utilities,Utilities—Renewable,
+336,ROM.OL,Oslo,Bermuda,NOK,Real Estate,Real Estate Services,5
+337,OTS.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,11
+338,INDCT.OL,Oslo,Norway,NOK,Healthcare,Health Information Services,
+339,GEOS.OL,Oslo,Norway,NOK,Industrials,Marine Shipping,
+340,BSP.OL,Oslo,Norway,NOK,Consumer Cyclical,Lodging,1
+341,ADS.OL,Oslo,Cyprus,NOK,Industrials,Marine Shipping,
+342,INSR.OL,Oslo,Norway,NOK,Financial Services,Insurance—Property & Casualty,24
+343,SVEG92-PRO.OL,Oslo,Norway,NOK,,,
+344,SOON14-PRO.OL,Oslo,Norway,NOK,,,
+345,SPOBK18-PRO.OL,Oslo,Norway,NOK,,,
+346,OBOBA28-PRO.OL,Oslo,Norway,NOK,,,
+347,FSB41-PRO.OL,Oslo,Norway,NOK,,,
+348,LANDK43-PRO.OL,Oslo,Norway,NOK,,,
+349,NONG102-PRO.OL,Oslo,Norway,NOK,,,
+350,FFSB11-PRO.OL,Oslo,Norway,NOK,,,
+351,CRAYNO.OL,Oslo,Norway,NOK,,,
+352,GJBB15-PRO.OL,Oslo,Norway,NOK,,,
+353,EIKB86-PRO.OL,Oslo,Norway,NOK,,,
+354,EIKRN18-PRO.OL,Oslo,Norway,NOK,,,
+355,MING79-PRO.OL,Oslo,Norway,NOK,,,
+356,SADG74-PRO.OL,Oslo,Norway,NOK,,,
+357,SKUE16-PRO.OL,Oslo,Norway,NOK,,,
+358,JESB16-PRO.OL,Oslo,Norway,NOK,,,
+359,SOON15-PRO.OL,Oslo,Norway,NOK,,,
+360,KLPKK26-PRO.OL,Oslo,Norway,NOK,,,
+361,HSPG43-PRO.OL,Oslo,Norway,NOK,,,
+362,ASAO.OL,Oslo,Norway,NOK,,,
+363,DTSB13-PRO.OL,Oslo,Norway,NOK,,,
+364,GSFO.OL,Oslo,Norway,NOK,,,
+365,SKASB23-PRO.OL,Oslo,Norway,NOK,,,
+366,PROTO.OL,Oslo,Norway,NOK,,,
+367,HARSB11-PRO.OL,Oslo,Norway,NOK,,,
+368,FLOAT04-PRO.OL,Oslo,Norway,USD,,,
+369,JESB18-PRO.OL,Oslo,Norway,NOK,,,
+370,KFS55-PRO.OL,Oslo,Norway,NOK,,,
+371,SOR61-PRO.OL,Oslo,Norway,NOK,,,
+372,HELG46-PRO.OL,Oslo,Norway,NOK,,,
+373,BRFI43-PRO.OL,Oslo,Norway,NOK,,,
+374,FERDE13-PRO-ESG.OL,Oslo,Norway,NOK,,,
+375,GJFO.OL,Oslo,Norway,NOK,,,
+376,KIDO.OL,Oslo,Norway,NOK,,,
+377,THOL60-PRO.OL,Oslo,Norway,NOK,,,
+378,OBBK04-PRO.OL,Oslo,Norway,NOK,,,
+379,SKUE25-PRO.OL,Oslo,Norway,NOK,,,
+380,MODSB24-PRO.OL,Oslo,Norway,NOK,,,
+381,MORG55-PRO.OL,Oslo,Norway,NOK,,,
+382,TIETOO.OL,Oslo,Norway,NOK,,,
+383,AKSOO.OL,Oslo,Norway,NOK,,,
+384,FSB35-PRO.OL,Oslo,Norway,NOK,,,
+385,JINO.OL,Oslo,Norway,NOK,,,
+386,AKERO.OL,Oslo,Norway,NOK,,,
+387,HBCO.OL,Oslo,Norway,NOK,,,
+388,BELCOO.OL,Oslo,Norway,NOK,,,
+389,OKEAO.OL,Oslo,Norway,NOK,,,
+390,PHOO.OL,Oslo,Norway,NOK,,,
+391,MING90-PRO.OL,Oslo,Norway,NOK,,,
+392,ELOO.OL,Oslo,Norway,NOK,,,
+393,VARO.OL,Oslo,Norway,NOK,,,
+394,SUBCO.OL,Oslo,Norway,NOK,,,
+395,BKK51-PRO.OL,Oslo,Norway,NOK,,,
+396,BORRO.OL,Oslo,Norway,NOK,,,
+397,NODO.OL,Oslo,Norway,NOK,,,
+398,ODFO.OL,Oslo,Norway,NOK,,,
+399,QFRO.OL,Oslo,Norway,NOK,,,
+400,FSB40-PRO.OL,Oslo,Norway,NOK,,,
+401,SPOG77-PRO.OL,Oslo,Norway,NOK,,,
+402,STORB64-PRO.OL,Oslo,Norway,NOK,,,
+403,ROMER25-PRO.OL,Oslo,Norway,NOK,,,
+404,ROMER26-PRO.OL,Oslo,Norway,NOK,,,
+405,SCANAO.OL,Oslo,Norway,NOK,,,
+406,MORG51-PRO.OL,Oslo,Norway,NOK,,,
+407,TOTG57-PRO.OL,Oslo,Norway,NOK,,,
+408,SFSB78-PRO.OL,Oslo,Norway,NOK,,,
+409,EIKRN14-PRO.OL,Oslo,Norway,NOK,,,
+410,SOON34-PRO.OL,Oslo,Norway,NOK,,,
+411,BRFI30-PRO.OL,Oslo,Norway,NOK,,,
+412,HEBK19-PRO.OL,Oslo,Norway,NOK,,,
+413,LUSB13-PRO.OL,Oslo,Norway,NOK,,,
+414,SOON36-PRO.OL,Oslo,Norway,NOK,,,
+415,PGSO.OL,Oslo,Norway,NOK,,,
+416,AFGO.OL,Oslo,Norway,NOK,,,
+417,MING84-PRO.OL,Oslo,Norway,NOK,,,
+418,LYSE20-PRO.OL,Oslo,Norway,NOK,,,
+419,AKRBPO.OL,Oslo,Norway,NOK,,,
+420,SFSB70-PRO.OL,Oslo,Norway,NOK,,,
+421,SNOR06-PRO.OL,Oslo,Norway,NOK,,,
+422,NSKOGO.OL,Oslo,Norway,NOK,,,
+423,TOMO.OL,Oslo,Norway,NOK,,,
+424,RISHO.OL,Oslo,Norway,NOK,,,
+425,EWINDO.OL,Oslo,Norway,NOK,,,
+426,AUTOOO.OL,Oslo,Norway,NOK,,,
+427,REACHO.OL,Oslo,Norway,NOK,,,
+428,EPRO.OL,Oslo,Norway,NOK,,,
+429,BONHRO.OL,Oslo,Norway,NOK,,,
+430,ODLO.OL,Oslo,Norway,NOK,,,
+431,AMSCO.OL,Oslo,Norway,NOK,,,
+432,HUNTO.OL,Oslo,Norway,NOK,,,
+433,HELK20-PRO.OL,Oslo,Norway,NOK,,,
+434,BNB89-PRO.OL,Oslo,Norway,NOK,,,
+435,FROO.OL,Oslo,Norway,NOK,,,
+436,BRGO.OL,Oslo,Norway,NOK,,,
+437,ELKO.OL,Oslo,Norway,NOK,,,
+438,DNBO.OL,Oslo,Norway,NOK,,,
+439,AKHO.OL,Oslo,Norway,NOK,,,
+440,ACCO.OL,Oslo,Norway,NOK,,,
+441,SBANK20-PRO.OL,Oslo,Norway,NOK,,,
+442,SOON16-PRO.OL,Oslo,Norway,NOK,,,
+443,SOON20-PRO.OL,Oslo,Norway,NOK,,,
+444,TRGSB18-PRO.OL,Oslo,Norway,NOK,,,
+445,HOSP14-PRO.OL,Oslo,Norway,NOK,,,
+446,ORKO.OL,Oslo,Norway,NOK,,,
+447,KOGO.OL,Oslo,Norway,NOK,,,
+448,KAHOTO.OL,Oslo,Norway,NOK,,,
+449,KOMPO.OL,Oslo,Norway,NOK,,,
+450,2020O.OL,Oslo,Norway,NOK,,,
+451,NODLO.OL,Oslo,Norway,NOK,,,
+452,ADEO.OL,Oslo,Norway,NOK,,,
+453,SOR53-PRO.OL,Oslo,Norway,NOK,,,
+454,SPOL64-PRO.OL,Oslo,Norway,NOK,,,
+455,ULTIO.OL,Oslo,Norway,NOK,,,
+456,PHLYO.OL,Oslo,Norway,NOK,,,
+457,BWOO.OL,Oslo,Norway,NOK,,,
+458,QECO.OL,Oslo,Norway,NOK,,,
+459,BRFI40-PRO.OL,Oslo,Norway,NOK,,,
+460,PENO.OL,Oslo,Norway,NOK,,,
+461,AGASO.OL,Oslo,Norway,NOK,,,
+462,TRVXO.OL,Oslo,Norway,NOK,,,
+463,NKRO.OL,Oslo,Norway,NOK,,,
+464,SKASB22-PRO.OL,Oslo,Norway,NOK,,,
+465,NANOVO.OL,Oslo,Norway,NOK,,,
+466,NASO.OL,Oslo,Norway,NOK,,,
+467,FKOV12-PRO.OL,Oslo,Norway,NOK,,,
+468,SSFBK16-PRO.OL,Oslo,Norway,NOK,,,
+469,SSFBK19-PRO.OL,Oslo,Norway,NOK,,,
+470,TINE28-PRO.OL,Oslo,Norway,NOK,,,
+471,GIGO.OL,Oslo,Norway,NOK,,,
+472,XXLO.OL,Oslo,Norway,NOK,,,
+473,AZTO.OL,Oslo,Norway,NOK,,,
+474,MWTRO.OL,Oslo,Norway,NOK,,,
+475,SVEG103-PRO.OL,Oslo,Norway,NOK,,,
+476,OBOBA30-PRO.OL,Oslo,Norway,NOK,,,
+477,SBNK16-PRO.OL,Oslo,Norway,NOK,,,
+478,PARB42-PRO.OL,Oslo,Norway,NOK,,,
+479,SADG78-PRO.OL,Oslo,Norway,NOK,,,
+480,BRFI50-PRO.OL,Oslo,Norway,NOK,,,
+481,MORG53-PRO.OL,Oslo,Norway,NOK,,,
+482,SOON02-PRO.OL,Oslo,Norway,NOK,,,
+483,SBBI29-PRO.OL,Oslo,Norway,NOK,,,
+484,TRKO13-PRO.OL,Oslo,Norway,NOK,,,
+485,ROSB16-PRO.OL,Oslo,Norway,NOK,,,
+486,KFS60-PRO.OL,Oslo,Norway,NOK,,,
+487,SBHA20-PRO.OL,Oslo,Norway,NOK,,,
+488,NONG96-PRO.OL,Oslo,Norway,NOK,,,
+489,HEBK29-PRO.OL,Oslo,Norway,NOK,,,
+490,WWIBO.OL,Oslo,Norway,NOK,,,
+491,ALNGO.OL,Oslo,Norway,NOK,,,
+492,MSEISO.OL,Oslo,Norway,NOK,,,
+493,IOXO.OL,Oslo,Norway,NOK,,,
+494,EIKRN13-PRO.OL,Oslo,Norway,NOK,,,
+495,MING103-PRO.OL,Oslo,Norway,NOK,,,
+496,EIDSB10-PRO.OL,Oslo,Norway,NOK,,,
+497,SOON43-PRO.OL,Oslo,Norway,NOK,,,
+498,SOGN16-PRO.OL,Oslo,Norway,NOK,,,
+499,TRYG01-PRO.OL,Oslo,Norway,NOK,,,
+500,PHLYO.OL,Oslo,Norway,NOK,,,
+501,SKASB22-PRO.OL,Oslo,Norway,NOK,,,
+502,ULTIO.OL,Oslo,Norway,NOK,,,
+503,TRVXO.OL,Oslo,Norway,NOK,,,
+504,QECO.OL,Oslo,Norway,NOK,,,
+505,OSPA29-PRO.OL,Oslo,Norway,NOK,,,
+506,HARSB22-PRO.OL,Oslo,Norway,NOK,,,
+507,AURG47-PRO.OL,Oslo,Norway,NOK,,,
+508,NANOVO.OL,Oslo,Norway,NOK,,,
+509,NASO.OL,Oslo,Norway,NOK,,,
+510,FLNGO.OL,Oslo,Norway,NOK,,,
+511,PENO.OL,Oslo,Norway,NOK,,,
+512,NKRO.OL,Oslo,Norway,NOK,,,
+513,AGASO.OL,Oslo,Norway,NOK,,,
+514,EIKRN17-PRO.OL,Oslo,Norway,NOK,,,
+515,SOR58-PRO.OL,Oslo,Norway,NOK,,,
+516,OPSB26-PRO.OL,Oslo,Norway,NOK,,,
+517,SOGSB13-PRO.OL,Oslo,Norway,NOK,,,
+518,SOON01-PRO.OL,Oslo,Norway,NOK,,,
+519,SOAG26-PRO.OL,Oslo,Norway,NOK,,,
+520,MODSB29-PRO.OL,Oslo,Norway,NOK,,,
+521,NASB18-PRO.OL,Oslo,Norway,NOK,,,
+522,RISB10-PRO.OL,Oslo,Norway,NOK,,,
+523,AASB29-PRO.OL,Oslo,Norway,NOK,,,
+524,PARB27-PRO.OL,Oslo,Norway,NOK,,,
+525,WAWIO.OL,Oslo,Norway,NOK,,,
+526,MING99-PRO-ESG.OL,Oslo,Norway,NOK,,,
+527,NOLO.OL,Oslo,Norway,NOK,,,
+528,HEXO.OL,Oslo,Norway,NOK,,,
+529,SPSK16-PRO.OL,Oslo,Norway,NOK,,,
+530,SOON10-PRO.OL,Oslo,Norway,NOK,,,
+531,JAEREN14-PRO.OL,Oslo,Norway,NOK,,,
+532,JAEREN13-PRO.OL,Oslo,Norway,NOK,,,
+533,OSPA26-PRO.OL,Oslo,Norway,NOK,,,
+534,ASKSB26-PRO.OL,Oslo,Norway,NOK,,,
+535,BOUVO.OL,Oslo,Norway,NOK,,,
+536,PPG.OL,Oslo,Norway,NOK,Real Estate,Real Estate Services,2
+537,VEIO.OL,Oslo,Norway,NOK,,,
+538,PEXIPO.OL,Oslo,Norway,NOK,,,
+539,OETO.OL,Oslo,Norway,NOK,,,
+540,SASNOO.OL,Oslo,Norway,NOK,,,
+541,SOON27-PRO.OL,Oslo,Norway,NOK,,,
+542,MRCELO.OL,Oslo,Norway,NOK,,,
+543,BWLPGO.OL,Oslo,Norway,NOK,,,
+544,MOWIO.OL,Oslo,Norway,NOK,,,
+545,NEXTO.OL,Oslo,Norway,NOK,,,
+546,TREO.OL,Oslo,Norway,NOK,,,
+547,KITO.OL,Oslo,Norway,NOK,,,
+548,NRCO.OL,Oslo,Norway,NOK,,,
+549,BWEO.OL,Oslo,Norway,NOK,,,
+550,EISP01-PRO.OL,Oslo,Norway,NOK,,,
+551,NHYO.OL,Oslo,Norway,NOK,,,
+552,AINMT.OL,Oslo,Norway,NOK,,,246
+553,MPCCO.OL,Oslo,Norway,NOK,,,
+554,ABGO.OL,Oslo,Norway,NOK,,,
+555,BLH03-PRO.OL,Oslo,Norway,USD,,,
+556,NELO.OL,Oslo,Norway,NOK,,,
+557,SCHBO.OL,Oslo,Norway,NOK,,,
+558,SKUE24-PRO.OL,Oslo,Norway,NOK,,,
+559,LSGO.OL,Oslo,Norway,NOK,,,
+560,TELO.OL,Oslo,Norway,NOK,,,
+561,BAKKAO.OL,Oslo,Norway,NOK,,,
+562,KLPBK11-PRO.OL,Oslo,Norway,NOK,,,
+563,MING105-PRO.OL,Oslo,Norway,NOK,,,
+564,SOON35-PRO.OL,Oslo,Norway,NOK,,,
+565,SBSS20-PRO.OL,Oslo,Norway,NOK,,,
+566,VEBK21-PRO.OL,Oslo,Norway,NOK,,,
+567,LANDK50-PRO.OL,Oslo,Norway,NOK,,,
+568,SRBNKO.OL,Oslo,Norway,NOK,,,
+569,STBO.OL,Oslo,Norway,NOK,,,
+570,SCATCO.OL,Oslo,Norway,NOK,,,
+571,TGSO.OL,Oslo,Norway,NOK,,,
+572,NRSO.OL,Oslo,Norway,NOK,,,
+573,CADLRO.OL,Oslo,Norway,NOK,,,
+574,DOFO.OL,Oslo,Norway,NOK,,,
+575,EIOFO.OL,Oslo,Norway,NOK,,,
+576,ENTRAO.OL,Oslo,Norway,NOK,,,
+577,PRSO.OL,Oslo,Norway,NOK,,,
+578,SELB22-PRO.OL,Oslo,Norway,NOK,,,
+579,SNOR20-PRO.OL,Oslo,Norway,NOK,,,
+580,SRSB17-PRO.OL,Oslo,Norway,NOK,,,
+581,BFSBG16-PRO.OL,Oslo,Norway,NOK,,,
+582,SNOR28-PRO.OL,Oslo,Norway,NOK,,,
+583,SVEG114-PRO.OL,Oslo,Norway,NOK,,,
+584,SFSB77-PRO.OL,Oslo,Norway,NOK,,,
+585,SOON30-PRO.OL,Oslo,Norway,NOK,,,
+586,SSBB14-PRO.OL,Oslo,Norway,NOK,,,
+587,KLPBK08-PRO.OL,Oslo,Norway,NOK,,,
+588,MODSB25-PRO.OL,Oslo,Norway,NOK,,,
+589,SRSB09-PRO.OL,Oslo,Norway,NOK,,,
+590,SPOG85-PRO.OL,Oslo,Norway,NOK,,,
+591,TSBK18-PRO.OL,Oslo,Norway,NOK,,,
+592,LBSB26-PRO.OL,Oslo,Norway,NOK,,,
+593,KLPBK10-PRO.OL,Oslo,Norway,NOK,,,
+594,KFS54-PRO.OL,Oslo,Norway,NOK,,,
+595,SVEG112-PRO-ESG.OL,Oslo,Norway,NOK,,,
+596,BNB90-PRO.OL,Oslo,Norway,NOK,,,
+597,OBBK08-PRO.OL,Oslo,Norway,NOK,,,
+598,EIKR34-PRO.OL,Oslo,Norway,NOK,,,
+599,FFSB09-PRO.OL,Oslo,Norway,NOK,,,
+600,BNB83-PRO.OL,Oslo,Norway,NOK,,,
+601,FKRFTO.OL,Oslo,Norway,NOK,,,
+602,EQNRO.OL,Oslo,Norway,NOK,,,
+603,AUSSO.OL,Oslo,Norway,NOK,,,
+604,NORO.OL,Oslo,Norway,NOK,,,
+605,SALMEO.OL,Oslo,Norway,NOK,,,
+606,WPU.OL,Oslo,Denmark,NOK,,,
+607,HAFNIO.OL,Oslo,Denmark,NOK,,,
+608,SALMO.OL,Oslo,Denmark,NOK,,,
+609,YARO.OL,Oslo,Denmark,NOK,,,

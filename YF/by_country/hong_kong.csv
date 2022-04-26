@@ -1,0 +1,2467 @@
+,tick,exchange,country_name,currency,sector,industry,fulltime_employees
+0,0700.HK,HKSE,Haiti,HKD,Communication Services,Internet Content & Information,"112,771"
+1,1398.HK,HKSE,China,HKD,Financial Services,Banks—Diversified,"439,787"
+2,9988.HK,HKSE,China,HKD,Consumer Cyclical,Internet Retail,"259,316"
+3,0939.HK,HKSE,China,HKD,Financial Services,Banks—Diversified,"375,531"
+4,3968.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"103,669"
+5,1288.HK,HKSE,China,HKD,Financial Services,Banks—Diversified,"459,000"
+6,0941.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,"449,934"
+7,0857.HK,HKSE,China,HKD,Energy,Oil & Gas Integrated,"432,003"
+8,3988.HK,HKSE,China,HKD,Financial Services,Banks—Diversified,"306,322"
+9,0005.HK,HKSE,United Kingdom,HKD,Financial Services,Banks—Diversified,"219,697"
+10,2318.HK,HKSE,China,HKD,Financial Services,Insurance—Life,"355,982"
+11,1299.HK,HKSE,Hong Kong,HKD,Financial Services,Insurance—Life,
+12,3690.HK,HKSE,China,HKD,Consumer Cyclical,Internet Retail,"100,033"
+13,2628.HK,HKSE,China,HKD,Financial Services,Insurance—Life,"103,262"
+14,1211.HK,HKSE,China,HKD,Consumer Cyclical,Auto Manufacturers,"224,280"
+15,1088.HK,HKSE,China,HKD,Energy,Thermal Coal,"77,872"
+16,9618.HK,HKSE,China,HKD,Consumer Cyclical,Internet Retail,
+17,1658.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"177,797"
+18,0386.HK,HKSE,China,HKD,Energy,Oil & Gas Integrated,"385,691"
+19,0883.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas E&P,"18,151"
+20,9633.HK,HKSE,China,HKD,Consumer Defensive,Beverages—Non-Alcoholic,"20,000"
+21,9999.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,
+22,3328.HK,HKSE,China,HKD,Financial Services,Banks—Diversified,"90,238"
+23,0388.HK,HKSE,Hong Kong,HKD,Financial Services,Financial Data & Stock Exchanges,"2,146"
+24,0728.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,"278,922"
+25,6288.HK,HKSE,Japan,HKD,Consumer Cyclical,Apparel Retail,"55,589"
+26,2840.HK,HKSE,Japan,HKD,,,
+27,2359.HK,HKSE,China,HKD,Healthcare,Diagnostics & Research,"34,912"
+28,2899.HK,HKSE,China,HKD,Basic Materials,Gold,"43,876"
+29,6030.HK,HKSE,China,HKD,Financial Services,Capital Markets,"23,696"
+30,9888.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,"45,500"
+31,0945.HK,HKSE,Canada,HKD,Financial Services,Insurance—Life,"38,000"
+32,2388.HK,HKSE,Hong Kong,HKD,Financial Services,Banks—Regional,"14,462"
+33,2378.HK,HKSE,United Kingdom,HKD,Financial Services,Insurance—Life,
+34,0011.HK,HKSE,Hong Kong,HKD,Financial Services,Banks—Regional,"9,396"
+35,1810.HK,HKSE,China,HKD,Technology,Consumer Electronics,"33,427"
+36,2202.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"140,565"
+37,0016.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"38,500"
+38,0688.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"5,916"
+39,0998.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"58,329"
+40,1876.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Brewers,"26,038"
+41,6690.HK,HKSE,China,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","99,299"
+42,1919.HK,HKSE,China,HKD,Industrials,Marine Shipping,"30,980"
+43,0066.HK,HKSE,Hong Kong,HKD,Industrials,Railroads,"31,968"
+44,1109.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"47,537"
+45,1024.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,"28,098"
+46,2020.HK,HKSE,China,HKD,Consumer Cyclical,Leisure,"52,000"
+47,0267.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"135,304"
+48,9866.HK,HKSE,China,HKD,Consumer Cyclical,Auto Manufacturers,
+49,0960.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"44,065"
+50,0914.HK,HKSE,China,HKD,Basic Materials,Building Materials,"46,714"
+51,2269.HK,HKSE,China,HKD,Healthcare,Biotechnology,"9,864"
+52,2601.HK,HKSE,China,HKD,Financial Services,Insurance—Life,"107,000"
+53,2333.HK,HKSE,China,HKD,Consumer Cyclical,Auto Manufacturers,"77,934"
+54,0001.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"300,000"
+55,1339.HK,HKSE,China,HKD,Financial Services,Insurance—Property & Casualty,"184,364"
+56,0669.HK,HKSE,Hong Kong,HKD,Industrials,Tools & Accessories,"51,426"
+57,6818.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"46,989"
+58,1113.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"54,000"
+59,0981.HK,HKSE,China,HKD,Technology,Semiconductors,"17,681"
+60,0002.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Electric,"7,061"
+61,0027.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Resorts & Casinos,"17,088"
+62,0916.HK,HKSE,China,HKD,Utilities,Utilities—Renewable,"7,964"
+63,2015.HK,HKSE,China,HKD,Consumer Cyclical,Auto Manufacturers,"11,901"
+64,1988.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"60,232"
+65,0390.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"288,729"
+66,2888.HK,HKSE,United Kingdom,HKD,Financial Services,Banks—Diversified,"81,770"
+67,2328.HK,HKSE,China,HKD,Financial Services,Insurance—Property & Casualty,"171,508"
+68,1171.HK,HKSE,China,HKD,Energy,Thermal Coal,"63,869"
+69,1772.HK,HKSE,China,HKD,Basic Materials,Chemicals,
+70,2319.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"43,397"
+71,0003.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Gas,"55,302"
+72,3908.HK,HKSE,China,HKD,Financial Services,Capital Markets,"9,372"
+73,1766.HK,HKSE,China,HKD,Industrials,Railroads,"164,177"
+74,9868.HK,HKSE,China,HKD,Consumer Cyclical,Auto Manufacturers,
+75,2331.HK,HKSE,China,HKD,Consumer Cyclical,Leisure,"4,019"
+76,2313.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,"94,400"
+77,0020.HK,HKSE,China,HKD,Technology,Software—Application,"6,113"
+78,0788.HK,HKSE,China,HKD,Communication Services,Telecom Services,"20,500"
+79,0012.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"10,059"
+80,1816.HK,HKSE,China,HKD,Utilities,Utilities—Independent Power Producers,"18,248"
+81,2057.HK,HKSE,China,HKD,Industrials,Integrated Freight & Logistics,
+82,2611.HK,HKSE,China,HKD,Financial Services,Capital Markets,"13,341"
+83,1800.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"133,294"
+84,6886.HK,HKSE,China,HKD,Financial Services,Capital Markets,"10,506"
+85,0291.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Brewers,"25,000"
+86,6618.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,"3,305"
+87,0823.HK,HKSE,Hong Kong,HKD,Real Estate,REIT—Retail,"1,100"
+88,0753.HK,HKSE,China,HKD,Industrials,Airlines,"89,373"
+89,1928.HK,HKSE,Macao,HKD,Consumer Cyclical,Resorts & Casinos,"25,751"
+90,6099.HK,HKSE,China,HKD,Financial Services,Capital Markets,"12,005"
+91,9987.HK,HKSE,China,HKD,Consumer Cyclical,Restaurants,"147,000"
+92,6160.HK,HKSE,China,HKD,Healthcare,Biotechnology,"8,000"
+93,1038.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Electric,"2,365"
+94,1776.HK,HKSE,China,HKD,Financial Services,Capital Markets,"12,307"
+95,0316.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,"10,678"
+96,6837.HK,HKSE,China,HKD,Financial Services,Capital Markets,"11,631"
+97,1929.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,"27,800"
+98,1898.HK,HKSE,China,HKD,Energy,Thermal Coal,"45,474"
+99,3993.HK,HKSE,China,HKD,Basic Materials,Other Industrial Metals & Mining,"11,472"
+100,2238.HK,HKSE,China,HKD,Consumer Cyclical,Auto Manufacturers,"93,745"
+101,0881.HK,HKSE,China,HKD,Consumer Cyclical,Auto & Truck Dealerships,"39,668"
+102,1055.HK,HKSE,China,HKD,Industrials,Airlines,"100,431"
+103,0763.HK,HKSE,China,HKD,Technology,Communication Equipment,"72,584"
+104,6806.HK,HKSE,China,HKD,Financial Services,Asset Management,"9,627"
+105,2007.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"93,472"
+106,1913.HK,HKSE,Italy,HKD,Consumer Cyclical,Luxury Goods,"13,140"
+107,2338.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,"82,417"
+108,1186.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"286,242"
+109,2382.HK,HKSE,China,HKD,Technology,Electronic Components,"24,664"
+110,2196.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"36,279"
+111,0762.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,"243,381"
+112,2688.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Gas,
+113,1972.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"5,000"
+114,0175.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto Manufacturers,"44,000"
+115,1997.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"2,900"
+116,0168.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Brewers,"32,947"
+117,0902.HK,HKSE,China,HKD,Utilities,Utilities—Independent Power Producers,"57,513"
+118,0006.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Independent Power Producers,13
+119,1336.HK,HKSE,China,HKD,Financial Services,Insurance—Life,"36,309"
+120,3759.HK,HKSE,China,HKD,Healthcare,Biotechnology,"14,923"
+121,1821.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,
+122,9961.HK,HKSE,China,HKD,Consumer Cyclical,Travel Services,
+123,6098.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"223,667"
+124,2618.HK,HKSE,China,HKD,Industrials,Integrated Freight & Logistics,"316,382"
+125,3996.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"115,325"
+126,0968.HK,HKSE,China,HKD,Technology,Solar,"7,072"
+127,6969.HK,HKSE,China,HKD,Consumer Defensive,Tobacco,"24,482"
+128,3606.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,"26,532"
+129,1787.HK,HKSE,China,HKD,Basic Materials,Gold,"15,770"
+130,2600.HK,HKSE,China,HKD,Basic Materials,Aluminum,"60,056"
+131,1378.HK,HKSE,China,HKD,Basic Materials,Aluminum,"42,650"
+132,1093.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—General,"24,746"
+133,0670.HK,HKSE,China,HKD,Industrials,Airlines,"81,157"
+134,3347.HK,HKSE,China,HKD,Healthcare,Diagnostics & Research,"8,326"
+135,6881.HK,HKSE,China,HKD,Financial Services,Capital Markets,"12,661"
+136,0992.HK,HKSE,Hong Kong,HKD,Technology,Computer Hardware,"52,000"
+137,0486.HK,HKSE,Hong Kong,HKD,Basic Materials,Aluminum,"56,939"
+138,6865.HK,HKSE,China,HKD,Industrials,Building Products & Equipment,"5,679"
+139,6821.HK,HKSE,China,HKD,Healthcare,Biotechnology,"5,477"
+140,6862.HK,HKSE,China,HKD,Consumer Cyclical,Restaurants,"146,584"
+141,6823.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,"15,400"
+142,1209.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"26,845"
+143,0322.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"62,107"
+144,3323.HK,HKSE,China,HKD,Basic Materials,Building Materials,"153,109"
+145,2016.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"15,997"
+146,0083.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"7,000"
+147,1618.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"97,972"
+148,0151.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"39,970"
+149,1877.HK,HKSE,China,HKD,Healthcare,Biotechnology,"2,805"
+150,0017.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"30,000"
+151,1179.HK,HKSE,China,HKD,Consumer Cyclical,Lodging,
+152,3692.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"12,150"
+153,1177.HK,HKSE,Hong Kong,HKD,Healthcare,Biotechnology,"24,443"
+154,0101.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"4,165"
+155,2607.HK,HKSE,China,HKD,Healthcare,Medical Distribution,"48,136"
+156,3958.HK,HKSE,China,HKD,Financial Services,Capital Markets,"7,835"
+157,1308.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,"1,920"
+158,1193.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Gas,"52,354"
+159,0836.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Independent Power Producers,"21,252"
+160,0288.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"107,000"
+161,0004.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"6,200"
+162,3800.HK,HKSE,Hong Kong,HKD,Technology,Solar,"8,863"
+163,0656.HK,HKSE,China,HKD,Industrials,Conglomerates,
+164,2638.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Electric,"1,699"
+165,0868.HK,HKSE,Hong Kong,HKD,Industrials,Building Products & Equipment,"14,706"
+166,0358.HK,HKSE,China,HKD,Basic Materials,Copper,"26,166"
+167,2727.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,"39,312"
+168,0270.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Water,"7,858"
+169,9626.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,
+170,6186.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,
+171,2800.HK,HKSE,China,HKD,,,
+172,0087.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"80,000"
+173,0019.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"80,000"
+174,1157.HK,HKSE,China,HKD,Industrials,Farm & Heavy Construction Machinery,"23,528"
+175,3898.HK,HKSE,China,HKD,Industrials,Railroads,"7,733"
+176,2883.HK,HKSE,China,HKD,Energy,Oil & Gas Equipment & Services,"14,850"
+177,6178.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,"8,760"
+178,2208.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,"10,781"
+179,0135.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Refining & Marketing,"35,424"
+180,6066.HK,HKSE,China,HKD,Financial Services,Capital Markets,"9,994"
+181,3799.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"40,745"
+182,0241.HK,HKSE,Hong Kong,HKD,Healthcare,Pharmaceutical Retailers,"1,334"
+183,0874.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"25,437"
+184,1099.HK,HKSE,China,HKD,Healthcare,Medical Distribution,"113,234"
+185,2066.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"7,585"
+186,9889.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"7,962"
+187,0268.HK,HKSE,China,HKD,Technology,Software—Application,"11,588"
+188,0144.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,"8,309"
+189,3969.HK,HKSE,China,HKD,Industrials,Railroads,"20,288"
+190,1359.HK,HKSE,China,HKD,Financial Services,Asset Management,"14,723"
+191,3618.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"15,088"
+192,0384.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Gas,
+193,2039.HK,HKSE,China,HKD,Industrials,Metal Fabrication,"51,746"
+194,0489.HK,HKSE,China,HKD,Consumer Cyclical,Auto Manufacturers,
+195,0177.HK,HKSE,China,HKD,Industrials,Infrastructure Operations,"4,822"
+196,3311.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,
+197,0293.HK,HKSE,Hong Kong,HKD,Industrials,Airlines,"21,600"
+198,1548.HK,HKSE,China,HKD,Healthcare,Biotechnology,"5,260"
+199,9992.HK,HKSE,China,HKD,Consumer Cyclical,Leisure,"4,053"
+200,1072.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,"17,336"
+201,6655.HK,HKSE,China,HKD,Basic Materials,Building Materials,"16,860"
+202,0991.HK,HKSE,China,HKD,Utilities,Utilities—Independent Power Producers,"33,340"
+203,3668.HK,HKSE,Australia,HKD,Energy,Thermal Coal,"3,196"
+204,2866.HK,HKSE,China,HKD,Industrials,Marine Shipping,"7,964"
+205,9698.HK,HKSE,China,HKD,Technology,Information Technology Services,
+206,1313.HK,HKSE,Hong Kong,HKD,Basic Materials,Building Materials,"19,491"
+207,3998.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"9,458"
+208,0956.HK,HKSE,China,HKD,Utilities,Utilities—Diversified,"2,489"
+209,1044.HK,HKSE,China,HKD,Consumer Defensive,Household & Personal Products,"23,000"
+210,2880.HK,HKSE,China,HKD,Industrials,Marine Shipping,"11,227"
+211,2588.HK,HKSE,Singapore,HKD,Industrials,Rental & Leasing Services,186
+212,1385.HK,HKSE,China,HKD,Technology,Semiconductors,"1,531"
+213,2380.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Electric,"10,724"
+214,1138.HK,HKSE,China,HKD,Industrials,Marine Shipping,"7,398"
+215,6127.HK,HKSE,China,HKD,Healthcare,Diagnostics & Research,"2,140"
+216,6198.HK,HKSE,China,HKD,Industrials,Marine Shipping,"8,981"
+217,0148.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"36,000"
+218,0586.HK,HKSE,China,HKD,Industrials,Pollution & Treatment Controls,"7,090"
+219,0347.HK,HKSE,China,HKD,Basic Materials,Steel,"31,512"
+220,9898.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,"6,147"
+221,1071.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Electric,"25,139"
+222,1801.HK,HKSE,China,HKD,Healthcare,Biotechnology,"5,568"
+223,1066.HK,HKSE,China,HKD,Healthcare,Medical Instruments & Supplies,
+224,1347.HK,HKSE,China,HKD,Technology,Semiconductors,"6,084"
+225,1888.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"9,900"
+226,6110.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,"41,957"
+227,0323.HK,HKSE,China,HKD,Basic Materials,Steel,"18,730"
+228,0973.HK,HKSE,Luxembourg,HKD,Consumer Defensive,Household & Personal Products,"8,872"
+229,6185.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"1,946"
+230,0754.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"11,367"
+231,6060.HK,HKSE,China,HKD,Financial Services,Insurance—Property & Casualty,"3,791"
+232,0338.HK,HKSE,China,HKD,Energy,Oil & Gas Refining & Marketing,"7,994"
+233,6993.HK,HKSE,China,HKD,Consumer Defensive,Household & Personal Products,"7,617"
+234,1033.HK,HKSE,China,HKD,Energy,Oil & Gas Drilling,"69,232"
+235,0008.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,"20,600"
+236,3698.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"10,583"
+237,3900.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"10,120"
+238,1513.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"8,580"
+239,0817.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"12,825"
+240,3948.HK,HKSE,China,HKD,Energy,Thermal Coal,"5,241"
+241,0966.HK,HKSE,Hong Kong,HKD,Financial Services,Insurance—Life,"68,446"
+242,0392.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"38,000"
+243,0696.HK,HKSE,China,HKD,Technology,Information Technology Services,"6,608"
+244,1585.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto Manufacturers,"9,174"
+245,0884.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"25,532"
+246,1528.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"25,201"
+247,0636.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,"50,400"
+248,1268.HK,HKSE,China,HKD,Consumer Cyclical,Auto & Truck Dealerships,"5,564"
+249,0285.HK,HKSE,China,HKD,Technology,Electronic Components,"90,751"
+250,2009.HK,HKSE,China,HKD,Basic Materials,Building Materials,"46,447"
+251,2689.HK,HKSE,China,HKD,Basic Materials,Paper & Paper Products,"19,576"
+252,9688.HK,HKSE,China,HKD,Healthcare,Biotechnology,"1,951"
+253,0522.HK,HKSE,Hong Kong,HKD,Technology,Semiconductor Equipment & Materials,"11,700"
+254,2357.HK,HKSE,China,HKD,Industrials,Aerospace & Defense,"44,884"
+255,0023.HK,HKSE,Hong Kong,HKD,Financial Services,Banks—Regional,"8,824"
+256,1691.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","5,582"
+257,0598.HK,HKSE,China,HKD,Industrials,Integrated Freight & Logistics,"33,794"
+258,3868.HK,HKSE,China,HKD,Utilities,Utilities—Renewable,281
+259,0780.HK,HKSE,China,HKD,Consumer Cyclical,Travel Services,"5,339"
+260,3918.HK,HKSE,Cambodia,HKD,Consumer Cyclical,Resorts & Casinos,"6,181"
+261,1882.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,"7,300"
+262,0772.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,"1,975"
+263,1456.HK,HKSE,China,HKD,Financial Services,Capital Markets,"1,058"
+264,1508.HK,HKSE,China,HKD,Financial Services,Insurance—Reinsurance,
+265,3888.HK,HKSE,Hong Kong,HKD,Communication Services,Electronic Gaming & Multimedia,"7,054"
+266,2799.HK,HKSE,China,HKD,Financial Services,Asset Management,"10,904"
+267,0683.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"7,600"
+268,2669.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"52,220"
+269,0220.HK,HKSE,China,HKD,Consumer Defensive,Beverages—Non-Alcoholic,"32,765"
+270,3360.HK,HKSE,Hong Kong,HKD,Financial Services,Mortgage Finance,"23,257"
+271,0576.HK,HKSE,China,HKD,Industrials,Infrastructure Operations,"8,957"
+272,0257.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"11,330"
+273,6049.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"44,415"
+274,1208.HK,HKSE,Australia,HKD,Basic Materials,Copper,"4,238"
+275,1368.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,"8,500"
+276,1999.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","28,803"
+277,0659.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"13,600"
+278,0053.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"10,160"
+279,0867.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"5,292"
+280,0853.HK,HKSE,China,HKD,Healthcare,Medical Devices,"8,303"
+281,1818.HK,HKSE,China,HKD,Basic Materials,Gold,"6,896"
+282,1908.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"2,672"
+283,2518.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,"5,793"
+284,0123.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"16,320"
+285,2128.HK,HKSE,China,HKD,Industrials,Building Products & Equipment,"20,400"
+286,3808.HK,HKSE,China,HKD,Industrials,Farm & Heavy Construction Machinery,"26,629"
+287,0371.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Water,"20,440"
+288,6190.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"4,227"
+289,2869.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"37,639"
+290,1128.HK,HKSE,China,HKD,Consumer Cyclical,Resorts & Casinos,"13,000"
+291,1910.HK,HKSE,Luxembourg,HKD,Consumer Cyclical,Footwear & Accessories,"9,100"
+292,6196.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"5,331"
+293,3320.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"65,000"
+294,6680.HK,HKSE,China,HKD,Industrials,Metal Fabrication,"3,038"
+295,2285.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,"5,524"
+296,0564.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,"16,774"
+297,3866.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"4,559"
+298,1799.HK,HKSE,China,HKD,Technology,Solar,"5,774"
+299,9878.HK,HKSE,China,HKD,Technology,Software—Application,
+300,0467.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas E&P,"1,931"
+301,1579.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"2,499"
+302,0631.HK,HKSE,China,HKD,Industrials,Farm & Heavy Construction Machinery,"4,995"
+303,0014.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,467
+304,9668.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"11,826"
+305,2252.HK,HKSE,China,HKD,Healthcare,Medical Devices,756
+306,0548.HK,HKSE,China,HKD,Industrials,Infrastructure Operations,"6,705"
+307,0552.HK,HKSE,China,HKD,Communication Services,Telecom Services,"86,313"
+308,9922.HK,HKSE,China,HKD,Consumer Cyclical,Restaurants,"14,495"
+309,1337.HK,HKSE,United States,HKD,Technology,Computer Hardware,
+310,0010.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"5,000"
+311,0013.HK,HKSE,Hong Kong,HKD,Healthcare,Biotechnology,"1,760"
+312,1030.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"30,490"
+313,1833.HK,HKSE,China,HKD,Healthcare,Health Information Services,"3,425"
+314,3331.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,"11,679"
+315,1798.HK,HKSE,China,HKD,Utilities,Utilities—Renewable,"3,723"
+316,6078.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,"4,140"
+317,3396.HK,HKSE,China,HKD,Technology,Computer Hardware,"72,181"
+318,6808.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,"123,413"
+319,2096.HK,HKSE,China,HKD,Healthcare,Biotechnology,"6,182"
+320,0069.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,"23,200"
+321,2255.HK,HKSE,China,HKD,Communication Services,Entertainment,"4,192"
+322,0412.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,163
+323,0425.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,"19,359"
+324,2778.HK,HKSE,Hong Kong,HKD,Real Estate,REIT—Retail,
+325,1839.HK,HKSE,China,HKD,Industrials,Farm & Heavy Construction Machinery,"13,286"
+326,0354.HK,HKSE,China,HKD,Technology,Information Technology Services,"92,039"
+327,9989.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—General,"1,957"
+328,1375.HK,HKSE,China,HKD,Financial Services,Capital Markets,"2,727"
+329,0694.HK,HKSE,China,HKD,Industrials,Airports & Air Services,"1,567"
+330,1053.HK,HKSE,China,HKD,Basic Materials,Steel,"6,601"
+331,2018.HK,HKSE,China,HKD,Technology,Communication Equipment,"37,591"
+332,1196.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,470
+333,1958.HK,HKSE,China,HKD,Consumer Cyclical,Auto Manufacturers,"18,694"
+334,6699.HK,HKSE,China,HKD,Healthcare,Medical Instruments & Supplies,"2,034"
+335,3633.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Gas,"4,876"
+336,0317.HK,HKSE,China,HKD,Industrials,Aerospace & Defense,"7,618"
+337,0189.HK,HKSE,China,HKD,Basic Materials,Chemicals,"6,824"
+338,0152.HK,HKSE,Hong Kong,HKD,Industrials,Infrastructure Operations,"8,699"
+339,9677.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"2,961"
+340,0570.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"17,098"
+341,2343.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,"4,965"
+342,3990.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"14,908"
+343,0880.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Resorts & Casinos,"20,300"
+344,1199.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,
+345,9993.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"3,383"
+346,2386.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"16,973"
+347,1387.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"2,651"
+348,0909.HK,HKSE,China,HKD,Technology,Software—Application,"4,247"
+349,0551.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,"317,200"
+350,1907.HK,HKSE,China,HKD,Basic Materials,Chemicals,
+351,1995.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"16,709"
+352,3899.HK,HKSE,China,HKD,Energy,Oil & Gas Equipment & Services,"9,900"
+353,0136.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,530
+354,1252.HK,HKSE,China,HKD,Basic Materials,Building Materials,"7,353"
+355,0512.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"10,029"
+356,3369.HK,HKSE,China,HKD,Industrials,Marine Shipping,"11,070"
+357,0579.HK,HKSE,China,HKD,Utilities,Utilities—Renewable,
+358,2006.HK,HKSE,China,HKD,Consumer Cyclical,Lodging,"46,512"
+359,0525.HK,HKSE,China,HKD,Industrials,Railroads,"41,286"
+360,3319.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"70,711"
+361,2282.HK,HKSE,China,HKD,Consumer Cyclical,Resorts & Casinos,"10,117"
+362,1060.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,"1,348"
+363,0921.HK,HKSE,China,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","39,499"
+364,2314.HK,HKSE,Hong Kong,HKD,Basic Materials,Paper & Paper Products,"11,000"
+365,1258.HK,HKSE,China,HKD,Basic Materials,Copper,"8,553"
+366,9666.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"11,700"
+367,1216.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"13,396"
+368,1735.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,431
+369,9969.HK,HKSE,China,HKD,Healthcare,Biotechnology,
+370,9995.HK,HKSE,China,HKD,Healthcare,Biotechnology,"2,121"
+371,9959.HK,HKSE,China,HKD,Technology,Software—Infrastructure,910
+372,0416.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"5,022"
+373,1963.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"4,401"
+374,6869.HK,HKSE,China,HKD,Technology,Communication Equipment,"2,806"
+375,0639.HK,HKSE,Hong Kong,HKD,Basic Materials,Coking Coal,"4,594"
+376,0990.HK,HKSE,Hong Kong,HKD,Basic Materials,Steel,144
+377,0839.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Education & Training Services,"11,034"
+378,0081.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"3,505"
+379,2139.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"4,112"
+380,1812.HK,HKSE,China,HKD,Basic Materials,Paper & Paper Products,"12,752"
+381,1686.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,388
+382,1589.HK,HKSE,China,HKD,Industrials,Integrated Freight & Logistics,202
+383,9869.HK,HKSE,China,HKD,Consumer Cyclical,Restaurants,"1,374"
+384,6826.HK,HKSE,China,HKD,Healthcare,Biotechnology,"1,892"
+385,0405.HK,HKSE,Hong Kong,HKD,Real Estate,REIT—Diversified,648
+386,2068.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"12,489"
+387,0604.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"21,225"
+388,3383.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"83,463"
+389,0535.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"3,700"
+390,1606.HK,HKSE,China,HKD,Financial Services,Credit Services,506
+391,0995.HK,HKSE,China,HKD,Industrials,Infrastructure Operations,"2,058"
+392,6878.HK,HKSE,China,HKD,Financial Services,Credit Services,475
+393,3669.HK,HKSE,China,HKD,Consumer Cyclical,Auto & Truck Dealerships,
+394,1811.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Independent Power Producers,"2,033"
+395,0336.HK,HKSE,Hong Kong,HKD,Basic Materials,Specialty Chemicals,"3,583"
+396,1530.HK,HKSE,China,HKD,Healthcare,Biotechnology,"5,292"
+397,0107.HK,HKSE,China,HKD,Industrials,Infrastructure Operations,"4,368"
+398,0303.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,"25,000"
+399,0142.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"100,333"
+400,0345.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"7,166"
+401,1951.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,"1,513"
+402,0493.HK,HKSE,China,HKD,Consumer Cyclical,Specialty Retail,"35,032"
+403,0855.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Water,"10,800"
+404,9899.HK,HKSE,China,HKD,Technology,Software—Application,"1,503"
+405,9901.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"88,126"
+406,0778.HK,HKSE,Singapore,HKD,Real Estate,REIT—Retail,
+407,1992.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Travel Services,"10,263"
+408,0041.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,"5,200"
+409,1610.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"8,965"
+410,0558.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,"4,400"
+411,0045.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,"5,866"
+412,3380.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"2,999"
+413,1121.HK,HKSE,China,HKD,Consumer Cyclical,Footwear & Accessories,670
+414,9858.HK,HKSE,China,HKD,Consumer Defensive,Farm Products,"9,350"
+415,0165.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,282
+416,1083.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Gas,"23,287"
+417,0363.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"18,927"
+418,2185.HK,HKSE,China,HKD,Healthcare,Biotechnology,50
+419,2099.HK,HKSE,Canada,HKD,Basic Materials,Other Precious Metals & Mining,"2,082"
+420,1717.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"4,896"
+421,2362.HK,HKSE,Hong Kong,HKD,Basic Materials,Copper,"1,575"
+422,0587.HK,HKSE,China,HKD,Industrials,Waste Management,
+423,1516.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"30,822"
+424,1448.HK,HKSE,China,HKD,Consumer Cyclical,Personal Services,"2,464"
+425,0460.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"4,282"
+426,3983.HK,HKSE,China,HKD,Basic Materials,Agricultural Inputs,"4,667"
+427,1675.HK,HKSE,China,HKD,Technology,Software—Application,"13,332"
+428,0038.HK,HKSE,China,HKD,Industrials,Farm & Heavy Construction Machinery,"7,435"
+429,3377.HK,HKSE,China,HKD,Real Estate,Real Estate—Diversified,"14,890"
+430,1578.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"6,547"
+431,1310.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,"5,218"
+432,0034.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"2,854"
+433,2179.HK,HKSE,China,HKD,Healthcare,Biotechnology,431
+434,0811.HK,HKSE,China,HKD,Communication Services,Publishing,
+435,1108.HK,HKSE,China,HKD,Industrials,Building Products & Equipment,"3,857"
+436,2005.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"4,772"
+437,9926.HK,HKSE,China,HKD,Healthcare,Biotechnology,"1,202"
+438,2013.HK,HKSE,China,HKD,Technology,Software—Application,"8,562"
+439,9979.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"1,462"
+440,1635.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Gas,"2,962"
+441,2777.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"35,832"
+442,1271.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,185
+443,1330.HK,HKSE,China,HKD,Industrials,Waste Management,"3,007"
+444,2157.HK,HKSE,China,HKD,Healthcare,Biotechnology,
+445,0751.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,"34,000"
+446,1316.HK,HKSE,United States,HKD,Consumer Cyclical,Auto Parts,"11,900"
+447,0590.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,"6,000"
+448,1238.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"13,212"
+449,1883.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,"2,078"
+450,1302.HK,HKSE,China,HKD,Healthcare,Medical Devices,874
+451,1065.HK,HKSE,China,HKD,Industrials,Waste Management,"2,300"
+452,2299.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,"7,401"
+453,0873.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"28,597"
+454,0856.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,
+455,1458.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"4,111"
+456,2696.HK,HKSE,China,HKD,Healthcare,Biotechnology,"2,234"
+457,9968.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,545
+458,0373.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,"3,097"
+459,0546.HK,HKSE,China,HKD,Basic Materials,Specialty Chemicals,"13,500"
+460,1916.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"5,365"
+461,1349.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,776
+462,1858.HK,HKSE,China,HKD,Healthcare,Medical Devices,951
+463,1117.HK,HKSE,China,HKD,Consumer Defensive,Farm Products,"6,772"
+464,2666.HK,HKSE,China,HKD,Financial Services,Credit Services,"15,242"
+465,2138.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,"2,426"
+466,2356.HK,HKSE,Hong Kong,HKD,Financial Services,Banks—Regional,"2,941"
+467,3339.HK,HKSE,China,HKD,Industrials,Farm & Heavy Construction Machinery,
+468,0691.HK,HKSE,China,HKD,Basic Materials,Building Materials,"17,740"
+469,0200.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Resorts & Casinos,"18,178"
+470,0667.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"12,322"
+471,9923.HK,HKSE,China,HKD,Technology,Software—Infrastructure,"1,199"
+472,1860.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,634
+473,0173.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,
+474,2400.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,"2,207"
+475,0120.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,100
+476,0272.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"3,175"
+477,3308.HK,HKSE,China,HKD,Consumer Cyclical,Department Stores,"2,590"
+478,6055.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Tobacco,211
+479,2186.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—General,"4,788"
+480,1996.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"3,450"
+481,8032.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,"2,900"
+482,3613.HK,HKSE,Hong Kong,HKD,Healthcare,Pharmaceutical Retailers,745
+483,0179.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto Parts,"35,000"
+484,1176.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,437
+485,9939.HK,HKSE,China,HKD,Healthcare,Biotechnology,316
+486,1813.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"5,900"
+487,0297.HK,HKSE,Hong Kong,HKD,Basic Materials,Agricultural Inputs,"4,499"
+488,9997.HK,HKSE,China,HKD,Healthcare,Medical Instruments & Supplies,725
+489,0588.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"5,725"
+490,0071.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"1,138"
+491,2678.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,"33,639"
+492,0187.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,"1,264"
+493,0737.HK,HKSE,Hong Kong,HKD,Industrials,Infrastructure Operations,40
+494,1052.HK,HKSE,Hong Kong,HKD,Industrials,Infrastructure Operations,"2,022"
+495,1070.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,"31,238"
+496,1361.HK,HKSE,China,HKD,Consumer Cyclical,Leisure,"6,692"
+497,3877.HK,HKSE,Hong Kong,HKD,Industrials,Rental & Leasing Services,81
+498,0777.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,"4,834"
+499,2158.HK,HKSE,China,HKD,Healthcare,Health Information Services,"1,448"
+500,0826.HK,HKSE,China,HKD,Basic Materials,Steel,"3,071"
+501,0357.HK,HKSE,China,HKD,Industrials,Airports & Air Services,"1,153"
+502,2558.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"4,571"
+503,3738.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,202
+504,2155.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,"3,211"
+505,0665.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,
+506,2150.HK,HKSE,China,HKD,Consumer Cyclical,Restaurants,"10,671"
+507,3709.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,"10,355"
+508,0650.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas E&P,98
+509,6138.HK,HKSE,China,HKD,Financial Services,Banks—Regional,"8,622"
+510,2232.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"75,757"
+511,1381.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"3,976"
+512,1866.HK,HKSE,China,HKD,Basic Materials,Agricultural Inputs,"8,698"
+513,0743.HK,HKSE,China,HKD,Basic Materials,Building Materials,"3,813"
+514,1788.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,
+515,1755.HK,HKSE,China,HKD,Real Estate,Real Estate Services,
+516,0581.HK,HKSE,Hong Kong,HKD,Basic Materials,Steel,"9,200"
+517,2038.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,"73,993"
+518,0086.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,"1,738"
+519,0308.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,"7,367"
+520,0506.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Non-Alcoholic,"19,189"
+521,2019.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"2,199"
+522,0553.HK,HKSE,China,HKD,Technology,Communication Equipment,"3,247"
+523,1666.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—General,"3,966"
+524,1622.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"3,620"
+525,6606.HK,HKSE,China,HKD,Healthcare,Diagnostics & Research,804
+526,0697.HK,HKSE,Hong Kong,HKD,Industrials,Infrastructure Operations,486
+527,2772.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"13,277"
+528,1198.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","1,376"
+529,2197.HK,HKSE,China,HKD,Healthcare,Biotechnology,814
+530,2257.HK,HKSE,United States,HKD,Healthcare,Biotechnology,157
+531,0440.HK,HKSE,Hong Kong,HKD,Financial Services,Banks—Regional,"3,079"
+532,0410.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"1,706"
+533,1224.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,121
+534,0327.HK,HKSE,Hong Kong,HKD,Industrials,Business Equipment & Supplies,"1,654"
+535,0341.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"18,443"
+536,0119.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"9,700"
+537,0819.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto Parts,"25,099"
+538,0797.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,426
+539,1082.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Education & Training Services,123
+540,6100.HK,HKSE,China,HKD,Industrials,Staffing & Employment Services,"5,789"
+541,2273.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,"1,527"
+542,80737.HK,HKSE,Hong Kong,CNY,Industrials,Infrastructure Operations,40
+543,3933.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—General,"13,300"
+544,0732.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,"17,400"
+545,6088.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"57,527"
+546,2137.HK,HKSE,China,HKD,Healthcare,Biotechnology,113
+547,1836.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,"42,500"
+548,1896.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,876
+549,6968.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"1,180"
+550,0658.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,"6,163"
+551,2171.HK,HKSE,China,HKD,Healthcare,Biotechnology,573
+552,2233.HK,HKSE,China,HKD,Basic Materials,Building Materials,"7,118"
+553,0934.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Midstream,229
+554,6639.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,
+555,1905.HK,HKSE,China,HKD,Financial Services,Credit Services,"1,807"
+556,1415.HK,HKSE,China,HKD,Technology,Electronic Components,"2,885"
+557,2768.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"7,481"
+558,1967.HK,HKSE,China,HKD,Technology,Semiconductors,945
+559,2162.HK,HKSE,China,HKD,Healthcare,Biotechnology,211
+560,1952.HK,HKSE,China,HKD,Healthcare,Biotechnology,227
+561,0182.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Renewable,"1,907"
+562,0185.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"1,144"
+563,0861.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,"14,100"
+564,0435.HK,HKSE,Hong Kong,HKD,Real Estate,REIT—Diversified,
+565,2148.HK,HKSE,China,HKD,Consumer Cyclical,Internet Retail,959
+566,0710.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"3,725"
+567,6069.HK,HKSE,China,HKD,Financial Services,Credit Services,298
+568,1668.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"3,947"
+569,1725.HK,HKSE,China,HKD,Industrials,Aerospace & Defense,584
+570,9966.HK,HKSE,China,HKD,Healthcare,Biotechnology,459
+571,1296.HK,HKSE,China,HKD,Industrials,Pollution & Treatment Controls,"4,125"
+572,2218.HK,HKSE,China,HKD,Consumer Defensive,Beverages—Non-Alcoholic,866
+573,1935.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"1,870"
+574,1478.HK,HKSE,China,HKD,Technology,Electronic Components,"12,880"
+575,2160.HK,HKSE,China,HKD,Healthcare,Medical Devices,451
+576,0215.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,972
+577,0719.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"6,497"
+578,9990.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,"1,485"
+579,0895.HK,HKSE,China,HKD,Industrials,Waste Management,"5,265"
+580,9699.HK,HKSE,China,HKD,Industrials,Integrated Freight & Logistics,
+581,1112.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"3,315"
+582,87001.HK,HKSE,Hong Kong,CNY,Real Estate,REIT—Diversified,949
+583,1119.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,889
+584,0116.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,"10,994"
+585,2279.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,"4,395"
+586,0062.HK,HKSE,Hong Kong,HKD,Industrials,Railroads,"12,417"
+587,1763.HK,HKSE,China,HKD,Healthcare,Medical Devices,"2,986"
+588,3913.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"18,000"
+589,2192.HK,HKSE,China,HKD,Healthcare,Medical Distribution,502
+590,1164.HK,HKSE,Hong Kong,HKD,Energy,Uranium,
+591,1966.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"9,431"
+592,1183.HK,HKSE,China,HKD,Industrials,Engineering & Construction,295
+593,0035.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"3,500"
+594,0775.HK,HKSE,Hong Kong,HKD,Healthcare,Biotechnology,"1,855"
+595,1137.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Internet Retail,"1,818"
+596,0302.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,"1,115"
+597,1477.HK,HKSE,China,HKD,Healthcare,Biotechnology,244
+598,0095.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"2,286"
+599,0686.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Renewable,752
+600,1830.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Personal Services,"1,414"
+601,1911.HK,HKSE,China,HKD,Financial Services,Capital Markets,654
+602,3316.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"6,186"
+603,0746.HK,HKSE,Hong Kong,HKD,Basic Materials,Chemicals,"2,100"
+604,0369.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,420
+605,6600.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,890
+606,1167.HK,HKSE,China,HKD,Healthcare,Biotechnology,262
+607,6988.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,78
+608,2500.HK,HKSE,China,HKD,Healthcare,Medical Devices,675
+609,2199.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"46,191"
+610,1233.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"5,315"
+611,6626.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"11,212"
+612,1212.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,675
+613,3836.HK,HKSE,China,HKD,Consumer Cyclical,Auto & Truck Dealerships,"4,551"
+614,1475.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"3,590"
+615,6868.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"3,508"
+616,0329.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,23
+617,0806.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,236
+618,2098.HK,HKSE,China,HKD,Industrials,Industrial Distribution,"1,849"
+619,0376.HK,HKSE,Hong Kong,HKD,Financial Services,Insurance—Life,814
+620,2117.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"2,626"
+621,0028.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"1,329"
+622,1733.HK,HKSE,China,HKD,Energy,Thermal Coal,"1,749"
+623,1277.HK,HKSE,China,HKD,Energy,Thermal Coal,823
+624,1515.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,"8,454"
+625,3309.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,"1,461"
+626,1576.HK,HKSE,China,HKD,Industrials,Infrastructure Operations,682
+627,6169.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"7,002"
+628,2156.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"11,057"
+629,0612.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,32
+630,2686.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas E&P,495
+631,0289.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,600
+632,1857.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Water,"2,318"
+633,6616.HK,HKSE,China,HKD,Basic Materials,Chemicals,487
+634,2877.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,
+635,1382.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,"4,932"
+636,2858.HK,HKSE,China,HKD,Financial Services,Credit Services,"4,980"
+637,1098.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Residential Construction,"4,863"
+638,1873.HK,HKSE,China,HKD,Healthcare,Biotechnology,"2,127"
+639,6989.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"12,277"
+640,1003.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,96
+641,0242.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"1,500"
+642,6889.HK,HKSE,Japan,HKD,Consumer Cyclical,Gambling,"14,613"
+643,0337.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"4,007"
+644,1600.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Gas,
+645,3813.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,"27,754"
+646,9983.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"6,800"
+647,0830.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"4,434"
+648,0816.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"2,658"
+649,1563.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,32
+650,9909.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"6,886"
+651,0051.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"1,400"
+652,1672.HK,HKSE,China,HKD,Healthcare,Biotechnology,266
+653,2235.HK,HKSE,China,HKD,Healthcare,Medical Devices,523
+654,1881.HK,HKSE,Hong Kong,HKD,Real Estate,REIT—Hotel & Motel,
+655,2163.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"3,211"
+656,3306.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,"1,450"
+657,0776.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",176
+658,9956.HK,HKSE,China,HKD,Industrials,Trucking,
+659,1789.HK,HKSE,China,HKD,Healthcare,Medical Devices,908
+660,1250.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Independent Power Producers,"1,930"
+661,1205.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,179
+662,9996.HK,HKSE,China,HKD,Healthcare,Medical Devices,476
+663,1031.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,667
+664,1809.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,"6,176"
+665,6830.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,"2,790"
+666,1234.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,"3,942"
+667,0256.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,"4,600"
+668,0315.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,"1,702"
+669,0207.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"4,342"
+670,1765.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"10,028"
+671,0178.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Specialty Retail,"3,100"
+672,1521.HK,HKSE,United States,HKD,Healthcare,Biotechnology,"1,322"
+673,6608.HK,HKSE,China,HKD,Technology,Software—Infrastructure,"1,296"
+674,0906.HK,HKSE,China,HKD,Consumer Cyclical,Packaging & Containers,"6,049"
+675,1357.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,"1,909"
+676,0127.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,474
+677,1257.HK,HKSE,Hong Kong,HKD,Industrials,Pollution & Treatment Controls,"3,889"
+678,2337.HK,HKSE,China,HKD,Energy,Oil & Gas Refining & Marketing,"1,718"
+679,0480.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"1,546"
+680,6999.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"1,473"
+681,1890.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"3,413"
+682,6677.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"7,027"
+683,1558.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"3,616"
+684,9982.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"1,238"
+685,0098.HK,HKSE,China,HKD,Basic Materials,Aluminum,"8,854"
+686,6996.HK,HKSE,China,HKD,Healthcare,Biotechnology,329
+687,1948.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,
+688,0032.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Education & Training Services,685
+689,0808.HK,HKSE,Hong Kong,HKD,Real Estate,REIT—Diversified,
+690,3382.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,"7,500"
+691,0026.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,
+692,0693.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto & Truck Dealerships,"5,105"
+693,2217.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"3,045"
+694,0520.HK,HKSE,China,HKD,Consumer Cyclical,Restaurants,"28,536"
+695,1426.HK,HKSE,Hong Kong,HKD,Real Estate,REIT—Diversified,
+696,1468.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,72
+697,1230.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"2,858"
+698,1848.HK,HKSE,Hong Kong,HKD,Industrials,Rental & Leasing Services,159
+699,0258.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,
+700,0279.HK,HKSE,Hong Kong,HKD,Financial Services,Financial Conglomerates,64
+701,9991.HK,HKSE,China,HKD,Consumer Cyclical,Internet Retail,
+702,1286.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,"7,155"
+703,0580.HK,HKSE,China,HKD,Industrials,Electrical Equipment & Parts,634
+704,8279.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Gambling,131
+705,6108.HK,HKSE,China,HKD,Healthcare,Pharmaceutical Retailers,28
+706,1696.HK,HKSE,Israel,HKD,Healthcare,Medical Devices,703
+707,1596.HK,HKSE,China,HKD,Industrials,Railroads,"1,364"
+708,0330.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,"2,260"
+709,2448.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,80
+710,2231.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"1,098"
+711,0799.HK,HKSE,Singapore,HKD,Communication Services,Electronic Gaming & Multimedia,"3,101"
+712,0251.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,160
+713,0606.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"4,242"
+714,0978.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,962
+715,1057.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,
+716,1263.HK,HKSE,Hong Kong,HKD,Technology,Computer Hardware,"3,029"
+717,1817.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Retail,917
+718,6855.HK,HKSE,China,HKD,Healthcare,Biotechnology,613
+719,2190.HK,HKSE,China,HKD,Healthcare,Medical Devices,487
+720,2001.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"8,647"
+721,1681.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"2,768"
+722,1034.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,79
+723,1523.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,190
+724,6833.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,108
+725,0517.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,847
+726,1902.HK,HKSE,China,HKD,Consumer Cyclical,Residential Construction,903
+727,1760.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto Parts,986
+728,3886.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,"1,170"
+729,1931.HK,HKSE,China,HKD,Healthcare,Medical Distribution,727
+730,2342.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,"5,500"
+731,1122.HK,HKSE,Hong Kong,HKD,Industrials,Farm & Heavy Construction Machinery,"2,934"
+732,1133.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,
+733,2821.HK,HKSE,China,USD,,,
+734,0488.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"4,200"
+735,1709.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,64
+736,3301.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"3,160"
+737,1533.HK,HKSE,China,HKD,Consumer Defensive,Farm Products,
+738,0975.HK,HKSE,Mongolia,HKD,Basic Materials,Coking Coal,"1,880"
+739,6900.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"1,201"
+740,1628.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"7,271"
+741,0108.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,377
+742,1785.HK,HKSE,China,HKD,Industrials,Infrastructure Operations,"2,177"
+743,0568.HK,HKSE,China,HKD,Energy,Oil & Gas Equipment & Services,"2,890"
+744,1797.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"1,224"
+745,1090.HK,HKSE,China,HKD,Basic Materials,Steel,"6,907"
+746,1651.HK,HKSE,China,HKD,Industrials,Tools & Accessories,"1,987"
+747,9911.HK,HKSE,China,HKD,Technology,Software—Application,515
+748,6601.HK,HKSE,China,HKD,Consumer Defensive,Household & Personal Products,873
+749,0662.HK,HKSE,Hong Kong,HKD,Financial Services,Insurance—Life,307
+750,0596.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,"5,838"
+751,0807.HK,HKSE,Singapore,HKD,Utilities,Utilities—Regulated Water,"6,031"
+752,3833.HK,HKSE,China,HKD,Basic Materials,Other Industrial Metals & Mining,"2,100"
+753,0563.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,834
+754,2126.HK,HKSE,China,HKD,Healthcare,Biotechnology,534
+755,2552.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,146
+756,3318.HK,HKSE,Hong Kong,HKD,Basic Materials,Specialty Chemicals,"1,674"
+757,1432.HK,HKSE,China,HKD,Consumer Defensive,Farm Products,"2,682"
+758,2142.HK,HKSE,China,HKD,Healthcare,Biotechnology,
+759,6166.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,744
+760,6111.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,992
+761,0382.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"4,900"
+762,2322.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,63
+763,0163.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"1,200"
+764,2215.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"2,801"
+765,1543.HK,HKSE,China,HKD,Financial Services,Credit Services,309
+766,1921.HK,HKSE,China,HKD,Energy,Oil & Gas Equipment & Services,"1,592"
+767,1569.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"5,197"
+768,0411.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"1,687"
+769,0622.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,33
+770,2181.HK,HKSE,China,HKD,Healthcare,Biotechnology,484
+771,1091.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,
+772,2383.HK,HKSE,Hong Kong,HKD,Communication Services,Publishing,"1,200"
+773,0798.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"7,799"
+774,3329.HK,HKSE,Hong Kong,HKD,Financial Services,Financial Conglomerates,408
+775,1970.HK,HKSE,China,HKD,Communication Services,Entertainment,104
+776,1223.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,389
+777,1050.HK,HKSE,Hong Kong,HKD,Industrials,Metal Fabrication,"3,690"
+778,1503.HK,HKSE,Hong Kong,HKD,Real Estate,REIT—Diversified,
+779,1345.HK,HKSE,China,HKD,Healthcare,Pharmaceutical Retailers,255
+780,1270.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,
+781,1969.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"4,087"
+782,0088.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,158
+783,6628.HK,HKSE,China,HKD,Healthcare,Biotechnology,363
+784,0451.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Renewable,896
+785,9913.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"1,197"
+786,0468.HK,HKSE,China,HKD,Consumer Cyclical,Packaging & Containers,"1,754"
+787,1184.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,450
+788,1282.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,984
+789,6633.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,432
+790,2130.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,622
+791,3788.HK,HKSE,China,HKD,Basic Materials,Steel,"1,725"
+792,3600.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Instruments & Supplies,"6,596"
+793,1729.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,"2,851"
+794,0400.HK,HKSE,China,HKD,Technology,Electronics & Computer Distribution,515
+795,2225.HK,HKSE,Hong Kong,HKD,Industrials,Staffing & Employment Services,445
+796,6158.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"1,906"
+797,6819.HK,HKSE,United States,HKD,Healthcare,Health Information Services,141
+798,0194.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,441
+799,6909.HK,HKSE,China,HKD,Consumer Cyclical,Auto & Truck Dealerships,"1,320"
+800,0340.HK,HKSE,Hong Kong,HKD,Basic Materials,Gold,205
+801,0610.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"3,374"
+802,3700.HK,HKSE,Greenland,HKD,Communication Services,Internet Content & Information,"2,297"
+803,1639.HK,HKSE,China,HKD,Technology,Electronic Components,"1,783"
+804,0547.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,"1,132"
+805,6820.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,"1,362"
+806,0750.HK,HKSE,Hong Kong,HKD,Technology,Solar,"1,700"
+807,0332.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Refining & Marketing,400
+808,0860.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,193
+809,0838.HK,HKSE,Hong Kong,HKD,Industrials,Metal Fabrication,"10,229"
+810,0626.HK,HKSE,Hong Kong,HKD,Financial Services,Banks—Regional,"1,260"
+811,1599.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"4,403"
+812,6978.HK,HKSE,China,HKD,Healthcare,Biotechnology,515
+813,8328.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,364
+814,0025.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"3,700"
+815,0716.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Packaging & Containers,
+816,0695.HK,HKSE,Hong Kong,HKD,Basic Materials,Building Materials,232
+817,2698.HK,HKSE,China,HKD,Consumer Cyclical,Textile Manufacturing,"40,000"
+818,3818.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,627
+819,0989.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,239
+820,2125.HK,HKSE,China,HKD,Communication Services,Entertainment,55
+821,1501.HK,HKSE,China,HKD,Healthcare,Medical Instruments & Supplies,"1,189"
+822,2219.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,"1,788"
+823,0818.HK,HKSE,Hong Kong,HKD,Technology,Software—Infrastructure,"2,759"
+824,3393.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,"3,578"
+825,0709.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,"5,900"
+826,1660.HK,HKSE,Hong Kong,HKD,Industrials,Industrial Distribution,169
+827,2369.HK,HKSE,China,HKD,Technology,Consumer Electronics,546
+828,1608.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,623
+829,1427.HK,HKSE,China,HKD,Real Estate,Real Estate—Diversified,
+830,3718.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"42,175"
+831,2798.HK,HKSE,China,HKD,Basic Materials,Coking Coal,"3,098"
+832,0230.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"1,250"
+833,0147.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,210
+834,9616.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"2,984"
+835,1332.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Packaging & Containers,506
+836,0050.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,200
+837,2191.HK,HKSE,Hong Kong,HKD,,,
+838,2393.HK,HKSE,China,HKD,Healthcare,Medical Devices,"1,054"
+839,1862.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"2,996"
+840,2368.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"13,000"
+841,6668.HK,HKSE,China,HKD,Real Estate,Real Estate Services,409
+842,1977.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"2,559"
+843,3300.HK,HKSE,Hong Kong,HKD,Basic Materials,Building Materials,"3,436"
+844,0159.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,9
+845,3989.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"5,175"
+846,0438.HK,HKSE,China,HKD,Technology,Solar,"1,707"
+847,6908.HK,HKSE,China,HKD,Industrials,Electrical Equipment & Parts,134
+848,8083.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,"4,358"
+849,0863.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,239
+850,2207.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"5,441"
+851,0259.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,
+852,2101.HK,HKSE,China,HKD,Consumer Cyclical,Internet Retail,702
+853,2355.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"6,629"
+854,3378.HK,HKSE,China,HKD,Industrials,Marine Shipping,"7,212"
+855,8137.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,238
+856,1665.HK,HKSE,Malaysia,HKD,Industrials,Specialty Industrial Machinery,689
+857,1442.HK,HKSE,Malaysia,HKD,Industrials,Integrated Freight & Logistics,574
+858,0408.HK,HKSE,Hong Kong,HKD,Basic Materials,Specialty Chemicals,"3,541"
+859,1428.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,259
+860,2722.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,"7,692"
+861,0255.HK,HKSE,Hong Kong,HKD,Industrials,Metal Fabrication,"3,300"
+862,1140.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,17
+863,0029.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,50
+864,2205.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"1,803"
+865,0331.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"11,818"
+866,6933.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,94
+867,1846.HK,HKSE,Germany,HKD,Healthcare,Medical Care Facilities,
+868,1899.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,"7,900"
+869,0511.HK,HKSE,Hong Kong,HKD,Communication Services,Broadcasting,"3,870"
+870,0607.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,"8,409"
+871,1221.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,398
+872,6093.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"3,440"
+873,1588.HK,HKSE,China,HKD,Technology,Software—Application,"1,289"
+874,0617.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,"1,640"
+875,1593.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"1,550"
+876,1061.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"1,379"
+877,0603.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Refining & Marketing,"4,704"
+878,0471.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,23
+879,2779.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"1,942"
+880,2111.HK,HKSE,China,HKD,Consumer Cyclical,Textile Manufacturing,"8,957"
+881,1045.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,110
+882,1321.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"1,630"
+883,6622.HK,HKSE,China,HKD,Healthcare,Biotechnology,238
+884,8075.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,145
+885,0832.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,
+886,1341.HK,HKSE,Hong Kong,HKD,Industrials,Rental & Leasing Services,137
+887,9960.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,"2,870"
+888,2002.HK,HKSE,China,HKD,Basic Materials,Paper & Paper Products,"4,600"
+889,0900.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,379
+890,0398.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,579
+891,3681.HK,HKSE,Hong Kong,HKD,Healthcare,Biotechnology,
+892,0419.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,417
+893,2187.HK,HKSE,China,HKD,Basic Materials,Building Materials,588
+894,0191.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"4,200"
+895,0326.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,67
+896,0910.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,662
+897,6885.HK,HKSE,China,HKD,Basic Materials,Coking Coal,"2,276"
+898,3680.HK,HKSE,China,HKD,Technology,Information Technology Services,973
+899,0305.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto Parts,"9,200"
+900,9977.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"7,597"
+901,1450.HK,HKSE,China,HKD,Technology,Software—Application,287
+902,1571.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,"5,851"
+903,2886.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Gas,"1,674"
+904,0726.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,847
+905,0222.HK,HKSE,Hong Kong,HKD,Financial Services,Insurance—Property & Casualty,69
+906,1981.HK,HKSE,China,HKD,Communication Services,Entertainment,"2,035"
+907,2801.HK,HKSE,China,HKD,,,
+908,1842.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,410
+909,1153.HK,HKSE,China,HKD,Real Estate,Real Estate—Diversified,"6,767"
+910,2060.HK,HKSE,China,HKD,Industrials,Metal Fabrication,461
+911,6858.HK,HKSE,Japan,HKD,Consumer Cyclical,Leisure,737
+912,0150.HK,HKSE,Hong Kong,HKD,Communication Services,Internet Content & Information,405
+913,2718.HK,HKSE,China,HKD,Financial Services,Credit Services,194
+914,6669.HK,HKSE,China,HKD,Healthcare,Medical Devices,287
+915,1875.HK,HKSE,China,HKD,Healthcare,Biotechnology,
+916,2283.HK,HKSE,China,HKD,Basic Materials,Specialty Chemicals,"3,641"
+917,2183.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"1,424"
+918,3903.HK,HKSE,China,HKD,Financial Services,Credit Services,"1,352"
+919,0321.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,"12,422"
+920,2660.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,490
+921,2276.HK,HKSE,China,HKD,Healthcare,Medical Instruments & Supplies,"2,429"
+922,0878.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,303
+923,1329.HK,HKSE,China,HKD,Real Estate,Real Estate—Diversified,"1,181"
+924,2169.HK,HKSE,China,HKD,Industrials,Railroads,780
+925,0052.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"5,700"
+926,1373.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","2,250"
+927,0976.HK,HKSE,Hong Kong,HKD,Industrials,Metal Fabrication,"3,024"
+928,2008.HK,HKSE,Hong Kong,HKD,Communication Services,Internet Content & Information,"2,948"
+929,9928.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"10,664"
+930,1713.HK,HKSE,China,HKD,Utilities,Utilities—Renewable,"2,880"
+931,2175.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,946
+932,6611.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,735
+933,1463.HK,HKSE,Malaysia,HKD,Industrials,Specialty Business Services,162
+934,6998.HK,HKSE,China,HKD,Healthcare,Biotechnology,607
+935,0160.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,360
+936,2309.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,270
+937,1820.HK,HKSE,China,HKD,Consumer Cyclical,Packaging & Containers,"1,721"
+938,2198.HK,HKSE,China,HKD,Basic Materials,Specialty Chemicals,"1,110"
+939,0286.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,"1,446"
+940,2127.HK,HKSE,China,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","3,223"
+941,0261.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,42
+942,0846.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"3,308"
+943,1141.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,79
+944,2599.HK,HKSE,China,HKD,Real Estate,Real Estate—Diversified,"3,339"
+945,0951.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,"14,087"
+946,0882.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"3,313"
+947,1469.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,78
+948,1228.HK,HKSE,China,HKD,Healthcare,Biotechnology,183
+949,1697.HK,HKSE,China,HKD,Financial Services,Asset Management,234
+950,2250.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,206
+951,0497.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,111
+952,3798.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,539
+953,2348.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"1,065"
+954,0124.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,501
+955,1126.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,"25,841"
+956,3768.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Water,"1,403"
+957,2251.HK,HKSE,China,HKD,Healthcare,Health Information Services,335
+958,1727.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"8,823"
+959,0825.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,"2,689"
+960,0030.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,33
+961,1086.HK,HKSE,China,HKD,Consumer Cyclical,Leisure,"8,826"
+962,2030.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,545
+963,0672.HK,HKSE,China,HKD,Real Estate,Real Estate—Diversified,"4,911"
+964,0420.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,"7,900"
+965,1611.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,728
+966,2370.HK,HKSE,China,HKD,Real Estate,Real Estate Services,
+967,0335.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,43
+968,1979.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,"8,000"
+969,8167.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,243
+970,2708.HK,HKSE,China,HKD,Technology,Software—Infrastructure,255
+971,3336.HK,HKSE,Hong Kong,HKD,Technology,Computer Hardware,"38,000"
+972,0609.HK,HKSE,China,HKD,Basic Materials,Chemicals,"1,403"
+973,3315.HK,HKSE,Hong Kong,HKD,Technology,Software—Infrastructure,"1,624"
+974,0018.HK,HKSE,Hong Kong,HKD,Communication Services,Publishing,"1,012"
+975,1084.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Farm Products,"1,052"
+976,1773.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"6,908"
+977,0113.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,748
+978,0829.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"2,650"
+979,1728.HK,HKSE,China,HKD,Consumer Cyclical,Auto & Truck Dealerships,"7,740"
+980,0935.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,322
+981,0827.HK,HKSE,Hong Kong,HKD,Basic Materials,Chemicals,643
+982,1741.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,135
+983,2131.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,511
+984,1104.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,15
+985,2012.HK,HKSE,Canada,HKD,Energy,Oil & Gas E&P,24
+986,0875.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Farm Products,186
+987,0661.HK,HKSE,Hong Kong,HKD,Basic Materials,Copper,"5,374"
+988,1293.HK,HKSE,China,HKD,Consumer Cyclical,Auto & Truck Dealerships,"7,042"
+989,0533.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"1,658"
+990,0131.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,75
+991,8446.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,57
+992,0982.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,"8,351"
+993,3939.HK,HKSE,China,HKD,Basic Materials,Other Industrial Metals & Mining,606
+994,6136.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Water,"2,426"
+995,1396.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"1,153"
+996,0133.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,1
+997,1525.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"1,596"
+998,0031.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"8,000"
+999,2003.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,677
+1000,1738.HK,HKSE,Hong Kong,HKD,Energy,Thermal Coal,"1,186"
+1001,1029.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,"1,739"
+1002,1085.HK,HKSE,Singapore,HKD,Technology,Communication Equipment,848
+1003,1168.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,664
+1004,0635.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,71
+1005,0064.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,100
+1006,1366.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,"3,616"
+1007,0543.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,"1,119"
+1008,6118.HK,HKSE,China,HKD,Healthcare,Medical Devices,"1,582"
+1009,0228.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Integrated,43
+1010,2327.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,138
+1011,0845.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,667
+1012,9936.HK,HKSE,China,HKD,Basic Materials,Specialty Chemicals,261
+1013,8053.HK,HKSE,Hong Kong,HKD,Basic Materials,Specialty Chemicals,"1,312"
+1014,0082.HK,HKSE,China,HKD,Consumer Cyclical,Gambling,115
+1015,2836.HK,HKSE,China,HKD,,,
+1016,0367.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,345
+1017,1986.HK,HKSE,China,HKD,Basic Materials,Specialty Chemicals,"1,581"
+1018,1561.HK,HKSE,Hong Kong,HKD,Basic Materials,Specialty Chemicals,826
+1019,1539.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,33
+1020,0769.HK,HKSE,China,HKD,Basic Materials,Other Industrial Metals & Mining,360
+1021,0431.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,164
+1022,8395.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Specialty Retail,79
+1023,0195.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,322
+1024,0931.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Refining & Marketing,686
+1025,0226.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,934
+1026,3337.HK,HKSE,China,HKD,Energy,Oil & Gas Equipment & Services,"4,033"
+1027,0057.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,"2,400"
+1028,2216.HK,HKSE,China,HKD,Healthcare,Medical Devices,245
+1029,0196.HK,HKSE,China,HKD,Energy,Oil & Gas Equipment & Services,"3,282"
+1030,0896.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,482
+1031,1583.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"2,681"
+1032,6928.HK,HKSE,Singapore,HKD,Consumer Cyclical,Auto Parts,46
+1033,2360.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Discount Stores,900
+1034,2738.HK,HKSE,China,HKD,Basic Materials,Steel,"1,036"
+1035,0752.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,"2,000"
+1036,8170.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,54
+1037,2878.HK,HKSE,Hong Kong,HKD,Technology,Semiconductors,389
+1038,2308.HK,HKSE,China,HKD,Technology,Computer Hardware,802
+1039,2153.HK,HKSE,China,HKD,Industrials,Farm & Heavy Construction Machinery,"1,180"
+1040,6913.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"1,113"
+1041,0531.HK,HKSE,China,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","7,200"
+1042,3303.HK,HKSE,China,HKD,Energy,Oil & Gas Equipment & Services,"3,547"
+1043,3688.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,825
+1044,1488.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"2,793"
+1045,9908.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Gas,363
+1046,2112.HK,HKSE,Malaysia,HKD,Basic Materials,Steel,18
+1047,8037.HK,HKSE,Hong Kong,HKD,Healthcare,Diagnostics & Research,211
+1048,6896.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,952
+1049,0212.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,13
+1050,1971.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"4,251"
+1051,1702.HK,HKSE,China,HKD,Basic Materials,Chemicals,"1,285"
+1052,2633.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"1,723"
+1053,2100.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,"1,053"
+1054,2377.HK,HKSE,China,HKD,Industrials,Pollution & Treatment Controls,"1,857"
+1055,0237.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,37
+1056,1115.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Non-Alcoholic,399
+1057,9600.HK,HKSE,China,HKD,Technology,Software—Application,468
+1058,0687.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,790
+1059,0538.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,
+1060,2048.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"18,500"
+1061,8227.HK,HKSE,China,HKD,Industrials,Conglomerates,121
+1062,1526.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,"7,373"
+1063,0993.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,65
+1064,1358.HK,HKSE,China,HKD,Healthcare,Medical Instruments & Supplies,748
+1065,0698.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"26,000"
+1066,2236.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"1,323"
+1067,0655.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,41
+1068,0592.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,"1,000"
+1069,6811.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"6,700"
+1070,1328.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,"2,293"
+1071,0848.HK,HKSE,China,HKD,Consumer Cyclical,Department Stores,"5,324"
+1072,3838.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"2,281"
+1073,1965.HK,HKSE,China,HKD,Real Estate,Real Estate—Diversified,"3,568"
+1074,0202.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,153
+1075,9906.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,
+1076,6609.HK,HKSE,China,HKD,Healthcare,Medical Devices,389
+1077,0950.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,
+1078,0994.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,120
+1079,1756.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"1,972"
+1080,0757.HK,HKSE,Hong Kong,HKD,Technology,Solar,"3,937"
+1081,0089.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,242
+1082,0370.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Specialty Retail,300
+1083,2136.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,"1,167"
+1084,0156.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Food Distribution,893
+1085,0343.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,117
+1086,3389.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,"1,596"
+1087,1051.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,67
+1088,0393.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,489
+1089,8402.HK,HKSE,Singapore,HKD,Basic Materials,Steel,116
+1090,2170.HK,HKSE,China,HKD,Healthcare,Medical Devices,229
+1091,0500.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,"1,376"
+1092,2399.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,158
+1093,0218.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,303
+1094,1283.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,177
+1095,0075.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,96
+1096,1290.HK,HKSE,China,HKD,Financial Services,Mortgage Finance,141
+1097,1393.HK,HKSE,China,HKD,Energy,Thermal Coal,"8,610"
+1098,1731.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,"7,300"
+1099,0450.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,
+1100,0985.HK,HKSE,Hong Kong,HKD,Basic Materials,Coking Coal,63
+1101,1490.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,172
+1102,0128.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,122
+1103,0887.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,857
+1104,0383.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,"2,372"
+1105,1786.HK,HKSE,China,HKD,Industrials,Railroads,"2,050"
+1106,1431.HK,HKSE,China,HKD,Consumer Defensive,Farm Products,"1,903"
+1107,0085.HK,HKSE,Hong Kong,HKD,Technology,Semiconductors,410
+1108,6033.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Specialty Retail,641
+1109,6919.HK,HKSE,China,HKD,Industrials,Staffing & Employment Services,"1,153"
+1110,3616.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,764
+1111,1771.HK,HKSE,China,HKD,Consumer Cyclical,Auto & Truck Dealerships,"3,494"
+1112,1915.HK,HKSE,China,HKD,Financial Services,Credit Services,20
+1113,0733.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"22,500"
+1114,1502.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"4,382"
+1115,0815.HK,HKSE,China,HKD,Consumer Cyclical,Luxury Goods,390
+1116,8295.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,"4,436"
+1117,3678.HK,HKSE,China,HKD,Financial Services,Capital Markets,659
+1118,0620.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Internet Retail,133
+1119,2025.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,749
+1120,1222.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"2,103"
+1121,3636.HK,HKSE,China,HKD,Communication Services,Entertainment,"6,971"
+1122,8047.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,58
+1123,1372.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,342
+1124,0952.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,274
+1125,0611.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,
+1126,0560.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,"2,212"
+1127,1243.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,141
+1128,0711.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"6,500"
+1129,1761.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,381
+1130,0171.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,101
+1131,1327.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,109
+1132,6805.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,799
+1133,0505.HK,HKSE,Hong Kong,HKD,Basic Materials,Copper,"1,452"
+1134,0809.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"3,800"
+1135,8527.HK,HKSE,Singapore,HKD,Consumer Cyclical,Restaurants,223
+1136,1317.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"1,890"
+1137,0099.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,"3,500"
+1138,2488.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,968
+1139,1689.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Packaging & Containers,341
+1140,0240.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"3,153"
+1141,0201.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,424
+1142,2329.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,646
+1143,0157.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,583
+1144,0355.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,"1,730"
+1145,0097.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,"1,134"
+1146,8349.HK,HKSE,China,HKD,Industrials,Building Products & Equipment,107
+1147,0149.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"1,125"
+1148,1982.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"9,200"
+1149,1499.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,184
+1150,2168.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"12,976"
+1151,0432.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"1,066"
+1152,0346.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Integrated,240
+1153,0199.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,243
+1154,1068.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"1,500"
+1155,2165.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"3,120"
+1156,1980.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,373
+1157,1868.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,703
+1158,0842.HK,HKSE,China,HKD,Industrials,Electrical Equipment & Parts,"13,917"
+1159,0720.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto & Truck Dealerships,11
+1160,0213.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,220
+1161,1240.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"2,351"
+1162,0033.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,34
+1163,3366.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,297
+1164,0582.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Resorts & Casinos,"1,613"
+1165,8223.HK,HKSE,China,HKD,Financial Services,Credit Services,102
+1166,0721.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,11
+1167,3603.HK,HKSE,China,HKD,Real Estate,Real Estate Services,
+1168,8039.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,26
+1169,3390.HK,HKSE,Hong Kong,HKD,Healthcare,Pharmaceutical Retailers,186
+1170,3848.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,71
+1171,0866.HK,HKSE,Hong Kong,HKD,Energy,Thermal Coal,"2,397"
+1172,1161.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Personal Services,968
+1173,0091.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,68
+1174,0573.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"5,512"
+1175,6123.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,924
+1176,1601.HK,HKSE,China,HKD,Financial Services,Credit Services,129
+1177,1036.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,105
+1178,0129.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,230
+1179,0217.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,278
+1180,1300.HK,HKSE,China,HKD,Technology,Communication Equipment,963
+1181,3991.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,"1,330"
+1182,0232.HK,HKSE,Hong Kong,HKD,Industrials,Aerospace & Defense,541
+1183,2033.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,"4,400"
+1184,1075.HK,HKSE,China,HKD,Technology,Information Technology Services,"1,812"
+1185,0413.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,
+1186,0536.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,267
+1187,1865.HK,HKSE,Singapore,HKD,Industrials,Engineering & Construction,306
+1188,0334.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"4,111"
+1189,1440.HK,HKSE,China,HKD,Basic Materials,Specialty Chemicals,495
+1190,1568.HK,HKSE,Hong Kong,HKD,Industrials,Consulting Services,"2,147"
+1191,2317.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,"3,738"
+1192,3737.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"3,152"
+1193,0184.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,"1,192"
+1194,1837.HK,HKSE,Haiti,HKD,Consumer Defensive,Packaged Foods,713
+1195,9919.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,285
+1196,0273.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,129
+1197,0474.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,167
+1198,0565.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,144
+1199,1753.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,933
+1200,0306.HK,HKSE,Hong Kong,HKD,Industrials,Railroads,"3,700"
+1201,1922.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"5,877"
+1202,0298.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,129
+1203,1278.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,93
+1204,0106.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"1,940"
+1205,0439.HK,HKSE,Hong Kong,HKD,Industrials,Aerospace & Defense,98
+1206,1726.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,126
+1207,0365.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,334
+1208,6958.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"5,034"
+1209,1172.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,308
+1210,2107.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"3,618"
+1211,0771.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,"1,094"
+1212,0521.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,
+1213,0837.HK,HKSE,China,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",965
+1214,1978.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"1,499"
+1215,3330.HK,HKSE,Hong Kong,HKD,Basic Materials,Gold,"3,915"
+1216,8017.HK,HKSE,Hong Kong,HKD,Technology,Software—Infrastructure,111
+1217,1401.HK,HKSE,China,HKD,Technology,Consumer Electronics,"1,078"
+1218,8200.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,232
+1219,8095.HK,HKSE,China,HKD,Consumer Cyclical,Travel Services,473
+1220,0216.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,370
+1221,0042.HK,HKSE,China,HKD,Consumer Cyclical,Lodging,150
+1222,1127.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,"1,303"
+1223,1180.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Resorts & Casinos,370
+1224,1823.HK,HKSE,China,HKD,Industrials,Infrastructure Operations,480
+1225,1522.HK,HKSE,China,HKD,Technology,Information Technology Services,739
+1226,1703.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,311
+1227,6822.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",193
+1228,2298.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,"2,900"
+1229,1937.HK,HKSE,China,HKD,Industrials,Building Products & Equipment,183
+1230,0800.HK,HKSE,China,HKD,Industrials,Conglomerates,61
+1231,0206.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Equipment & Services,390
+1232,0628.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,34
+1233,0929.HK,HKSE,Hong Kong,HKD,Industrials,Metal Fabrication,"1,812"
+1234,1481.HK,HKSE,Hong Kong,HKD,Communication Services,Publishing,334
+1235,1856.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,188
+1236,1730.HK,HKSE,Singapore,HKD,Real Estate,Real Estate Services,567
+1237,0496.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"2,900"
+1238,0677.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Food Distribution,"4,069"
+1239,2161.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,231
+1240,8418.HK,HKSE,Singapore,HKD,Consumer Cyclical,Auto Parts,121
+1241,1945.HK,HKSE,China,HKD,Financial Services,Financial Conglomerates,327
+1242,1483.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"4,690"
+1243,1943.HK,HKSE,Hong Kong,HKD,Basic Materials,Building Materials,42
+1244,1942.HK,HKSE,Malaysia,HKD,Healthcare,Medical Instruments & Supplies,471
+1245,0126.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"1,550"
+1246,1461.HK,HKSE,China,HKD,Financial Services,Capital Markets,625
+1247,8172.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,61
+1248,0296.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Resorts & Casinos,869
+1249,0542.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,
+1250,2668.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,50
+1251,6117.HK,HKSE,China,HKD,Industrials,Marine Shipping,319
+1252,1815.HK,HKSE,China,HKD,Consumer Cyclical,Luxury Goods,166
+1253,2239.HK,HKSE,Hong Kong,HKD,Industrials,Security & Protection Services,392
+1254,0556.HK,HKSE,Hong Kong,HKD,Industrials,Pollution & Treatment Controls,87
+1255,0166.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,99
+1256,0436.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,632
+1257,0007.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,108
+1258,1962.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,"32,382"
+1259,1100.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,"7,845"
+1260,0154.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"1,247"
+1261,2281.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Water,"1,162"
+1262,1652.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"1,243"
+1263,1170.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,"7,800"
+1264,1301.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,385
+1265,1627.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,384
+1266,1796.HK,HKSE,Hong Kong,HKD,Industrials,Building Products & Equipment,54
+1267,0235.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,
+1268,0701.HK,HKSE,Hong Kong,HKD,Basic Materials,Specialty Chemicals,813
+1269,0418.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,"1,208"
+1270,1181.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"3,800"
+1271,2262.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,455
+1272,0831.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Grocery Stores,"2,379"
+1273,3399.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,"20,917"
+1274,0528.HK,HKSE,China,HKD,Consumer Cyclical,Textile Manufacturing,"3,808"
+1275,1265.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Gas,739
+1276,2121.HK,HKSE,China,HKD,Technology,Software—Infrastructure,
+1277,1609.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,698
+1278,2195.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,27
+1279,1692.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,866
+1280,0059.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,"1,480"
+1281,1623.HK,HKSE,China,HKD,Energy,Oil & Gas Equipment & Services,"2,920"
+1282,0037.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,70
+1283,2166.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,536
+1284,2119.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Non-Alcoholic,442
+1285,0132.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,954
+1286,2265.HK,HKSE,China,HKD,Industrials,Waste Management,
+1287,1851.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,796
+1288,6128.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,472
+1289,8057.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Wineries & Distilleries,128
+1290,2000.HK,HKSE,China,HKD,Technology,Communication Equipment,"1,450"
+1291,1412.HK,HKSE,Hong Kong,HKD,Basic Materials,Paper & Paper Products,"2,602"
+1292,8132.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,115
+1293,3321.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,108
+1294,1406.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Instruments & Supplies,100
+1295,3608.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,319
+1296,1780.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,60
+1297,1870.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,128
+1298,1495.HK,HKSE,China,HKD,Industrials,Engineering & Construction,110
+1299,0508.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,75
+1300,1662.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,658
+1301,8029.HK,HKSE,Hong Kong,HKD,Financial Services,Financial Conglomerates,43
+1302,1253.HK,HKSE,China,HKD,Industrials,Engineering & Construction,238
+1303,3860.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,67
+1304,8081.HK,HKSE,Jordan,HKD,Technology,Information Technology Services,"6,200"
+1305,2280.HK,HKSE,China,HKD,Technology,Information Technology Services,"1,468"
+1306,2270.HK,HKSE,China,HKD,Real Estate,Real Estate Services,
+1307,1721.HK,HKSE,Singapore,HKD,Industrials,Metal Fabrication,184
+1308,0406.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"3,200"
+1309,0476.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Recreational Vehicles,106
+1310,0295.HK,HKSE,China,HKD,Utilities,Utilities—Renewable,660
+1311,1297.HK,HKSE,China,HKD,Technology,Software—Application,507
+1312,8011.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas E&P,40
+1313,0532.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"4,392"
+1314,1410.HK,HKSE,Hong Kong,HKD,Technology,Software—Infrastructure,133
+1315,1010.HK,HKSE,Hong Kong,HKD,Industrials,Airports & Air Services,62
+1316,0554.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Equipment & Services,240
+1317,1028.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,"5,180"
+1318,1553.HK,HKSE,China,HKD,Basic Materials,Steel,"1,073"
+1319,0137.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,
+1320,2011.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,804
+1321,6939.HK,HKSE,China,HKD,Technology,Computer Hardware,148
+1322,1745.HK,HKSE,China,HKD,Consumer Cyclical,Travel Services,305
+1323,6058.HK,HKSE,Hong Kong,HKD,Financial Services,Financial Conglomerates,210
+1324,2292.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,18
+1325,2210.HK,HKSE,China,HKD,Real Estate,Real Estate Services,
+1326,1266.HK,HKSE,China,HKD,Basic Materials,Steel,"3,712"
+1327,1425.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,"1,668"
+1328,0040.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"7,130"
+1329,1855.HK,HKSE,China,HKD,Industrials,Engineering & Construction,504
+1330,0366.HK,HKSE,Hong Kong,HKD,Basic Materials,Building Materials,"1,030"
+1331,8005.HK,HKSE,China,HKD,Technology,Consumer Electronics,150
+1332,8021.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,81
+1333,1586.HK,HKSE,China,HKD,Industrials,Specialty Business Services,"1,781"
+1334,0938.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,465
+1335,0987.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Renewable,94
+1336,0980.HK,HKSE,China,HKD,Consumer Cyclical,Department Stores,"27,780"
+1337,1022.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,432
+1338,0722.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,476
+1339,0219.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,486
+1340,1200.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"7,251"
+1341,1626.HK,HKSE,China,HKD,Consumer Cyclical,Packaging & Containers,513
+1342,1026.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Water,409
+1343,1419.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,446
+1344,0820.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,
+1345,0096.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,"2,800"
+1346,0713.HK,HKSE,Hong Kong,HKD,Industrials,Building Products & Equipment,747
+1347,6068.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"6,800"
+1348,2189.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,507
+1349,1498.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,702
+1350,1961.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,32
+1351,6839.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Water,"7,007"
+1352,3778.HK,HKSE,China,HKD,Consumer Cyclical,Textile Manufacturing,"2,925"
+1353,1795.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,493
+1354,0214.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,330
+1355,1027.HK,HKSE,China,HKD,Consumer Cyclical,Footwear & Accessories,953
+1356,8245.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,150
+1357,6663.HK,HKSE,Hong Kong,HKD,Industrials,Security & Protection Services,"2,042"
+1358,8049.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,951
+1359,0925.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,515
+1360,1542.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Water,206
+1361,1673.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,310
+1362,0764.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,86
+1363,8158.HK,HKSE,Hong Kong,HKD,Healthcare,Biotechnology,172
+1364,0351.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,
+1365,0274.HK,HKSE,Hong Kong,HKD,Basic Materials,Gold,512
+1366,1203.HK,HKSE,Hong Kong,HKD,Basic Materials,Steel,"1,119"
+1367,0730.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,47
+1368,0907.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Instruments & Supplies,226
+1369,8391.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,149
+1370,0093.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,47
+1371,2260.HK,HKSE,China,HKD,Basic Materials,Paper & Paper Products,
+1372,1762.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,
+1373,3999.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"8,099"
+1374,1146.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,374
+1375,8645.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,107
+1376,2221.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,337
+1377,0271.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,30
+1378,2222.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","3,165"
+1379,1303.HK,HKSE,Hong Kong,HKD,Energy,Thermal Coal,61
+1380,2023.HK,HKSE,China,HKD,Consumer Defensive,Household & Personal Products,568
+1381,1925.HK,HKSE,China,HKD,Consumer Defensive,Household & Personal Products,475
+1382,0278.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,20
+1383,1046.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,127
+1384,9900.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,206
+1385,0301.HK,HKSE,China,HKD,Basic Materials,Specialty Chemicals,"1,078"
+1386,0391.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,133
+1387,1597.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,169
+1388,1020.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Internet Retail,96
+1389,1285.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"2,622"
+1390,1802.HK,HKSE,China,HKD,Industrials,Engineering & Construction,362
+1391,0103.HK,HKSE,Hong Kong,HKD,Basic Materials,Steel,"2,304"
+1392,0869.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,54
+1393,1612.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Devices,"1,281"
+1394,1118.HK,HKSE,Hong Kong,HKD,Basic Materials,Steel,"1,553"
+1395,0822.HK,HKSE,Hong Kong,HKD,Industrials,Metal Fabrication,"4,600"
+1396,0862.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,32
+1397,1148.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto Parts,"1,130"
+1398,2295.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,212
+1399,1827.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Personal Services,322
+1400,0865.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,61
+1401,8365.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,32
+1402,1645.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,413
+1403,0423.HK,HKSE,Hong Kong,HKD,Communication Services,Publishing,"1,395"
+1404,0932.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,171
+1405,0685.HK,HKSE,Hong Kong,HKD,Communication Services,Publishing,"2,917"
+1406,0970.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto & Truck Dealerships,441
+1407,1207.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,407
+1408,8516.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,63
+1409,0320.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,"4,700"
+1410,1262.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"1,170"
+1411,1906.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,756
+1412,6113.HK,HKSE,Malaysia,HKD,Communication Services,Advertising Agencies,"1,304"
+1413,1861.HK,HKSE,China,HKD,Consumer Cyclical,Specialty Retail,513
+1414,8292.HK,HKSE,Malaysia,HKD,Industrials,Integrated Freight & Logistics,381
+1415,0983.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,"2,188"
+1416,0254.HK,HKSE,Hong Kong,HKD,Industrials,Rental & Leasing Services,542
+1417,8316.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,50
+1418,1955.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,"13,000"
+1419,1746.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,74
+1420,0821.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,64
+1421,0229.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","3,059"
+1422,2623.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,
+1423,8479.HK,HKSE,China,HKD,Energy,Oil & Gas Refining & Marketing,41
+1424,2389.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,241
+1425,8535.HK,HKSE,Hong Kong,HKD,Industrials,Security & Protection Services,132
+1426,1251.HK,HKSE,China,HKD,Energy,Oil & Gas Integrated,"4,504"
+1427,0621.HK,HKSE,Hong Kong,HKD,Basic Materials,Gold,23
+1428,0690.HK,HKSE,Hong Kong,HKD,Healthcare,Biotechnology,326
+1429,1598.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"1,369"
+1430,1129.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Water,"1,022"
+1431,8406.HK,HKSE,China,HKD,Consumer Cyclical,Leisure,953
+1432,1989.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,497
+1433,1518.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,"1,401"
+1434,2358.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,367
+1435,0455.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,714
+1436,0487.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Travel Services,73
+1437,1854.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Food Distribution,76
+1438,0021.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,80
+1439,0529.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,798
+1440,3686.HK,HKSE,China,HKD,Consumer Defensive,Grocery Stores,664
+1441,3368.HK,HKSE,China,HKD,Consumer Cyclical,Department Stores,"4,963"
+1442,0653.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Specialty Retail,441
+1443,3601.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,233
+1444,1383.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,"1,166"
+1445,1520.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,181
+1446,0948.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,32
+1447,0899.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,34
+1448,0595.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,136
+1449,1538.HK,HKSE,China,HKD,Real Estate,Real Estate Services,"11,634"
+1450,6966.HK,HKSE,China,HKD,Consumer Cyclical,Personal Services,56
+1451,8617.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,80
+1452,1202.HK,HKSE,China,HKD,Technology,Communication Equipment,564
+1453,2209.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Internet Retail,588
+1454,8026.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,30
+1455,8112.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,57
+1456,1739.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,917
+1457,1632.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,109
+1458,1847.HK,HKSE,China,HKD,Basic Materials,Building Materials,"1,197"
+1459,1206.HK,HKSE,Singapore,HKD,Technology,Electronic Components,812
+1460,2728.HK,HKSE,China,HKD,Energy,Oil & Gas Refining & Marketing,218
+1461,6866.HK,HKSE,China,HKD,Financial Services,Credit Services,118
+1462,1163.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,118
+1463,2177.HK,HKSE,China,HKD,Consumer Defensive,Household & Personal Products,770
+1464,1063.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,11
+1465,0876.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Instruments & Supplies,780
+1466,0679.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,437
+1467,0608.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"5,100"
+1468,0828.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Wineries & Distilleries,241
+1469,6918.HK,HKSE,China,HKD,Consumer Cyclical,Leisure,491
+1470,1803.HK,HKSE,China,HKD,Consumer Cyclical,Leisure,182
+1471,0503.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,591
+1472,8540.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,59
+1473,0731.HK,HKSE,Hong Kong,HKD,Basic Materials,Paper & Paper Products,842
+1474,1587.HK,HKSE,China,HKD,Consumer Defensive,Food Distribution,168
+1475,0571.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,550
+1476,1636.HK,HKSE,China,HKD,Basic Materials,Copper,665
+1477,0583.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,18
+1478,8156.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,65
+1479,3322.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"19,000"
+1480,0239.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,94
+1481,0912.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,"2,896"
+1482,1960.HK,HKSE,Malaysia,HKD,Industrials,Engineering & Construction,324
+1483,1116.HK,HKSE,Hong Kong,HKD,Basic Materials,Steel,370
+1484,0852.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Refining & Marketing,93
+1485,0311.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,
+1486,0372.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,66
+1487,0702.HK,HKSE,Hong Kong,HKD,Energy,Thermal Coal,300
+1488,0924.HK,HKSE,Singapore,HKD,Industrials,Engineering & Construction,124
+1489,1323.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,244
+1490,0397.HK,HKSE,Hong Kong,HKD,Financial Services,Financial Conglomerates,27
+1491,9958.HK,HKSE,China,HKD,Communication Services,Entertainment,70
+1492,3773.HK,HKSE,China,HKD,Technology,Software—Infrastructure,99
+1493,1134.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Instruments & Supplies,"1,035"
+1494,1201.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,583
+1495,0759.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Grocery Stores,"1,600"
+1496,9933.HK,HKSE,China,HKD,Basic Materials,Chemicals,873
+1497,1867.HK,HKSE,Hong Kong,HKD,Industrials,Consulting Services,79
+1498,1643.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—General,196
+1499,1008.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Packaging & Containers,"1,021"
+1500,1845.HK,HKSE,China,HKD,Industrials,Waste Management,359
+1501,0102.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Resorts & Casinos,994
+1502,0613.HK,HKSE,Hong Kong,HKD,Financial Services,Financial Conglomerates,46
+1503,3363.HK,HKSE,China,HKD,Basic Materials,Paper & Paper Products,
+1504,0717.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,130
+1505,0180.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,941
+1506,1058.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,364
+1507,0738.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,"1,391"
+1508,0623.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,198
+1509,2132.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,362
+1510,2051.HK,HKSE,China,HKD,Financial Services,Credit Services,280
+1511,0294.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"1,700"
+1512,2135.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,400
+1513,8657.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,26
+1514,8007.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Refining & Marketing,55
+1515,1351.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,261
+1516,1783.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,76
+1517,8371.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,625
+1518,0368.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,252
+1519,3997.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Personal Services,56
+1520,1901.HK,HKSE,China,HKD,Consumer Cyclical,Travel Services,224
+1521,0897.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"1,825"
+1522,1388.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"5,154"
+1523,0117.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"1,347"
+1524,0922.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Personal Services,314
+1525,0640.HK,HKSE,Hong Kong,HKD,Basic Materials,Specialty Chemicals,356
+1526,0954.HK,HKSE,China,HKD,Basic Materials,Chemicals,452
+1527,6036.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,140
+1528,0718.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Distribution,193
+1529,2110.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,52
+1530,1011.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,210
+1531,1936.HK,HKSE,Malaysia,HKD,Consumer Defensive,Farm Products,53
+1532,0353.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Equipment & Services,59
+1533,0681.HK,HKSE,China,HKD,Utilities,Utilities—Regulated Gas,"5,100"
+1534,1292.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,"5,131"
+1535,1878.HK,HKSE,Hong Kong,HKD,Energy,Thermal Coal,235
+1536,8153.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,43
+1537,2086.HK,HKSE,Hong Kong,HKD,Industrials,Security & Protection Services,111
+1538,1260.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,143
+1539,1237.HK,HKSE,China,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",334
+1540,8405.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,389
+1541,2080.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"1,239"
+1542,0360.HK,HKSE,China,HKD,Consumer Cyclical,Auto & Truck Dealerships,"1,017"
+1543,6860.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,350
+1544,0589.HK,HKSE,China,HKD,Industrials,Engineering & Construction,733
+1545,8368.HK,HKSE,China,HKD,Communication Services,Entertainment,26
+1546,1782.HK,HKSE,China,HKD,Technology,Software—Application,263
+1547,8613.HK,HKSE,Thailand,HKD,Technology,Software—Infrastructure,29
+1548,1849.HK,HKSE,Singapore,HKD,Communication Services,Advertising Agencies,150
+1549,6890.HK,HKSE,China,HKD,Basic Materials,Steel,509
+1550,0280.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,143
+1551,0727.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,48
+1552,1572.HK,HKSE,China,HKD,Consumer Cyclical,Specialty Retail,30
+1553,8225.HK,HKSE,China,HKD,Healthcare,Medical Care Facilities,82
+1554,8603.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Personal Services,111
+1555,9916.HK,HKSE,China,HKD,Real Estate,Real Estate Services,417
+1556,0527.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Renewable,125
+1557,0814.HK,HKSE,China,HKD,Consumer Cyclical,Specialty Retail,"5,300"
+1558,1769.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"3,631"
+1559,0854.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,359
+1560,0575.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,32
+1561,0244.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,193
+1562,1009.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,228
+1563,0755.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,910
+1564,9608.HK,HKSE,China,HKD,Real Estate,Real Estate Services,740
+1565,0557.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,108
+1566,1348.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,47
+1567,3326.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,128
+1568,1679.HK,HKSE,China,HKD,Technology,Semiconductors,168
+1569,0122.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,157
+1570,1269.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto Parts,"3,417"
+1571,0674.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,43
+1572,1987.HK,HKSE,Singapore,HKD,Industrials,Engineering & Construction,103
+1573,1529.HK,HKSE,China,HKD,Industrials,Integrated Freight & Logistics,761
+1574,3828.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,"5,000"
+1575,0893.HK,HKSE,Hong Kong,HKD,Basic Materials,Steel,180
+1576,0663.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,47
+1577,1326.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,145
+1578,1379.HK,HKSE,China,HKD,Real Estate,Real Estate Services,28
+1579,0559.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,33
+1580,8325.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,192
+1581,1747.HK,HKSE,Singapore,HKD,Technology,Consumer Electronics,175
+1582,0361.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,970
+1583,1418.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","3,258"
+1584,2293.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,72
+1585,0984.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,"6,900"
+1586,1215.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,7
+1587,0039.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Grocery Stores,155
+1588,1110.HK,HKSE,China,HKD,Healthcare,Pharmaceutical Retailers,"1,002"
+1589,8329.HK,HKSE,China,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"1,217"
+1590,1105.HK,HKSE,Hong Kong,HKD,Communication Services,Publishing,"1,248"
+1591,6893.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,292
+1592,1025.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,260
+1593,0894.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"2,999"
+1594,1062.HK,HKSE,Hong Kong,HKD,,,
+1595,0936.HK,HKSE,Hong Kong,HKD,Industrials,Rental & Leasing Services,121
+1596,0434.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,294
+1597,1298.HK,HKSE,Hong Kong,HKD,Technology,Scientific & Technical Instruments,17
+1598,1663.HK,HKSE,China,HKD,Real Estate,Real Estate Services,304
+1599,0090.HK,HKSE,China,HKD,Utilities,Utilities—Renewable,289
+1600,3878.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,20
+1601,0927.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,"2,500"
+1602,0234.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,32
+1603,1232.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,858
+1604,1399.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,"3,725"
+1605,1556.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,652
+1606,8305.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,131
+1607,8128.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,480
+1608,1975.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,"1,105"
+1609,0114.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,"5,925"
+1610,0444.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,113
+1611,2188.HK,HKSE,China,HKD,Industrials,Electrical Equipment & Parts,400
+1612,1869.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,609
+1613,1592.HK,HKSE,Hong Kong,HKD,Industrials,Building Products & Equipment,25
+1614,1859.HK,HKSE,China,HKD,Communication Services,Entertainment,83
+1615,1097.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,"1,187"
+1616,1255.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,178
+1617,0715.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,72
+1618,6888.HK,HKSE,Hong Kong,HKD,Industrials,Infrastructure Operations,482
+1619,8189.HK,HKSE,China,HKD,Basic Materials,Agricultural Inputs,408
+1620,1305.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,
+1621,0073.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Farm Products,29
+1622,8080.HK,HKSE,Hong Kong,HKD,Industrials,Industrial Distribution,315
+1623,2230.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,120
+1624,9963.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,177
+1625,1480.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,766
+1626,1346.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,335
+1627,0629.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,20
+1628,0638.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,"6,500"
+1629,2258.HK,HKSE,China,HKD,Industrials,Infrastructure Operations,597
+1630,0375.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,390
+1631,1335.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Packaging & Containers,62
+1632,2339.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto Parts,880
+1633,0169.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,616
+1634,1218.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,93
+1635,0858.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,169
+1636,3839.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"1,000"
+1637,1245.HK,HKSE,Japan,HKD,Consumer Cyclical,Resorts & Casinos,"1,571"
+1638,1832.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,190
+1639,1443.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"2,165"
+1640,8315.HK,HKSE,Hong Kong,HKD,Industrials,Security & Protection Services,503
+1641,2078.HK,HKSE,Hong Kong,HKD,Basic Materials,Aluminum,"1,600"
+1642,8196.HK,HKSE,China,HKD,Industrials,Waste Management,88
+1643,1540.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,271
+1644,2307.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,"7,052"
+1645,0526.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto & Truck Dealerships,"1,971"
+1646,8511.HK,HKSE,China,HKD,Technology,Scientific & Technical Instruments,27
+1647,0475.HK,HKSE,Hong Kong,HKD,Technology,Solar,68
+1648,2371.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Education & Training Services,347
+1649,1985.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,254
+1650,1889.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,62
+1651,0399.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,27
+1652,1312.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,"1,213"
+1653,1314.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"2,600"
+1654,1843.HK,HKSE,Singapore,HKD,Consumer Cyclical,Restaurants,198
+1655,2528.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,"1,340"
+1656,1959.HK,HKSE,China,HKD,Consumer Cyclical,Auto & Truck Dealerships,857
+1657,2863.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,286
+1658,8512.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,"1,400"
+1659,1613.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,123
+1660,2102.HK,HKSE,Hong Kong,HKD,Industrials,Farm & Heavy Construction Machinery,215
+1661,0080.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,7
+1662,6829.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,194
+1663,1957.HK,HKSE,Malaysia,HKD,Consumer Cyclical,Apparel Manufacturing,390
+1664,0458.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"6,140"
+1665,1001.HK,HKSE,Hong Kong,HKD,Industrials,Industrial Distribution,239
+1666,1073.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,
+1667,1413.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,140
+1668,8311.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,65
+1669,1897.HK,HKSE,Hong Kong,HKD,Industrials,Building Products & Equipment,266
+1670,1455.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,793
+1671,0312.HK,HKSE,China,HKD,Consumer Cyclical,Department Stores,337
+1672,1486.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"1,450"
+1673,8367.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,170
+1674,8275.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,102
+1675,0689.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,24
+1676,0227.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,
+1677,0472.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Wineries & Distilleries,314
+1678,0111.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,114
+1679,2159.HK,HKSE,China,HKD,Healthcare,Health Information Services,411
+1680,0253.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,486
+1681,0188.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,89
+1682,1891.HK,HKSE,Malaysia,HKD,Industrials,Metal Fabrication,162
+1683,1903.HK,HKSE,Malaysia,HKD,Industrials,Engineering & Construction,55
+1684,0065.HK,HKSE,Hong Kong,HKD,Energy,Thermal Coal,447
+1685,0210.HK,HKSE,China,HKD,Consumer Cyclical,Footwear & Accessories,75
+1686,0483.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Retail,218
+1687,0519.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,36
+1688,1938.HK,HKSE,Hong Kong,HKD,Basic Materials,Steel,802
+1689,1101.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas E&P,158
+1690,0417.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,"2,354"
+1691,1165.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Renewable,"1,121"
+1692,0810.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,21
+1693,0871.HK,HKSE,China,HKD,Industrials,Engineering & Construction,479
+1694,8118.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",194
+1695,1991.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,"1,187"
+1696,1338.HK,HKSE,China,HKD,Consumer Defensive,Household & Personal Products,224
+1697,0673.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Distribution,131
+1698,0076.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,322
+1699,0442.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,19
+1700,1775.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Education & Training Services,228
+1701,2176.HK,HKSE,China,HKD,Technology,Information Technology Services,362
+1702,1560.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,99
+1703,1629.HK,HKSE,China,HKD,Consumer Cyclical,Packaging & Containers,231
+1704,0389.HK,HKSE,China,HKD,Consumer Defensive,Beverages—Wineries & Distilleries,318
+1705,1582.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,703
+1706,0833.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"3,041"
+1707,1767.HK,HKSE,Singapore,HKD,Consumer Defensive,Packaged Foods,258
+1708,1080.HK,HKSE,China,HKD,Energy,Oil & Gas Equipment & Services,915
+1709,1449.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,670
+1710,0918.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,42
+1711,2182.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,"1,030"
+1712,0668.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,30
+1713,1087.HK,HKSE,China,HKD,Technology,Communication Equipment,262
+1714,2700.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,218
+1715,3978.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"7,759"
+1716,8162.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,30
+1717,0637.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,190
+1718,1706.HK,HKSE,Hong Kong,HKD,,,
+1719,1669.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,19
+1720,1667.HK,HKSE,Hong Kong,HKD,,,
+1721,0092.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,33
+1722,8482.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,30
+1723,1473.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,121
+1724,0675.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,866
+1725,0459.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,594
+1726,1549.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,198
+1727,8283.HK,HKSE,Singapore,HKD,Consumer Cyclical,Auto Parts,151
+1728,6119.HK,HKSE,China,HKD,Industrials,Marine Shipping,238
+1729,6882.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Travel Services,254
+1730,0313.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,222
+1731,1953.HK,HKSE,Malaysia,HKD,Industrials,Engineering & Construction,189
+1732,1446.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Non-Alcoholic,904
+1733,0767.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,33
+1734,2326.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,131
+1735,1120.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Instruments & Supplies,"3,300"
+1736,1631.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,122
+1737,2789.HK,HKSE,China,HKD,Industrials,Engineering & Construction,"2,804"
+1738,0723.HK,HKSE,Hong Kong,HKD,Basic Materials,Lumber & Wood Production,51
+1739,1159.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,27
+1740,0276.HK,HKSE,Hong Kong,HKD,Basic Materials,Coking Coal,676
+1741,0943.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,614
+1742,1900.HK,HKSE,China,HKD,Technology,Information Technology Services,253
+1743,8041.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,98
+1744,8205.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,96
+1745,0139.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,105
+1746,0164.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,75
+1747,0632.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas E&P,24
+1748,1661.HK,HKSE,China,HKD,Communication Services,Entertainment,25
+1749,2323.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"1,090"
+1750,1371.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Gambling,184
+1751,8198.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,24
+1752,1094.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,108
+1753,2113.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,198
+1754,1752.HK,HKSE,Australia,HKD,Consumer Defensive,Education & Training Services,101
+1755,1500.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,51
+1756,0499.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,129
+1757,6116.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Retail,"2,354"
+1758,6812.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"1,867"
+1759,6063.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,63
+1760,0601.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,365
+1761,1685.HK,HKSE,China,HKD,Industrials,Industrial Distribution,703
+1762,0197.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Farm Products,320
+1763,0362.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Regulated Electric,621
+1764,1132.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,309
+1765,1002.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,362
+1766,0063.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,121
+1767,6133.HK,HKSE,China,HKD,Technology,Consumer Electronics,30
+1768,8072.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,80
+1769,1037.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,543
+1770,0022.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,107
+1771,2017.HK,HKSE,China,HKD,Industrials,Engineering & Construction,576
+1772,0712.HK,HKSE,China,HKD,Technology,Solar,
+1773,1360.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,101
+1774,8473.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Specialty Retail,79
+1775,1545.HK,HKSE,Singapore,HKD,Consumer Cyclical,Internet Retail,132
+1776,1712.HK,HKSE,Australia,HKD,Basic Materials,Gold,69
+1777,0387.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,250
+1778,0913.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,14
+1779,0760.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,214
+1780,1751.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,173
+1781,0630.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,29
+1782,0947.HK,HKSE,China,HKD,Technology,Communication Equipment,"2,050"
+1783,6162.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,620
+1784,9986.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,"1,594"
+1785,1397.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"6,084"
+1786,0145.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,19
+1787,2115.HK,HKSE,Malaysia,HKD,Industrials,Building Products & Equipment,169
+1788,1737.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,432
+1789,2108.HK,HKSE,Hong Kong,HKD,,,
+1790,8502.HK,HKSE,China,HKD,Industrials,Infrastructure Operations,215
+1791,0851.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,23
+1792,1466.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,48
+1793,0464.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,"1,079"
+1794,0204.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,14
+1795,2663.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,156
+1796,8370.HK,HKSE,China,HKD,Industrials,Business Equipment & Supplies,197
+1797,1395.HK,HKSE,China,HKD,Industrials,Waste Management,110
+1798,8317.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,79
+1799,0094.HK,HKSE,Hong Kong,HKD,Basic Materials,Lumber & Wood Production,179
+1800,8113.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,100
+1801,2288.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,26
+1802,1124.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,80
+1803,1676.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,488
+1804,1147.HK,HKSE,China,HKD,Technology,Information Technology Services,258
+1805,8476.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,19
+1806,9918.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"1,800"
+1807,2381.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",132
+1808,1532.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,924
+1809,0269.HK,HKSE,Hong Kong,HKD,Industrials,Infrastructure Operations,441
+1810,8377.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,161
+1811,8003.HK,HKSE,Hong Kong,HKD,Basic Materials,Lumber & Wood Production,126
+1812,8526.HK,HKSE,Hong Kong,HKD,Industrials,Building Products & Equipment,64
+1813,1555.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas E&P,"1,010"
+1814,0901.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,4
+1815,1246.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,129
+1816,6083.HK,HKSE,Hong Kong,HKD,,,
+1817,0058.HK,HKSE,Hong Kong,HKD,Basic Materials,Building Materials,442
+1818,8601.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,290
+1819,1941.HK,HKSE,China,HKD,Real Estate,Real Estate Services,705
+1820,0804.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,13
+1821,0036.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,7
+1822,1615.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,136
+1823,0183.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,22
+1824,1637.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,187
+1825,8357.HK,HKSE,Singapore,HKD,Healthcare,Medical Care Facilities,48
+1826,8310.HK,HKSE,Hong Kong,HKD,Industrials,Integrated Freight & Logistics,122
+1827,0299.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,597
+1828,1408.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,59
+1829,3395.HK,HKSE,Canada,HKD,Energy,Oil & Gas E&P,6
+1830,8203.HK,HKSE,Hong Kong,HKD,Energy,Thermal Coal,117
+1831,0205.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,73
+1832,0923.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,119
+1833,0515.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,448
+1834,1930.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,353
+1835,0509.HK,HKSE,Hong Kong,HKD,Basic Materials,Agricultural Inputs,"1,520"
+1836,8437.HK,HKSE,Singapore,HKD,Healthcare,Medical Care Facilities,68
+1837,0077.HK,HKSE,Hong Kong,HKD,Industrials,Railroads,"1,198"
+1838,3789.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,97
+1839,1647.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,249
+1840,0146.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,694
+1841,8159.HK,HKSE,Hong Kong,HKD,Technology,Computer Hardware,
+1842,8098.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,15
+1843,1617.HK,HKSE,China,HKD,Technology,Communication Equipment,320
+1844,0844.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"2,300"
+1845,2031.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,165
+1846,0600.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Equipment & Services,29
+1847,3666.HK,HKSE,China,HKD,Consumer Cyclical,Restaurants,958
+1848,1850.HK,HKSE,Hong Kong,HKD,Industrials,Security & Protection Services,57
+1849,0928.HK,HKSE,Hong Kong,HKD,Healthcare,Diagnostics & Research,16
+1850,0889.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,"1,082"
+1851,0643.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,491
+1852,1566.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,353
+1853,0756.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Non-Alcoholic,105
+1854,8627.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,90
+1855,0550.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,23
+1856,1259.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,982
+1857,8668.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Travel Services,92
+1858,8271.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,194
+1859,1620.HK,HKSE,Canada,HKD,Consumer Cyclical,Travel Services,110
+1860,1740.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,22
+1861,6038.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,108
+1862,0802.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,56
+1863,1872.HK,HKSE,Singapore,HKD,Consumer Cyclical,Auto & Truck Dealerships,93
+1864,6163.HK,HKSE,Malaysia,HKD,Consumer Cyclical,Auto Parts,313
+1865,0953.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,68
+1866,6877.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,35
+1867,8659.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Packaging & Containers,150
+1868,8646.HK,HKSE,China,HKD,Industrials,Building Products & Equipment,65
+1869,1841.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,91
+1870,1580.HK,HKSE,China,HKD,Basic Materials,Lumber & Wood Production,153
+1871,6899.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,194
+1872,0211.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,82
+1873,1826.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,116
+1874,0567.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Refining & Marketing,300
+1875,2683.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,"4,737"
+1876,8452.HK,HKSE,China,HKD,Financial Services,Credit Services,48
+1877,2212.HK,HKSE,China,HKD,Basic Materials,Building Materials,22
+1878,1273.HK,HKSE,Hong Kong,HKD,Financial Services,Mortgage Finance,41
+1879,1315.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,422
+1880,0430.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,10
+1881,1927.HK,HKSE,China,HKD,Consumer Defensive,Confectioners,506
+1882,1884.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,296
+1883,0290.HK,HKSE,Hong Kong,HKD,Financial Services,Financial Conglomerates,72
+1884,1145.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,
+1885,2178.HK,HKSE,China,HKD,Energy,Oil & Gas Equipment & Services,378
+1886,0794.HK,HKSE,Hong Kong,HKD,Basic Materials,Paper & Paper Products,"1,184"
+1887,2022.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,170
+1888,2885.HK,HKSE,Hong Kong,HKD,Industrials,Security & Protection Services,149
+1889,2227.HK,HKSE,Singapore,HKD,Industrials,Engineering & Construction,138
+1890,8495.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,333
+1891,1711.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Specialty Retail,136
+1892,1429.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"1,323"
+1893,1742.HK,HKSE,Singapore,HKD,Industrials,Engineering & Construction,861
+1894,0495.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,67
+1895,0747.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,42
+1896,2116.HK,HKSE,China,HKD,Basic Materials,Specialty Chemicals,59
+1897,1710.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,"1,500"
+1898,3816.HK,HKSE,Hong Kong,HKD,Industrials,Metal Fabrication,"1,555"
+1899,8250.HK,HKSE,Hong Kong,HKD,Energy,Thermal Coal,449
+1900,0403.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Packaging & Containers,"3,200"
+1901,8423.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,54
+1902,8471.HK,HKSE,China,HKD,Consumer Cyclical,Textile Manufacturing,220
+1903,0262.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,190
+1904,0138.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,278
+1905,8353.HK,HKSE,Singapore,HKD,Technology,Software—Application,129
+1906,3332.HK,HKSE,China,HKD,Consumer Defensive,Household & Personal Products,299
+1907,1226.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,11
+1908,8487.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,116
+1909,1732.HK,HKSE,China,HKD,Industrials,Integrated Freight & Logistics,963
+1910,8360.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,40
+1911,2340.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"5,010"
+1912,2088.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,19
+1913,1166.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,500
+1914,1705.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Food Distribution,597
+1915,0333.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"7,723"
+1916,0380.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Home Improvement Retail,148
+1917,2122.HK,HKSE,China,HKD,Consumer Cyclical,Specialty Retail,"1,700"
+1918,0428.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,3
+1919,1701.HK,HKSE,China,HKD,Consumer Cyclical,Travel Services,77
+1920,8350.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,19
+1921,1793.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,223
+1922,8509.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Wineries & Distilleries,45
+1923,8173.HK,HKSE,Hong Kong,HKD,Industrials,Consulting Services,59
+1924,9998.HK,HKSE,Singapore,HKD,Industrials,Engineering & Construction,382
+1925,6193.HK,HKSE,Hong Kong,HKD,Basic Materials,Building Materials,51
+1926,2680.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,38
+1927,1917.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,93
+1928,0646.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,61
+1929,3889.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,950
+1930,0181.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,110
+1931,0841.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,250
+1932,1496.HK,HKSE,Hong Kong,HKD,Industrials,Rental & Leasing Services,127
+1933,1792.HK,HKSE,Singapore,HKD,Communication Services,Electronic Gaming & Multimedia,64
+1934,8269.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,50
+1935,3822.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,276
+1936,1933.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,96
+1937,8146.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Wineries & Distilleries,147
+1938,0725.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,920
+1939,8609.HK,HKSE,Singapore,HKD,Consumer Defensive,Packaged Foods,255
+1940,1420.HK,HKSE,Singapore,HKD,Industrials,Engineering & Construction,507
+1941,8607.HK,HKSE,China,HKD,Consumer Cyclical,Textile Manufacturing,417
+1942,1150.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,66
+1943,8069.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Travel Services,94
+1944,1630.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"1,152"
+1945,8143.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,340
+1946,2193.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,147
+1947,0988.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,39
+1948,0834.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,"2,849"
+1949,8425.HK,HKSE,Hong Kong,HKD,Industrials,Rental & Leasing Services,37
+1950,0682.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Farm Products,131
+1951,1546.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,62
+1952,0260.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,28
+1953,1220.HK,HKSE,Hong Kong,HKD,Basic Materials,Aluminum,14
+1954,0919.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Personal Services,801
+1955,2129.HK,HKSE,Singapore,HKD,Industrials,Trucking,151
+1956,0498.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,"2,691"
+1957,1217.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,27
+1958,8313.HK,HKSE,Singapore,HKD,Financial Services,Asset Management,32
+1959,0745.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,22
+1960,0484.HK,HKSE,China,HKD,Communication Services,Electronic Gaming & Multimedia,46
+1961,0915.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Specialty Retail,290
+1962,0518.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"1,300"
+1963,2266.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,146
+1964,0872.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,69
+1965,0491.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,498
+1966,1621.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Refining & Marketing,37
+1967,0627.HK,HKSE,Hong Kong,HKD,,,
+1968,8073.HK,HKSE,China,HKD,Technology,Electronic Components,149
+1969,8403.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,50
+1970,8257.HK,HKSE,China,HKD,Technology,Semiconductor Equipment & Materials,257
+1971,8035.HK,HKSE,China,HKD,,,
+1972,8117.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Midstream,157
+1973,0070.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Resorts & Casinos,42
+1974,8071.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,88
+1975,1049.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,752
+1976,1950.HK,HKSE,China,HKD,Basic Materials,Specialty Chemicals,155
+1977,0176.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,250
+1978,8297.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,105
+1979,8426.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"2,164"
+1980,2223.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,516
+1981,0812.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,66
+1982,8103.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,24
+1983,8130.HK,HKSE,Hong Kong,HKD,Communication Services,Publishing,80
+1984,1130.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Auto & Truck Dealerships,35
+1985,8027.HK,HKSE,Singapore,HKD,Industrials,Metal Fabrication,70
+1986,8401.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,35
+1987,8616.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,36
+1988,1173.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Household & Personal Products,"1,100"
+1989,1633.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,110
+1990,0309.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,"1,095"
+1991,1715.HK,HKSE,China,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",222
+1992,0162.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,"1,300"
+1993,1716.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,99
+1994,9929.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,63
+1995,0574.HK,HKSE,Hong Kong,HKD,Healthcare,Pharmaceutical Retailers,125
+1996,1013.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,19
+1997,0482.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,700
+1998,0703.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,"1,048"
+1999,8296.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Personal Services,179
+2000,1552.HK,HKSE,Hong Kong,HKD,,,
+2001,1718.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,123
+2002,1831.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,195
+2003,0524.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,23
+2004,1472.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,225
+2005,1433.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"1,000"
+2006,1189.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,378
+2007,0969.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Confectioners,136
+2008,8126.HK,HKSE,Singapore,HKD,Consumer Cyclical,Auto & Truck Dealerships,762
+2009,2310.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,309
+2010,0707.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,162
+2011,0840.HK,HKSE,China,HKD,Industrials,Farm & Heavy Construction Machinery,528
+2012,3313.HK,HKSE,China,HKD,Industrials,Building Products & Equipment,195
+2013,1912.HK,HKSE,Hong Kong,HKD,Technology,Semiconductors,98
+2014,0048.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,227
+2015,1343.HK,HKSE,Singapore,HKD,Industrials,Engineering & Construction,587
+2016,1451.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Packaging & Containers,740
+2017,8496.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Grocery Stores,170
+2018,0009.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,73
+2019,0616.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,63
+2020,8606.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,151
+2021,0356.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,6
+2022,0401.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Distribution,177
+2023,8420.HK,HKSE,Singapore,HKD,Technology,Software—Infrastructure,28
+2024,8036.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,52
+2025,1389.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Wineries & Distilleries,26
+2026,1210.HK,HKSE,China,HKD,Consumer Defensive,Grocery Stores,"2,255"
+2027,9938.HK,HKSE,Hong Kong,HKD,Industrials,Building Products & Equipment,60
+2028,8078.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,27
+2029,8481.HK,HKSE,Hong Kong,HKD,Basic Materials,Paper & Paper Products,417
+2030,8620.HK,HKSE,Hong Kong,HKD,Industrials,Airports & Air Services,222
+2031,8547.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",193
+2032,0784.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,154
+2033,8181.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate Services,"1,828"
+2034,0115.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,113
+2035,8392.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",28
+2036,1949.HK,HKSE,Thailand,HKD,Technology,Information Technology Services,53
+2037,0986.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,38
+2038,8373.HK,HKSE,Singapore,HKD,Industrials,Engineering & Construction,353
+2039,0911.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,22
+2040,0997.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,265
+2041,8040.HK,HKSE,Hong Kong,HKD,Industrials,Consulting Services,65
+2042,1723.HK,HKSE,Hong Kong,HKD,Communication Services,Telecom Services,46
+2043,8140.HK,HKSE,Hong Kong,HKD,Basic Materials,Steel,56
+2044,8179.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,18
+2045,1683.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,26
+2046,1143.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,"1,200"
+2047,8065.HK,HKSE,Hong Kong,HKD,Industrials,Infrastructure Operations,203
+2048,8619.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,140
+2049,2324.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,13
+2050,1362.HK,HKSE,Hong Kong,HKD,Technology,Electronics & Computer Distribution,45
+2051,8120.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,169
+2052,8293.HK,HKSE,Singapore,HKD,Industrials,Staffing & Employment Services,104
+2053,1871.HK,HKSE,China,HKD,Consumer Defensive,Education & Training Services,430
+2054,1289.HK,HKSE,China,HKD,Industrials,Specialty Industrial Machinery,141
+2055,0055.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,"1,320"
+2056,6080.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,219
+2057,8319.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,90
+2058,8123.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,49
+2059,2203.HK,HKSE,Hong Kong,HKD,Technology,Semiconductors,406
+2060,8321.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,25
+2061,1591.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,56
+2062,1690.HK,HKSE,Hong Kong,HKD,,,
+2063,0209.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,"2,650"
+2064,8519.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,337
+2065,8379.HK,HKSE,Hong Kong,HKD,Industrials,Security & Protection Services,71
+2066,1162.HK,HKSE,Hong Kong,HKD,Industrials,Security & Protection Services,43
+2067,8500.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,43
+2068,1195.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Diversified,85
+2069,8051.HK,HKSE,Hong Kong,HKD,Industrials,Security & Protection Services,35
+2070,0130.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,357
+2071,1581.HK,HKSE,Hong Kong,HKD,Industrials,Rental & Leasing Services,455
+2072,0167.HK,HKSE,China,HKD,Technology,Consumer Electronics,378
+2073,1671.HK,HKSE,China,HKD,Utilities,Utilities—Independent Power Producers,63
+2074,8238.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,33
+2075,1079.HK,HKSE,Hong Kong,HKD,Technology,Computer Hardware,117
+2076,3626.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,80
+2077,8622.HK,HKSE,Hong Kong,HKD,Healthcare,Drug Manufacturers—Specialty & Generic,83
+2078,2211.HK,HKSE,China,HKD,Healthcare,Pharmaceutical Retailers,"3,495"
+2079,8241.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Packaged Foods,62
+2080,8082.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,76
+2081,8326.HK,HKSE,Hong Kong,HKD,Utilities,Utilities—Renewable,97
+2082,0396.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",160
+2083,8028.HK,HKSE,Hong Kong,HKD,Basic Materials,Other Industrial Metals & Mining,35
+2084,8221.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,19
+2085,8507.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,54
+2086,0072.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,415
+2087,1355.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,129
+2088,1920.HK,HKSE,Jordan,HKD,Industrials,Engineering & Construction,15
+2089,0377.HK,HKSE,Hong Kong,HKD,Basic Materials,Specialty Chemicals,"2,705"
+2090,8383.HK,HKSE,Malaysia,HKD,Consumer Cyclical,Packaging & Containers,946
+2091,1575.HK,HKSE,China,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances","1,295"
+2092,8523.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,450
+2093,1750.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,241
+2094,0248.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,95
+2095,8178.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,74
+2096,0243.HK,HKSE,Hong Kong,HKD,Technology,Semiconductors,940
+2097,1749.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,448
+2098,8262.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,48
+2099,1421.HK,HKSE,Hong Kong,HKD,Technology,Solar,18
+2100,0328.HK,HKSE,Hong Kong,HKD,Technology,Consumer Electronics,"1,360"
+2101,3893.HK,HKSE,Hong Kong,HKD,Industrials,Consulting Services,38
+2102,0886.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Beverages—Wineries & Distilleries,129
+2103,8286.HK,HKSE,China,HKD,Technology,Communication Equipment,405
+2104,0789.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,36
+2105,8206.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,99
+2106,1247.HK,HKSE,China,HKD,Consumer Cyclical,Apparel Manufacturing,310
+2107,1059.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,170
+2108,0736.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,35
+2109,0510.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,130
+2110,1722.HK,HKSE,China,HKD,Industrials,Engineering & Construction,512
+2111,0318.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,55
+2112,3919.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,490
+2113,0619.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,185
+2114,8163.HK,HKSE,Hong Kong,HKD,,,
+2115,8419.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,178
+2116,1653.HK,HKSE,Hong Kong,HKD,Industrials,Building Products & Equipment,67
+2117,8307.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Care Facilities,35
+2118,8612.HK,HKSE,Hong Kong,HKD,Industrials,Rental & Leasing Services,18
+2119,8031.HK,HKSE,Hong Kong,HKD,Industrials,Staffing & Employment Services,
+2120,8193.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,24
+2121,8087.HK,HKSE,China,HKD,Communication Services,Entertainment,45
+2122,1695.HK,HKSE,Malaysia,HKD,Consumer Defensive,Packaged Foods,331
+2123,8447.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,212
+2124,8320.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,58
+2125,8229.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,222
+2126,8111.HK,HKSE,Hong Kong,HKD,Technology,Solar,28
+2127,0660.HK,HKSE,Hong Kong,HKD,Basic Materials,Chemicals,
+2128,8300.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,75
+2129,2699.HK,HKSE,China,HKD,Real Estate,Real Estate—Development,88
+2130,8211.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Textile Manufacturing,312
+2131,1239.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Packaging & Containers,590
+2132,8280.HK,HKSE,China,HKD,Communication Services,Entertainment,548
+2133,8363.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Education & Training Services,517
+2134,8136.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,65
+2135,1064.HK,HKSE,Hong Kong,HKD,Real Estate,Real Estate—Development,40
+2136,1225.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,210
+2137,1452.HK,HKSE,China,HKD,Industrials,Pollution & Treatment Controls,212
+2138,8483.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Personal Services,50
+2139,8282.HK,HKSE,Hong Kong,HKD,Communication Services,Electronic Gaming & Multimedia,53
+2140,8375.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,166
+2141,0223.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,44
+2142,1380.HK,HKSE,China,HKD,Basic Materials,Other Industrial Metals & Mining,36
+2143,2363.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,536
+2144,0084.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,968
+2145,8043.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,43
+2146,8249.HK,HKSE,China,HKD,Technology,Electronic Components,11
+2147,1182.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,44
+2148,8532.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,98
+2149,1340.HK,HKSE,China,HKD,Consumer Defensive,Packaged Foods,29
+2150,8623.HK,HKSE,China,HKD,Industrials,Electrical Equipment & Parts,212
+2151,0061.HK,HKSE,Hong Kong,HKD,Basic Materials,Coking Coal,"1,236"
+2152,8076.HK,HKSE,Hong Kong,HKD,Technology,Information Technology Services,"1,008"
+2153,8299.HK,HKSE,Hong Kong,HKD,Basic Materials,Gold,61
+2154,8139.HK,HKSE,China,HKD,Basic Materials,Chemicals,109
+2155,3963.HK,HKSE,China,HKD,Financial Services,Credit Services,136
+2156,8372.HK,HKSE,Hong Kong,HKD,Healthcare,Medical Distribution,33
+2157,1229.HK,HKSE,Hong Kong,HKD,Energy,Thermal Coal,127
+2158,0544.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,270
+2159,8472.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"2,231"
+2160,8042.HK,HKSE,Hong Kong,HKD,Industrials,Staffing & Employment Services,97
+2161,8429.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,40
+2162,0193.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,80
+2163,8309.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"4,668"
+2164,8445.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,52
+2165,1736.HK,HKSE,China,HKD,Communication Services,Advertising Agencies,147
+2166,8400.HK,HKSE,China,HKD,Consumer Cyclical,Gambling,44
+2167,8431.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,29
+2168,0602.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Department Stores,757
+2169,8432.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,430
+2170,0768.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,4
+2171,8255.HK,HKSE,China,HKD,Technology,Software—Application,129
+2172,8277.HK,HKSE,Hong Kong,HKD,Basic Materials,Lumber & Wood Production,169
+2173,8450.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,66
+2174,8290.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,99
+2175,1007.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,641
+2176,0381.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,356
+2177,8217.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,67
+2178,8545.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,42
+2179,0572.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,60
+2180,8052.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Resorts & Casinos,152
+2181,8513.HK,HKSE,Hong Kong,HKD,,,
+2182,8635.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,31
+2183,8063.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,25
+2184,8491.HK,HKSE,Singapore,HKD,Consumer Defensive,Food Distribution,58
+2185,1241.HK,HKSE,China,HKD,Consumer Cyclical,Auto Parts,108
+2186,8201.HK,HKSE,Hong Kong,HKD,Industrials,Waste Management,"1,652"
+2187,8070.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,487
+2188,8060.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,229
+2189,1536.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Industrial Machinery,89
+2190,8001.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,25
+2191,8331.HK,HKSE,China,HKD,Basic Materials,Other Industrial Metals & Mining,123
+2192,1808.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,106
+2193,8169.HK,HKSE,Hong Kong,HKD,Industrials,Pollution & Treatment Controls,77
+2194,8161.HK,HKSE,Hong Kong,HKD,,,
+2195,8226.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,19
+2196,8151.HK,HKSE,China,HKD,Basic Materials,Specialty Chemicals,260
+2197,8020.HK,HKSE,Hong Kong,HKD,Industrials,Marine Shipping,17
+2198,1825.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Apparel Manufacturing,"1,419"
+2199,8621.HK,HKSE,China,HKD,Financial Services,Credit Services,44
+2200,8287.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,687
+2201,8430.HK,HKSE,Singapore,HKD,Industrials,Trucking,170
+2202,8237.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Lodging,77
+2203,8356.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,240
+2204,0079.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Personal Services,44
+2205,8152.HK,HKSE,Hong Kong,HKD,Industrials,Industrial Distribution,44
+2206,8448.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,114
+2207,8191.HK,HKSE,Hong Kong,HKD,Basic Materials,Lumber & Wood Production,167
+2208,8340.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,15
+2209,8347.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Refining & Marketing,37
+2210,8150.HK,HKSE,Hong Kong,HKD,Technology,Electronic Components,81
+2211,8455.HK,HKSE,Hong Kong,HKD,Industrials,Consulting Services,40
+2212,8208.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,163
+2213,8475.HK,HKSE,Singapore,HKD,Consumer Cyclical,Restaurants,99
+2214,8160.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Education & Training Services,61
+2215,8096.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,111
+2216,8056.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,345
+2217,1439.HK,HKSE,China,HKD,Consumer Cyclical,Packaging & Containers,376
+2218,0959.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Gambling,
+2219,8537.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Luxury Goods,90
+2220,8631.HK,HKSE,Hong Kong,HKD,Energy,Oil & Gas Refining & Marketing,27
+2221,8147.HK,HKSE,China,HKD,Technology,Consumer Electronics,37
+2222,8416.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,156
+2223,0339.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,12
+2224,8291.HK,HKSE,China,HKD,Consumer Cyclical,Packaging & Containers,132
+2225,8186.HK,HKSE,Hong Kong,HKD,Basic Materials,Lumber & Wood Production,9
+2226,8536.HK,HKSE,China,HKD,Consumer Cyclical,Specialty Retail,62
+2227,8210.HK,HKSE,Hong Kong,HKD,Financial Services,Capital Markets,28
+2228,8460.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,25
+2229,8239.HK,HKSE,Hong Kong,HKD,Financial Services,Credit Services,62
+2230,8092.HK,HKSE,Hong Kong,HKD,Technology,Communication Equipment,84
+2231,0904.HK,HKSE,Hong Kong,HKD,Consumer Defensive,Farm Products,418
+2232,2312.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,2
+2233,0310.HK,HKSE,Hong Kong,HKD,Financial Services,Asset Management,10
+2234,8228.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Leisure,49
+2235,8133.HK,HKSE,Hong Kong,HKD,Industrials,Metal Fabrication,178
+2236,8091.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,37
+2237,8385.HK,HKSE,Hong Kong,HKD,Industrials,Specialty Business Services,669
+2238,8187.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Footwear & Accessories,12
+2239,8059.HK,HKSE,Hong Kong,HKD,Industrials,Engineering & Construction,124
+2240,8125.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",45
+2241,8220.HK,HKSE,Hong Kong,HKD,Communication Services,Entertainment,65
+2242,8412.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,71
+2243,8121.HK,HKSE,Hong Kong,HKD,Communication Services,Advertising Agencies,158
+2244,0724.HK,HKSE,Hong Kong,HKD,Industrials,Electrical Equipment & Parts,47
+2245,8148.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,53
+2246,8018.HK,HKSE,Hong Kong,HKD,Technology,Software—Application,82
+2247,8428.HK,HKSE,Hong Kong,HKD,Consumer Cyclical,Restaurants,
+2248,8066.HK,HKSE,Hong Kong,HKD,Technology,Semiconductors,139
+2249,8427.HK,HKSE,Malaysia,HKD,Technology,Communication Equipment,67
+2250,8166.HK,HKSE,Hong Kong,HKD,Industrials,Conglomerates,36
+2251,8456.HK,HKSE,Hong Kong,HKD,,,
+2252,1400.HK,HKSE,China,HKD,Consumer Cyclical,Textile Manufacturing,55
+2253,0770.HK,HKSE,Hong Kong,USD,Financial Services,Asset Management,2
+2254,7332.HK,HKSE,Hong Kong,HKD,,,
+2255,7345.HK,HKSE,Hong Kong,HKD,,,
+2256,3080.HK,HKSE,Hong Kong,HKD,,,
+2257,9091.HK,HKSE,Hong Kong,USD,,,
+2258,83093.HK,HKSE,Hong Kong,CNY,,,
+2259,9010.HK,HKSE,Hong Kong,USD,,,
+2260,82817.HK,HKSE,Hong Kong,CNY,,,
+2261,83111.HK,HKSE,Hong Kong,CNY,,,
+2262,7248.HK,HKSE,Hong Kong,HKD,,,
+2263,3034.HK,HKSE,Hong Kong,HKD,,,
+2264,2829.HK,HKSE,Hong Kong,HKD,,,
+2265,2927.HK,HKSE,Hong Kong,HKD,,,
+2266,7230.HK,HKSE,Hong Kong,HKD,,,
+2267,3121.HK,HKSE,Hong Kong,HKD,,,
+2268,7300.HK,HKSE,Hong Kong,HKD,,,
+2269,3119.HK,HKSE,Hong Kong,HKD,,,
+2270,8573.HK,HKSE,Hong Kong,HKD,,,26
+2271,7336.HK,HKSE,Hong Kong,HKD,,,
+2272,82833.HK,HKSE,Hong Kong,CNY,,,
+2273,83122.HK,HKSE,Hong Kong,CNY,,,
+2274,83115.HK,HKSE,Hong Kong,CNY,,,
+2275,9115.HK,HKSE,Hong Kong,USD,,,
+2276,3072.HK,HKSE,Hong Kong,HKD,,,
+2277,3100.HK,HKSE,Hong Kong,HKD,,,
+2278,7272.HK,HKSE,Hong Kong,HKD,,,
+2279,3149.HK,HKSE,Hong Kong,HKD,,,
+2280,3074.HK,HKSE,Hong Kong,HKD,,,
+2281,9060.HK,HKSE,Hong Kong,USD,,,
+2282,3110.HK,HKSE,Hong Kong,HKD,,,
+2283,7568.HK,HKSE,Hong Kong,HKD,,,
+2284,3033.HK,HKSE,Hong Kong,HKD,,,
+2285,3175.HK,HKSE,Hong Kong,HKD,,,
+2286,2826.HK,HKSE,Hong Kong,HKD,,,
+2287,7500.HK,HKSE,Hong Kong,HKD,,,
+2288,2833.HK,HKSE,Hong Kong,HKD,,,
+2289,3191.HK,HKSE,Hong Kong,HKD,,,
+2290,7374.HK,HKSE,Hong Kong,HKD,,,
+2291,7362.HK,HKSE,Hong Kong,HKD,,,
+2292,3130.HK,HKSE,Hong Kong,HKD,,,
+2293,83128.HK,HKSE,Hong Kong,CNY,,,
+2294,83151.HK,HKSE,Hong Kong,CNY,,,
+2295,82832.HK,HKSE,Hong Kong,CNY,,,
+2296,3073.HK,HKSE,Hong Kong,HKD,,,
+2297,2848.HK,HKSE,Hong Kong,HKD,,,
+2298,3051.HK,HKSE,Hong Kong,HKD,,,
+2299,3069.HK,HKSE,Hong Kong,HKD,,,
+2300,3058.HK,HKSE,Hong Kong,HKD,,,
+2301,83199.HK,HKSE,Hong Kong,CNY,,,
+2302,2920.HK,HKSE,Hong Kong,HKD,,,
+2303,3185.HK,HKSE,Hong Kong,HKD,,,
+2304,9011.HK,HKSE,Hong Kong,USD,,,
+2305,3036.HK,HKSE,Hong Kong,HKD,,,
+2306,3012.HK,HKSE,Hong Kong,HKD,,,
+2307,3088.HK,HKSE,Hong Kong,HKD,,,
+2308,3087.HK,HKSE,Hong Kong,HKD,,,
+2309,82822.HK,HKSE,Hong Kong,CNY,,,
+2310,3162.HK,HKSE,Hong Kong,HKD,,,
+2311,3182.HK,HKSE,Hong Kong,HKD,,,
+2312,3001.HK,HKSE,Hong Kong,HKD,,,
+2313,7588.HK,HKSE,Hong Kong,HKD,,,
+2314,7266.HK,HKSE,Hong Kong,HKD,,,
+2315,82823.HK,HKSE,Hong Kong,CNY,,,
+2316,83001.HK,HKSE,Hong Kong,CNY,,,
+2317,7231.HK,HKSE,Hong Kong,HKD,,,
+2318,9817.HK,HKSE,Hong Kong,USD,,,
+2319,3010.HK,HKSE,Hong Kong,HKD,,,
+2320,7373.HK,HKSE,Hong Kong,HKD,,,
+2321,9801.HK,HKSE,Hong Kong,USD,,,
+2322,3005.HK,HKSE,Hong Kong,HKD,,,
+2323,9826.HK,HKSE,Hong Kong,USD,,,
+2324,9820.HK,HKSE,Hong Kong,USD,,,
+2325,9151.HK,HKSE,Hong Kong,USD,,,
+2326,9803.HK,HKSE,Hong Kong,USD,,,
+2327,2918.HK,HKSE,Hong Kong,HKD,,,
+2328,2827.HK,HKSE,Hong Kong,HKD,,,
+2329,9187.HK,HKSE,Hong Kong,USD,,,
+2330,3076.HK,HKSE,Hong Kong,HKD,,,
+2331,3143.HK,HKSE,Hong Kong,HKD,,,
+2332,2922.HK,HKSE,Hong Kong,HKD,,,270
+2333,3173.HK,HKSE,Hong Kong,HKD,,,
+2334,2819.HK,HKSE,Hong Kong,HKD,,,
+2335,3020.HK,HKSE,Hong Kong,HKD,,,
+2336,3070.HK,HKSE,Hong Kong,HKD,,,
+2337,3086.HK,HKSE,Hong Kong,HKD,,,
+2338,2390.HK,HKSE,China,HKD,Communication Services,Internet Content & Information,"2,649"
+2339,2845.HK,HKSE,China,HKD,,,
+2340,7333.HK,HKSE,China,HKD,,,
+2341,83031.HK,HKSE,China,CNY,,,
+2342,8572.HK,HKSE,Hong Kong,HKD,,,37
+2343,82839.HK,HKSE,Hong Kong,CNY,,,
+2344,9047.HK,HKSE,Hong Kong,USD,,,
+2345,82843.HK,HKSE,Hong Kong,CNY,,,
+2346,2931.HK,HKSE,Hong Kong,HKD,,,597
+2347,3136.HK,HKSE,Hong Kong,HKD,,,
+2348,83130.HK,HKSE,Hong Kong,CNY,,,
+2349,2825.HK,HKSE,Hong Kong,HKD,,,
+2350,2802.HK,HKSE,Hong Kong,HKD,,,
+2351,7261.HK,HKSE,Hong Kong,HKD,,,
+2352,7331.HK,HKSE,Hong Kong,HKD,,,
+2353,7348.HK,HKSE,Hong Kong,HKD,,,
+2354,82811.HK,HKSE,Hong Kong,CNY,,,
+2355,3117.HK,HKSE,Hong Kong,HKD,,,
+2356,3139.HK,HKSE,Hong Kong,HKD,,,
+2357,83168.HK,HKSE,Hong Kong,CNY,,,
+2358,2838.HK,HKSE,Hong Kong,HKD,,,
+2359,7233.HK,HKSE,Hong Kong,HKD,,,
+2360,7288.HK,HKSE,Hong Kong,HKD,,,
+2361,2929.HK,HKSE,China,HKD,,,"1,626"
+2362,83188.HK,HKSE,China,CNY,,,
+2363,3115.HK,HKSE,China,HKD,,,
+2364,2809.HK,HKSE,China,HKD,,,
+2365,3188.HK,HKSE,China,HKD,,,
+2366,3067.HK,HKSE,China,HKD,,,
+2367,2839.HK,HKSE,China,HKD,,,
+2368,7522.HK,HKSE,China,HKD,,,
+2369,2925.HK,HKSE,China,HKD,,,"1,951"
+2370,9067.HK,HKSE,China,USD,,,
+2371,2806.HK,HKSE,China,HKD,,,
+2372,3141.HK,HKSE,China,HKD,,,
+2373,3151.HK,HKSE,China,HKD,,,
+2374,2843.HK,HKSE,China,HKD,,,
+2375,3147.HK,HKSE,China,HKD,,,
+2376,9167.HK,HKSE,China,USD,,,
+2377,2811.HK,HKSE,China,HKD,,,
+2378,83060.HK,HKSE,China,CNY,,,
+2379,3187.HK,HKSE,China,HKD,,,
+2380,2832.HK,HKSE,China,HKD,,,
+2381,3199.HK,HKSE,China,HKD,,,
+2382,83010.HK,HKSE,China,CNY,,,
+2383,9081.HK,HKSE,China,USD,,,
+2384,2814.HK,HKSE,China,HKD,,,
+2385,3093.HK,HKSE,China,HKD,,,
+2386,9845.HK,HKSE,China,USD,,,
+2387,9812.HK,HKSE,China,USD,,,
+2388,2820.HK,HKSE,China,HKD,,,
+2389,9804.HK,HKSE,China,USD,,,
+2390,9834.HK,HKSE,China,USD,,,
+2391,9814.HK,HKSE,China,USD,,,
+2392,3118.HK,HKSE,China,HKD,,,
+2393,3037.HK,HKSE,China,HKD,,,
+2394,3145.HK,HKSE,China,HKD,,,
+2395,2849.HK,HKSE,Hong Kong,HKD,,,
+2396,3160.HK,HKSE,Hong Kong,HKD,,,
+2397,2807.HK,HKSE,Hong Kong,HKD,,,
+2398,82846.HK,HKSE,Hong Kong,CNY,,,
+2399,83118.HK,HKSE,Hong Kong,CNY,,,
+2400,9001.HK,HKSE,Hong Kong,USD,,,
+2401,3029.HK,HKSE,Hong Kong,HKD,,,
+2402,9810.HK,HKSE,Hong Kong,USD,,,
+2403,9074.HK,HKSE,Hong Kong,USD,,,
+2404,3174.HK,HKSE,Hong Kong,HKD,,,
+2405,3007.HK,HKSE,Hong Kong,HKD,,,
+2406,82829.HK,HKSE,Hong Kong,CNY,,,
+2407,3193.HK,HKSE,Hong Kong,HKD,,,
+2408,3176.HK,HKSE,Hong Kong,HKD,,,
+2409,3003.HK,HKSE,Hong Kong,HKD,,,
+2410,3021.HK,HKSE,Hong Kong,HKD,,,
+2411,3047.HK,HKSE,Hong Kong,HKD,,,
+2412,3024.HK,HKSE,Hong Kong,HKD,,,
+2413,3060.HK,HKSE,Hong Kong,HKD,,,
+2414,3134.HK,HKSE,Hong Kong,HKD,,,
+2415,7232.HK,HKSE,Hong Kong,HKD,,,
+2416,8568.HK,HKSE,Hong Kong,HKD,,,102
+2417,3097.HK,HKSE,Hong Kong,HKD,,,
+2418,2834.HK,HKSE,Hong Kong,HKD,,,
+2419,3050.HK,HKSE,Hong Kong,HKD,,,
+2420,3181.HK,HKSE,Hong Kong,HKD,,,
+2421,83167.HK,HKSE,Hong Kong,CNY,,,
+2422,82828.HK,HKSE,Hong Kong,CNY,,,
+2423,2846.HK,HKSE,Hong Kong,HKD,,,
+2424,2817.HK,HKSE,Hong Kong,HKD,,,
+2425,3022.HK,HKSE,Hong Kong,HKD,,,
+2426,3091.HK,HKSE,Hong Kong,HKD,,,
+2427,2810.HK,HKSE,Hong Kong,HKD,,,
+2428,9191.HK,HKSE,Hong Kong,USD,,,
+2429,9809.HK,HKSE,Hong Kong,USD,,,
+2430,3111.HK,HKSE,Hong Kong,HKD,,,
+2431,9806.HK,HKSE,Hong Kong,USD,,,
+2432,83081.HK,HKSE,Hong Kong,CNY,,,
+2433,83186.HK,HKSE,Hong Kong,CNY,,,
+2434,8562.HK,HKSE,Hong Kong,HKD,,,81
+2435,3198.HK,HKSE,Hong Kong,HKD,,,
+2436,3194.HK,HKSE,Hong Kong,HKD,,,
+2437,83149.HK,HKSE,Hong Kong,CNY,,,
+2438,3040.HK,HKSE,Hong Kong,HKD,,,
+2439,3015.HK,HKSE,Hong Kong,HKD,,,
+2440,3125.HK,HKSE,Hong Kong,HKD,,,
+2441,2812.HK,HKSE,Hong Kong,HKD,,,
+2442,2930.HK,HKSE,Hong Kong,HKD,,,
+2443,3186.HK,HKSE,Hong Kong,HKD,,,
+2444,83147.HK,HKSE,Hong Kong,CNY,,,
+2445,3167.HK,HKSE,Hong Kong,HKD,,,
+2446,3109.HK,HKSE,Hong Kong,HKD,,,
+2447,83100.HK,HKSE,Hong Kong,CNY,,,
+2448,2822.HK,HKSE,Hong Kong,HKD,,,
+2449,2828.HK,HKSE,Hong Kong,HKD,,,
+2450,9638.HK,HKSE,Hong Kong,HKD,,,
+2451,3132.HK,HKSE,Hong Kong,HKD,,,
+2452,3032.HK,HKSE,Hong Kong,HKD,,,
+2453,7200.HK,HKSE,Hong Kong,HKD,,,
+2454,7299.HK,HKSE,Hong Kong,HKD,,,
+2455,7322.HK,HKSE,Hong Kong,HKD,,,
+2456,3081.HK,HKSE,Hong Kong,HKD,,,
+2457,7226.HK,HKSE,Hong Kong,HKD,,,
+2458,7552.HK,HKSE,Hong Kong,HKD,,,
+2459,2804.HK,HKSE,Hong Kong,HKD,,,
+2460,3127.HK,HKSE,Hong Kong,HKD,,,
+2461,9807.HK,HKSE,Hong Kong,USD,,,
+2462,9839.HK,HKSE,Hong Kong,USD,,,
+2463,3079.HK,HKSE,Hong Kong,HKD,,,
+2464,9031.HK,HKSE,Hong Kong,USD,,,
+2465,2823.HK,HKSE,Hong Kong,HKD,,,
