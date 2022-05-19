@@ -285,8 +285,7 @@ x = json.loads(response.text)
 
 total = int(x['finance']['result'][0]['total'])
 
-#delete later
-print('delete later')
+
 
 def eodprice_range(min, max):
     json_data = {
