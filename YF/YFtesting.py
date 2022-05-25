@@ -1,6 +1,6 @@
 
 
-from msilib.schema import Error, tables #Disable for Linux runs
+#from msilib.schema import Error, tables #Disable for Linux runs
 
 from random import randint
 from time import sleep
