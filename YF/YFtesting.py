@@ -420,7 +420,7 @@ if total > 9000:
         
     remaining = x
     print('Remaining = ', (total - remaining))
-
+    remaining = total - remaining
     limits.append([0, result])
     print(limits)
 #%%
