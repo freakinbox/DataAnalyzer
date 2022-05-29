@@ -420,7 +420,7 @@ if total > 9000:
         
     remaining = x
     print('Remaining = ', (total - remaining))
-    remaining = total - remaining
+    #remaining = total - remaining
     limits.append([0, result])
     print(limits)
 #%%
@@ -434,7 +434,7 @@ if total > 9000:
         increment = 3
         prev = 0
         
-        while x < 4000 or remaining < total - 6000:
+        while x < 4000 and remaining < total - 6000:
             
             result = result + increment
             print ('result = ',result)
@@ -469,7 +469,7 @@ if total > 9000:
         limits.append([limits[-1][1], result])
     print(limits)
     
-    print('Remaining = ',(total - remaining))
+    #print('Remaining = ',(total - remaining))
 
 #%%
 
